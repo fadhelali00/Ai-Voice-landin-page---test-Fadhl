@@ -9,8 +9,9 @@ model: opus
 ## قبل أن تبدأ
 1. اقرأ `CLAUDE.md`، وخاصة **ترتيب أولوية المصادر** و**القيود المعتمدة**، ثم اقرأ `design/BRIEF.md`.
 2. اقرأ أحدث تقرير للشاشة في `design/outputs/audit/` إن وُجد.
-3. من Drive: اقرأ `Jarna-Color-Policy-v1.json` و `Jarna-Color-Component-Rules.csv` و `Screen-Color-Distribution.csv` (في `07_Design_System`)، ونصوص الشاشة من `Journey-Final-Copy-v4.csv` و `Journey-Copy-Placement-v4.json`، وحالاتها من `Journey-State-Contracts-v4.csv` (في `09_Developer_Handoff`).
-4. نزّل لقطة النسخة 65 الأصلية للشاشة، فهي التي تحكم الشكل.
+3. من Drive، التوجيهات الملزمة: `Jarna-Color-Policy-v1.json` و `Jarna-Color-Component-Rules.csv` و `Jarna-Color-Philosophy-ar.md` (في `07_Design_System`) و `Current-Layout-Color-Only-Scope-ar.md`.
+4. نزّل لقطات النسخة 65 الأصلية للشاشة، فهي المادة الخام وهي التي تحكم الشكل والنصوص.
+5. مخرجات العمل السابق (`Screen-Color-Distribution.csv`، وأوراق النصوص v3/v4، وصور المحاكاة) للمقارنة فقط، ولا تنقل منها دون مبرر من التوجيهات أو اللقطات.
 
 ## 1. نظام الألوان (مرة واحدة، ثم يُحدَّث فقط)
 في `design/outputs/system/`:
@@ -24,7 +25,7 @@ model: opus
 `design/outputs/screens/<screen-id>.html`:
 - تحاكي **تخطيط النسخة 65 كما هو** (الأبعاد والمواقع والأيقونات وزر السلة البيضاوي)، ولا تغيّر فيها إلا اللون والنصوص المعتمدة.
 - `dir="rtl"` و `lang="ar"`، بعرض 390px، وتستورد `../system/tokens.css`.
-- النصوص من CSV/JSON حرفياً، ولا تخترع نصاً.
+- النصوص كما في لقطة v65 حرفياً، إلا ما غيّره توجيه مكتوب من فضل. وأي تحسين نصي تقترحه يذهب إلى `HANDOFF.md` كمقترح، ولا يُطبَّق في النموذج.
 - صور المنتجات: أشكال بسيطة أو SVG، ولا تستخدم شعارات تجارية حقيقية كأصول.
 - اعرض الحالات المنطبقة من عقود الحالات فقط، ولا تفرض حالة غير منطبقة.
 
