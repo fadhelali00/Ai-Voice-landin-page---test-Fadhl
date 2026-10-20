@@ -2,11 +2,18 @@
  * Jarna — Cart / Review mockups (v65 layout, colour-only change)
  * Shared by: cart.html, cart-note-open.html, cart-saved-location.html, cart-loading.html,
  *            review.html, review-plus-alt.html, review-address-picker.html
- * Every colour is a var(--jarna-*) from ../system/tokens.css. No raw hex below.
+ * Every colour is a var(--jarna-*) from ../system/tokens.css. No raw hex or rgba below:
+ * shadows are derived locally from --jarna-ink with color-mix (status: derived, mockup only;
+ * Flutter keeps the app's existing elevations).
  * Geometry (px) measured from v65 screenshots (423px emulator captures scaled to 390).
  * Font: Readex Pro is the closest web match to the v65 app font. It is NOT a font change
  * request: Flutter keeps the app's current font.
  */
+:root{
+  --cart-shadow-card: 0 2px 8px color-mix(in srgb, var(--jarna-ink) 8%, transparent);
+  --cart-shadow-control: 0 1px 4px color-mix(in srgb, var(--jarna-ink) 14%, transparent);
+  --cart-shadow-footer: 0 -2px 7px color-mix(in srgb, var(--jarna-ink) 10%, transparent);
+}
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{background:var(--jarna-background)}
 body{width:390px;margin:0 auto;font-family:'Readex Pro',system-ui,sans-serif;color:var(--jarna-text);
@@ -20,8 +27,7 @@ svg{display:block}
 .app > main{flex:1;padding-bottom:16px}
 
 /* ---------- status bar (OS) + inner header ---------- */
-.hdr{position:sticky;top:0;z-index:20;height:102px;background:var(--jarna-surface);
-  border-bottom:1px solid var(--jarna-border)}
+.hdr{position:sticky;top:0;z-index:20;height:102px;background:var(--jarna-surface)}
 .status{position:relative;height:46px;direction:ltr;font-size:14px;color:var(--jarna-text)}
 .status .time{position:absolute;left:28px;top:14px;font-weight:400;letter-spacing:.2px}
 .status .cam{position:absolute;left:184px;top:13px;width:22px;height:22px;border-radius:50%;background:var(--jarna-text)}
@@ -64,8 +70,8 @@ svg{display:block}
 .fd .truck{position:absolute;right:13px;top:13px;width:45px;height:45px;border-radius:10px;background:var(--jarna-surface);
   display:flex;align-items:center;justify-content:center;color:var(--jarna-confirmed-free-delivery)}
 .fd .truck svg{width:24px;height:24px;fill:currentColor}
-.fd h3{position:absolute;right:73px;top:11px;font-size:15px;font-weight:600;line-height:22px;color:var(--jarna-text)}
-.fd.done h3{color:var(--jarna-confirmed-free-delivery)}
+/* X1: rule "free delivery before eligibility: green text" -> petrol, both before and after eligibility */
+.fd h3{position:absolute;right:73px;top:11px;font-size:15px;font-weight:600;line-height:22px;color:var(--jarna-confirmed-free-delivery)}
 .fd p{position:absolute;right:73px;top:37px;font-size:12px;line-height:18px;color:var(--jarna-text-secondary)}
 /* TEMP decision (Fadl pending, C11/K2): progress is PETROL on #D8E5DF track.
    jarna-tokens.json still says freeDeliveryProgress = coral; update after Fadl decides. */
@@ -105,7 +111,7 @@ svg{display:block}
 .inv-row .hint{position:absolute;right:43px;font-size:11px;line-height:16px;color:var(--jarna-text-secondary)}
 .inv-row .amt{position:absolute;left:13px;font-size:13px;font-weight:700;line-height:20px;color:var(--jarna-price)}
 .invoice .div{position:absolute;left:13px;right:13px;top:158px;border-top:1px solid var(--jarna-border)}
-.mock-note{margin:4px 15px 0;padding:8px 10px;border:1px dashed var(--jarna-border-control);border-radius:8px;font-size:11px;line-height:16px;color:var(--jarna-text-secondary)}
+.mock-note{margin:4px 15px 0;padding:8px 10px;border:1px dashed var(--jarna-control-border);border-radius:8px;font-size:11px;line-height:16px;color:var(--jarna-text-secondary)}
 
 /* recommendations */
 .recs{position:relative;height:292px}
@@ -114,26 +120,28 @@ svg{display:block}
 .rec{position:relative;width:119px;flex:none}
 .rec .tile{position:relative;width:119px;height:139px;border-radius:12px;border:1px solid var(--jarna-border);overflow:hidden;background:var(--jarna-surface)}
 .rec .tile .art{position:absolute;inset:0}
-.rec .bm{position:absolute;left:11px;top:9px;width:25px;height:25px;border-radius:50%;background:var(--jarna-surface);box-shadow:0 1px 4px rgba(23,45,43,.14);display:flex;align-items:center;justify-content:center}
+.rec .bm{position:absolute;left:11px;top:9px;width:25px;height:25px;border-radius:50%;background:var(--jarna-surface);box-shadow:var(--cart-shadow-control);display:flex;align-items:center;justify-content:center}
 .rec .bm svg{width:13px;height:13px;stroke-width:2}
 .rec .bm.on svg{fill:var(--jarna-link);stroke:var(--jarna-link)}
 .rec .bm.off svg{fill:none;stroke:var(--jarna-icon-neutral)}
-.rec .plus{position:absolute;left:5px;top:99px;width:32px;height:32px;border-radius:50%;box-shadow:0 1px 4px rgba(23,45,43,.14);display:flex;align-items:center;justify-content:center;
+.rec .plus{position:absolute;left:5px;top:99px;width:32px;height:32px;border-radius:50%;box-shadow:var(--cart-shadow-control);display:flex;align-items:center;justify-content:center;
   background:var(--jarna-primary-action);color:var(--jarna-on-primary-action)}
 .rec .plus svg{width:15px;height:15px;stroke-width:2.2}
 /* K7 alternative: petrol outline, white fill */
-.alt-plus .rec .plus{background:var(--jarna-surface);border:1.5px solid var(--jarna-link);color:var(--jarna-link)}
+.alt-plus .rec .plus{background:var(--jarna-surface);color:var(--jarna-link)}
 .rec .rprice{margin-top:13px;font-size:16px;font-weight:700;line-height:24px;color:var(--jarna-price);text-align:right}
 .rec .rname{margin-top:5px;font-size:13px;line-height:20px;color:var(--jarna-text);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 
 /* ---------- fixed footer: address bar + primary bar ---------- */
 /* sticky (not fixed) so full-page captures show it once, after the content */
 .footer{position:sticky;bottom:0;width:390px;z-index:30;background:var(--jarna-footer)}
-.addr{position:relative;height:85px;border-top:1px solid var(--jarna-border);border-bottom:1px solid var(--jarna-border)}
-.addr .pin{position:absolute;right:17px;top:31px;width:21px;height:25px;color:var(--jarna-link)}
-.addr .to{position:absolute;right:54px;top:16px;font-size:14px;line-height:22px;color:var(--jarna-text)}
-.addr .line{position:absolute;right:42px;top:44px;width:288px;font-size:12.5px;line-height:20px;color:var(--jarna-text-secondary);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.addr .change{position:absolute;left:15px;top:31px;font-size:15px;font-weight:700;line-height:24px;color:var(--jarna-link)}
+.footer{box-shadow:var(--cart-shadow-footer)}
+/* height follows the address: 1 line = 67px, 2 lines = 86px (v65 CART-04 / CART-01) */
+.addr{position:relative;padding:14px 42px 12px 80px;border-bottom:1px solid var(--jarna-border)}
+.addr .pin{position:absolute;right:17px;top:50%;margin-top:-12px;width:21px;height:25px;color:var(--jarna-link)}
+.addr .to{display:block;margin-right:12px;font-size:14px;line-height:22px;color:var(--jarna-text)}
+.addr .line{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:12.5px;line-height:19px;color:var(--jarna-text-secondary)}
+.addr .change{position:absolute;left:15px;top:50%;margin-top:-12px;font-size:15px;font-weight:700;line-height:24px;color:var(--jarna-link)}
 .actionbar{position:relative;height:81px}
 .btn-primary{position:absolute;left:15px;right:15px;top:16px;height:49px;border-radius:9px;border:0;
   background:var(--jarna-primary-action);color:var(--jarna-on-primary-action);font:inherit;font-size:15px;font-weight:700;
@@ -155,17 +163,18 @@ svg{display:block}
 .sheet h2{position:absolute;right:15px;top:42px;font-size:18.5px;font-weight:700;line-height:28px;color:var(--jarna-text)}
 .sheet .close{position:absolute;left:28px;top:48px;width:17px;height:17px;color:var(--jarna-text);stroke-width:2}
 .add-addr{position:absolute;left:8px;right:8px;top:103px;height:51px;border-radius:16px;background:var(--jarna-surface);
-  border:1px solid var(--jarna-border);box-shadow:0 2px 8px rgba(23,45,43,.08)}
+  box-shadow:var(--cart-shadow-card)}
 .add-addr .aplus{position:absolute;right:13px;top:16px;width:18px;height:18px;color:var(--jarna-link);stroke-width:2}
 .add-addr span{position:absolute;right:42px;top:13px;font-size:15px;font-weight:600;line-height:24px;color:var(--jarna-link)}
 .add-addr .chev{position:absolute;left:14px;top:18px;width:14px;height:14px;color:var(--jarna-icon-neutral)}
 .acard{position:absolute;left:14px;right:14px;height:167px;border-radius:14px;border:1px solid var(--jarna-border);background:var(--jarna-surface);overflow:hidden}
 .acard.sel{border:2px solid var(--jarna-selection-indicator)}
-.acard .ahead{position:relative;height:46px;border-bottom:1px solid var(--jarna-border)}
-.acard.sel .ahead{background:var(--jarna-selection-surface);border-bottom-color:transparent}
+.acard .ahead{position:relative;height:46px}
+.acard.sel .ahead{background:var(--jarna-selection-surface)}
 .acard .check{position:absolute;left:19px;top:14px;width:19px;height:19px;color:var(--jarna-selection-indicator)}
 .acard .tag{position:absolute;right:18px;top:10px;width:52px;height:26px;border-radius:8px;background:var(--jarna-selection-surface);
-  color:var(--jarna-link);font-size:14px;line-height:26px;text-align:center}
+  color:var(--jarna-link);font-size:12px;line-height:26px;text-align:center}
+.acard.sel .tag{background:var(--jarna-surface)}
 .acard .apin{position:absolute;right:15px;top:68px;width:15px;height:17px;color:var(--jarna-icon-neutral);stroke-width:1.8}
 .acard .atext{position:absolute;right:38px;left:13px;top:60px;font-size:13px;line-height:20px;color:var(--jarna-text-secondary)}
 .acard .atext b{display:block;font-weight:500;font-size:14px;color:var(--jarna-text)}
