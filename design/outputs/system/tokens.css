@@ -41,7 +41,7 @@
   --jarna-on-floating-basket: var(--jarna-white);
   --jarna-link: var(--jarna-petrol);
   --jarna-link-pressed: var(--jarna-petrol-pressed);
-  --jarna-icon-action: var(--jarna-petrol);      /* search icon, secondary actions (not the current stepper symbols) */
+  --jarna-icon-action: var(--jarna-petrol);      /* search icon, secondary actions (not the solid stepper symbols; yes for the outlined cart stepper I8–I10) */
   --jarna-tab-active: var(--jarna-petrol);
   --jarna-tab-inactive: var(--jarna-secondary);
   --jarna-confirmed-free-delivery: var(--jarna-petrol);
@@ -79,7 +79,7 @@
 
   /* ---------- borders ---------- */
   --jarna-border: var(--jarna-border-subtle);         /* decorative card divider */
-  --jarna-control-border: var(--jarna-border-control);/* identifies a control on white; not the home-header search (HM-09) nor the solid stepper */
+  --jarna-control-border: var(--jarna-border-control);/* identifies a control on white; not the home-header search (HM-09) nor the solid stepper; yes for the outlined cart stepper I8–I10 */
 
   /* ---------- semantic ---------- */
   --jarna-error: var(--jarna-red);

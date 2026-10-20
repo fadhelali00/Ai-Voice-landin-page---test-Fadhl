@@ -60,7 +60,8 @@ abstract final class JarnaColors {
   static const Color linkPressed = Color(0xFF004F49);
 
   /// [A] Search magnifier, secondary-action icons.
-  /// Not the + and − of the current quantity stepper: use [onQuantityStepper].
+  /// Not the + and − of the solid product/category stepper: use [onQuantityStepper].
+  /// Exception: the outlined cart stepper (I8–I10, HANDOFF-cart-review §3.2) uses this colour.
   static const Color iconAction = Color(0xFF006B63);
 
   /// [D] Fill of the existing solid quantity stepper pill (v65 shape kept).
@@ -148,7 +149,8 @@ abstract final class JarnaColors {
 
   /// [I] Boundary that identifies a control on white: search fields on white pages, inputs (4.17:1).
   /// Do NOT add it to the home-header search on petrol (HM-09, provisional).
-  /// The current quantity stepper is solid ([quantityStepper]) and has no border.
+  /// The solid product/category stepper ([quantityStepper]) has no border.
+  /// Exception: the outlined cart stepper (I8–I10, HANDOFF-cart-review §3.2) uses this border.
   static const Color controlBorder = Color(0xFF6B8179);
 
   // ---------------------------------------------------------------- semantic
