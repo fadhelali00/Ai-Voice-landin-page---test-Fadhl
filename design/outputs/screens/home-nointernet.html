@@ -56,7 +56,7 @@
   .cats { position: absolute; top: 183px; left: 0; right: 0; height: 88px; background: var(--jarna-background); }
   .cat { position: absolute; top: 0; width: 80px; text-align: center; }
   .cat .img { width: 61px; height: 59px; margin: 1px auto 0; }
-  .cat .img svg { width: 61px; height: 59px; }   /* HM-42: square + circle are inside the image asset, kept as-is, no filter */
+  .cat .img svg { width: 61px; height: 59px; }   /* HM-42: drawn as in v65; UI colour or image asset is unresolved (CR-N3) */
   .cat .lbl { margin-top: 0; font-size: 12.5px; line-height: 16px; color: var(--jarna-text-secondary); white-space: nowrap; }   /* HM-17 */
   .cat.sel .img { display: flex; align-items: center; justify-content: center; color: var(--jarna-text); }                      /* HM-14 */
   .cat.sel .img svg { width: 36px; height: 36px; }
@@ -140,7 +140,7 @@
 
     <!-- ===== Product placeholders: flat generic shapes, approximate colours, no logos or text ===== -->
     <!-- category strip -->
-    <!-- strip assets: cream square and mint circle belong to the v65 image asset (HM-42), not UI -->
+    <!-- strip: cream square + mint circle drawn as in v65; whether they are UI or image asset is unresolved (HM-42, CR-N3) -->
     <symbol id="p-pantry" viewBox="0 0 100 100"><rect x="0" y="0" width="100" height="100" rx="5" fill="#FDF8F1"/><circle cx="50" cy="52" r="40" fill="#E0F1EB"/><path d="M28 30h12l2 8v50H26V38Z" fill="#F2C318"/><rect x="29" y="22" width="10" height="9" rx="2" fill="#3D8C3A"/><rect x="31" y="54" width="14" height="14" rx="7" fill="#FBE79A"/><rect x="52" y="36" width="24" height="52" rx="2" fill="#1E4FA3"/><rect x="55" y="48" width="18" height="10" rx="2" fill="#E8E4D8"/><ellipse cx="50" cy="83" rx="14" ry="7" fill="#EEE6D8"/><ellipse cx="50" cy="80" rx="12" ry="4" fill="#FFFFFF"/></symbol>
     <symbol id="p-fresh" viewBox="0 0 100 100"><rect x="0" y="0" width="100" height="100" rx="5" fill="#FDF8F1"/><circle cx="50" cy="52" r="40" fill="#E0F1EB"/><rect x="22" y="30" width="20" height="56" rx="8" fill="#F7F8FA"/><rect x="26" y="22" width="12" height="9" rx="2" fill="#2F6FD1"/><rect x="24" y="52" width="16" height="14" fill="#7FB3E8"/><path d="M50 20h22l4 66H46Z" fill="#F3E1C4"/><rect x="50" y="22" width="22" height="10" fill="#D6403A"/><circle cx="54" cy="80" r="8" fill="#D8302A"/><path d="M60 82c2-10 18-12 22-2 2 6-2 10-10 10-8 0-12-3-12-8Z" fill="#5CA83E"/></symbol>
     <symbol id="p-drinks" viewBox="0 0 100 100"><rect x="0" y="0" width="100" height="100" rx="5" fill="#FDF8F1"/><circle cx="50" cy="52" r="40" fill="#E0F1EB"/><path d="M16 30l6-8h14l4 8v56H16Z" fill="#F7A21B"/><rect x="18" y="44" width="20" height="18" fill="#FFFFFF" opacity=".8"/><circle cx="26" cy="74" r="7" fill="#F28C13"/><path d="M44 26h12v6l4 6v50H40V38l4-6Z" fill="#DCEFFA"/><rect x="45" y="20" width="10" height="7" rx="1" fill="#2F6FD1"/><rect x="42" y="52" width="16" height="12" fill="#2F6FD1" opacity=".7"/><rect x="64" y="44" width="20" height="42" rx="3" fill="#D6201E"/><rect x="64" y="44" width="20" height="5" rx="2" fill="#B9BCC0"/></symbol>
@@ -222,7 +222,7 @@
     <tr><td>"الكل": الأيقونة والاسم</td><td><code>text</code> / <code>selectionLabel</code></td><td><span class="sw" style="background:var(--jarna-text)"></span> #172D2B</td></tr>
     <tr><td>خط الاختيار</td><td><code>selectionIndicator</code></td><td><span class="sw" style="background:var(--jarna-selection-indicator)"></span> #006B63</td></tr>
     <tr><td>أسماء الفئات غير المختارة</td><td><code>textSecondary</code> (مشتق، س5)</td><td><span class="sw" style="background:var(--jarna-text-secondary)"></span> #5A6D68</td></tr>
-    <tr><td>الدوائر خلف الصور</td><td><code>supportivePanel</code></td><td><span class="sw" style="background:var(--jarna-supportive-panel)"></span> #E0F1EC</td></tr>
+    <tr><td>الدوائر خلف صور البلاطات (HM-22) فقط</td><td><code>supportivePanel</code></td><td><span class="sw" style="background:var(--jarna-supportive-panel)"></span> #E0F1EC</td></tr>
     <tr><td>عناوين الأقسام وأسماء البلاطات</td><td><code>text</code></td><td><span class="sw" style="background:var(--jarna-text)"></span> #172D2B</td></tr>
     <tr><td>البلاطة</td><td><code>surface</code> + حد <code>border</code> (مؤقت)</td><td><span class="sw" style="background:var(--jarna-surface)"></span> #FFFFFF + <span class="sw" style="background:var(--jarna-border)"></span> #D8E5DF</td></tr>
     <tr><td>فاصل التنقل</td><td><code>border</code></td><td><span class="sw" style="background:var(--jarna-border)"></span> #D8E5DF</td></tr>

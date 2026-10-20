@@ -11,7 +11,7 @@
 | `tokens.css` | متغيرات `--jarna-*` (أساسية ثم أدوار) للنماذج |
 | `jarna_colors.dart` | `JarnaColors` (ثابت لكل دور) و`JarnaTheme.colorScheme` و`JarnaTheme.applyColors(base)` |
 | `components.html` و`components.png` | عينات المكونات بحالاتها، ولقطة التحقق بعرض 390 |
-| `../CONFLICTS.md` | 13 تعارضاً أو فجوة، مع طريقة حسم كل منها |
+| `../CONFLICTS.md` | 37 تعارضاً أو فجوة (C1–C19، وAUD-C1–C11، وUI-H1–H2، وCR-N1–N5)، مع طريقة حسم كل منها |
 
 ## 1. فصل المصادر: توجيه أم مرجع سابق
 
