@@ -41,12 +41,16 @@
   --jarna-on-floating-basket: var(--jarna-white);
   --jarna-link: var(--jarna-petrol);
   --jarna-link-pressed: var(--jarna-petrol-pressed);
-  --jarna-icon-action: var(--jarna-petrol);      /* search icon, qty +/-, secondary actions */
+  --jarna-icon-action: var(--jarna-petrol);      /* search icon, secondary actions (not the current stepper symbols) */
   --jarna-tab-active: var(--jarna-petrol);
   --jarna-tab-inactive: var(--jarna-secondary);
   --jarna-confirmed-free-delivery: var(--jarna-petrol);
   --jarna-timeline-done: var(--jarna-petrol);
   --jarna-timeline-upcoming: var(--jarna-secondary);
+
+  /* ---------- quantity stepper [D] provisional, CONFLICTS AUD-C9 ---------- */
+  --jarna-quantity-stepper: var(--jarna-petrol);     /* solid pill fill, v65 shape */
+  --jarna-on-quantity-stepper: var(--jarna-white);   /* + / − and count, 6.40:1 */
 
   /* ---------- selection ---------- */
   --jarna-selection-indicator: var(--jarna-petrol); /* underline, check, border */
@@ -75,7 +79,7 @@
 
   /* ---------- borders ---------- */
   --jarna-border: var(--jarna-border-subtle);         /* decorative card divider */
-  --jarna-control-border: var(--jarna-border-control);/* identifies a control */
+  --jarna-control-border: var(--jarna-border-control);/* identifies a control on white; not the home-header search (HM-09) nor the solid stepper */
 
   /* ---------- semantic ---------- */
   --jarna-error: var(--jarna-red);

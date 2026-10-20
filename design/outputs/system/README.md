@@ -52,12 +52,13 @@
 | `offerIcon` / `onOfferIcon` / `offerBadge` | `#FF745E` / `#172D2B` | أيقونة النسبة القائمة، وشارة العرض الحقيقي | Policy offerIcon + القواعد | approved |
 | `text` و`price` | `#172D2B` | النص والأسعار والإجمالي | Policy textAndPrice | approved |
 | `textSecondary` و`iconNeutral` | `#5A6D68` | الوحدة والوصف والنص الإرشادي والسعر المشطوب | قاعدة "الأسماء والوحدات" | inherited |
-| `iconAction` | `#006B63` | أيقونة البحث، و+ و− في الكمية، وأفعال ثانوية | القواعد | approved |
+| `iconAction` | `#006B63` | أيقونة البحث وأفعال ثانوية. ليست رموز محدد الكمية الحالي (انظر `onQuantityStepper`) | القواعد | approved |
+| `quantityStepper` / `onQuantityStepper` | `#006B63` / `#FFFFFF` | محدد الكمية بشكل v65 (كبسولة مصمتة): التعبئة، ثم الرموز والعدد (6.40:1). مؤقت حتى قرار AUD-C9 | v65 CATEGORY-02 + دور الهوية | derived |
 | `supportivePanel` | `#E0F1EC` | لوحة التوصيل المجاني، ومساندة الفراغ، وخلف صور الفئات | Policy supportivePanel | approved |
 | `confirmedFreeDelivery` | `#006B63` | نص التوصيل المجاني والشريط المكتمل | Policy | approved |
 | `freeDeliveryProgress` / `freeDeliveryTrack` | `#FF745E` / `#D8E5DF` | تقدّم التوصيل المجاني قبل الأهلية | القاعدة / مشتق (C11) | approved / derived |
 | `border` | `#D8E5DF` | فاصل زخرفي للبطاقات عند الحاجة | قاعدة "البطاقة البيضاء" | inherited |
-| `controlBorder` / `focusBorder` | `#6B8179` / `#006B63` | حدود البحث والحقول والكمية، والتركيز | القواعد | inherited / approved |
+| `controlBorder` / `focusBorder` | `#6B8179` / `#006B63` | حدود البحث على الصفحات البيضاء والحقول، والتركيز. **استثناءان:** بحث رأس الرئيسية على البترولي بلا حد (HM-09، مؤقت)، ومحدد الكمية الحالي مصمت بلا حد (AUD-C9) | القواعد | inherited / approved |
 | `timelineDone` / `timelineUpcoming` | `#006B63` / `#5A6D68` | المراحل المكتملة والحالية، ثم القادمة | قاعدة "التايملاين" | approved / inherited |
 | `error` / `errorSurface` | `#B42318` / `#FFF0ED` | الحذف والخطأ وفشل التحميل | قاعدة "الحذف والخطأ" | inherited |
 | `destructiveAction` / `onDestructiveAction` | `#B42318` / `#FFFFFF` | زر تأكيد إفراغ السلة داخل النافذة فقط | مرجع سابق UI-22 (C12) | prior-reference |

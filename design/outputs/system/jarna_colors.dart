@@ -59,8 +59,16 @@ abstract final class JarnaColors {
   /// [I] Pressed link / petrol icon.
   static const Color linkPressed = Color(0xFF004F49);
 
-  /// [A] Search magnifier, quantity + and −, secondary-action icons.
+  /// [A] Search magnifier, secondary-action icons.
+  /// Not the + and − of the current quantity stepper: use [onQuantityStepper].
   static const Color iconAction = Color(0xFF006B63);
+
+  /// [D] Fill of the existing solid quantity stepper pill (v65 shape kept).
+  /// Provisional until Fadl decides AUD-C9 (design/outputs/CONFLICTS.md).
+  static const Color quantityStepper = Color(0xFF006B63);
+
+  /// [D] + and − symbols and the count on [quantityStepper] (6.40:1). Provisional (AUD-C9).
+  static const Color onQuantityStepper = Color(0xFFFFFFFF);
 
   /// [A] Active bottom tab icon and label (keep the existing weight/indicator cue).
   static const Color tabActive = Color(0xFF006B63);
@@ -138,7 +146,9 @@ abstract final class JarnaColors {
   /// [I] Decorative divider for white cards on white, only where needed (1.30:1).
   static const Color border = Color(0xFFD8E5DF);
 
-  /// [I] Boundary that identifies a control: search, input, quantity stepper (4.17:1).
+  /// [I] Boundary that identifies a control on white: search fields on white pages, inputs (4.17:1).
+  /// Do NOT add it to the home-header search on petrol (HM-09, provisional).
+  /// The current quantity stepper is solid ([quantityStepper]) and has no border.
   static const Color controlBorder = Color(0xFF6B8179);
 
   // ---------------------------------------------------------------- semantic

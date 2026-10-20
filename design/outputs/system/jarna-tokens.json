@@ -89,7 +89,9 @@
     "textSecondary":     { "hex": "#5A6D68", "primitive": "secondary", "status": "inherited", "usage": "Units, descriptions, placeholders, struck-through old price (only with a valid comparison).", "source": "Rules 'product names and units', 'real offer'" },
 
     "iconNeutral":       { "hex": "#5A6D68", "primitive": "secondary", "status": "inherited", "usage": "Neutral icons (or ink where the current app uses a dark icon).", "source": "Tokens.json roles.icon; rule 'general icons'" },
-    "iconAction":        { "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Secondary-action and selection icons, search magnifier, quantity + and −.", "source": "Tokens.json roles.activeIcon; rules 'general icons', 'search', 'quantity'" },
+    "iconAction":        { "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Secondary-action and selection icons, search magnifier. Not the + and − of the current quantity stepper (use onQuantityStepper); petrol symbols on white apply only to the pending rule-based alternative (AUD-C9).", "source": "Tokens.json roles.activeIcon; rules 'general icons', 'search', 'quantity'" },
+    "quantityStepper":   { "hex": "#006B63", "primitive": "petrol", "status": "derived", "usage": "Fill of the existing solid quantity stepper pill (v65 shape kept). Provisional until Fadl decides AUD-C9.", "source": "v65 CATEGORY-02 shape + identity role; CONFLICTS AUD-C9" },
+    "onQuantityStepper": { "hex": "#FFFFFF", "primitive": "white",  "status": "derived", "usage": "+ and − symbols and the count on the quantity stepper (6.40:1). Provisional (AUD-C9).", "source": "v65 CATEGORY-02; CONFLICTS AUD-C9" },
 
     "supportivePanel":   { "hex": "#E0F1EC", "primitive": "mint",   "status": "approved", "usage": "Supporting panels: free-delivery panel, empty-state support area, existing space behind category images.", "source": "Policy v1 roles.supportivePanel; rules 'images', 'empty'" },
     "confirmedFreeDelivery": { "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Free-delivery text, and the completed bar once eligibility is real.", "source": "Policy v1 roles.confirmedFreeDelivery; rules 'free delivery before/after'" },
@@ -97,7 +99,7 @@
     "freeDeliveryTrack": { "hex": "#D8E5DF", "primitive": "borderSubtle", "status": "derived", "usage": "Light track behind the progress bar ('مسار فاتح' has no value in sources).", "source": "Derived; CONFLICTS C11" },
 
     "border":            { "hex": "#D8E5DF", "primitive": "borderSubtle", "status": "inherited", "usage": "Light neutral divider for white cards on white, only where needed. Decorative (1.30:1).", "source": "Rule 'card on white'" },
-    "controlBorder":     { "hex": "#6B8179", "primitive": "borderControl", "status": "inherited", "usage": "Boundary that identifies a control: search, inputs, quantity stepper (4.17:1).", "source": "Rules 'search', 'quantity', 'fields'" },
+    "controlBorder":     { "hex": "#6B8179", "primitive": "borderControl", "status": "inherited", "usage": "Boundary that identifies a control on white: search fields on white pages and inputs (4.17:1). Exceptions: the home-header search on petrol has no border (HM-09, provisional, CONFLICTS CR-N1); the current quantity stepper is solid (quantityStepper) and gets this border only in the pending rule-based alternative (AUD-C9).", "source": "Rules 'search', 'quantity', 'fields'" },
     "focusBorder":       { "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Input border on focus.", "source": "Rule 'fields and focus'" },
 
     "timelineDone":      { "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Completed and current timeline steps, with mark and label.", "source": "Rule 'timeline'. See CONFLICTS C6" },
