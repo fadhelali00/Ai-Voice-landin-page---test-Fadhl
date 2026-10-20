@@ -1,0 +1,362 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jarna Color Components</title>
+<link rel="stylesheet" href="tokens.css">
+<style>
+  /* Sample geometry approximates v65 for illustration only. v65 screenshots govern
+     sizes, radii and spacing; this page only demonstrates colour roles and states. */
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--jarna-background); color: var(--jarna-text);
+    font-family: system-ui, -apple-system, "Segoe UI", "Noto Sans Arabic", "Noto Naskh Arabic", Tahoma, sans-serif;
+    font-size: 14px; line-height: 1.5;
+  }
+  .page { max-width: 390px; margin: 0 auto; padding: 16px 16px 48px; }
+  h1 { font-size: 20px; margin: 4px 0 2px; }
+  .lede { color: var(--jarna-text-secondary); font-size: 12px; margin: 0 0 12px; }
+  h2 { font-size: 15px; margin: 24px 0 8px; padding-top: 12px; border-top: 1px solid var(--jarna-border); }
+  .note { color: var(--jarna-text-secondary); font-size: 11px; margin: 4px 0 0; }
+  .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .cell { display: flex; flex-direction: column; align-items: center; gap: 4px; }
+  .state { font-size: 10px; color: var(--jarna-text-secondary); }
+
+  /* swatches */
+  .swatches { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+  .sw { border: 1px solid var(--jarna-border); border-radius: 10px; overflow: hidden; font-size: 10px; }
+  .sw b { display: block; height: 40px; }
+  .sw span { display: block; padding: 4px 6px; }
+  .sw code { font-size: 10px; color: var(--jarna-text-secondary); direction: ltr; display: block; }
+
+  /* home header + search */
+  .header { background: var(--jarna-brand-header); color: var(--jarna-on-brand-header); border-radius: 12px; padding: 14px 14px 16px; }
+  .header-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+  .brand { font-size: 24px; font-weight: 800; }
+  .addr { font-size: 12px; font-weight: 700; display: flex; gap: 6px; align-items: center; }
+  .addr small { display: block; font-weight: 400; }
+  .search { background: var(--jarna-surface); border: 1px solid var(--jarna-control-border); border-radius: 12px; height: 44px;
+            display: flex; align-items: center; gap: 8px; padding: 0 12px; color: var(--jarna-text-secondary); }
+  .search svg { stroke: var(--jarna-icon-action); }
+  .inner-header { display: flex; align-items: center; gap: 10px; height: 48px; padding: 0 4px; background: var(--jarna-surface);
+                  border: 1px solid var(--jarna-border); border-radius: 12px; color: var(--jarna-inner-header-title); font-weight: 700; }
+  .inner-header svg { stroke: var(--jarna-inner-header-title); }
+
+  /* categories */
+  .cats { display: flex; gap: 14px; }
+  .cat { display: flex; flex-direction: column; align-items: center; gap: 4px; width: 72px; padding-bottom: 6px; border-bottom: 3px solid transparent; color: var(--jarna-text); font-size: 12px; }
+  .cat .img { width: 56px; height: 56px; border-radius: 50%; background: var(--jarna-supportive-panel); display: grid; place-items: center; }
+  .cat.selected { border-bottom-color: var(--jarna-selection-indicator); font-weight: 700; color: var(--jarna-selection-label); }
+
+  /* product card */
+  .card { width: 168px; background: var(--jarna-surface); border: 1px solid var(--jarna-border); border-radius: 12px; padding: 8px; }
+  .card .pimg { height: 84px; border-radius: 8px; display: grid; place-items: center; }
+  .pname { font-weight: 700; margin-top: 6px; }
+  .punit { color: var(--jarna-text-secondary); font-size: 12px; }
+  .price { color: var(--jarna-price); font-weight: 800; }
+  .old { color: var(--jarna-text-secondary); text-decoration: line-through; font-size: 12px; margin-inline-start: 6px; font-weight: 400; }
+  .badge { display: inline-block; background: var(--jarna-offer-badge); color: var(--jarna-on-offer-badge); font-size: 11px; font-weight: 700; border-radius: 6px; padding: 1px 6px; }
+
+  /* buttons */
+  .btn { border: 0; border-radius: 10px; min-height: 44px; min-width: 44px; padding: 0 16px; font: inherit; font-weight: 700;
+         display: inline-flex; align-items: center; justify-content: center; gap: 6px; cursor: pointer; }
+  .btn-primary { background: var(--jarna-primary-action); color: var(--jarna-on-primary-action); }
+  .btn-primary.pressed { background: var(--jarna-primary-action-pressed); }
+  .btn-primary:disabled, .btn-primary.disabled { background: var(--jarna-disabled); color: var(--jarna-on-disabled); cursor: not-allowed; }
+  .btn-wide { width: 100%; }
+  .btn-destructive { background: var(--jarna-destructive-action); color: var(--jarna-on-destructive-action); }
+  .spinner { width: 14px; height: 14px; border: 2px solid currentColor; border-top-color: transparent; border-radius: 50%; display: inline-block; }
+  .link { color: var(--jarna-link); font-weight: 700; background: none; border: 0; font: inherit; font-weight: 700; min-height: 44px; padding: 0 4px; }
+  .link.pressed { color: var(--jarna-link-pressed); }
+  .link:disabled { color: var(--jarna-on-disabled); }
+
+  /* quantity */
+  .qty { display: inline-flex; align-items: center; border: 1px solid var(--jarna-control-border); border-radius: 10px; height: 44px; background: var(--jarna-surface); }
+  .qty button { width: 44px; height: 42px; border: 0; background: none; color: var(--jarna-icon-action); font-size: 20px; font-weight: 700; }
+  .qty button:disabled { color: var(--jarna-on-disabled); }
+  .qty span { min-width: 28px; text-align: center; font-weight: 800; color: var(--jarna-text); }
+
+  /* floating basket */
+  .basket { display: flex; align-items: center; justify-content: space-between; width: 244px; height: 52px; border-radius: 26px;
+            background: var(--jarna-floating-basket); color: var(--jarna-on-floating-basket); padding: 0 6px; font-weight: 700; }
+  .basket.pressed { background: var(--jarna-floating-basket-pressed); }
+  .basket .thumb { width: 40px; height: 40px; border-radius: 50%; background: var(--jarna-surface); display: grid; place-items: center; }
+  .basket .arrow { width: 40px; height: 40px; border-radius: 50%; background: var(--jarna-basket-arrow-surface); display: grid; place-items: center; }
+  .basket .arrow svg { stroke: var(--jarna-basket-arrow-icon); }
+
+  /* tabs */
+  .tabs { display: flex; justify-content: space-around; background: var(--jarna-footer); border: 1px solid var(--jarna-border); border-radius: 12px; padding: 8px 0; }
+  .tab { display: flex; flex-direction: column; align-items: center; gap: 2px; font-size: 12px; color: var(--jarna-tab-inactive); min-width: 64px; }
+  .tab svg { stroke: currentColor; }
+  .tab.active { color: var(--jarna-tab-active); font-weight: 800; }
+
+  /* inputs */
+  .field { display: flex; flex-direction: column; gap: 4px; width: 100%; }
+  .field label { font-size: 12px; font-weight: 700; }
+  .input { height: 44px; border: 1px solid var(--jarna-control-border); border-radius: 10px; background: var(--jarna-surface); padding: 0 12px; display: flex; align-items: center; color: var(--jarna-text); }
+  .input.placeholder { color: var(--jarna-text-secondary); }
+  .input.focus { border: 2px solid var(--jarna-focus-border); }
+  .input.error { border: 2px solid var(--jarna-error); }
+  .input.disabled { background: var(--jarna-disabled); color: var(--jarna-on-disabled); border-color: var(--jarna-disabled); }
+  .err-msg { color: var(--jarna-error); font-size: 12px; }
+
+  /* address */
+  .addr-opt { display: flex; gap: 10px; align-items: center; border: 1px solid var(--jarna-border); border-radius: 12px; padding: 10px 12px; background: var(--jarna-surface); min-height: 56px; }
+  .addr-opt.selected { background: var(--jarna-selection-surface); border: 2px solid var(--jarna-selection-indicator); color: var(--jarna-selection-label); }
+  .radio { width: 20px; height: 20px; border-radius: 50%; border: 2px solid var(--jarna-control-border); flex: none; display: grid; place-items: center; }
+  .selected .radio { border-color: var(--jarna-selection-indicator); }
+  .selected .radio::after { content: ""; width: 10px; height: 10px; border-radius: 50%; background: var(--jarna-selection-indicator); }
+  .addr-opt .sub { color: var(--jarna-text-secondary); font-size: 12px; display: block; }
+
+  /* panels */
+  .panel { border-radius: 12px; padding: 10px 12px; display: flex; gap: 8px; align-items: flex-start; font-size: 13px; }
+  .panel svg { flex: none; margin-top: 2px; }
+  .p-support { background: var(--jarna-supportive-panel); color: var(--jarna-confirmed-free-delivery); }
+  .p-error { background: var(--jarna-error-surface); color: var(--jarna-error); }
+  .p-warn { background: var(--jarna-warning-surface); color: var(--jarna-warning); }
+  .p-success { background: var(--jarna-success-surface); color: var(--jarna-success); }
+  .panel svg { stroke: currentColor; }
+  .bar { height: 6px; border-radius: 3px; background: var(--jarna-free-delivery-track); overflow: hidden; margin-top: 6px; }
+  .bar i { display: block; height: 100%; background: var(--jarna-free-delivery-progress); }
+  .bar.done i { background: var(--jarna-confirmed-free-delivery); }
+
+  /* coupon */
+  .coupon { display: flex; align-items: center; gap: 10px; border: 1px solid var(--jarna-border); border-radius: 12px; padding: 8px 12px; min-height: 52px; }
+  .offer-ic { width: 28px; height: 28px; border-radius: 50%; background: var(--jarna-offer-icon); color: var(--jarna-on-offer-icon); display: grid; place-items: center; font-weight: 800; font-size: 14px; }
+
+  /* timeline */
+  .tl { list-style: none; margin: 0; padding: 0; }
+  .tl li { display: flex; gap: 10px; align-items: center; min-height: 32px; color: var(--jarna-timeline-upcoming); }
+  .tl .dot { width: 14px; height: 14px; border-radius: 50%; border: 2px solid currentColor; flex: none; }
+  .tl li.done, .tl li.current { color: var(--jarna-timeline-done); font-weight: 700; }
+  .tl li.done .dot { background: currentColor; }
+  .tl li span { color: inherit; }
+
+  /* dialog */
+  .scrim { background: var(--jarna-overlay); border-radius: 12px; padding: 24px 16px; }
+  .dialog { background: var(--jarna-surface); border-radius: 14px; padding: 16px; }
+  .dialog .actions { display: flex; gap: 8px; margin-top: 12px; }
+
+  /* contrast table */
+  table { border-collapse: collapse; width: 100%; font-size: 11px; }
+  th, td { border-bottom: 1px solid var(--jarna-border); padding: 4px; text-align: start; }
+  td code { direction: ltr; display: inline-block; }
+  .chip { display: inline-block; padding: 1px 6px; border-radius: 4px; font-weight: 700; }
+  .fail { color: var(--jarna-error); font-weight: 700; }
+  .ok { color: var(--jarna-success); font-weight: 700; }
+  .warn { color: var(--jarna-warning); font-weight: 700; }
+</style>
+</head>
+<body>
+<main class="page">
+  <h1>نظام ألوان جارنا</h1>
+  <p class="lede">عينات مكونات v1.0.0 بتاريخ 2026-10-20. يتغيّر اللون فقط، والأشكال تقريبية، ولقطات النسخة 65 هي التي تحكم الأبعاد. البيانات أمثلة.</p>
+
+  <h2>اللوحة والأدوار</h2>
+  <div class="swatches">
+    <div class="sw"><b style="background:var(--jarna-white)"></b><span>أبيض: خلفية وبطاقات<code>#FFFFFF</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-petrol)"></b><span>بترولي: هوية واختيار<code>#006B63</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-petrol-pressed)"></b><span>بترولي مضغوط<code>#004F49</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-coral)"></b><span>مرجاني: إضافة وتأكيد<code>#FF745E</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-coral-pressed)"></b><span>مرجاني مضغوط (مقترح)<code>#EC6E5A</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-ink)"></b><span>حبري: نص وسعر<code>#172D2B</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-secondary)"></b><span>ثانوي<code>#5A6D68</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-mint)"></b><span>نعناعي: مساندة<code>#E0F1EC</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-border-control)"></b><span>حد التحكم<code>#6B8179</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-border-subtle)"></b><span>حد خفيف<code>#D8E5DF</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-red)"></b><span>خطأ وحذف<code>#B42318</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-red-surface)"></b><span>سطح الخطأ<code>#FFF0ED</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-amber)"></b><span>تحذير<code>#805500</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-amber-surface)"></b><span>سطح التحذير<code>#FFF4D6</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-green)"></b><span>نجاح<code>#18794E</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-green-surface)"></b><span>سطح النجاح<code>#EAF6EE</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-grey-disabled)"></b><span>تعطيل<code>#E5EBE7</code></span></div>
+    <div class="sw"><b style="background:var(--jarna-scrim)"></b><span>طبقة تعتيم<code>#172D2B66</code></span></div>
+  </div>
+
+  <h2>رأس الرئيسية والبحث</h2>
+  <div class="header">
+    <div class="header-top">
+      <div class="addr">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a7 7 0 0 0-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>
+        <span>التوصيل إلى البيت<small>حي الصفا، جدة</small></span>
+      </div>
+      <div class="brand">جارنا</div>
+    </div>
+    <div class="search">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <span>وش تحتاج اليوم؟</span>
+    </div>
+  </div>
+  <p class="note">الرأس بترولي ونصه أبيض (<bdi dir="ltr">6.40:1</bdi>). البحث أبيض بحد تحكم وأيقونة بترولية، والنص الإرشادي ثانوي.</p>
+  <div style="margin-top:8px" class="inner-header">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke-width="2" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg>
+    <span>السلة</span>
+  </div>
+  <p class="note">رأس الصفحات الداخلية أبيض وعنوانه حبري، ولا يرث امتلاء الرئيسية.</p>
+
+  <h2>الفئات: افتراضي واختيار</h2>
+  <div class="cats">
+    <div class="cat selected"><div class="img"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#172D2B" stroke-width="2"><rect x="4" y="4" width="6" height="6" rx="1.5"/><rect x="14" y="4" width="6" height="6" rx="1.5"/><rect x="4" y="14" width="6" height="6" rx="1.5"/><rect x="14" y="14" width="6" height="6" rx="1.5"/></svg></div>الكل</div>
+    <div class="cat"><div class="img"><svg width="30" height="30" viewBox="0 0 30 30"><rect x="8" y="6" width="14" height="20" rx="3" fill="#C9A15A"/><rect x="10" y="12" width="10" height="6" fill="#fff"/></svg></div>المقاضي</div>
+    <div class="cat"><div class="img"><svg width="30" height="30" viewBox="0 0 30 30"><circle cx="12" cy="17" r="7" fill="#E25B3C"/><circle cx="19" cy="14" r="6" fill="#6AA84F"/></svg></div>الطازج</div>
+    <div class="cat"><div class="img"><svg width="30" height="30" viewBox="0 0 30 30"><rect x="11" y="4" width="8" height="22" rx="3" fill="#7FB3D5"/></svg></div>المشروبات</div>
+  </div>
+  <p class="note">الاختيار يُعرف بالخط البترولي ووزن الخط، والاسم يبقى حبرياً. النعناعي خلف الصور في مساحتها القائمة فقط.</p>
+
+  <h2>بطاقة المنتج وزر الإضافة</h2>
+  <div class="row" style="align-items:flex-start">
+    <div class="card">
+      <div class="pimg"><svg width="60" height="70" viewBox="0 0 60 70"><path d="M14 10h32l6 52H8z" fill="#E8D9B5"/><rect x="18" y="26" width="24" height="16" rx="3" fill="#fff"/></svg></div>
+      <div class="pname">أرز</div>
+      <div class="punit">5 كجم</div>
+      <div class="row" style="justify-content:space-between;margin-top:6px">
+        <span class="price">19 ر.س</span>
+        <button class="btn btn-primary">إضافة</button>
+      </div>
+    </div>
+    <div class="card">
+      <div class="pimg"><svg width="60" height="70" viewBox="0 0 60 70"><rect x="20" y="6" width="20" height="58" rx="6" fill="#B9D7EA"/><rect x="20" y="28" width="20" height="14" fill="#fff"/></svg></div>
+      <div class="pname">حليب <span class="badge">عرض</span></div>
+      <div class="punit">1 لتر</div>
+      <div class="row" style="justify-content:space-between;margin-top:6px">
+        <span class="price">6 ر.س<span class="old">7</span></span>
+        <div class="qty"><button aria-label="زيادة">+</button><span>2</span><button aria-label="إنقاص">−</button></div>
+      </div>
+    </div>
+  </div>
+  <p class="note">السعر حبري. شارة العرض مرجانية بنص حبري، وتظهر فقط مع بيانات عرض حقيقية. الكمية: العدد حبري، و+ و− بتروليان، وحد التحكم #6B8179.</p>
+  <div class="row" style="margin-top:8px">
+    <div class="cell"><button class="btn btn-primary">إضافة</button><span class="state">افتراضي</span></div>
+    <div class="cell"><button class="btn btn-primary pressed">إضافة</button><span class="state">ضغط</span></div>
+    <div class="cell"><button class="btn btn-primary" disabled>إضافة</button><span class="state">تعطيل</span></div>
+    <div class="cell"><button class="btn btn-primary" aria-busy="true"><span class="spinner"></span></button><span class="state">تحميل</span></div>
+    <div class="cell"><div class="qty"><button disabled aria-label="زيادة">+</button><span>1</span><button aria-label="إنقاص">−</button></div><span class="state">الحد الأعلى</span></div>
+  </div>
+
+  <h2>كبسولة السلة العائمة</h2>
+  <div class="row">
+    <div class="cell">
+      <div class="basket">
+        <span class="arrow"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="2.5" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></span>
+        <span>منتج واحد</span>
+        <span class="thumb"><svg width="24" height="24" viewBox="0 0 24 24"><rect x="6" y="4" width="12" height="16" rx="3" fill="#C9A15A"/></svg></span>
+      </div>
+      <span class="state">افتراضي</span>
+    </div>
+    <div class="cell">
+      <div class="basket pressed">
+        <span class="arrow"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="2.5" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></span>
+        <span>منتج واحد</span>
+        <span class="thumb"><svg width="24" height="24" viewBox="0 0 24 24"><rect x="6" y="4" width="12" height="16" rx="3" fill="#C9A15A"/></svg></span>
+      </div>
+      <span class="state">ضغط</span>
+    </div>
+  </div>
+  <p class="note">الجسم بترولي والعدد أبيض، ودائرة السهم مرجانية والسهم حبري (<bdi dir="ltr">5.47:1</bdi>). الشكل البيضاوي والموقع فوق التبويبات لا يتغيّران. ترتيب العناصر واتجاه السهم هنا مأخوذان من صورة مرجع سابق (v3)، ولم يُطابقا بعد مع لقطة v65 أو صورة USER-07.</p>
+
+  <h2>التبويبات السفلية</h2>
+  <div class="tabs">
+    <div class="tab active"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M4 11 12 4l8 7v9H4z"/><path d="M10 20v-5h4v5"/></svg>الرئيسية</div>
+    <div class="tab"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2"><rect x="4" y="4" width="6" height="6" rx="1.5"/><rect x="14" y="4" width="6" height="6" rx="1.5"/><rect x="4" y="14" width="6" height="6" rx="1.5"/><rect x="14" y="14" width="6" height="6" rx="1.5"/></svg>الفئات</div>
+    <div class="tab"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2"><circle cx="12" cy="12" r="8" stroke="var(--jarna-offer-icon)"/><path d="m9 15 6-6" stroke="var(--jarna-on-offer-icon)"/><circle cx="9.5" cy="9.5" r="1" fill="var(--jarna-on-offer-icon)" stroke="none"/><circle cx="14.5" cy="14.5" r="1" fill="var(--jarna-on-offer-icon)" stroke="none"/></svg>العروض</div>
+    <div class="tab"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="10" r="3"/><path d="M6.5 18.5a7 7 0 0 1 11 0"/></svg>حسابي</div>
+  </div>
+  <p class="note">النشط بترولي وأثقل، وغير النشط ثانوي. أيقونة العروض تحمل لمسة مرجانية ثابتة ورمزها حبري، والمرجاني وحده لا يعني أن التبويب نشط.</p>
+
+  <h2>أزرار السلة والروابط</h2>
+  <div class="row" style="flex-direction:column;align-items:stretch">
+    <button class="btn btn-primary btn-wide">اختر طريقة الدفع</button>
+    <button class="btn btn-primary btn-wide pressed">إتمام الطلب</button>
+    <button class="btn btn-primary btn-wide" disabled>إتمام الطلب</button>
+    <button class="btn btn-primary btn-wide" aria-busy="true"><span class="spinner"></span> إتمام الطلب</button>
+  </div>
+  <p class="note">من الأعلى: افتراضي، ضغط، تعطيل، تحميل. التعطيل رمادي ولا يبقى مرجانياً. التحميل يحافظ على اللون والنص ويمنع التكرار.</p>
+  <div class="row">
+    <div class="cell"><button class="link">تغيير</button><span class="state">افتراضي</span></div>
+    <div class="cell"><button class="link pressed">تغيير</button><span class="state">ضغط</span></div>
+    <div class="cell"><button class="link" disabled>تغيير</button><span class="state">تعطيل</span></div>
+    <div class="cell"><button class="link">+ إضافة المزيد من المقاضي</button><span class="state">رابط إضافة</span></div>
+  </div>
+
+  <h2>الحقول</h2>
+  <div class="row" style="flex-direction:column;align-items:stretch;gap:10px">
+    <div class="field"><label>رقم الجوال</label><div class="input placeholder">05xxxxxxxx</div><span class="state">افتراضي</span></div>
+    <div class="field"><label>رقم الجوال</label><div class="input focus" dir="ltr" style="justify-content:flex-end">0551234567</div><span class="state">تركيز</span></div>
+    <div class="field"><label>رقم الجوال</label><div class="input error" dir="ltr" style="justify-content:flex-end">055123</div><span class="err-msg">رسالة الخطأ هنا</span><span class="state">خطأ</span></div>
+    <div class="field"><label>رقم الجوال</label><div class="input disabled" dir="ltr" style="justify-content:flex-end">0551234567</div><span class="state">تعطيل</span></div>
+  </div>
+  <p class="note">نص رسالة الخطأ هنا عنصر نائب، والنص الفعلي يُؤخذ من Journey-Final-Copy-v4.</p>
+
+  <h2>اختيار العنوان</h2>
+  <div class="row" style="flex-direction:column;align-items:stretch">
+    <div class="addr-opt selected"><span class="radio"></span><span><b>البيت</b><span class="sub">حي الصفا، جدة</span></span></div>
+    <div class="addr-opt"><span class="radio"></span><span><b>العمل</b><span class="sub">حي الروضة، جدة</span></span></div>
+  </div>
+  <p class="note">المختار نعناعي بحد وعلامة بترولية ونص حبري، وغير المختار أبيض. النعناعي ليس العلامة الوحيدة للاختيار.</p>
+
+  <h2>التوصيل المجاني والكوبون</h2>
+  <div class="panel p-support" style="flex-direction:column;align-items:stretch">
+    <span>باقي 12 ر.س ويصير توصيلك مجاني</span>
+    <div class="bar"><i style="width:75%"></i></div>
+  </div>
+  <div class="panel p-support" style="flex-direction:column;align-items:stretch;margin-top:8px">
+    <span>حلو! توصيلك صار مجاني</span>
+    <div class="bar done"><i style="width:100%"></i></div>
+  </div>
+  <p class="note">قبل الأهلية: نص بترولي ومسار تقدّم مرجاني (تباينه مع المسار <bdi dir="ltr">2.05:1</bdi>، والنص هو الحامل الأساسي للمعنى، انظر C11). بعد الأهلية: الشريط مكتمل بالبترولي.</p>
+  <div class="coupon" style="margin-top:8px"><span class="offer-ic">%</span><span style="flex:1">الكوبونات</span><button class="link">تغيير</button></div>
+
+  <h2>التايملاين</h2>
+  <ol class="tl">
+    <li class="done"><span class="dot"></span><span>استلمنا طلبك</span></li>
+    <li class="current"><span class="dot"></span><span>نجهز طلبك</span></li>
+    <li><span class="dot"></span><span>في الطريق إليك</span></li>
+    <li><span class="dot"></span><span>تم التسليم</span></li>
+  </ol>
+  <p class="note">المكتمل والحالي بتروليان مع علامة وتسمية، والقادم ثانوي.</p>
+
+  <h2>الحالات الدلالية</h2>
+  <div class="row" style="flex-direction:column;align-items:stretch">
+    <div class="panel p-success"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke-width="2.5"><path d="m5 12 5 5 9-10"/></svg><span>استلمنا طلبك</span></div>
+    <div class="panel p-warn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M12 3 2 20h20z"/><path d="M12 10v4M12 17v.5"/></svg><span>تغيّر السعر: 18 ← 19 ر.س</span></div>
+    <div class="panel p-error"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v6M12 16v.5"/></svg><span style="flex:1">تعذّر التحميل <button class="link" style="color:var(--jarna-error);min-height:auto">حاول مرة ثانية</button></span></div>
+  </div>
+  <p class="note">النجاح يأتي من حدث مؤكد من الخادم فقط. التحذير للتغيّرات مثل السعر والمخزون. الخطأ والحذف بالأحمر، ولا يُستخدم الأحمر أبداً لزر الشراء.</p>
+
+  <h2>تأكيد إفراغ السلة</h2>
+  <div class="scrim">
+    <div class="dialog">
+      <b>إفراغ السلة</b>
+      <div class="actions">
+        <button class="btn btn-destructive" style="flex:1">إفراغ السلة</button>
+        <button class="btn" style="flex:1;background:var(--jarna-surface);color:var(--jarna-link);border:1px solid var(--jarna-control-border)">رجوع</button>
+      </div>
+    </div>
+  </div>
+  <p class="note">الأحمر يظهر داخل التأكيد فقط (أبيض على أحمر <bdi dir="ltr">6.57:1</bdi>). نص النافذة الكامل يُؤخذ من v4.</p>
+
+  <h2>التباين المحسوب</h2>
+  <table>
+    <thead><tr><th>الزوج</th><th>النسبة</th><th>النتيجة</th></tr></thead>
+    <tbody>
+      <tr><td><span class="chip" style="background:#fff;color:#172D2B;border:1px solid #D8E5DF">حبري/أبيض</span></td><td>14.52</td><td class="ok">ناجح</td></tr>
+      <tr><td><span class="chip" style="background:#fff;color:#5A6D68;border:1px solid #D8E5DF">ثانوي/أبيض</span></td><td>5.49</td><td class="ok">ناجح</td></tr>
+      <tr><td><span class="chip" style="background:#fff;color:#006B63;border:1px solid #D8E5DF">بترولي/أبيض</span></td><td>6.40</td><td class="ok">ناجح</td></tr>
+      <tr><td><span class="chip" style="background:#006B63;color:#fff">أبيض/بترولي</span></td><td>6.40</td><td class="ok">ناجح</td></tr>
+      <tr><td><span class="chip" style="background:#FF745E;color:#172D2B">حبري/مرجاني</span></td><td>5.47</td><td class="ok">ناجح</td></tr>
+      <tr><td><span class="chip" style="background:#EC6E5A;color:#172D2B">حبري/مرجاني مضغوط</span></td><td>4.80</td><td class="ok">ناجح</td></tr>
+      <tr><td><span class="chip" style="background:#FF745E;color:#fff">أبيض/مرجاني</span></td><td>2.65</td><td class="fail">فاشل: ممنوع</td></tr>
+      <tr><td><span class="chip" style="background:#E0F1EC;color:#006B63">بترولي/نعناعي</span></td><td>5.47</td><td class="ok">ناجح</td></tr>
+      <tr><td><span class="chip" style="background:#E0F1EC;color:#5A6D68">ثانوي/نعناعي</span></td><td>4.70</td><td class="ok">ناجح</td></tr>
+      <tr><td><span class="chip" style="background:#FFF0ED;color:#B42318">خطأ</span></td><td>5.93</td><td class="ok">ناجح</td></tr>
+      <tr><td><span class="chip" style="background:#FFF4D6;color:#805500">تحذير</span></td><td>5.96</td><td class="ok">ناجح</td></tr>
+      <tr><td><span class="chip" style="background:#EAF6EE;color:#18794E">نجاح</span></td><td>4.87</td><td class="ok">ناجح</td></tr>
+      <tr><td><span class="chip" style="background:#E5EBE7;color:#5A6D68">تعطيل</span></td><td>4.54</td><td class="warn">ناجح بهامش ضيق</td></tr>
+      <tr><td>مسار التقدّم المرجاني/المسار الفاتح (غير نصي)</td><td>2.05</td><td class="fail">أقل من <bdi dir="ltr">3:1</bdi></td></tr>
+    </tbody>
+  </table>
+</main>
+</body>
+</html>

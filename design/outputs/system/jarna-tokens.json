@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "name": "Jarna Color System",
+    "version": "1.0.0",
+    "date": "2026-10-20",
+    "scheme": "light",
+    "baseline_app": "co.jarna.customer 1.0.0 (65)",
+    "scope": "Colour only. Layout, font, sizes, spacing, radii, navigation and icons stay as in v65.",
+    "principle": "White rests; petrol identifies; coral directs; ink informs; mint supports",
+    "precedence": [
+      "1. Latest written direction from Fadl (chat / top of README-ar.md)",
+      "2. Jarna-Color-Policy-v1.json (overrides the older Jarna-Color-Tokens.json)",
+      "3. Current-Layout-Color-Only-Scope-ar.md",
+      "4. Handoff v4 (JSON/CSV values beat PNG)",
+      "5. v65 screenshots (geometry, font, positions, icons)"
+    ],
+    "sources": {
+      "policy": "Jarna-Color-Policy-v1.json (Drive 1G5YpA0R7NZNfNXz7uI3-iLEH47XXxP0S)",
+      "tokens_legacy": "Jarna-Color-Tokens.json (Drive 1hnZT6sY2kYM56mKcqhfW664asmLSyigR)",
+      "rules": "Jarna-Color-Component-Rules.csv (Drive 1flEZTpH0tAm71Nd0hT55gg4mOsIv5Dh-)",
+      "philosophy": "Jarna-Color-Philosophy-ar.md (Drive 1OQ2fBeZFst6pVCVLi19aIbpkR7E_O6OB)",
+      "screens": "Screen-Color-Distribution.csv (Drive 1xARL3yHmn8vixww-nKHRHccpiDt7oIpV)",
+      "contrast_legacy": "Color-Contrast-Checks.csv (Drive 1yqTgEJMkSxpOByVMygq6qhwq4ZmaidEo)",
+      "scope": "Current-Layout-Color-Only-Scope-ar.md (Drive 1kNQXC624bm2abNGK5U4RrJwcAqIPZCKl)"
+    },
+    "status_legend": {
+      "approved": "Value and usage stated in Policy v1 or the component rules that accompany it",
+      "inherited": "Hex named in a directive (33 component rules, philosophy or CLAUDE.md) but not in Policy v1 roles; catalogued earlier in Jarna-Color-Tokens.json",
+      "prior-reference": "Only found in prior work outputs (Jarna-Color-Tokens.json, Screen-Color-Distribution.csv). Used for comparison; kept provisionally because no directive covers the need. Pending Fadl (see CONFLICTS C12)",
+      "derived": "Not in any source; computed by ui-designer to satisfy a rule. Pending Fadl approval (see CONFLICTS.md)"
+    }
+  },
+
+  "primitives": {
+    "white":         { "hex": "#FFFFFF", "status": "approved",  "source": "Policy v1 user_override.background" },
+    "petrol":        { "hex": "#006B63", "status": "approved",  "source": "Policy v1 source_palette.petrol" },
+    "petrolPressed": { "hex": "#004F49", "status": "inherited", "source": "CLAUDE.md approved constraints (petrol pressed); also Tokens.json" },
+    "coral":         { "hex": "#FF745E", "status": "approved",  "source": "Policy v1 source_palette.orangeCoral" },
+    "coralPressed":  { "hex": "#EC6E5A", "status": "derived",   "source": "8% ink state layer over coral; keeps ink text at 4.80:1. See CONFLICTS C9" },
+    "ink":           { "hex": "#172D2B", "status": "approved",  "source": "Policy v1 source_palette.ink" },
+    "secondary":     { "hex": "#5A6D68", "status": "inherited", "source": "Tokens.json primitives.secondary; named in component rules" },
+    "mint":          { "hex": "#E0F1EC", "status": "approved",  "source": "Policy v1 source_palette.mint" },
+    "borderSubtle":  { "hex": "#D8E5DF", "status": "inherited", "source": "Tokens.json; named in component rule 'card on white'" },
+    "borderControl": { "hex": "#6B8179", "status": "inherited", "source": "Tokens.json; named in component rule 'search'" },
+    "error":         { "hex": "#B42318", "status": "inherited", "source": "Tokens.json; named in component rule 'delete and error'" },
+    "errorSurface":  { "hex": "#FFF0ED", "status": "inherited", "source": "Tokens.json; named in component rule 'delete and error'" },
+    "warning":       { "hex": "#805500", "status": "inherited", "source": "Tokens.json; named in component rule 'warning'" },
+    "warningSurface":{ "hex": "#FFF4D6", "status": "inherited", "source": "Tokens.json; named in component rule 'warning'" },
+    "success":       { "hex": "#18794E", "status": "prior-reference", "source": "Tokens.json primitives.success. See CONFLICTS C6" },
+    "successSurface":{ "hex": "#EAF6EE", "status": "prior-reference", "source": "Tokens.json primitives.successSurface" },
+    "disabled":      { "hex": "#E5EBE7", "status": "inherited", "source": "Tokens.json; named in component rule 'disabled'" },
+    "overlay":       { "hex": "#172D2B66", "status": "prior-reference", "source": "Tokens.json primitives.overlay (ink at 40%)" },
+    "cream":         { "hex": "#FFF8F0", "status": "excluded",  "source": "Policy v1: excluded from UI backgrounds by latest user direction. Not exported to CSS/Dart." }
+  },
+
+  "roles": {
+    "background":        { "hex": "#FFFFFF", "primitive": "white",  "status": "approved", "usage": "Page background on every screen. No cream, gradient or texture.", "source": "Policy v1 roles.background; rule 'page background'" },
+    "surface":           { "hex": "#FFFFFF", "primitive": "white",  "status": "approved", "usage": "Cards, sheets, search field, inner-page headers.", "source": "Policy v1 roles.card; rules 'inner headers', 'search'" },
+    "footer":            { "hex": "#FFFFFF", "primitive": "white",  "status": "approved", "usage": "Bottom tab bar and fixed bottom areas.", "source": "Policy v1 roles.footer; rule 'bottom tabs'" },
+
+    "brandHeader":       { "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Home header fill only. Not inherited by inner pages.", "source": "Policy v1 roles.brandHeader; rule 'home header'" },
+    "onBrandHeader":     { "hex": "#FFFFFF", "primitive": "white",  "status": "approved", "usage": "Text and icons on the home header (Jarna name, address).", "source": "Rule 'home header'" },
+    "innerHeaderTitle":  { "hex": "#172D2B", "primitive": "ink",    "status": "approved", "usage": "Title and back icon on white inner-page headers.", "source": "Rule 'inner headers'" },
+
+    "floatingBasket":    { "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Body of the oval floating basket pill. Shape, size and position unchanged.", "source": "Policy v1 roles.floatingBasket; rule 'floating basket'" },
+    "onFloatingBasket":  { "hex": "#FFFFFF", "primitive": "white",  "status": "approved", "usage": "Item count text on the basket pill.", "source": "Rule 'floating basket'" },
+    "basketArrowSurface":{ "hex": "#FF745E", "primitive": "coral",  "status": "approved", "usage": "Arrow circle inside the basket pill.", "source": "Policy v1 roles.basketArrowSurface" },
+    "basketArrowIcon":   { "hex": "#172D2B", "primitive": "ink",    "status": "approved", "usage": "Arrow glyph inside the coral circle (not white). See CONFLICTS C10", "source": "Policy v1 roles.basketArrowIcon" },
+
+    "primaryAction":     { "hex": "#FF745E", "primitive": "coral",  "status": "approved", "usage": "Add, continue and confirm buttons: 'إضافة', 'اختر طريقة الدفع', 'إتمام الطلب'. One filled primary per decision area.", "source": "Policy v1 roles.primaryPurchaseAction; rules 'add button', 'cart primary buttons'" },
+    "onPrimaryAction":   { "hex": "#172D2B", "primitive": "ink",    "status": "approved", "usage": "Label and icons on coral. Never white (2.65:1).", "source": "Policy v1 roles.onPrimaryPurchaseAction" },
+    "primaryActionPressed": { "hex": "#EC6E5A", "primitive": "coralPressed", "status": "derived", "usage": "Pressed fill for coral buttons (equivalent to an 8% ink ripple). Label stays ink.", "source": "Derived from rule 'press and loading'. Pending Fadl, CONFLICTS C9" },
+
+    "link":              { "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Secondary text actions: 'تغيير', 'إضافة المزيد من المقاضي', account and support links. No coral fill.", "source": "Policy v1 roles.linksAndSelection; rules 'secondary links', 'account and support'" },
+    "linkPressed":       { "hex": "#004F49", "primitive": "petrolPressed", "status": "inherited", "usage": "Pressed state of petrol links, icons and the basket pill.", "source": "Tokens.json roles.pressed; CLAUDE.md" },
+
+    "selectionIndicator":{ "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Selected-category underline, radio/check marks, selected-address border, focus ring.", "source": "Policy v1 roles.linksAndSelection; rules 'selected category', 'selected address', 'fields and focus'" },
+    "selectionSurface":  { "hex": "#E0F1EC", "primitive": "mint",   "status": "approved", "usage": "Fill of a selected address or option, inside existing space only. Never the only selection cue (1.17:1 against white).", "source": "Policy v1 roles.supportivePanel; rule 'selected address'" },
+    "selectionLabel":    { "hex": "#172D2B", "primitive": "ink",    "status": "approved", "usage": "Name of a selected category or address stays ink. See CONFLICTS C5", "source": "Rules 'selected category', 'selected address'" },
+
+    "tabActive":         { "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Active bottom-tab icon and label, with the existing weight/shape cue.", "source": "Rule 'bottom tabs'" },
+    "tabInactive":       { "hex": "#5A6D68", "primitive": "secondary", "status": "approved", "usage": "Inactive bottom-tab icon and label.", "source": "Rule 'bottom tabs'" },
+    "offerIcon":         { "hex": "#FF745E", "primitive": "coral",  "status": "approved", "usage": "Existing percent icon (offers tab, coupons). Coral body, ink percent mark. Selection still shown by petrol label + weight.", "source": "Policy v1 roles.offerIcon; rules 'offers tab icon', 'coupons and offers'" },
+    "onOfferIcon":       { "hex": "#172D2B", "primitive": "ink",    "status": "approved", "usage": "Percent glyph inside the coral offer icon.", "source": "Rule 'coupons and offers'" },
+    "offerBadge":        { "hex": "#FF745E", "primitive": "coral",  "status": "approved", "usage": "Existing real-offer badge only, with ink text. Never added without offer data.", "source": "Rule 'real offer'" },
+
+    "text":              { "hex": "#172D2B", "primitive": "ink",    "status": "approved", "usage": "Body text, product names, titles.", "source": "Policy v1 roles.textAndPrice" },
+    "price":             { "hex": "#172D2B", "primitive": "ink",    "status": "approved", "usage": "Prices and totals. Never coral (implies discount) or petrol (looks like an action).", "source": "Policy v1 roles.textAndPrice; rule 'price and total'" },
+    "textSecondary":     { "hex": "#5A6D68", "primitive": "secondary", "status": "inherited", "usage": "Units, descriptions, placeholders, struck-through old price (only with a valid comparison).", "source": "Rules 'product names and units', 'real offer'" },
+
+    "iconNeutral":       { "hex": "#5A6D68", "primitive": "secondary", "status": "inherited", "usage": "Neutral icons (or ink where the current app uses a dark icon).", "source": "Tokens.json roles.icon; rule 'general icons'" },
+    "iconAction":        { "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Secondary-action and selection icons, search magnifier, quantity + and −.", "source": "Tokens.json roles.activeIcon; rules 'general icons', 'search', 'quantity'" },
+
+    "supportivePanel":   { "hex": "#E0F1EC", "primitive": "mint",   "status": "approved", "usage": "Supporting panels: free-delivery panel, empty-state support area, existing space behind category images.", "source": "Policy v1 roles.supportivePanel; rules 'images', 'empty'" },
+    "confirmedFreeDelivery": { "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Free-delivery text, and the completed bar once eligibility is real.", "source": "Policy v1 roles.confirmedFreeDelivery; rules 'free delivery before/after'" },
+    "freeDeliveryProgress": { "hex": "#FF745E", "primitive": "coral", "status": "approved", "usage": "Progress segment before eligibility. Non-text contrast below 3:1, so the amount text is the carrier. See CONFLICTS C11", "source": "Rule 'free delivery before eligibility'" },
+    "freeDeliveryTrack": { "hex": "#D8E5DF", "primitive": "borderSubtle", "status": "derived", "usage": "Light track behind the progress bar ('مسار فاتح' has no value in sources).", "source": "Derived; CONFLICTS C11" },
+
+    "border":            { "hex": "#D8E5DF", "primitive": "borderSubtle", "status": "inherited", "usage": "Light neutral divider for white cards on white, only where needed. Decorative (1.30:1).", "source": "Rule 'card on white'" },
+    "controlBorder":     { "hex": "#6B8179", "primitive": "borderControl", "status": "inherited", "usage": "Boundary that identifies a control: search, inputs, quantity stepper (4.17:1).", "source": "Rules 'search', 'quantity', 'fields'" },
+    "focusBorder":       { "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Input border on focus.", "source": "Rule 'fields and focus'" },
+
+    "timelineDone":      { "hex": "#006B63", "primitive": "petrol", "status": "approved", "usage": "Completed and current timeline steps, with mark and label.", "source": "Rule 'timeline'. See CONFLICTS C6" },
+    "timelineUpcoming":  { "hex": "#5A6D68", "primitive": "secondary", "status": "inherited", "usage": "Upcoming timeline steps.", "source": "Rule 'timeline'" },
+
+    "error":             { "hex": "#B42318", "primitive": "error", "status": "inherited", "usage": "Delete and error text/icons, field error messages. Never a purchase button.", "source": "Rule 'delete and error'" },
+    "errorSurface":      { "hex": "#FFF0ED", "primitive": "errorSurface", "status": "inherited", "usage": "Error/delete panel background, load-failure state.", "source": "Rule 'delete and error'" },
+    "destructiveAction": { "hex": "#B42318", "primitive": "error", "status": "prior-reference", "usage": "Confirm button inside the empty-cart confirmation dialog only.", "source": "Prior reference Screen-Color-Distribution UI-22; directive rule 'delete and error' covers red for delete only" },
+    "onDestructiveAction": { "hex": "#FFFFFF", "primitive": "white", "status": "prior-reference", "usage": "Label on the red destructive button (6.57:1).", "source": "Derived pairing, passes AA" },
+    "warning":           { "hex": "#805500", "primitive": "warning", "status": "inherited", "usage": "Warning text and icon: price change, stock change, unknown submit result.", "source": "Rule 'warning'" },
+    "warningSurface":    { "hex": "#FFF4D6", "primitive": "warningSurface", "status": "inherited", "usage": "Warning panel background. Not decorative.", "source": "Rule 'warning'" },
+    "success":           { "hex": "#18794E", "primitive": "success", "status": "prior-reference", "usage": "Server-confirmed success message (order received, delivered). Not used for actions.", "source": "Prior reference only: Tokens.json; Screen-Color-Distribution UI-09/UI-20. See CONFLICTS C6" },
+    "successSurface":    { "hex": "#EAF6EE", "primitive": "successSurface", "status": "prior-reference", "usage": "Success panel background.", "source": "Tokens.json" },
+
+    "disabled":          { "hex": "#E5EBE7", "primitive": "disabled", "status": "inherited", "usage": "Disabled button fill. Never stays coral when unavailable.", "source": "Rule 'disabled'" },
+    "onDisabled":        { "hex": "#5A6D68", "primitive": "secondary", "status": "inherited", "usage": "Disabled label (4.54:1, borderline pass).", "source": "Rule 'disabled'" },
+    "overlay":           { "hex": "#172D2B66", "primitive": "overlay", "status": "prior-reference", "usage": "Scrim behind dialogs and bottom sheets.", "source": "Tokens.json" }
+  },
+
+  "contrast": {
+    "method": "WCAG 2.2 relative luminance, flat colours, computed 2026-10-20 by ui-designer. Not a device test.",
+    "text_target": 4.5,
+    "non_text_target": 3.0,
+    "pairs": [
+      { "fg": "#172D2B", "bg": "#FFFFFF", "ratio": 14.52, "use": "text/price on white", "pass": true },
+      { "fg": "#5A6D68", "bg": "#FFFFFF", "ratio": 5.49, "use": "secondary text, inactive tab", "pass": true },
+      { "fg": "#006B63", "bg": "#FFFFFF", "ratio": 6.40, "use": "link, active tab, iconAction", "pass": true },
+      { "fg": "#004F49", "bg": "#FFFFFF", "ratio": 9.48, "use": "pressed link", "pass": true },
+      { "fg": "#FFFFFF", "bg": "#006B63", "ratio": 6.40, "use": "home header, basket count", "pass": true },
+      { "fg": "#FFFFFF", "bg": "#004F49", "ratio": 9.48, "use": "pressed basket", "pass": true },
+      { "fg": "#172D2B", "bg": "#FF745E", "ratio": 5.47, "use": "primary action label, offer badge, basket arrow", "pass": true },
+      { "fg": "#172D2B", "bg": "#EC6E5A", "ratio": 4.80, "use": "pressed primary action (derived)", "pass": true },
+      { "fg": "#FFFFFF", "bg": "#FF745E", "ratio": 2.65, "use": "FORBIDDEN: white on coral", "pass": false },
+      { "fg": "#172D2B", "bg": "#E0F1EC", "ratio": 12.42, "use": "selected label / panel text on mint", "pass": true },
+      { "fg": "#006B63", "bg": "#E0F1EC", "ratio": 5.47, "use": "free-delivery text on mint", "pass": true },
+      { "fg": "#5A6D68", "bg": "#E0F1EC", "ratio": 4.70, "use": "secondary text on mint", "pass": true },
+      { "fg": "#B42318", "bg": "#FFF0ED", "ratio": 5.93, "use": "error panel", "pass": true },
+      { "fg": "#B42318", "bg": "#FFFFFF", "ratio": 6.57, "use": "field error / delete link on white", "pass": true },
+      { "fg": "#FFFFFF", "bg": "#B42318", "ratio": 6.57, "use": "destructive confirm button", "pass": true },
+      { "fg": "#805500", "bg": "#FFF4D6", "ratio": 5.96, "use": "warning panel", "pass": true },
+      { "fg": "#18794E", "bg": "#EAF6EE", "ratio": 4.87, "use": "success panel", "pass": true },
+      { "fg": "#5A6D68", "bg": "#E5EBE7", "ratio": 4.54, "use": "disabled label (borderline)", "pass": true },
+      { "fg": "#6B8179", "bg": "#FFFFFF", "ratio": 4.17, "use": "control border (non-text)", "pass": true },
+      { "fg": "#006B63", "bg": "#FFFFFF", "ratio": 6.40, "use": "focus border (non-text)", "pass": true },
+      { "fg": "#D8E5DF", "bg": "#FFFFFF", "ratio": 1.30, "use": "card divider: decorative only, must not identify a control", "pass": "n/a" },
+      { "fg": "#E0F1EC", "bg": "#FFFFFF", "ratio": 1.17, "use": "mint selection fill: never the sole selection cue", "pass": "n/a" },
+      { "fg": "#FF745E", "bg": "#FFFFFF", "ratio": 2.65, "use": "coral button/offer-icon shape on white (non-text); label/glyph carries identity", "pass": "warning" },
+      { "fg": "#FF745E", "bg": "#006B63", "ratio": 2.41, "use": "coral arrow circle on petrol pill (non-text); ink arrow 5.47 carries meaning", "pass": "warning" },
+      { "fg": "#FF745E", "bg": "#D8E5DF", "ratio": 2.05, "use": "free-delivery progress fill vs track (non-text)", "pass": false },
+      { "fg": "#006B63", "bg": "#D8E5DF", "ratio": 4.93, "use": "completed free-delivery bar vs track (non-text)", "pass": true }
+    ]
+  }
+}

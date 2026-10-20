@@ -1,0 +1,92 @@
+/*
+ * Jarna colour tokens — v1.0.0 (2026-10-20)
+ * Source of truth: design/outputs/system/jarna-tokens.json
+ * Precedence: Fadl direction > Color-Policy-v1 > Color-Only-Scope > handoff v4 > v65 screenshots.
+ * Light scheme only. Cream #FFF8F0 is excluded from UI backgrounds and is not exported.
+ * Status: [A] approved (Policy v1 / rules), [I] hex named in directive rules/CLAUDE.md (catalogued in Tokens.json), [D] derived, pending Fadl; [P] prior-work reference only, provisional (CONFLICTS C12).
+ */
+:root {
+  /* ---------- primitives ---------- */
+  --jarna-white: #FFFFFF;          /* [A] */
+  --jarna-petrol: #006B63;         /* [A] identity */
+  --jarna-petrol-pressed: #004F49; /* [I] */
+  --jarna-coral: #FF745E;          /* [A] direction */
+  --jarna-coral-pressed: #EC6E5A;  /* [D] 8% ink state layer; CONFLICTS C9 */
+  --jarna-ink: #172D2B;            /* [A] information */
+  --jarna-secondary: #5A6D68;      /* [I] */
+  --jarna-mint: #E0F1EC;           /* [A] support */
+  --jarna-border-subtle: #D8E5DF;  /* [I] */
+  --jarna-border-control: #6B8179; /* [I] */
+  --jarna-red: #B42318;            /* [I] */
+  --jarna-red-surface: #FFF0ED;    /* [I] */
+  --jarna-amber: #805500;          /* [I] */
+  --jarna-amber-surface: #FFF4D6;  /* [I] */
+  --jarna-green: #18794E;          /* [P] prior reference only; success messages; CONFLICTS C6 */
+  --jarna-green-surface: #EAF6EE;  /* [P] */
+  --jarna-grey-disabled: #E5EBE7;  /* [I] */
+  --jarna-scrim: rgba(23, 45, 43, 0.4); /* [P] #172D2B66 */
+
+  /* ---------- surfaces ---------- */
+  --jarna-background: var(--jarna-white);       /* page background, all screens */
+  --jarna-surface: var(--jarna-white);          /* cards, sheets, search, inner headers */
+  --jarna-footer: var(--jarna-white);           /* bottom tabs, fixed bottom areas */
+  --jarna-supportive-panel: var(--jarna-mint);  /* free delivery, empty-state support */
+
+  /* ---------- identity (petrol) ---------- */
+  --jarna-brand-header: var(--jarna-petrol);     /* home header only */
+  --jarna-on-brand-header: var(--jarna-white);
+  --jarna-inner-header-title: var(--jarna-ink);  /* inner pages: white header, ink title */
+  --jarna-floating-basket: var(--jarna-petrol);
+  --jarna-floating-basket-pressed: var(--jarna-petrol-pressed);
+  --jarna-on-floating-basket: var(--jarna-white);
+  --jarna-link: var(--jarna-petrol);
+  --jarna-link-pressed: var(--jarna-petrol-pressed);
+  --jarna-icon-action: var(--jarna-petrol);      /* search icon, qty +/-, secondary actions */
+  --jarna-tab-active: var(--jarna-petrol);
+  --jarna-tab-inactive: var(--jarna-secondary);
+  --jarna-confirmed-free-delivery: var(--jarna-petrol);
+  --jarna-timeline-done: var(--jarna-petrol);
+  --jarna-timeline-upcoming: var(--jarna-secondary);
+
+  /* ---------- selection ---------- */
+  --jarna-selection-indicator: var(--jarna-petrol); /* underline, check, border */
+  --jarna-selection-surface: var(--jarna-mint);     /* never the only cue */
+  --jarna-selection-label: var(--jarna-ink);        /* CONFLICTS C5 */
+  --jarna-focus-border: var(--jarna-petrol);
+
+  /* ---------- direction (coral) ---------- */
+  --jarna-primary-action: var(--jarna-coral);           /* إضافة، اختر طريقة الدفع، إتمام الطلب */
+  --jarna-primary-action-pressed: var(--jarna-coral-pressed);
+  --jarna-on-primary-action: var(--jarna-ink);          /* never white: 2.65:1 */
+  --jarna-basket-arrow-surface: var(--jarna-coral);
+  --jarna-basket-arrow-icon: var(--jarna-ink);
+  --jarna-offer-icon: var(--jarna-coral);
+  --jarna-on-offer-icon: var(--jarna-ink);
+  --jarna-offer-badge: var(--jarna-coral);
+  --jarna-on-offer-badge: var(--jarna-ink);
+  --jarna-free-delivery-progress: var(--jarna-coral);   /* CONFLICTS C11 */
+  --jarna-free-delivery-track: var(--jarna-border-subtle); /* [D] */
+
+  /* ---------- text ---------- */
+  --jarna-text: var(--jarna-ink);
+  --jarna-price: var(--jarna-ink);
+  --jarna-text-secondary: var(--jarna-secondary);
+  --jarna-icon-neutral: var(--jarna-secondary);
+
+  /* ---------- borders ---------- */
+  --jarna-border: var(--jarna-border-subtle);         /* decorative card divider */
+  --jarna-control-border: var(--jarna-border-control);/* identifies a control */
+
+  /* ---------- semantic ---------- */
+  --jarna-error: var(--jarna-red);
+  --jarna-error-surface: var(--jarna-red-surface);
+  --jarna-destructive-action: var(--jarna-red);       /* [P] empty-cart confirm only */
+  --jarna-on-destructive-action: var(--jarna-white);
+  --jarna-warning: var(--jarna-amber);
+  --jarna-warning-surface: var(--jarna-amber-surface);
+  --jarna-success: var(--jarna-green);
+  --jarna-success-surface: var(--jarna-green-surface);
+  --jarna-disabled: var(--jarna-grey-disabled);
+  --jarna-on-disabled: var(--jarna-secondary);
+  --jarna-overlay: var(--jarna-scrim);
+}
