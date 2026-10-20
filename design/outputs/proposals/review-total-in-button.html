@@ -1,0 +1,77 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=390, initial-scale=1">
+<title>الإجمالي داخل الزر</title>
+<meta name="description" content="مقترح: إظهار الإجمالي داخل زر المتابعة والإتمام دون تغيير حجم الزر أو موقعه.">
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../system/tokens.css">
+<link rel="stylesheet" href="../screens/cart.css">
+<style>
+.full .footer{position:relative}
+.pp{padding:18px 16px 8px}
+.pp .kicker{font-size:12px;color:var(--jarna-text-secondary)}
+.pp h1{font-size:19px;line-height:28px;margin:4px 0 8px;color:var(--jarna-text)}
+.pp .tags{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+.pp .tag{font-size:12px;padding:3px 10px;border-radius:12px;background:var(--jarna-selection-surface);color:var(--jarna-link)}
+.pp .tag.warn{background:var(--jarna-warning-surface);color:var(--jarna-warning)}
+.pp dl{font-size:13px;line-height:20px;color:var(--jarna-text)}
+.pp dt{font-weight:600;margin-top:8px}
+.pp dd{color:var(--jarna-text-secondary)}
+.lab{margin:18px 16px 6px;font-size:13px;font-weight:700;color:var(--jarna-text);display:flex;align-items:center;gap:8px}
+.lab span{font-weight:400;color:var(--jarna-text-secondary);font-size:12px}
+.frame{position:relative;margin:0 0 4px;border-top:1px solid var(--jarna-border);border-bottom:1px solid var(--jarna-border);overflow:hidden}
+.btn-2l{flex-direction:column;gap:0;line-height:18px}
+.btn-2l small{font-size:12px;font-weight:500}
+.dialog-wrap{position:relative;height:520px;overflow:hidden}
+.dialog-wrap .scrim{position:absolute}
+.cdlg{position:absolute;left:0;right:0;bottom:0;z-index:41;background:var(--jarna-surface);border-radius:20px 20px 0 0;padding:34px 16px 24px}
+.cdlg .handle{position:absolute;left:174px;top:12px;width:43px;height:4px;border-radius:2px;background:var(--jarna-border)}
+.cdlg h2{font-size:18.5px;font-weight:700;line-height:28px;color:var(--jarna-text)}
+.cdlg p{font-size:14px;line-height:22px;color:var(--jarna-text-secondary);margin:6px 0 18px}
+.cdlg .row{display:flex;gap:10px}
+.cdlg button{flex:1;height:49px;border-radius:9px;font:inherit;font-size:15px;font-weight:700}
+.cdlg .danger{background:var(--jarna-destructive-action);color:var(--jarna-on-destructive-action);border:0}
+.cdlg .back{background:var(--jarna-surface);color:var(--jarna-link);border:1.5px solid var(--jarna-link)}
+</style>
+</head>
+<body class="full">
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+ <symbol id="sar" viewBox="0 0 20 22"><path d="M6.5 2v15l3-1.2M12.5 3.5V20M2.2 10.6 17.8 7.2M2.2 16.2l15.6-3.4"/></symbol>
+ <symbol id="i-back" viewBox="0 0 24 24"><path d="M3 12h18M14 5l7 7-7 7"/></symbol>
+ <symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 7h16M9 7V4h6v3M6 7l1 13h10l1-13M10 11v6M14 11v6"/></symbol>
+ <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 4v16M4 12h16"/></symbol>
+ <symbol id="i-minus" viewBox="0 0 24 24"><path d="M4 12h16"/></symbol>
+ <symbol id="i-plus-c" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.5"/><path d="M12 7.5v9M7.5 12h9"/></symbol>
+ <symbol id="i-truck" viewBox="0 0 24 24"><path d="M1.5 5.5h12.5v10H1.5zM14.8 8.5h4.2l3.5 3.8v3.2h-7.7z"/><circle cx="6" cy="17.5" r="2.4" stroke="var(--jarna-white)" stroke-width="1.3"/><circle cx="18" cy="17.5" r="2.4" stroke="var(--jarna-white)" stroke-width="1.3"/></symbol>
+ <symbol id="i-chev-l" viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></symbol>
+ <symbol id="i-chev-d" viewBox="0 0 24 24"><path d="M5 9l7 7 7-7"/></symbol>
+ <symbol id="i-chev-u" viewBox="0 0 24 24"><path d="M5 15l7-7 7 7"/></symbol>
+ <symbol id="i-note" viewBox="0 0 24 24"><path d="M4 4.5A1.5 1.5 0 0 1 5.5 3h13A1.5 1.5 0 0 1 20 4.5V14l-7 7H5.5A1.5 1.5 0 0 1 4 19.5zM13 21v-5.5a1.5 1.5 0 0 1 1.5-1.5H20"/></symbol>
+ <symbol id="i-receipt" viewBox="0 0 24 24"><path d="M5 2.5h14v19l-2.3-1.6-2.3 1.6-2.4-1.6-2.3 1.6-2.4-1.6L5 21.5zM8.5 7.5h7M8.5 11h7M8.5 14.5h4"/></symbol>
+ <symbol id="i-scooter" viewBox="0 0 24 24"><circle cx="5.5" cy="17" r="2.5"/><circle cx="18.5" cy="17" r="2.5"/><path d="M8 17h8M15 6h2.5l1 8.5M4 11.5h6l2 5.5M7 8.5h4"/></symbol>
+ <symbol id="i-pin" viewBox="0 0 24 28"><path d="M12 1.5a10 10 0 0 0-10 10c0 7 10 15 10 15s10-8 10-15a10 10 0 0 0-10-10z" fill="currentColor" stroke="none"/><circle cx="12" cy="11.5" r="3.6" fill="var(--jarna-white)" stroke="none"/></symbol>
+ <symbol id="i-pin-o" viewBox="0 0 24 28"><path d="M12 2a9 9 0 0 0-9 9c0 6.5 9 14.5 9 14.5s9-8 9-14.5a9 9 0 0 0-9-9z"/><circle cx="12" cy="11" r="3.2"/></symbol>
+ <symbol id="i-bm" viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4.5L6 21z"/></symbol>
+ <symbol id="i-check-c" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M7.5 12.3l3 3 6-6.3"/></symbol>
+ <symbol id="i-close" viewBox="0 0 24 24"><path d="M4 4l16 16M20 4L4 20"/></symbol>
+ <symbol id="i-coupon" viewBox="0 0 24 24"><polygon points="12.00,1.00 15.03,2.68 18.47,3.10 19.93,6.24 22.46,8.60 21.80,12.00 22.46,15.40 19.93,17.76 18.47,20.90 15.03,21.32 12.00,23.00 8.97,21.32 5.53,20.90 4.07,17.76 1.54,15.40 2.20,12.00 1.54,8.60 4.07,6.24 5.53,3.10 8.97,2.68" fill="var(--jarna-offer-icon)" stroke="var(--jarna-offer-icon)" stroke-width="1.6" stroke-linejoin="round"/><circle cx="9" cy="9.2" r="1.7" fill="var(--jarna-on-offer-icon)"/><circle cx="15" cy="14.8" r="1.7" fill="var(--jarna-on-offer-icon)"/><path d="M15.6 8.2l-7.2 7.6" stroke="var(--jarna-on-offer-icon)" stroke-width="1.9" stroke-linecap="round"/></symbol>
+</svg>
+<section class="pp"><div class="kicker">مقترح منفصل · السلة والمراجعة · AUD-CART-12 / AUD-REV-01</div><h1>الإجمالي داخل زر المتابعة والإتمام</h1><div class="tags"><span class="tag warn">Next، حرج قبل الإطلاق</span><span class="tag">نصي + بيانات، الشكل كما هو</span></div><dl><dt>المشكلة (مشاهدة)</dt><dd>في كل لقطات v65 للسلة والمراجعة لا يظهر سطر الإجمالي، والزر بلا مبلغ. العميل يضغط «إتمام الطلب» على طلب نقدي دون أن يرى ما سيدفعه.</dd><dt>المقترح</dt><dd>سطر ثانٍ صغير داخل الزر الحالي يحمل الإجمالي النهائي من الخادم. لا يتغير حجم الزر ولا موقعه ولا لونه، ولا ترتيب الأقسام.</dd><dt>الفائدة للعميل</dt><dd>يرى المبلغ في لحظة القرار نفسها، دون التمرير إلى الفاتورة تحت التوصيات والإكرامية.</dd><dt>التكلفة على عبيد</dt><dd>منخفضة: نص من سطرين داخل نفس الزر، وربطه بقيمة الإجمالي الموجودة في استجابة السلة، وتحديثه بعد الكمية والعنوان والكوبون. نحو نصف يوم إلى يوم.</dd><dt>التبعيات</dt><dd>Backend (محمد): تأكيد أن الإجمالي في استجابة السلة هو نفس المبلغ النهائي لحظة الإرسال. محتوى: اعتماد الصياغة من فضل (Q6 وQ-R1 وQ-R2).</dd><dt>غير متحقق</dt><dd>المبالغ في النموذج أمثلة (17.00 = 10 + 7 من فاتورة CART-07، و129.75 = 69.75 + 60). وجود رسوم أخرى أو ضريبة غير مُصوَّر.</dd></dl></section>
+<div class="lab">قبل <span>النموذج الأساسي (لون فقط)</span></div><div class="frame"><footer class="footer">
+  <div class="addr"><svg class="pin"><use href="#i-pin"/></svg><span class="to">التوصيل إلى</span><span class="line">جدة، حي الروضة، شارع الأمير سلطان (بيانات مثال)</span><span class="change">تغيير</span></div>
+  <div class="actionbar review">
+    <button class="btn-primary" type="button">إتمام الطلب</button>
+    <div class="pay"><svg class="cash" viewBox="0 0 15 17"><rect x="1" y="1" width="12" height="8" rx="1" transform="rotate(-12 7 5)" fill="var(--jarna-mint)" stroke="var(--jarna-petrol)" stroke-width="1"/><circle cx="7" cy="12" r="4" fill="var(--jarna-amber-surface)" stroke="var(--jarna-amber)" stroke-width="1"/></svg><span class="lbl">الدفع باستخدام</span><svg class="caret" viewBox="0 0 9 7"><path d="M0 7L4.5 0 9 7z"/></svg><span class="val">Cash on Delivery</span></div>
+  </div>
+</footer></div><div class="lab">بعد <span>المراجعة: الإجمالي داخل الزر</span></div><div class="frame"><footer class="footer">
+  <div class="addr"><svg class="pin"><use href="#i-pin"/></svg><span class="to">التوصيل إلى</span><span class="line">جدة، حي الروضة، شارع الأمير سلطان (بيانات مثال)</span><span class="change">تغيير</span></div>
+  <div class="actionbar review">
+    <button class="btn-primary btn-2l" type="button">إتمام الطلب<small>الإجمالي <span class="num"><svg class="sar"><use href="#sar"/></svg>129.75</span></small></button>
+    <div class="pay"><svg class="cash" viewBox="0 0 15 17"><rect x="1" y="1" width="12" height="8" rx="1" transform="rotate(-12 7 5)" fill="var(--jarna-mint)" stroke="var(--jarna-petrol)" stroke-width="1"/><circle cx="7" cy="12" r="4" fill="var(--jarna-amber-surface)" stroke="var(--jarna-amber)" stroke-width="1"/></svg><span class="lbl">الدفع باستخدام</span><svg class="caret" viewBox="0 0 9 7"><path d="M0 7L4.5 0 9 7z"/></svg><span class="val">Cash on Delivery</span></div>
+  </div>
+</footer></div><div class="lab">بعد <span>السلة: نفس النمط في «اختر طريقة الدفع»</span></div><div class="frame"><footer class="footer">
+  <div class="addr"><svg class="pin"><use href="#i-pin"/></svg><span class="to">التوصيل إلى</span><span class="line">جدة، حي الروضة، شارع الأمير سلطان (بيانات مثال)</span><span class="change">تغيير</span></div>
+  <div class="actionbar"><button class="btn-primary btn-2l" type="button">اختر طريقة الدفع<small>الإجمالي <span class="num"><svg class="sar"><use href="#sar"/></svg>17.00</span></small></button></div>
+</footer></div><div style="height:24px"></div></body></html>

@@ -1,0 +1,235 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=390, initial-scale=1">
+<title>الرئيسية — ضيف</title>
+<!--
+  نموذج "اللون فقط" لشاشة الرئيسية في جارنا — الضيف، الحالة الافتراضية
+  المرجع البصري: design/inputs/drive/v65-home-02-guest-default.png (النسخة 1.0.0 (65)).
+  التخطيط والمواقع والأحجام والأيقونات والنصوص كما في v65. التغيير لوني فقط، وفق design/outputs/audit/home-2026-10-20.md (HM-01..41).
+  الأبعاد محوّلة من لقطة المحاكي (عرض الجهاز 421px) إلى 390px بمعامل 0.9264، فهي تقريبية بنحو ±2px.
+  الخط Almarai تقريب بصري لخط التطبيق في اللقطة فقط، وليس توصية (CONFLICTS C13). عبيد يُبقي خط التطبيق الحالي.
+  ألوان رسوم المنتجات داخل <symbol id="p-*"> رسوم توضيحية بديلة لصور الأصناف، وليست ألوان واجهة.
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Almarai:wght@400;700;800&display=block" rel="stylesheet">
+<link rel="stylesheet" href="../system/tokens.css">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { background: var(--jarna-background); }
+  body { font-family: "Almarai", system-ui, sans-serif; color: var(--jarna-text); width: 390px; overflow-x: hidden; }
+  svg.ic { display: block; }
+  .mint { fill: var(--jarna-supportive-panel); }                    /* HM-18, HM-22 */
+
+  .screen { position: relative; width: 390px; height: 844px; overflow: hidden; background: var(--jarna-background); } /* HM-24 */
+
+  /* ---------- system status bar over the brand header (HM-01) ---------- */
+  .status { position: absolute; inset: 0 0 auto 0; height: 44px; direction: ltr; color: var(--jarna-on-brand-header);
+            display: flex; align-items: center; padding: 0 30px 0 43px; font-size: 14px; letter-spacing: .2px; z-index: 2; }
+  .status .sys { display: flex; gap: 7px; margin-inline-start: 10px; align-items: center; }
+  .status .sys i { width: 11px; height: 11px; border: 1.6px solid currentColor; border-radius: 3px; display: block; }
+  .status .sys i.dot { width: 4px; height: 4px; border-radius: 50%; background: currentColor; border: 0; }
+  .status .right { margin-left: auto; display: flex; gap: 6px; align-items: center; }
+  .status .right b { display: block; background: currentColor; }
+
+  /* ---------- brand header (HM-02 .. HM-11) ---------- */
+  .header { position: absolute; inset: 0 0 auto 0; height: 183px; background: var(--jarna-brand-header); color: var(--jarna-on-brand-header); }
+  .loc { position: absolute; top: 66px; right: 16px; width: 26px; text-align: center; }
+  .loc svg { width: 21px; height: 23px; margin: 0 auto; color: var(--jarna-on-brand-header); }          /* HM-05 */
+  .loc span { display: block; font-size: 9.5px; font-weight: 800; line-height: 1; margin-top: 3px; white-space: nowrap; direction: ltr; } /* HM-06 */
+  .loc span.clip { position: absolute; right: -4px; top: 26px; }
+  /* address text: hidden in every v65 screenshot (privacy mask), so its size and colour are unverified (HM-07) */
+  .addr { position: absolute; top: 64px; height: 46px; border: 1px dashed var(--jarna-on-brand-header); border-radius: 2px; opacity: .55;
+          display: flex; align-items: center; justify-content: center; font-size: 10px; color: var(--jarna-on-brand-header); }
+  .bell { position: absolute; top: 73px; left: 22px; width: 21px; height: 21px; color: var(--jarna-on-brand-header); } /* HM-03 */
+  .badge { position: absolute; top: 69px; left: 14px; min-width: 20px; height: 15px; padding: 0 3px; border-radius: 8px;
+           background: var(--jarna-surface); color: var(--jarna-brand-header);                                 /* HM-04, AUD-C3 */
+           box-shadow: 0 0 0 1.5px var(--jarna-brand-header);   /* petrol ring separates the white badge from the white bell (v65 had red) */
+           font-size: 9px; font-weight: 700; line-height: 15px; text-align: center; direction: ltr; }
+  .search { position: absolute; top: 133px; left: 10px; width: 368px; height: 39px; border-radius: 9px;
+            background: var(--jarna-surface); }                                                                  /* HM-08, HM-09: no border on petrol */
+  .search .mag { position: absolute; right: 13px; top: 8px; width: 23px; height: 23px; color: var(--jarna-icon-action); }   /* HM-10 */
+  .search .pen { position: absolute; left: 16px; top: 9px; width: 21px; height: 21px; color: var(--jarna-icon-neutral); }   /* HM-11 */
+
+  /* ---------- category strip (HM-13 .. HM-19) ---------- */
+  .cats { position: absolute; top: 183px; left: 0; right: 0; height: 88px; background: var(--jarna-background); }
+  .cat { position: absolute; top: 0; width: 80px; text-align: center; }
+  .cat .img { width: 61px; height: 59px; margin: 1px auto 0; }
+  .cat .img svg { width: 61px; height: 59px; }
+  .cat .lbl { margin-top: 0; font-size: 12.5px; line-height: 16px; color: var(--jarna-text-secondary); white-space: nowrap; }   /* HM-17 */
+  .cat.sel .img { display: flex; align-items: center; justify-content: center; color: var(--jarna-text); }                      /* HM-14 */
+  .cat.sel .img svg { width: 36px; height: 36px; }
+  .cat.sel .lbl { color: var(--jarna-selection-label); font-weight: 800; }                                                       /* HM-15 */
+  .cat .bar { position: absolute; top: 81px; left: 11px; width: 58px; height: 3px; border-radius: 2px; background: var(--jarna-selection-indicator); } /* HM-16 */
+
+  .cat-cut { position: absolute; top: 62px; right: 380px; font-size: 12.5px; line-height: 16px; color: var(--jarna-text-secondary); white-space: nowrap; }
+
+  /* ---------- sections and tiles (HM-20 .. HM-23) ---------- */
+  .h2 { position: absolute; right: 11px; font-size: 17px; font-weight: 800; color: var(--jarna-text); line-height: 22px; }   /* HM-20 */
+  .tile { position: absolute; width: 80px; }
+  .tile .box { width: 80px; height: 80px; border-radius: 10px; background: var(--jarna-surface);
+               border: 1px solid var(--jarna-border); overflow: hidden; }                                           /* HM-21: white + #D8E5DF (decision pending, AUD-C1/C5) */
+  .tile .box svg { width: 78px; height: 78px; display: block; }
+  .tile .lbl { margin-top: 4px; font-size: 13px; line-height: 18.5px; color: var(--jarna-text); text-align: center;
+               width: 82px; margin-inline: -1px; }                                                              /* HM-23 */
+
+  /* ---------- bottom navigation (HM-25 .. HM-30) ---------- */
+  .nav { position: absolute; left: 0; right: 0; top: 756px; bottom: 0; background: var(--jarna-footer);
+         border-top: 1px solid var(--jarna-border); display: grid; grid-template-columns: repeat(4, 1fr); padding: 0 1px 0 0; } /* HM-25, HM-26 */
+  .tab { text-align: center; color: var(--jarna-tab-inactive); padding-top: 21px; }                              /* HM-28, HM-29 */
+  .tab svg { width: 23px; height: 23px; margin: 0 auto; }
+  .tab span { display: block; font-size: 12px; line-height: 16px; margin-top: 0; }
+  .tab.on { color: var(--jarna-tab-active); }                                                                       /* HM-27 */
+  .tab.on span { font-weight: 800; }
+  .tab.offers { color: var(--jarna-tab-inactive); }                                                                 /* HM-30, AUD-C2: neutral */
+
+  /* ---------- no-internet message (HM-32, AUD-C4 → warning) ---------- */
+  .toast { position: absolute; top: 700px; left: 98px; width: 193px; height: 40px; border-radius: 13px;
+           background: var(--jarna-warning-surface); color: var(--jarna-warning);
+           display: flex; align-items: center; justify-content: center; gap: 8px; font-size: 13px; font-weight: 800;
+           box-shadow: 0 2px 8px rgba(23, 45, 43, .16); }
+  .toast svg { width: 19px; height: 19px; }
+
+  /* ---------- below the fold: notes for Obaid (not part of the screenshot) ---------- */
+  .notes { padding: 20px 16px 40px; border-top: 6px solid var(--jarna-mint); font-size: 12.5px; line-height: 1.7; }
+  .notes h2 { font-size: 15px; margin: 6px 0; }
+  .notes table { width: 100%; border-collapse: collapse; font-size: 11.5px; }
+  .notes td, .notes th { border-bottom: 1px solid var(--jarna-border); padding: 4px 2px; text-align: right; vertical-align: top; }
+  .notes code { direction: ltr; unicode-bidi: embed; font-size: 11px; }
+  .notes td:last-child { direction: ltr; text-align: right; white-space: nowrap; }
+  .sw { display: inline-block; width: 11px; height: 11px; border-radius: 3px; border: 1px solid var(--jarna-border-control); vertical-align: -1px; }
+  .muted { color: var(--jarna-text-secondary); }
+  /* supplementary: basket capsule (evidence: v65-context-category-02, HM-33..37) */
+  .capsule-demo { position: relative; height: 80px; margin: 10px 0; border: 1px dashed var(--jarna-border); border-radius: 10px; }
+  .capsule { position: absolute; left: 92px; top: 13px; width: 206px; height: 50px; border-radius: 25px;
+             background: var(--jarna-floating-basket); color: var(--jarna-on-floating-basket);
+             box-shadow: 0 3px 10px rgba(23, 45, 43, .22); display: flex; align-items: center; }
+  .capsule .thumb { position: absolute; left: 5px; top: 5px; width: 40px; height: 40px; border-radius: 50%; background: var(--jarna-surface); overflow: hidden; }
+  .capsule .thumb svg { width: 40px; height: 40px; }
+  .capsule .txt { position: absolute; left: 0; right: 0; text-align: center; font-size: 15px; font-weight: 800; }
+  .capsule .arrow { position: absolute; right: 9px; top: 9px; width: 32px; height: 32px; border-radius: 50%;
+                    background: var(--jarna-basket-arrow-surface); color: var(--jarna-basket-arrow-icon); display: flex; align-items: center; justify-content: center; }
+  .capsule .arrow svg { width: 16px; height: 16px; }
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <!-- ===== Icons (line, currentColor). Shapes traced from v65, not brand assets ===== -->
+    <symbol id="i-pin" viewBox="0 0 24 24"><path fill="currentColor" d="M12 1.6c-4.4 0-8 3.4-8 7.8 0 5.6 6.6 12.2 7.3 12.9.4.4 1 .4 1.4 0 .7-.7 7.3-7.3 7.3-12.9 0-4.4-3.6-7.8-8-7.8Zm0 10.8a3 3 0 1 1 0-6 3 3 0 0 1 0 6Z"/></symbol>
+    <symbol id="i-bell" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2.5a1.4 1.4 0 0 1 1.4 1.4v.6A6.4 6.4 0 0 1 18.4 10.8v4.6l1.9 2.2c.5.6.1 1.4-.7 1.4H4.4c-.8 0-1.2-.8-.7-1.4l1.9-2.2v-4.6a6.4 6.4 0 0 1 5-6.3v-.6A1.4 1.4 0 0 1 12 2.5Z"/><path fill="currentColor" d="M9.6 20h4.8a2.4 2.4 0 0 1-4.8 0Z"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="m15.8 15.8 5.2 5.2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-pencil" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M4 20l1-4.6L16.2 4.2a2 2 0 0 1 2.8 0l.8.8a2 2 0 0 1 0 2.8L8.6 19 4 20Z"/><path stroke="currentColor" stroke-width="1.8" d="m14.5 6 3.5 3.5"/></symbol>
+    <symbol id="i-grid" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1.9"><rect x="3" y="3" width="7.6" height="7.6" rx="2.6"/><rect x="13.4" y="3" width="7.6" height="7.6" rx="2.6"/><rect x="3" y="13.4" width="7.6" height="7.6" rx="2.6"/><rect x="13.4" y="13.4" width="7.6" height="7.6" rx="2.6"/></g></symbol>
+    <symbol id="i-home" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M3.5 10.2 12 3.5l8.5 6.7V19a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2Z"/><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M9.8 21v-5.2a2.2 2.2 0 0 1 4.4 0V21"/></symbol>
+    <symbol id="i-offers" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" d="M12 2.5l2.2 1.6 2.7-.2.9 2.6 2.3 1.4-.6 2.6 1.2 2.4-1.9 1.9-.1 2.7-2.6.6-1.5 2.3-2.6-.8L9.6 21.6l-1.8-2-2.7-.3-.4-2.7-2.1-1.7.9-2.5-.9-2.6 2.1-1.7.4-2.7 2.7-.3 1.8-2Z"/><path d="m9.2 14.8 5.6-5.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="9.6" cy="9.6" r="1.1" fill="currentColor"/><circle cx="14.4" cy="14.4" r="1.1" fill="currentColor"/></symbol>
+    <symbol id="i-account" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.7"/><circle cx="12" cy="9.6" r="3.3" fill="none" stroke="currentColor" stroke-width="1.7"/><path fill="none" stroke="currentColor" stroke-width="1.7" d="M5.8 18.6c1.4-2.3 3.6-3.5 6.2-3.5s4.8 1.2 6.2 3.5"/></symbol>
+    <symbol id="i-wifi-off" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M2.5 9a14 14 0 0 1 6-3.2M12.5 5.6A14 14 0 0 1 21.5 9"/><path d="M6 12.6a9 9 0 0 1 3.6-2M14.8 10.8A9 9 0 0 1 18 12.6"/><path d="M9.4 16a4.5 4.5 0 0 1 5.2 0"/><path d="M4 3.5 20 19.5"/></g><circle cx="12" cy="19.6" r="1.4" fill="currentColor"/></symbol>
+    <symbol id="i-share" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 14.5V3M7.8 7.2 12 3l4.2 4.2"/><path d="M8.5 10H6a1.5 1.5 0 0 0-1.5 1.5v8A1.5 1.5 0 0 0 6 21h12a1.5 1.5 0 0 0 1.5-1.5v-8A1.5 1.5 0 0 0 18 10h-2.5"/></g></symbol>
+    <symbol id="i-bookmark" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M6.5 3.5h11v17L12 16.4 6.5 20.5Z"/></symbol>
+    <symbol id="i-chev-right" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" d="m9 5 7 7-7 7"/></symbol>
+    <symbol id="i-chev-left" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" d="m15 5-7 7 7 7"/></symbol>
+    <symbol id="i-chev-down" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" d="m5.5 9 6.5 6.5L18.5 9"/></symbol>
+    <symbol id="i-star" viewBox="0 0 24 24"><path fill="currentColor" d="m12 2.2 2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.2l-6 3.3 1.3-6.7-5-4.6 6.8-.8Z"/></symbol>
+    <symbol id="i-stopwatch" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="13" cy="13.5" r="7"/><path d="M13 10v3.8l2.2 1.6M11 3.5h4M2 11h3M1.5 14.5h3.5M2.5 18h3"/></g></symbol>
+    <!-- Saudi riyal sign, simplified outline (U+20C1 is missing from most web fonts) -->
+    <symbol id="i-sar" viewBox="0 0 20 22"><g fill="currentColor"><path d="M6.6 1.2c.9-.5 1.6-.5 1.6.6v15.1l-2.3.5V3.1c0-.9.1-1.5.7-1.9Z"/><path d="M12.3 2.4c.9-.5 1.6-.5 1.6.6v12.3l-2.3.5V4.3c0-.9.1-1.5.7-1.9Z"/><path d="M1.6 9.6 18.6 6v2.2L1.6 11.8Z"/><path d="M1.6 14.2 18.6 10.6v2.2L1.6 16.4Z"/><path d="M11.8 18.6 18.6 17.2v2.2l-6.8 1.4Z"/><path d="M1 17.6c1.2.8 3.1 1 4.9.6v2.2c-1.9.4-3.8.1-5.2-.9Z"/></g></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></symbol>
+    <symbol id="i-minus" viewBox="0 0 24 24"><path d="M5 12h14" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></symbol>
+
+    <!-- ===== Product placeholders: flat generic shapes, approximate colours, no logos or text ===== -->
+    <!-- category strip -->
+    <symbol id="p-pantry" viewBox="0 0 100 100"><circle cx="50" cy="52" r="40" class="mint"/><path d="M28 30h12l2 8v50H26V38Z" fill="#F2C318"/><rect x="29" y="22" width="10" height="9" rx="2" fill="#3D8C3A"/><rect x="31" y="54" width="14" height="14" rx="7" fill="#FBE79A"/><rect x="52" y="36" width="24" height="52" rx="2" fill="#1E4FA3"/><rect x="55" y="48" width="18" height="10" rx="2" fill="#E8E4D8"/><ellipse cx="50" cy="83" rx="14" ry="7" fill="#EEE6D8"/><ellipse cx="50" cy="80" rx="12" ry="4" fill="#FFFFFF"/></symbol>
+    <symbol id="p-fresh" viewBox="0 0 100 100"><circle cx="50" cy="52" r="40" class="mint"/><rect x="22" y="30" width="20" height="56" rx="8" fill="#F7F8FA"/><rect x="26" y="22" width="12" height="9" rx="2" fill="#2F6FD1"/><rect x="24" y="52" width="16" height="14" fill="#7FB3E8"/><path d="M50 20h22l4 66H46Z" fill="#F3E1C4"/><rect x="50" y="22" width="22" height="10" fill="#D6403A"/><circle cx="54" cy="80" r="8" fill="#D8302A"/><path d="M60 82c2-10 18-12 22-2 2 6-2 10-10 10-8 0-12-3-12-8Z" fill="#5CA83E"/></symbol>
+    <symbol id="p-drinks" viewBox="0 0 100 100"><circle cx="50" cy="52" r="40" class="mint"/><path d="M16 30l6-8h14l4 8v56H16Z" fill="#F7A21B"/><rect x="18" y="44" width="20" height="18" fill="#FFFFFF" opacity=".8"/><circle cx="26" cy="74" r="7" fill="#F28C13"/><path d="M44 26h12v6l4 6v50H40V38l4-6Z" fill="#DCEFFA"/><rect x="45" y="20" width="10" height="7" rx="1" fill="#2F6FD1"/><rect x="42" y="52" width="16" height="12" fill="#2F6FD1" opacity=".7"/><rect x="64" y="44" width="20" height="42" rx="3" fill="#D6201E"/><rect x="64" y="44" width="20" height="5" rx="2" fill="#B9BCC0"/></symbol>
+    <!-- grid tiles -->
+    <symbol id="p-dates-honey" viewBox="0 0 100 100"><ellipse cx="50" cy="56" rx="40" ry="34" class="mint"/><path d="M8 62h48c0 14-10 22-24 22S8 76 8 62Z" fill="#F4F2EE"/><g fill="#8A4A1E"><ellipse cx="18" cy="58" rx="8" ry="6"/><ellipse cx="30" cy="54" rx="8" ry="6"/><ellipse cx="42" cy="58" rx="8" ry="6"/><ellipse cx="25" cy="48" rx="7" ry="5"/><ellipse cx="38" cy="47" rx="7" ry="5"/></g><g fill="#B26A2E" opacity=".6"><ellipse cx="22" cy="56" rx="3" ry="2"/><ellipse cx="38" cy="52" rx="3" ry="2"/></g><rect x="60" y="20" width="26" height="9" rx="3" fill="#C7962E"/><path d="M58 30h30c3 6 3 44-2 50H60c-5-6-5-44-2-50Z" fill="#E59A18"/><ellipse cx="73" cy="52" rx="9" ry="12" fill="#F6D27A"/></symbol>
+    <symbol id="p-rice" viewBox="0 0 100 100"><ellipse cx="54" cy="54" rx="40" ry="34" class="mint"/><path d="M42 14c4-6 12-6 16 0l-3 4c-3-3-7-3-10 0Z" fill="#D6302A"/><path d="M30 20h40l4 56H26Z" fill="#F6F1E4"/><rect x="30" y="20" width="40" height="10" fill="#D6302A"/><path d="M44 40l6-6 6 6v10H44Z" fill="#D6302A"/><rect x="34" y="58" width="32" height="6" fill="#4C8A3A"/><ellipse cx="22" cy="80" rx="16" ry="8" fill="#B07A44"/><ellipse cx="22" cy="76" rx="14" ry="5" fill="#FBF8F1"/><path d="M44 72l50-6v12l-50 6Z" fill="#1D4DA8"/><ellipse cx="72" cy="74" rx="8" ry="4" fill="#E23B2F"/></symbol>
+    <symbol id="p-cans" viewBox="0 0 100 100"><ellipse cx="54" cy="54" rx="40" ry="34" class="mint"/><rect x="50" y="20" width="36" height="58" rx="5" fill="#E8C22E"/><rect x="50" y="20" width="36" height="6" rx="3" fill="#B9BCC0"/><ellipse cx="68" cy="38" rx="14" ry="7" fill="#D23A2B"/><g fill="#E7CE8C"><circle cx="60" cy="58" r="4"/><circle cx="68" cy="60" r="4"/><circle cx="76" cy="58" r="4"/><circle cx="64" cy="66" r="4"/><circle cx="72" cy="67" r="4"/></g><rect x="10" y="56" width="44" height="26" rx="6" fill="#F2B7A8"/><rect x="10" y="56" width="44" height="6" rx="3" fill="#C9CCCF"/><rect x="16" y="64" width="26" height="9" rx="3" fill="#1F3E8E"/></symbol>
+    <symbol id="p-spreads" viewBox="0 0 100 100"><ellipse cx="50" cy="54" rx="40" ry="34" class="mint"/><rect x="8" y="34" width="42" height="12" rx="3" fill="#FFFFFF" stroke="#E0E0E0"/><path d="M8 46h42v30c0 5-4 8-8 8H16c-4 0-8-3-8-8Z" fill="#5A2E16"/><rect x="8" y="54" width="42" height="14" fill="#FFFFFF"/><rect x="14" y="58" width="22" height="6" rx="2" fill="#5A2E16"/><rect x="54" y="22" width="36" height="12" rx="3" fill="#2F7BD1"/><path d="M54 34h36v42c0 5-4 8-8 8H62c-4 0-8-3-8-8Z" fill="#E2A65E"/><rect x="56" y="44" width="32" height="18" rx="3" fill="#D8302A"/><rect x="60" y="50" width="24" height="6" rx="2" fill="#FFFFFF"/></symbol>
+    <symbol id="p-cereal" viewBox="0 0 100 100"><ellipse cx="50" cy="56" rx="40" ry="34" class="mint"/><rect x="12" y="12" width="44" height="72" rx="2" fill="#F5F5F2"/><rect x="12" y="12" width="44" height="14" fill="#D7261E"/><rect x="18" y="30" width="32" height="12" fill="#1E5CB3"/><circle cx="34" cy="62" r="14" fill="#F2C060"/><circle cx="34" cy="62" r="8" fill="#E9A33C"/><rect x="58" y="40" width="30" height="46" rx="4" fill="#1D4DA8"/><rect x="58" y="36" width="30" height="8" rx="3" fill="#E9E2CF"/><circle cx="73" cy="62" r="9" fill="#F5E9CC"/><rect x="62" y="74" width="22" height="6" rx="2" fill="#D7261E"/></symbol>
+    <symbol id="p-fish" viewBox="0 0 100 100"><ellipse cx="50" cy="56" rx="40" ry="34" class="mint"/><path d="M8 40c10-14 40-16 58-4l18-12-4 18 6 16-20-10c-16 12-44 10-58-8Z" fill="#9AA3AB"/><path d="M8 40c10-6 40-8 58 0" fill="none" stroke="#6E7880" stroke-width="2"/><circle cx="20" cy="40" r="2.5" fill="#2A2E31"/><path d="M50 50l38 6-6 22-38-6Z" fill="#F07A4A"/><path d="M56 56l26 4M54 64l26 4" stroke="#F8B79A" stroke-width="2"/><g fill="#F09A6E"><path d="M10 74c4-10 18-10 20 0-2 6-8 8-14 6Z"/><path d="M26 78c4-10 18-10 20 0-2 6-8 8-14 6Z"/></g></symbol>
+    <symbol id="p-dairy" viewBox="0 0 100 100"><ellipse cx="50" cy="56" rx="40" ry="34" class="mint"/><rect x="30" y="12" width="12" height="9" rx="2" fill="#2F6FD1"/><path d="M28 22h16l4 12v50H24V34Z" fill="#FAFBFC" stroke="#E2E6EA"/><rect x="25" y="46" width="22" height="18" fill="#7FB3E8"/><rect x="25" y="58" width="22" height="6" fill="#4FA34A"/><path d="M50 66h42l-4 20H54Z" fill="#C9A77A"/><g fill="#E5A272"><ellipse cx="60" cy="62" rx="7" ry="8"/><ellipse cx="74" cy="60" rx="7" ry="8"/><ellipse cx="86" cy="64" rx="6" ry="7"/></g></symbol>
+    <symbol id="p-bread" viewBox="0 0 100 100"><ellipse cx="50" cy="56" rx="40" ry="34" class="mint"/><path d="M26 12h22l2 66H24Z" fill="#F4E3CC"/><rect x="26" y="12" width="22" height="16" fill="#D7261E"/><rect x="28" y="40" width="18" height="20" fill="#C98B4A"/><path d="M32 74c6-14 46-16 56-2 2 6-4 12-12 12H40c-8 0-10-4-8-10Z" fill="#E2A04A"/><path d="M44 68c2 6 2 12 0 16M56 66c2 6 2 14 0 18M68 66c2 6 2 14 0 18" stroke="#B9732E" stroke-width="2.5" fill="none"/><path d="M14 80c6-10 30-12 36 0-2 6-8 8-18 8s-18-2-18-8Z" fill="#E8AC56"/></symbol>
+    <!-- product page: clear jar of chopped dates, generic label -->
+    <symbol id="p-jar" viewBox="0 0 400 420"><rect x="22" y="2" width="356" height="30" rx="12" fill="#F3F1F4"/><rect x="30" y="10" width="340" height="6" rx="3" fill="#FFFFFF"/><rect x="6" y="30" width="388" height="388" rx="26" fill="#EDE6E1"/><rect x="14" y="40" width="372" height="370" rx="20" fill="#7A3A1C"/><g fill="#9C5428"><ellipse cx="50" cy="62" rx="30" ry="12"/><ellipse cx="140" cy="70" rx="34" ry="12"/><ellipse cx="240" cy="60" rx="30" ry="11"/><ellipse cx="330" cy="72" rx="32" ry="12"/><ellipse cx="60" cy="370" rx="34" ry="12"/><ellipse cx="160" cy="388" rx="36" ry="12"/><ellipse cx="260" cy="372" rx="34" ry="12"/><ellipse cx="350" cy="390" rx="28" ry="11"/><ellipse cx="28" cy="230" rx="10" ry="40"/><ellipse cx="372" cy="230" rx="10" ry="40"/></g><g fill="#5E2A12"><ellipse cx="95" cy="88" rx="26" ry="9"/><ellipse cx="290" cy="90" rx="26" ry="9"/><ellipse cx="110" cy="352" rx="28" ry="9"/><ellipse cx="305" cy="352" rx="26" ry="9"/></g><rect x="6" y="30" width="388" height="388" rx="26" fill="#FFFFFF" opacity=".16"/><path d="M32 112h336v222H32Z" fill="#F7EEDB"/><path d="M32 112h44v222H32Z" fill="#EFE3C8"/><rect x="40" y="128" width="26" height="70" fill="#FFFFFF" opacity=".7"/><g stroke="#3B3B3B" stroke-width="2"><path d="M44 210v44M48 210v44M53 210v44M57 210v44M61 210v44"/></g><path d="M150 172c30-30 90-40 130-20-40 0-80 10-120 30Z" fill="#3F7A3A"/><path d="M160 168l110-12" stroke="#2E5C2B" stroke-width="2"/><rect x="150" y="198" width="120" height="8" rx="3" fill="#8E6B3A" opacity=".5"/><rect x="160" y="216" width="100" height="6" rx="3" fill="#8E6B3A" opacity=".35"/><circle cx="190" cy="252" r="12" fill="#FFFFFF" stroke="#B9A47A" stroke-width="2"/><circle cx="220" cy="252" r="12" fill="#FFFFFF" stroke="#B9A47A" stroke-width="2"/><rect x="246" y="246" width="40" height="12" rx="2" fill="#3F7A3A" opacity=".8"/><rect x="150" y="278" width="160" height="34" rx="2" fill="#FFFFFF" opacity=".75"/><rect x="304" y="122" width="56" height="200" fill="#F1E2C4"/><rect x="310" y="252" width="44" height="60" fill="#B8803C" opacity=".6"/><rect x="18" y="44" width="16" height="360" rx="8" fill="#FFFFFF" opacity=".25"/></symbol>
+    <!-- similar products (top halves only are visible) -->
+    <symbol id="p-bag" viewBox="0 0 110 60"><rect x="0" y="0" width="110" height="60" fill="#FFFFFF"/><path d="M14 8h82v52H14Z" fill="#E9B98A"/><rect x="14" y="8" width="82" height="7" fill="#D9874F"/><rect x="30" y="34" width="50" height="16" fill="#D9874F"/></symbol>
+    <symbol id="p-tub" viewBox="0 0 110 60"><rect x="0" y="0" width="110" height="60" fill="#FFFFFF"/><ellipse cx="55" cy="38" rx="52" ry="40" fill="#8A4A1E"/><path d="M14 46h82v14H14Z" fill="#E07A1F"/><rect x="44" y="34" width="22" height="18" fill="#2E3B1E"/><g fill="#A35A2C"><ellipse cx="26" cy="22" rx="10" ry="6"/><ellipse cx="54" cy="12" rx="10" ry="6"/><ellipse cx="82" cy="22" rx="10" ry="6"/></g></symbol>
+    <symbol id="p-box" viewBox="0 0 110 60"><rect x="0" y="0" width="110" height="60" fill="#FFFFFF"/><rect x="2" y="6" width="106" height="54" fill="#ECECEC"/><g fill="#2A2230"><ellipse cx="14" cy="30" rx="10" ry="7"/><ellipse cx="96" cy="30" rx="10" ry="7"/><ellipse cx="14" cy="50" rx="10" ry="7"/><ellipse cx="96" cy="50" rx="10" ry="7"/></g><rect x="24" y="16" width="62" height="44" fill="#F7F5EE"/><path d="M48 40l7-8 7 8Z" fill="#5A9A3C"/></symbol>
+  </defs>
+</svg>
+
+<main class="screen" aria-label="الرئيسية — الضيف، الحالة الافتراضية">
+  <header class="header">
+    <div class="status" aria-hidden="true">
+      <span>7:29</span>
+      <span class="sys"><i></i><i></i><i></i><i class="dot"></i></span>
+      <span class="right"><b style="width:15px;height:11px;clip-path:polygon(50% 100%,0 25%,50% 0,100% 25%)"></b><b style="width:11px;height:11px;clip-path:polygon(100% 0,100% 100%,0 100%)"></b><b style="width:7px;height:13px;border-radius:1.5px"></b></span>
+    </div>
+    <div class="loc"><svg class="ic"><use href="#i-pin"/></svg><span class="clip">vince</span></div>
+    <div class="addr" style="left:118px;width:233px">العنوان — محجوب في لقطة v65</div>
+    
+    <div class="search" role="search">
+      <svg class="ic mag" aria-label="بحث"><use href="#i-search"/></svg>
+      <svg class="ic pen"><use href="#i-pencil"/></svg>
+    </div>
+  </header>
+
+  <nav class="cats" aria-label="الفئات">
+    <div class="cat sel" style="right:6px"><div class="img"><svg class="ic"><use href="#i-grid"/></svg></div><div class="lbl">الكل</div><div class="bar"></div></div>
+    <div class="cat" style="right:99px"><div class="img"><svg><use href="#p-pantry"/></svg></div><div class="lbl">المقاضي</div></div>
+    <div class="cat" style="right:189px"><div class="img"><svg><use href="#p-fresh"/></svg></div><div class="lbl">الطازج</div></div>
+    <div class="cat" style="right:278px"><div class="img"><svg><use href="#p-drinks"/></svg></div><div class="lbl">المشروبات</div></div>
+    <div class="cat-cut" aria-hidden="true">ال</div>
+  </nav>
+
+  <h2 class="h2" style="top:276px">المقاضي</h2>
+  <div class="tile" style="right:11px;top:311px"><div class="box"><svg><use href="#p-dates-honey"/></svg></div><div class="lbl">التمور والعسل</div></div>
+  <div class="tile" style="right:107px;top:311px"><div class="box"><svg><use href="#p-rice"/></svg></div><div class="lbl">الرز والمكرونة والحبوب</div></div>
+  <div class="tile" style="right:204px;top:311px"><div class="box"><svg><use href="#p-cans"/></svg></div><div class="lbl">المعلبات</div></div>
+  <div class="tile" style="right:300px;top:311px"><div class="box"><svg><use href="#p-spreads"/></svg></div><div class="lbl">المنتجات<br>القابلة للدهن</div><!-- كسر السطر كما في v65، لأن خط النموذج أضيق من خط التطبيق --></div>
+  <div class="tile" style="right:11px;top:448px"><div class="box"><svg><use href="#p-cereal"/></svg></div><div class="lbl">حبوب الإفطار والشوفان</div></div>
+
+  <h2 class="h2" style="top:595px">الطازج</h2>
+  <div class="tile" style="right:11px;top:627px"><div class="box"><svg><use href="#p-fish"/></svg></div><div class="lbl">الأسماك والبحريات</div></div>
+  <div class="tile" style="right:107px;top:627px"><div class="box"><svg><use href="#p-dairy"/></svg></div><div class="lbl">الألبان والبيض</div></div>
+  <div class="tile" style="right:204px;top:627px"><div class="box"><svg><use href="#p-bread"/></svg></div><div class="lbl">الخبز والمخبوزات</div></div>
+
+  
+
+  <nav class="nav" aria-label="التنقل الرئيسي">
+    <div class="tab on" aria-current="page"><svg class="ic"><use href="#i-home"/></svg><span>الرئيسية</span></div>
+    <div class="tab"><svg class="ic"><use href="#i-grid"/></svg><span>الفئات</span></div>
+    <div class="tab offers"><svg class="ic"><use href="#i-offers"/></svg><span>العروض</span></div>
+    <div class="tab"><svg class="ic"><use href="#i-account"/></svg><span>الحساب</span></div>
+  </nav>
+</main>
+
+<section class="notes" aria-label="ملاحظات النموذج">
+  <h2>الضيف، الحالة الافتراضية — ملاحظات لعبيد</h2>
+  <p class="muted">ما فوق هذا الخط هو النموذج (390×844). المرجع: <code>design/inputs/drive/v65-home-02-guest-default.png</code>. التفصيل الكامل في <code>design/outputs/screens/HANDOFF.md</code>.</p>
+  <table>
+    <tr><th>العنصر</th><th>الدور</th><th>اللون</th></tr>
+    <tr><td>الرأس وشريط الحالة</td><td><code>brandHeader</code> / <code>onBrandHeader</code></td><td><span class="sw" style="background:var(--jarna-brand-header)"></span> #006B63 / #FFFFFF</td></tr>
+    
+    <tr><td>حقل البحث</td><td><code>surface</code>، بلا حد</td><td><span class="sw" style="background:var(--jarna-surface)"></span> #FFFFFF</td></tr>
+    <tr><td>المكبّر</td><td><code>iconAction</code></td><td><span class="sw" style="background:var(--jarna-icon-action)"></span> #006B63</td></tr>
+    <tr><td>القلم</td><td><code>iconNeutral</code> (وظيفته غير معروفة)</td><td><span class="sw" style="background:var(--jarna-icon-neutral)"></span> #5A6D68</td></tr>
+    <tr><td>"الكل": الأيقونة والاسم</td><td><code>text</code> / <code>selectionLabel</code></td><td><span class="sw" style="background:var(--jarna-text)"></span> #172D2B</td></tr>
+    <tr><td>خط الاختيار</td><td><code>selectionIndicator</code></td><td><span class="sw" style="background:var(--jarna-selection-indicator)"></span> #006B63</td></tr>
+    <tr><td>أسماء الفئات غير المختارة</td><td><code>textSecondary</code> (مشتق، س5)</td><td><span class="sw" style="background:var(--jarna-text-secondary)"></span> #5A6D68</td></tr>
+    <tr><td>الدوائر خلف الصور</td><td><code>supportivePanel</code></td><td><span class="sw" style="background:var(--jarna-supportive-panel)"></span> #E0F1EC</td></tr>
+    <tr><td>عناوين الأقسام وأسماء البلاطات</td><td><code>text</code></td><td><span class="sw" style="background:var(--jarna-text)"></span> #172D2B</td></tr>
+    <tr><td>البلاطة</td><td><code>surface</code> + حد <code>border</code> (مؤقت)</td><td><span class="sw" style="background:var(--jarna-surface)"></span> #FFFFFF + <span class="sw" style="background:var(--jarna-border)"></span> #D8E5DF</td></tr>
+    <tr><td>فاصل التنقل</td><td><code>border</code></td><td><span class="sw" style="background:var(--jarna-border)"></span> #D8E5DF</td></tr>
+    <tr><td>التبويب النشط</td><td><code>tabActive</code>، عريض</td><td><span class="sw" style="background:var(--jarna-tab-active)"></span> #006B63</td></tr>
+    <tr><td>غير النشط، ومنه العروض</td><td><code>tabInactive</code> (AUD-C2 مؤقت)</td><td><span class="sw" style="background:var(--jarna-tab-inactive)"></span> #5A6D68</td></tr>
+  </table>
+  <h2>مكمّل: كبسولة السلة عند وجود أصناف</h2>
+  <p class="muted">لا تظهر في أي لقطة v65 للرئيسية (السلة فارغة). الشكل من <code>v65-context-category-02-quantity-selected.png</code>، والتغيير لوني فقط (HM-33..37). الضغط: الجسم <code>#004F49</code>.</p>
+  <div class="capsule-demo"><div class="capsule"><div class="thumb"><svg viewBox="0 0 400 420" preserveAspectRatio="xMidYMid slice"><use href="#p-jar"/></svg></div><div class="txt">عنصر واحد</div><div class="arrow"><svg class="ic"><use href="#i-chev-right"/></svg></div></div></div>
+</section>
+</body>
+</html>

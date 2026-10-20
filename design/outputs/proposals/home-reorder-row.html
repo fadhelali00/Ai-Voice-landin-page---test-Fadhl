@@ -1,0 +1,156 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=390, initial-scale=1">
+<title>صف طلبتها قبل</title>
+<!-- مقترح إبداعي منفصل (ليس جزءاً من نموذج "اللون فقط"). لا يُكلَّف به عبيد قبل اعتماد فضل. -->
+<link href="https://fonts.googleapis.com/css2?family=Almarai:wght@400;700;800&display=block" rel="stylesheet">
+<link rel="stylesheet" href="../system/tokens.css">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { background: var(--jarna-background); }
+  body { font-family: "Almarai", system-ui, sans-serif; color: var(--jarna-text); width: 390px; overflow-x: hidden; font-size: 13px; line-height: 1.7; }
+  svg.ic { display: block; }
+  .mint { fill: var(--jarna-supportive-panel); }
+  .top { padding: 16px 16px 12px; border-bottom: 1px solid var(--jarna-border); }
+  .tag { display: inline-block; font-size: 11px; font-weight: 800; padding: 2px 10px; border-radius: 10px; margin-inline-end: 6px; }
+  .tag.next { background: var(--jarna-mint); color: var(--jarna-petrol); }
+  .tag.later { background: var(--jarna-grey-disabled); color: var(--jarna-secondary); }
+  .tag.prop { background: var(--jarna-warning-surface); color: var(--jarna-warning); }
+  h1 { font-size: 18px; line-height: 1.5; margin-top: 8px; }
+  .lede { color: var(--jarna-text-secondary); font-size: 12px; margin-top: 4px; }
+  .label { display: flex; align-items: center; gap: 8px; padding: 10px 16px 6px; font-size: 12px; font-weight: 800; color: var(--jarna-text-secondary); }
+  .label b { color: var(--jarna-text); font-size: 14px; }
+  .frame { position: relative; width: 390px; overflow: hidden; border-top: 1px solid var(--jarna-border); border-bottom: 1px solid var(--jarna-border); background: var(--jarna-background); }
+  .frame img { display: block; width: 390px; }
+  .callout { position: absolute; font-size: 10px; font-weight: 800; color: var(--jarna-warning); background: var(--jarna-warning-surface);
+             border: 1px solid var(--jarna-warning); border-radius: 6px; padding: 0 5px; line-height: 16px; white-space: nowrap; z-index: 9; }
+  section.txt { padding: 14px 16px 0; }
+  section.txt h2 { font-size: 15px; margin-bottom: 4px; }
+  section.txt ul { padding-inline-start: 18px; }
+  section.txt li { margin-bottom: 3px; }
+  table.cost { width: 100%; border-collapse: collapse; font-size: 12px; margin-top: 4px; }
+  table.cost td, table.cost th { border-bottom: 1px solid var(--jarna-border); padding: 5px 2px; text-align: right; vertical-align: top; }
+  .muted { color: var(--jarna-text-secondary); }
+  .foot { padding: 14px 16px 32px; font-size: 11px; color: var(--jarna-text-secondary); }
+  code { direction: ltr; unicode-bidi: embed; font-size: 11px; }
+
+  .row { position: relative; height: 200px; background: var(--jarna-background); }
+  .row h2 { position: absolute; top: 4px; right: 11px; font-size: 17px; font-weight: 800; line-height: 22px; }
+  .row .all { position: absolute; top: 6px; left: 12px; font-size: 13px; font-weight: 800; color: var(--jarna-link); }
+  .pc { position: absolute; top: 38px; width: 112px; }
+  .pc .img { position: relative; height: 92px; border-radius: 12px; border: 1px solid var(--jarna-border); background: var(--jarna-surface); overflow: hidden; }
+  .pc .img svg.p { width: 110px; height: 90px; }
+  .pc .plus { position: absolute; left: 6px; bottom: 6px; width: 32px; height: 32px; border-radius: 50%;
+              background: var(--jarna-primary-action); color: var(--jarna-on-primary-action); display: flex; align-items: center; justify-content: center; }
+  .pc .plus svg { width: 18px; height: 18px; }
+  .pc .pr { margin-top: 6px; display: flex; align-items: center; gap: 3px; font-size: 14px; font-weight: 800; color: var(--jarna-price); }
+  .pc .pr svg { width: 13px; height: 14px; }
+  .pc .nm { font-size: 12px; line-height: 17px; color: var(--jarna-text); }
+  .pc .last { font-size: 10.5px; color: var(--jarna-text-secondary); line-height: 16px; }
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <!-- ===== Icons (line, currentColor). Shapes traced from v65, not brand assets ===== -->
+    <symbol id="i-pin" viewBox="0 0 24 24"><path fill="currentColor" d="M12 1.6c-4.4 0-8 3.4-8 7.8 0 5.6 6.6 12.2 7.3 12.9.4.4 1 .4 1.4 0 .7-.7 7.3-7.3 7.3-12.9 0-4.4-3.6-7.8-8-7.8Zm0 10.8a3 3 0 1 1 0-6 3 3 0 0 1 0 6Z"/></symbol>
+    <symbol id="i-bell" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2.5a1.4 1.4 0 0 1 1.4 1.4v.6A6.4 6.4 0 0 1 18.4 10.8v4.6l1.9 2.2c.5.6.1 1.4-.7 1.4H4.4c-.8 0-1.2-.8-.7-1.4l1.9-2.2v-4.6a6.4 6.4 0 0 1 5-6.3v-.6A1.4 1.4 0 0 1 12 2.5Z"/><path fill="currentColor" d="M9.6 20h4.8a2.4 2.4 0 0 1-4.8 0Z"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="m15.8 15.8 5.2 5.2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-pencil" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M4 20l1-4.6L16.2 4.2a2 2 0 0 1 2.8 0l.8.8a2 2 0 0 1 0 2.8L8.6 19 4 20Z"/><path stroke="currentColor" stroke-width="1.8" d="m14.5 6 3.5 3.5"/></symbol>
+    <symbol id="i-grid" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1.9"><rect x="3" y="3" width="7.6" height="7.6" rx="2.6"/><rect x="13.4" y="3" width="7.6" height="7.6" rx="2.6"/><rect x="3" y="13.4" width="7.6" height="7.6" rx="2.6"/><rect x="13.4" y="13.4" width="7.6" height="7.6" rx="2.6"/></g></symbol>
+    <symbol id="i-home" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M3.5 10.2 12 3.5l8.5 6.7V19a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2Z"/><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M9.8 21v-5.2a2.2 2.2 0 0 1 4.4 0V21"/></symbol>
+    <symbol id="i-offers" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" d="M12 2.5l2.2 1.6 2.7-.2.9 2.6 2.3 1.4-.6 2.6 1.2 2.4-1.9 1.9-.1 2.7-2.6.6-1.5 2.3-2.6-.8L9.6 21.6l-1.8-2-2.7-.3-.4-2.7-2.1-1.7.9-2.5-.9-2.6 2.1-1.7.4-2.7 2.7-.3 1.8-2Z"/><path d="m9.2 14.8 5.6-5.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="9.6" cy="9.6" r="1.1" fill="currentColor"/><circle cx="14.4" cy="14.4" r="1.1" fill="currentColor"/></symbol>
+    <symbol id="i-account" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.7"/><circle cx="12" cy="9.6" r="3.3" fill="none" stroke="currentColor" stroke-width="1.7"/><path fill="none" stroke="currentColor" stroke-width="1.7" d="M5.8 18.6c1.4-2.3 3.6-3.5 6.2-3.5s4.8 1.2 6.2 3.5"/></symbol>
+    <symbol id="i-wifi-off" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M2.5 9a14 14 0 0 1 6-3.2M12.5 5.6A14 14 0 0 1 21.5 9"/><path d="M6 12.6a9 9 0 0 1 3.6-2M14.8 10.8A9 9 0 0 1 18 12.6"/><path d="M9.4 16a4.5 4.5 0 0 1 5.2 0"/><path d="M4 3.5 20 19.5"/></g><circle cx="12" cy="19.6" r="1.4" fill="currentColor"/></symbol>
+    <symbol id="i-share" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 14.5V3M7.8 7.2 12 3l4.2 4.2"/><path d="M8.5 10H6a1.5 1.5 0 0 0-1.5 1.5v8A1.5 1.5 0 0 0 6 21h12a1.5 1.5 0 0 0 1.5-1.5v-8A1.5 1.5 0 0 0 18 10h-2.5"/></g></symbol>
+    <symbol id="i-bookmark" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M6.5 3.5h11v17L12 16.4 6.5 20.5Z"/></symbol>
+    <symbol id="i-chev-right" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" d="m9 5 7 7-7 7"/></symbol>
+    <symbol id="i-chev-left" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" d="m15 5-7 7 7 7"/></symbol>
+    <symbol id="i-chev-down" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" d="m5.5 9 6.5 6.5L18.5 9"/></symbol>
+    <symbol id="i-star" viewBox="0 0 24 24"><path fill="currentColor" d="m12 2.2 2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.2l-6 3.3 1.3-6.7-5-4.6 6.8-.8Z"/></symbol>
+    <symbol id="i-stopwatch" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="13" cy="13.5" r="7"/><path d="M13 10v3.8l2.2 1.6M11 3.5h4M2 11h3M1.5 14.5h3.5M2.5 18h3"/></g></symbol>
+    <!-- Saudi riyal sign, simplified outline (U+20C1 is missing from most web fonts) -->
+    <symbol id="i-sar" viewBox="0 0 20 22"><g fill="currentColor"><path d="M6.6 1.2c.9-.5 1.6-.5 1.6.6v15.1l-2.3.5V3.1c0-.9.1-1.5.7-1.9Z"/><path d="M12.3 2.4c.9-.5 1.6-.5 1.6.6v12.3l-2.3.5V4.3c0-.9.1-1.5.7-1.9Z"/><path d="M1.6 9.6 18.6 6v2.2L1.6 11.8Z"/><path d="M1.6 14.2 18.6 10.6v2.2L1.6 16.4Z"/><path d="M11.8 18.6 18.6 17.2v2.2l-6.8 1.4Z"/><path d="M1 17.6c1.2.8 3.1 1 4.9.6v2.2c-1.9.4-3.8.1-5.2-.9Z"/></g></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></symbol>
+    <symbol id="i-minus" viewBox="0 0 24 24"><path d="M5 12h14" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></symbol>
+
+    <!-- ===== Product placeholders: flat generic shapes, approximate colours, no logos or text ===== -->
+    <!-- category strip -->
+    <symbol id="p-pantry" viewBox="0 0 100 100"><circle cx="50" cy="52" r="40" class="mint"/><path d="M28 30h12l2 8v50H26V38Z" fill="#F2C318"/><rect x="29" y="22" width="10" height="9" rx="2" fill="#3D8C3A"/><rect x="31" y="54" width="14" height="14" rx="7" fill="#FBE79A"/><rect x="52" y="36" width="24" height="52" rx="2" fill="#1E4FA3"/><rect x="55" y="48" width="18" height="10" rx="2" fill="#E8E4D8"/><ellipse cx="50" cy="83" rx="14" ry="7" fill="#EEE6D8"/><ellipse cx="50" cy="80" rx="12" ry="4" fill="#FFFFFF"/></symbol>
+    <symbol id="p-fresh" viewBox="0 0 100 100"><circle cx="50" cy="52" r="40" class="mint"/><rect x="22" y="30" width="20" height="56" rx="8" fill="#F7F8FA"/><rect x="26" y="22" width="12" height="9" rx="2" fill="#2F6FD1"/><rect x="24" y="52" width="16" height="14" fill="#7FB3E8"/><path d="M50 20h22l4 66H46Z" fill="#F3E1C4"/><rect x="50" y="22" width="22" height="10" fill="#D6403A"/><circle cx="54" cy="80" r="8" fill="#D8302A"/><path d="M60 82c2-10 18-12 22-2 2 6-2 10-10 10-8 0-12-3-12-8Z" fill="#5CA83E"/></symbol>
+    <symbol id="p-drinks" viewBox="0 0 100 100"><circle cx="50" cy="52" r="40" class="mint"/><path d="M16 30l6-8h14l4 8v56H16Z" fill="#F7A21B"/><rect x="18" y="44" width="20" height="18" fill="#FFFFFF" opacity=".8"/><circle cx="26" cy="74" r="7" fill="#F28C13"/><path d="M44 26h12v6l4 6v50H40V38l4-6Z" fill="#DCEFFA"/><rect x="45" y="20" width="10" height="7" rx="1" fill="#2F6FD1"/><rect x="42" y="52" width="16" height="12" fill="#2F6FD1" opacity=".7"/><rect x="64" y="44" width="20" height="42" rx="3" fill="#D6201E"/><rect x="64" y="44" width="20" height="5" rx="2" fill="#B9BCC0"/></symbol>
+    <!-- grid tiles -->
+    <symbol id="p-dates-honey" viewBox="0 0 100 100"><ellipse cx="50" cy="56" rx="40" ry="34" class="mint"/><path d="M8 62h48c0 14-10 22-24 22S8 76 8 62Z" fill="#F4F2EE"/><g fill="#8A4A1E"><ellipse cx="18" cy="58" rx="8" ry="6"/><ellipse cx="30" cy="54" rx="8" ry="6"/><ellipse cx="42" cy="58" rx="8" ry="6"/><ellipse cx="25" cy="48" rx="7" ry="5"/><ellipse cx="38" cy="47" rx="7" ry="5"/></g><g fill="#B26A2E" opacity=".6"><ellipse cx="22" cy="56" rx="3" ry="2"/><ellipse cx="38" cy="52" rx="3" ry="2"/></g><rect x="60" y="20" width="26" height="9" rx="3" fill="#C7962E"/><path d="M58 30h30c3 6 3 44-2 50H60c-5-6-5-44-2-50Z" fill="#E59A18"/><ellipse cx="73" cy="52" rx="9" ry="12" fill="#F6D27A"/></symbol>
+    <symbol id="p-rice" viewBox="0 0 100 100"><ellipse cx="54" cy="54" rx="40" ry="34" class="mint"/><path d="M42 14c4-6 12-6 16 0l-3 4c-3-3-7-3-10 0Z" fill="#D6302A"/><path d="M30 20h40l4 56H26Z" fill="#F6F1E4"/><rect x="30" y="20" width="40" height="10" fill="#D6302A"/><path d="M44 40l6-6 6 6v10H44Z" fill="#D6302A"/><rect x="34" y="58" width="32" height="6" fill="#4C8A3A"/><ellipse cx="22" cy="80" rx="16" ry="8" fill="#B07A44"/><ellipse cx="22" cy="76" rx="14" ry="5" fill="#FBF8F1"/><path d="M44 72l50-6v12l-50 6Z" fill="#1D4DA8"/><ellipse cx="72" cy="74" rx="8" ry="4" fill="#E23B2F"/></symbol>
+    <symbol id="p-cans" viewBox="0 0 100 100"><ellipse cx="54" cy="54" rx="40" ry="34" class="mint"/><rect x="50" y="20" width="36" height="58" rx="5" fill="#E8C22E"/><rect x="50" y="20" width="36" height="6" rx="3" fill="#B9BCC0"/><ellipse cx="68" cy="38" rx="14" ry="7" fill="#D23A2B"/><g fill="#E7CE8C"><circle cx="60" cy="58" r="4"/><circle cx="68" cy="60" r="4"/><circle cx="76" cy="58" r="4"/><circle cx="64" cy="66" r="4"/><circle cx="72" cy="67" r="4"/></g><rect x="10" y="56" width="44" height="26" rx="6" fill="#F2B7A8"/><rect x="10" y="56" width="44" height="6" rx="3" fill="#C9CCCF"/><rect x="16" y="64" width="26" height="9" rx="3" fill="#1F3E8E"/></symbol>
+    <symbol id="p-spreads" viewBox="0 0 100 100"><ellipse cx="50" cy="54" rx="40" ry="34" class="mint"/><rect x="8" y="34" width="42" height="12" rx="3" fill="#FFFFFF" stroke="#E0E0E0"/><path d="M8 46h42v30c0 5-4 8-8 8H16c-4 0-8-3-8-8Z" fill="#5A2E16"/><rect x="8" y="54" width="42" height="14" fill="#FFFFFF"/><rect x="14" y="58" width="22" height="6" rx="2" fill="#5A2E16"/><rect x="54" y="22" width="36" height="12" rx="3" fill="#2F7BD1"/><path d="M54 34h36v42c0 5-4 8-8 8H62c-4 0-8-3-8-8Z" fill="#E2A65E"/><rect x="56" y="44" width="32" height="18" rx="3" fill="#D8302A"/><rect x="60" y="50" width="24" height="6" rx="2" fill="#FFFFFF"/></symbol>
+    <symbol id="p-cereal" viewBox="0 0 100 100"><ellipse cx="50" cy="56" rx="40" ry="34" class="mint"/><rect x="12" y="12" width="44" height="72" rx="2" fill="#F5F5F2"/><rect x="12" y="12" width="44" height="14" fill="#D7261E"/><rect x="18" y="30" width="32" height="12" fill="#1E5CB3"/><circle cx="34" cy="62" r="14" fill="#F2C060"/><circle cx="34" cy="62" r="8" fill="#E9A33C"/><rect x="58" y="40" width="30" height="46" rx="4" fill="#1D4DA8"/><rect x="58" y="36" width="30" height="8" rx="3" fill="#E9E2CF"/><circle cx="73" cy="62" r="9" fill="#F5E9CC"/><rect x="62" y="74" width="22" height="6" rx="2" fill="#D7261E"/></symbol>
+    <symbol id="p-fish" viewBox="0 0 100 100"><ellipse cx="50" cy="56" rx="40" ry="34" class="mint"/><path d="M8 40c10-14 40-16 58-4l18-12-4 18 6 16-20-10c-16 12-44 10-58-8Z" fill="#9AA3AB"/><path d="M8 40c10-6 40-8 58 0" fill="none" stroke="#6E7880" stroke-width="2"/><circle cx="20" cy="40" r="2.5" fill="#2A2E31"/><path d="M50 50l38 6-6 22-38-6Z" fill="#F07A4A"/><path d="M56 56l26 4M54 64l26 4" stroke="#F8B79A" stroke-width="2"/><g fill="#F09A6E"><path d="M10 74c4-10 18-10 20 0-2 6-8 8-14 6Z"/><path d="M26 78c4-10 18-10 20 0-2 6-8 8-14 6Z"/></g></symbol>
+    <symbol id="p-dairy" viewBox="0 0 100 100"><ellipse cx="50" cy="56" rx="40" ry="34" class="mint"/><rect x="30" y="12" width="12" height="9" rx="2" fill="#2F6FD1"/><path d="M28 22h16l4 12v50H24V34Z" fill="#FAFBFC" stroke="#E2E6EA"/><rect x="25" y="46" width="22" height="18" fill="#7FB3E8"/><rect x="25" y="58" width="22" height="6" fill="#4FA34A"/><path d="M50 66h42l-4 20H54Z" fill="#C9A77A"/><g fill="#E5A272"><ellipse cx="60" cy="62" rx="7" ry="8"/><ellipse cx="74" cy="60" rx="7" ry="8"/><ellipse cx="86" cy="64" rx="6" ry="7"/></g></symbol>
+    <symbol id="p-bread" viewBox="0 0 100 100"><ellipse cx="50" cy="56" rx="40" ry="34" class="mint"/><path d="M26 12h22l2 66H24Z" fill="#F4E3CC"/><rect x="26" y="12" width="22" height="16" fill="#D7261E"/><rect x="28" y="40" width="18" height="20" fill="#C98B4A"/><path d="M32 74c6-14 46-16 56-2 2 6-4 12-12 12H40c-8 0-10-4-8-10Z" fill="#E2A04A"/><path d="M44 68c2 6 2 12 0 16M56 66c2 6 2 14 0 18M68 66c2 6 2 14 0 18" stroke="#B9732E" stroke-width="2.5" fill="none"/><path d="M14 80c6-10 30-12 36 0-2 6-8 8-18 8s-18-2-18-8Z" fill="#E8AC56"/></symbol>
+    <!-- product page: clear jar of chopped dates, generic label -->
+    <symbol id="p-jar" viewBox="0 0 400 420"><rect x="22" y="2" width="356" height="30" rx="12" fill="#F3F1F4"/><rect x="30" y="10" width="340" height="6" rx="3" fill="#FFFFFF"/><rect x="6" y="30" width="388" height="388" rx="26" fill="#EDE6E1"/><rect x="14" y="40" width="372" height="370" rx="20" fill="#7A3A1C"/><g fill="#9C5428"><ellipse cx="50" cy="62" rx="30" ry="12"/><ellipse cx="140" cy="70" rx="34" ry="12"/><ellipse cx="240" cy="60" rx="30" ry="11"/><ellipse cx="330" cy="72" rx="32" ry="12"/><ellipse cx="60" cy="370" rx="34" ry="12"/><ellipse cx="160" cy="388" rx="36" ry="12"/><ellipse cx="260" cy="372" rx="34" ry="12"/><ellipse cx="350" cy="390" rx="28" ry="11"/><ellipse cx="28" cy="230" rx="10" ry="40"/><ellipse cx="372" cy="230" rx="10" ry="40"/></g><g fill="#5E2A12"><ellipse cx="95" cy="88" rx="26" ry="9"/><ellipse cx="290" cy="90" rx="26" ry="9"/><ellipse cx="110" cy="352" rx="28" ry="9"/><ellipse cx="305" cy="352" rx="26" ry="9"/></g><rect x="6" y="30" width="388" height="388" rx="26" fill="#FFFFFF" opacity=".16"/><path d="M32 112h336v222H32Z" fill="#F7EEDB"/><path d="M32 112h44v222H32Z" fill="#EFE3C8"/><rect x="40" y="128" width="26" height="70" fill="#FFFFFF" opacity=".7"/><g stroke="#3B3B3B" stroke-width="2"><path d="M44 210v44M48 210v44M53 210v44M57 210v44M61 210v44"/></g><path d="M150 172c30-30 90-40 130-20-40 0-80 10-120 30Z" fill="#3F7A3A"/><path d="M160 168l110-12" stroke="#2E5C2B" stroke-width="2"/><rect x="150" y="198" width="120" height="8" rx="3" fill="#8E6B3A" opacity=".5"/><rect x="160" y="216" width="100" height="6" rx="3" fill="#8E6B3A" opacity=".35"/><circle cx="190" cy="252" r="12" fill="#FFFFFF" stroke="#B9A47A" stroke-width="2"/><circle cx="220" cy="252" r="12" fill="#FFFFFF" stroke="#B9A47A" stroke-width="2"/><rect x="246" y="246" width="40" height="12" rx="2" fill="#3F7A3A" opacity=".8"/><rect x="150" y="278" width="160" height="34" rx="2" fill="#FFFFFF" opacity=".75"/><rect x="304" y="122" width="56" height="200" fill="#F1E2C4"/><rect x="310" y="252" width="44" height="60" fill="#B8803C" opacity=".6"/><rect x="18" y="44" width="16" height="360" rx="8" fill="#FFFFFF" opacity=".25"/></symbol>
+    <!-- similar products (top halves only are visible) -->
+    <symbol id="p-bag" viewBox="0 0 110 60"><rect x="0" y="0" width="110" height="60" fill="#FFFFFF"/><path d="M14 8h82v52H14Z" fill="#E9B98A"/><rect x="14" y="8" width="82" height="7" fill="#D9874F"/><rect x="30" y="34" width="50" height="16" fill="#D9874F"/></symbol>
+    <symbol id="p-tub" viewBox="0 0 110 60"><rect x="0" y="0" width="110" height="60" fill="#FFFFFF"/><ellipse cx="55" cy="38" rx="52" ry="40" fill="#8A4A1E"/><path d="M14 46h82v14H14Z" fill="#E07A1F"/><rect x="44" y="34" width="22" height="18" fill="#2E3B1E"/><g fill="#A35A2C"><ellipse cx="26" cy="22" rx="10" ry="6"/><ellipse cx="54" cy="12" rx="10" ry="6"/><ellipse cx="82" cy="22" rx="10" ry="6"/></g></symbol>
+    <symbol id="p-box" viewBox="0 0 110 60"><rect x="0" y="0" width="110" height="60" fill="#FFFFFF"/><rect x="2" y="6" width="106" height="54" fill="#ECECEC"/><g fill="#2A2230"><ellipse cx="14" cy="30" rx="10" ry="7"/><ellipse cx="96" cy="30" rx="10" ry="7"/><ellipse cx="14" cy="50" rx="10" ry="7"/><ellipse cx="96" cy="50" rx="10" ry="7"/></g><rect x="24" y="16" width="62" height="44" fill="#F7F5EE"/><path d="M48 40l7-8 7 8Z" fill="#5A9A3C"/></symbol>
+  </defs>
+</svg>
+
+<header class="top">
+  <span class="tag later">Later</span><span class="tag prop">مقترح منفصل</span><span class="muted" style="font-size:11px">الرئيسية · للمسجّل فقط</span>
+  <h1>"طلبتها قبل": أعد طلب مقاضيك المعتادة من الرئيسية</h1>
+  <p class="lede">صف أفقي واحد يظهر للمسجّل الذي له طلب سابق، بين صف الفئات وقسم "المقاضي". لا يغيّر أي عنصر قائم.</p>
+</header>
+
+<div class="label"><b>قبل</b> نموذج "اللون فقط" (<code>screens/home-loggedin.html</code>)</div>
+<div class="frame" style="height:470px"><img src="../screens/home-loggedin.png" alt="الرئيسية للمسجّل بعد توزيع الألوان"></div>
+
+<div class="label"><b>بعد</b> المقترح</div>
+<div class="frame" style="height:276px"><img src="../screens/home-loggedin.png" alt=""></div>
+<div class="row">
+  <h2>طلبتها قبل</h2>
+  <a class="all">عرض الكل</a>
+  <div class="pc" style="right:11px">
+    <div class="img"><svg class="p" viewBox="0 0 400 420" preserveAspectRatio="xMidYMid meet"><use href="#p-jar"/></svg><span class="plus" aria-label="إضافة"><svg class="ic"><use href="#i-plus"/></svg></span></div>
+    <p class="pr">12 <svg class="ic"><use href="#i-sar"/></svg></p>
+    <p class="nm">هتيل قطع تمر خلاص 200 جم</p>
+  </div>
+  <div class="pc" style="right:139px">
+    <div class="img"><svg class="p" viewBox="0 0 100 100"><use href="#p-dairy"/></svg><span class="plus" aria-label="إضافة"><svg class="ic"><use href="#i-plus"/></svg></span></div>
+    <p class="pr">{السعر} <svg class="ic"><use href="#i-sar"/></svg></p>
+    <p class="nm">{اسم الصنف من الطلب السابق}</p>
+  </div>
+  <div class="pc" style="right:267px">
+    <div class="img"><svg class="p" viewBox="0 0 100 100"><use href="#p-bread"/></svg><span class="plus" aria-label="إضافة"><svg class="ic"><use href="#i-plus"/></svg></span></div>
+    <p class="pr">{السعر} <svg class="ic"><use href="#i-sar"/></svg></p>
+    <p class="nm">{اسم الصنف}</p>
+  </div>
+  <span class="callout" style="top:8px;left:84px">للمسجّل بطلب سابق فقط</span>
+</div>
+<div class="frame" style="height:194px"><img src="../screens/home-loggedin.png" alt="" style="margin-top:-276px"></div>
+
+<section class="txt">
+  <h2>الفائدة للعميل</h2>
+  <p>البقالة مشتريات متكررة. العميل الذي يطلب نفس التمر والحليب والخبز كل أسبوع يصل إليها بنقرة من الرئيسية، دون بحث أو تنقل بين الفئات. وزر الإضافة المرجاني نفسه الموجود في بقية التطبيق، فلا نمط جديد يتعلمه.</p>
+  <p class="muted">ما شوهد: الرئيسية في v65 فئات فقط، ولا مدخل للأصناف السابقة. ولا ادعاء هنا عن وجود هذا عند نينجا أو غيره، لأن ذلك غير متحقق.</p>
+  <h2 style="margin-top:12px">الأدوار اللونية</h2>
+  <ul>
+    <li>العنوان والاسم والسعر <code>text</code>، و"عرض الكل" <code>link</code> البترولي.</li>
+    <li>زر "+" <code>primaryAction</code> مرجاني برمز حبري (5.47:1)، وبعد الإضافة يتحول إلى محدد الكمية المعتمد (AUD-C9).</li>
+    <li>البطاقة بيضاء بحد <code>border</code>، كبلاطات الفئات.</li>
+  </ul>
+  <h2 style="margin-top:12px">التكلفة والتبعيات</h2>
+  <table class="cost">
+    <tr><th>الجهة</th><th>العمل</th><th>الحجم</th></tr>
+    <tr><td>عبيد (Flutter)</td><td>قائمة أفقية تعيد استخدام بطاقة المنتج الحالية ومحدد الكمية، وإخفاء الصف عند عدم وجود طلب سابق أو للضيف</td><td>متوسط (2–3 أيام)</td></tr>
+    <tr><td>محمد (Backend)</td><td>واجهة "أصناف طلباتي السابقة" مرتبة بالتكرار، مع استبعاد غير المتوفر</td><td>متوسط</td></tr>
+    <tr><td>تشغيل</td><td>تأكيد المخزون الحي حتى لا نعرض صنفاً نافداً</td><td>تبعية</td></tr>
+  </table>
+  <p class="muted" style="margin-top:6px">التصنيف Later لأنه يحتاج بيانات طلبات حقيقية، وله قيمة بعد أن يتكرر الطلب، لا في أول الإطلاق. النصوص بين {} أماكن لبيانات حقيقية، وليست نصاً معتمداً.</p>
+</section>
+<p class="foot">مقترح من <code>ui-designer</code> بتاريخ 2026-10-20. ينتظر قرار فضل.</p>
+</body>
+</html>
