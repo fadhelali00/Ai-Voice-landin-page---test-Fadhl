@@ -1,0 +1,101 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=390, initial-scale=1">
+<title>اختيار عنوان التوصيل</title>
+<meta name="description" content="ورقة اختيار عنوان التوصيل فوق السلة (v65 CHECKOUT-04).">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../system/tokens.css">
+<link rel="stylesheet" href="cart.css">
+</head>
+<body class="">
+<script>if(location.search.indexOf("full")>-1)document.body.classList.add("full");</script>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+ <symbol id="sar" viewBox="0 0 20 22"><path d="M6.5 2v15l3-1.2M12.5 3.5V20M2.2 10.6 17.8 7.2M2.2 16.2l15.6-3.4"/></symbol>
+ <symbol id="i-back" viewBox="0 0 24 24"><path d="M3 12h18M14 5l7 7-7 7"/></symbol>
+ <symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 7h16M9 7V4h6v3M6 7l1 13h10l1-13M10 11v6M14 11v6"/></symbol>
+ <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 4v16M4 12h16"/></symbol>
+ <symbol id="i-minus" viewBox="0 0 24 24"><path d="M4 12h16"/></symbol>
+ <symbol id="i-plus-c" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.5"/><path d="M12 7.5v9M7.5 12h9"/></symbol>
+ <symbol id="i-truck" viewBox="0 0 24 24"><path d="M1.5 5.5h12.5v10H1.5zM14.8 8.5h4.2l3.5 3.8v3.2h-7.7z"/><circle cx="6" cy="17.5" r="2.4" stroke="var(--jarna-white)" stroke-width="1.3"/><circle cx="18" cy="17.5" r="2.4" stroke="var(--jarna-white)" stroke-width="1.3"/></symbol>
+ <symbol id="i-chev-l" viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></symbol>
+ <symbol id="i-chev-d" viewBox="0 0 24 24"><path d="M5 9l7 7 7-7"/></symbol>
+ <symbol id="i-chev-u" viewBox="0 0 24 24"><path d="M5 15l7-7 7 7"/></symbol>
+ <symbol id="i-note" viewBox="0 0 24 24"><path d="M4 4.5A1.5 1.5 0 0 1 5.5 3h13A1.5 1.5 0 0 1 20 4.5V14l-7 7H5.5A1.5 1.5 0 0 1 4 19.5zM13 21v-5.5a1.5 1.5 0 0 1 1.5-1.5H20"/></symbol>
+ <symbol id="i-receipt" viewBox="0 0 24 24"><path d="M5 2.5h14v19l-2.3-1.6-2.3 1.6-2.4-1.6-2.3 1.6-2.4-1.6L5 21.5zM8.5 7.5h7M8.5 11h7M8.5 14.5h4"/></symbol>
+ <symbol id="i-scooter" viewBox="0 0 24 24"><circle cx="5.5" cy="17" r="2.5"/><circle cx="18.5" cy="17" r="2.5"/><path d="M8 17h8M15 6h2.5l1 8.5M4 11.5h6l2 5.5M7 8.5h4"/></symbol>
+ <symbol id="i-pin" viewBox="0 0 24 28"><path d="M12 1.5a10 10 0 0 0-10 10c0 7 10 15 10 15s10-8 10-15a10 10 0 0 0-10-10z" fill="currentColor" stroke="none"/><circle cx="12" cy="11.5" r="3.6" fill="var(--jarna-white)" stroke="none"/></symbol>
+ <symbol id="i-pin-o" viewBox="0 0 24 28"><path d="M12 2a9 9 0 0 0-9 9c0 6.5 9 14.5 9 14.5s9-8 9-14.5a9 9 0 0 0-9-9z"/><circle cx="12" cy="11" r="3.2"/></symbol>
+ <symbol id="i-bm" viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4.5L6 21z"/></symbol>
+ <symbol id="i-check-c" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M7.5 12.3l3 3 6-6.3"/></symbol>
+ <symbol id="i-close" viewBox="0 0 24 24"><path d="M4 4l16 16M20 4L4 20"/></symbol>
+ <symbol id="i-coupon" viewBox="0 0 24 24"><polygon points="12.00,1.00 15.03,2.68 18.47,3.10 19.93,6.24 22.46,8.60 21.80,12.00 22.46,15.40 19.93,17.76 18.47,20.90 15.03,21.32 12.00,23.00 8.97,21.32 5.53,20.90 4.07,17.76 1.54,15.40 2.20,12.00 1.54,8.60 4.07,6.24 5.53,3.10 8.97,2.68" fill="var(--jarna-offer-icon)" stroke="var(--jarna-offer-icon)" stroke-width="1.6" stroke-linejoin="round"/><circle cx="9" cy="9.2" r="1.7" fill="var(--jarna-on-offer-icon)"/><circle cx="15" cy="14.8" r="1.7" fill="var(--jarna-on-offer-icon)"/><path d="M15.6 8.2l-7.2 7.6" stroke="var(--jarna-on-offer-icon)" stroke-width="1.9" stroke-linecap="round"/></symbol>
+</svg>
+<div class="app">
+<header class="hdr">
+  <div class="status" aria-hidden="true"><span class="time">9:14</span><span class="cam"></span><span class="sys"><svg width="16" height="12" viewBox="0 0 16 12"><path d="M8 12L0 3.5a11.5 11.5 0 0 1 16 0z"/></svg><svg width="13" height="12" viewBox="0 0 13 12"><path d="M13 0v12H0z"/></svg><svg width="8" height="13" viewBox="0 0 8 13"><rect x="0" y="1.5" width="8" height="11.5" rx="1.3"/><rect x="2.5" y="0" width="3" height="2"/></svg></span></div>
+  <div class="hdr-row"><svg class="ic back" ><use href="#i-back"/></svg><h1>عربة التسوق</h1></div>
+</header>
+<main class="content">
+<section class="card">
+  <div class="items-head"><h2>عناصر</h2><div class="count">منتج واحد</div>
+    <button class="clear-btn" type="button"><svg class="ic" ><use href="#i-trash"/></svg>مسح</button></div>
+  <div class="item last">
+    <svg class="thumb" viewBox="0 0 42 42"><path d="M1 15l4 1.5-4 1.5 4 1.5-4 1.5 4 1.5-4 1.5 4 1.5h32l4-1.5-4-1.5 4-1.5-4-1.5 4-1.5-4-1.5 4-1.5-4-1.5z" fill="var(--jarna-amber-surface)" stroke="var(--jarna-border-subtle)"/><rect x="10" y="16.5" width="15" height="9" rx="2" fill="var(--jarna-secondary)"/><rect x="27" y="18" width="7" height="6" rx="1" fill="var(--jarna-amber)"/></svg>
+    <div class="name" dir="rtl">Nesquik Chocolate Cereal Bar 25 gm</div>
+    <div class="sub" style="top:54px" dir="rtl">Nesquik Chocolate Cereal Bar 25 gm</div>
+    <div class="qty"><svg class="ic" ><use href="#i-plus"/></svg><b>5</b><svg class="ic" ><use href="#i-minus"/></svg></div>
+    <div class="price"><span class="num"><svg class="sar"><use href="#sar"/></svg>10</span></div>
+  </div>
+  <div class="add-more"><svg class="ic" ><use href="#i-plus-c"/></svg><span>إضافة المزيد من العناصر</span></div>
+</section>
+<section class="card fd-card" style="height:170px">
+    <div class="fd"><div class="truck"><svg><use href="#i-truck"/></svg></div>
+      <h3>احصل على توصيل مجاني</h3><p>أضف منتجات بقيمة <span class="num"><svg class="sar"><use href="#sar"/></svg>40</span> إضافية</p>
+      <div class="bar"><i style="width:20%"></i></div></div>
+    <div class="coupon-row"><svg class="badge"><use href="#i-coupon"/></svg><span>عرض الكوبونات والعروض</span><svg class="ic chev" ><use href="#i-chev-l"/></svg></div>
+</section>
+<div style="height:18px"></div>
+<section class="card" style="height:63px">
+  <div class="note-row"><svg class="ic nicon" ><use href="#i-note"/></svg><h3>إضافة ملاحظة للطلب</h3><svg class="ic chev" ><use href="#i-chev-d"/></svg></div>
+</section>
+<div style="height:9px"></div>
+<section class="card tips">
+  <svg class="art" viewBox="0 0 58 32"><rect x="18" y="2" width="38" height="20" rx="2" transform="rotate(-10 37 12)" fill="var(--jarna-mint)" stroke="var(--jarna-petrol)" stroke-width="1"/><circle cx="37" cy="12" r="4" fill="none" stroke="var(--jarna-petrol)"/><rect x="38" y="14" width="13" height="12" rx="1" fill="var(--jarna-white)" stroke="var(--jarna-coral)"/><path d="M2 22c6-2 10-3 16-2l10 2c2 1 1 4-2 4h-8l10 1c3 0 5-3 7-3" fill="var(--jarna-amber-surface)" stroke="var(--jarna-amber)" stroke-width="1.3" stroke-linejoin="round"/><rect x="0" y="22" width="7" height="10" fill="var(--jarna-secondary)"/></svg>
+  <h3>اشكر شريك التوصيل الخاص بك</h3>
+  <p>الإكرامية اختيارية، ويصل كامل مبلغها إلى شريك التوصيل تقديرًا لجهده.</p>
+  <div class="chips"><span class="chip" style="width:68px"><span class="e">😀</span><span class="num"><svg class="sar"><use href="#sar"/></svg>10</span></span><span class="chip" style="width:70px"><span class="e">☺️</span><span class="num"><svg class="sar"><use href="#sar"/></svg>20</span></span><span class="chip" style="width:69px"><span class="e">😍</span><span class="num"><svg class="sar"><use href="#sar"/></svg>50</span></span><span class="chip" style="width:91px"><span class="e">👏</span><span>مخصص</span></span></div>
+</section>
+<section class="card invoice" style="margin-bottom:6px">
+  <h3>تفاصيل الفاتورة</h3>
+  <div class="inv-row"><svg class="ic ric" style="top:62px"><use href="#i-receipt"/></svg><span class="lbl" style="top:60px">إجمالي العناصر (1 منتجات)</span><span class="amt" style="top:60px"><span class="num"><svg class="sar"><use href="#sar"/></svg>10.00</span></span></div>
+  <div class="inv-row"><svg class="ic ric" style="top:109px"><use href="#i-scooter"/></svg><span class="lbl" style="top:94px">رسوم التوصيل</span><span class="hint" style="top:119px">أضف منتجات بقيمة <span class="num"><svg class="sar"><use href="#sar"/></svg>40</span> للحصول على توصيل مجاني</span><span class="amt" style="top:107px"><span class="num"><svg class="sar"><use href="#sar"/></svg>7.00</span></span></div>
+  <div class="div"></div>
+</section>
+<p class="mock-note">ملاحظة نموذج: ما بعد هذا الفاصل (سطر الإجمالي وغيره) لم يظهر في أي لقطة من v65، فلم يُرسم. يُستكمل بعد تصويره.</p>
+</main>
+<footer class="footer">
+  <div class="addr"><svg class="pin"><use href="#i-pin"/></svg><span class="to">التوصيل إلى</span><span class="line">جدة، حي الروضة، شارع الأمير سلطان (بيانات مثال)</span><span class="change">تغيير</span></div>
+  <div class="actionbar"><button class="btn-primary" type="button">اختر طريقة الدفع</button></div>
+</footer>
+<div class="scrim"></div>
+<div class="sheet" role="dialog" aria-label="اختر عنوان التوصيل">
+  <span class="handle"></span>
+  <h2>اختر عنوان التوصيل</h2><svg class="ic close" ><use href="#i-close"/></svg>
+  <div class="add-addr"><svg class="ic aplus" ><use href="#i-plus"/></svg><span>إضافة عنوان جديد</span><svg class="ic chev" ><use href="#i-chev-l"/></svg></div>
+  <div class="acard sel" style="top:178px"><div class="ahead"><svg class="ic check" ><use href="#i-check-c"/></svg><span class="tag">home</span></div>
+    <svg class="ic apin"><use href="#i-pin-o"/></svg>
+    <div class="atext"><b>جدة، حي الروضة (بيانات مثال)</b>شارع الأمير سلطان، مبنى 12، الدور الثاني<br>بجوار الصيدلية</div></div>
+  <div class="acard" style="top:359px"><div class="ahead"><span class="tag">home</span></div>
+    <svg class="ic apin"><use href="#i-pin-o"/></svg>
+    <div class="atext"><b>جدة، حي الروضة (بيانات مثال)</b>شارع الأمير سلطان، مبنى 12، الدور الثاني<br>بجوار الصيدلية</div></div>
+  <div class="acard" style="top:539px"><div class="ahead"><span class="tag">home</span></div>
+    <svg class="ic apin"><use href="#i-pin-o"/></svg>
+    <div class="atext"><b>جدة، حي الروضة (بيانات مثال)</b>شارع الأمير سلطان، مبنى 12، الدور الثاني<br>بجوار الصيدلية</div></div>
+</div>
+<script>window.addEventListener('load',()=>window.scrollTo(0,60));</script>
+</div>
+</body>
+</html>

@@ -1,0 +1,174 @@
+/*
+ * Jarna — Cart / Review mockups (v65 layout, colour-only change)
+ * Shared by: cart.html, cart-note-open.html, cart-saved-location.html, cart-loading.html,
+ *            review.html, review-plus-alt.html, review-address-picker.html
+ * Every colour is a var(--jarna-*) from ../system/tokens.css. No raw hex below.
+ * Geometry (px) measured from v65 screenshots (423px emulator captures scaled to 390).
+ * Font: Readex Pro is the closest web match to the v65 app font. It is NOT a font change
+ * request: Flutter keeps the app's current font.
+ */
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:var(--jarna-background)}
+body{width:390px;margin:0 auto;font-family:'Readex Pro',system-ui,sans-serif;color:var(--jarna-text);
+  -webkit-font-smoothing:antialiased;line-height:1.35}
+svg{display:block}
+.ic{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.sar{display:inline-block;width:.86em;height:.95em;vertical-align:-.1em;fill:none;stroke:currentColor;stroke-width:2.3;stroke-linecap:round}
+.num{direction:ltr;unicode-bidi:isolate;display:inline-flex;align-items:center;gap:3px}
+
+.app{position:relative;width:390px;min-height:844px;display:flex;flex-direction:column}
+.app > main{flex:1;padding-bottom:16px}
+
+/* ---------- status bar (OS) + inner header ---------- */
+.hdr{position:sticky;top:0;z-index:20;height:102px;background:var(--jarna-surface);
+  border-bottom:1px solid var(--jarna-border)}
+.status{position:relative;height:46px;direction:ltr;font-size:14px;color:var(--jarna-text)}
+.status .time{position:absolute;left:28px;top:14px;font-weight:400;letter-spacing:.2px}
+.status .cam{position:absolute;left:184px;top:13px;width:22px;height:22px;border-radius:50%;background:var(--jarna-text)}
+.status .sys{position:absolute;right:20px;top:16px;display:flex;gap:5px;align-items:center}
+.status .sys svg{fill:var(--jarna-text)}
+.hdr-row{position:relative;height:55px}
+.hdr-row .back{position:absolute;right:20px;top:20px;width:16px;height:16px;color:var(--jarna-inner-header-title)}
+.hdr-row h1{position:absolute;right:70px;top:16px;font-size:15.5px;font-weight:500;color:var(--jarna-inner-header-title);line-height:24px}
+
+/* ---------- page + cards ---------- */
+.content{padding-top:15px}
+.card{position:relative;margin:0 15px 11px;background:var(--jarna-surface);border:1px solid var(--jarna-border);border-radius:18px;overflow:hidden}
+
+/* items card */
+.items-head{position:relative;height:75px;border-bottom:1px solid var(--jarna-border)}
+.items-head h2{position:absolute;right:15px;top:11px;font-size:16px;font-weight:700;line-height:24px;color:var(--jarna-text)}
+.items-head .count{position:absolute;right:15px;top:38px;font-size:12px;line-height:18px;color:var(--jarna-text-secondary)}
+.clear-btn{position:absolute;left:15px;top:22px;width:66px;height:29px;border-radius:15px;
+  background:var(--jarna-error-surface);border:1px solid var(--jarna-error);color:var(--jarna-error);
+  display:flex;align-items:center;justify-content:center;gap:5px;font-size:12.5px;font-weight:500}
+.clear-btn .ic{width:12px;height:12px;stroke-width:2}
+.item{position:relative;height:99px;border-bottom:1px solid var(--jarna-border)}
+.item.short{height:79px}
+.item.last{border-bottom:1px dashed var(--jarna-border)}
+.item .thumb{position:absolute;right:14px;top:18px;width:42px;height:42px}
+.item .name{position:absolute;right:70px;top:13px;width:112px;font-size:12.3px;line-height:19px;color:var(--jarna-text);
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.item .sub{position:absolute;right:70px;width:112px;font-size:10.2px;line-height:14px;color:var(--jarna-text-secondary)}
+.qty{position:absolute;left:91px;top:16px;width:79px;height:32px;border:1px solid var(--jarna-control-border);border-radius:6px;
+  direction:ltr;display:flex;align-items:center;justify-content:space-between;padding:0 7px}
+.qty .ic{width:13px;height:13px;color:var(--jarna-icon-action);stroke-width:2}
+.qty b{font-size:12.5px;font-weight:500;color:var(--jarna-text)}
+.item .price{position:absolute;left:12px;top:17px;font-size:13.5px;font-weight:700;line-height:22px;color:var(--jarna-price)}
+.add-more{height:53px;display:flex;align-items:center;justify-content:center;gap:8px;color:var(--jarna-link);font-size:14.5px;font-weight:600}
+.add-more .ic{width:17px;height:17px;stroke-width:1.8}
+
+/* free delivery + coupons card */
+.fd-card{padding:11px 11px 0}
+.fd{position:relative;height:91px;border-radius:12px;background:var(--jarna-supportive-panel);border:1px solid var(--jarna-border)}
+.fd .truck{position:absolute;right:13px;top:13px;width:45px;height:45px;border-radius:10px;background:var(--jarna-surface);
+  display:flex;align-items:center;justify-content:center;color:var(--jarna-confirmed-free-delivery)}
+.fd .truck svg{width:24px;height:24px;fill:currentColor}
+.fd h3{position:absolute;right:73px;top:11px;font-size:15px;font-weight:600;line-height:22px;color:var(--jarna-text)}
+.fd.done h3{color:var(--jarna-confirmed-free-delivery)}
+.fd p{position:absolute;right:73px;top:37px;font-size:12px;line-height:18px;color:var(--jarna-text-secondary)}
+/* TEMP decision (Fadl pending, C11/K2): progress is PETROL on #D8E5DF track.
+   jarna-tokens.json still says freeDeliveryProgress = coral; update after Fadl decides. */
+.fd .bar{position:absolute;left:13px;right:13px;top:71px;height:6px;border-radius:3px;background:var(--jarna-free-delivery-track);overflow:hidden}
+.fd .bar i{position:absolute;right:0;top:0;bottom:0;border-radius:3px;background:var(--jarna-confirmed-free-delivery)}
+.coupon-row{position:relative;height:68px}
+.coupon-row .badge{position:absolute;right:9px;top:21px;width:24px;height:24px}
+.coupon-row span{position:absolute;right:44px;top:21px;font-size:14.5px;font-weight:600;line-height:24px;color:var(--jarna-text)}
+.coupon-row .chev{position:absolute;left:16px;top:26px;width:14px;height:14px;color:var(--jarna-icon-neutral)}
+
+/* note card */
+.note-row{position:relative;height:61px}
+.note-row .nicon{position:absolute;right:20px;top:20px;width:22px;height:22px;color:var(--jarna-icon-action);stroke-width:1.8}
+.note-row h3{position:absolute;right:57px;top:19px;font-size:15px;font-weight:600;line-height:24px;color:var(--jarna-text)}
+.note-row .chev{position:absolute;left:22px;top:24px;width:15px;height:15px;color:var(--jarna-icon-neutral)}
+.note-body{padding:0 19px 0 19px;height:205px;position:relative}
+.note-body .hint{font-size:13px;line-height:19px;color:var(--jarna-text-secondary);margin-top:0}
+.note-body .field{position:absolute;left:17px;right:18px;top:55px;height:103px;border:1px solid var(--jarna-control-border);border-radius:10px}
+.note-body .field span{position:absolute;right:10px;top:15px;font-size:13px;color:var(--jarna-text-secondary)}
+.note-body .counter{position:absolute;left:17px;top:166px;font-size:12px;line-height:16px;color:var(--jarna-text-secondary);direction:ltr}
+
+/* tips card */
+.tips{position:relative;height:163px}
+.tips .art{position:absolute;right:18px;top:29px;width:58px;height:32px}
+.tips h3{position:absolute;right:92px;top:16px;font-size:14px;font-weight:700;line-height:22px;color:var(--jarna-text)}
+.tips p{position:absolute;right:92px;top:41px;width:232px;font-size:11px;line-height:15.5px;color:var(--jarna-text-secondary)}
+.chips{position:absolute;right:18px;top:96px;display:flex;gap:6px}
+.chip{height:48px;border-radius:12px;background:var(--jarna-surface);border:1px solid var(--jarna-control-border);
+  display:flex;align-items:center;justify-content:center;gap:1px;font-size:14px;font-weight:400;color:var(--jarna-text)}
+.chip .e{font-family:'Noto Color Emoji';font-size:14px}
+
+/* invoice card */
+.invoice{position:relative;height:178px}
+.invoice h3{position:absolute;right:15px;top:12px;font-size:16.5px;font-weight:700;line-height:26px;color:var(--jarna-text)}
+.inv-row .ric{position:absolute;right:14px;width:16px;height:16px;color:var(--jarna-icon-neutral);stroke-width:1.7}
+.inv-row .lbl{position:absolute;right:43px;font-size:13.5px;line-height:20px;color:var(--jarna-text)}
+.inv-row .hint{position:absolute;right:43px;font-size:11px;line-height:16px;color:var(--jarna-text-secondary)}
+.inv-row .amt{position:absolute;left:13px;font-size:13px;font-weight:700;line-height:20px;color:var(--jarna-price)}
+.invoice .div{position:absolute;left:13px;right:13px;top:158px;border-top:1px solid var(--jarna-border)}
+.mock-note{margin:4px 15px 0;padding:8px 10px;border:1px dashed var(--jarna-border-control);border-radius:8px;font-size:11px;line-height:16px;color:var(--jarna-text-secondary)}
+
+/* recommendations */
+.recs{position:relative;height:292px}
+.recs h2{position:absolute;right:15px;top:10px;font-size:17.5px;font-weight:700;line-height:28px;color:var(--jarna-text)}
+.rec-row{position:absolute;right:14px;top:54px;display:flex;gap:24px}
+.rec{position:relative;width:119px;flex:none}
+.rec .tile{position:relative;width:119px;height:139px;border-radius:12px;border:1px solid var(--jarna-border);overflow:hidden;background:var(--jarna-surface)}
+.rec .tile .art{position:absolute;inset:0}
+.rec .bm{position:absolute;left:11px;top:9px;width:25px;height:25px;border-radius:50%;background:var(--jarna-surface);box-shadow:0 1px 4px rgba(23,45,43,.14);display:flex;align-items:center;justify-content:center}
+.rec .bm svg{width:13px;height:13px;stroke-width:2}
+.rec .bm.on svg{fill:var(--jarna-link);stroke:var(--jarna-link)}
+.rec .bm.off svg{fill:none;stroke:var(--jarna-icon-neutral)}
+.rec .plus{position:absolute;left:5px;top:99px;width:32px;height:32px;border-radius:50%;box-shadow:0 1px 4px rgba(23,45,43,.14);display:flex;align-items:center;justify-content:center;
+  background:var(--jarna-primary-action);color:var(--jarna-on-primary-action)}
+.rec .plus svg{width:15px;height:15px;stroke-width:2.2}
+/* K7 alternative: petrol outline, white fill */
+.alt-plus .rec .plus{background:var(--jarna-surface);border:1.5px solid var(--jarna-link);color:var(--jarna-link)}
+.rec .rprice{margin-top:13px;font-size:16px;font-weight:700;line-height:24px;color:var(--jarna-price);text-align:right}
+.rec .rname{margin-top:5px;font-size:13px;line-height:20px;color:var(--jarna-text);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+
+/* ---------- fixed footer: address bar + primary bar ---------- */
+/* sticky (not fixed) so full-page captures show it once, after the content */
+.footer{position:sticky;bottom:0;width:390px;z-index:30;background:var(--jarna-footer)}
+.addr{position:relative;height:85px;border-top:1px solid var(--jarna-border);border-bottom:1px solid var(--jarna-border)}
+.addr .pin{position:absolute;right:17px;top:31px;width:21px;height:25px;color:var(--jarna-link)}
+.addr .to{position:absolute;right:54px;top:16px;font-size:14px;line-height:22px;color:var(--jarna-text)}
+.addr .line{position:absolute;right:42px;top:44px;width:288px;font-size:12.5px;line-height:20px;color:var(--jarna-text-secondary);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.addr .change{position:absolute;left:15px;top:31px;font-size:15px;font-weight:700;line-height:24px;color:var(--jarna-link)}
+.actionbar{position:relative;height:81px}
+.btn-primary{position:absolute;left:15px;right:15px;top:16px;height:49px;border-radius:9px;border:0;
+  background:var(--jarna-primary-action);color:var(--jarna-on-primary-action);font:inherit;font-size:15px;font-weight:700;
+  display:flex;align-items:center;justify-content:center}
+.btn-primary:active{background:var(--jarna-primary-action-pressed)}
+.btn-primary[disabled]{background:var(--jarna-disabled);color:var(--jarna-on-disabled)}
+.review .btn-primary{right:auto;width:233px}
+.pay{position:absolute;right:16px;top:19px;width:120px;height:50px}
+.pay .cash{position:absolute;right:0;top:0;width:15px;height:17px}
+.pay .lbl{position:absolute;right:21px;top:2px;font-size:10.5px;line-height:16px;color:var(--jarna-text-secondary)}
+.pay .caret{position:absolute;right:107px;top:5px;width:9px;height:7px;fill:var(--jarna-icon-neutral)}
+.pay .val{position:absolute;right:0;top:23px;font-size:13px;line-height:20px;color:var(--jarna-text);white-space:nowrap;direction:ltr}
+
+/* ---------- bottom sheet: address picker ---------- */
+.scrim{position:fixed;inset:0;background:var(--jarna-overlay);z-index:40}
+.sheet{position:fixed;left:50%;transform:translateX(-50%);bottom:0;width:390px;height:651px;z-index:41;background:var(--jarna-surface);
+  border-radius:20px 20px 0 0;overflow:hidden}
+.sheet .handle{position:absolute;left:174px;top:15px;width:43px;height:4px;border-radius:2px;background:var(--jarna-border)}
+.sheet h2{position:absolute;right:15px;top:42px;font-size:18.5px;font-weight:700;line-height:28px;color:var(--jarna-text)}
+.sheet .close{position:absolute;left:28px;top:48px;width:17px;height:17px;color:var(--jarna-text);stroke-width:2}
+.add-addr{position:absolute;left:8px;right:8px;top:103px;height:51px;border-radius:16px;background:var(--jarna-surface);
+  border:1px solid var(--jarna-border);box-shadow:0 2px 8px rgba(23,45,43,.08)}
+.add-addr .aplus{position:absolute;right:13px;top:16px;width:18px;height:18px;color:var(--jarna-link);stroke-width:2}
+.add-addr span{position:absolute;right:42px;top:13px;font-size:15px;font-weight:600;line-height:24px;color:var(--jarna-link)}
+.add-addr .chev{position:absolute;left:14px;top:18px;width:14px;height:14px;color:var(--jarna-icon-neutral)}
+.acard{position:absolute;left:14px;right:14px;height:167px;border-radius:14px;border:1px solid var(--jarna-border);background:var(--jarna-surface);overflow:hidden}
+.acard.sel{border:2px solid var(--jarna-selection-indicator)}
+.acard .ahead{position:relative;height:46px;border-bottom:1px solid var(--jarna-border)}
+.acard.sel .ahead{background:var(--jarna-selection-surface);border-bottom-color:transparent}
+.acard .check{position:absolute;left:19px;top:14px;width:19px;height:19px;color:var(--jarna-selection-indicator)}
+.acard .tag{position:absolute;right:18px;top:10px;width:52px;height:26px;border-radius:8px;background:var(--jarna-selection-surface);
+  color:var(--jarna-link);font-size:14px;line-height:26px;text-align:center}
+.acard .apin{position:absolute;right:15px;top:68px;width:15px;height:17px;color:var(--jarna-icon-neutral);stroke-width:1.8}
+.acard .atext{position:absolute;right:38px;left:13px;top:60px;font-size:13px;line-height:20px;color:var(--jarna-text-secondary)}
+.acard .atext b{display:block;font-weight:500;font-size:14px;color:var(--jarna-text)}
+/* Full-page capture mode: open the file with ?full to put the footer in normal flow
+   (a sticky/fixed footer otherwise lands mid-page in Playwright full-page captures). */
+.full .footer{position:relative}
