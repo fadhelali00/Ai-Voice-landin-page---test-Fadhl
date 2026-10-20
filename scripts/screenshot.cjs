@@ -19,7 +19,8 @@ const { chromium } = require('playwright');
     deviceScaleFactor: 3,
     locale: 'ar-SA',
   });
-  await page.goto('file://' + abs, { waitUntil: 'networkidle' });
+  // ?full lets mockups move fixed bottom bars below the content for full-page shots.
+  await page.goto('file://' + abs + (fullPage ? '?full' : ''), { waitUntil: 'networkidle' });
   await page.evaluate(() => document.fonts.ready);
   await page.screenshot({ path: out, fullPage });
   await browser.close();
