@@ -1,0 +1,10 @@
+{
+  "name": "grocery-design-workspace",
+  "private": true,
+  "scripts": {
+    "shot": "node scripts/screenshot.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.56.1"
+  }
+}
