@@ -12,11 +12,11 @@ def img(k, h, x, y, z):
 
 
 HERO = f"""<!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8">{FONT}<style>
-html,body{{margin:0;width:1500px;height:800px;overflow:hidden;font-family:'IBM Plex Sans Arabic',sans-serif}}
-.b{{position:relative;width:1500px;height:800px;background:radial-gradient(120% 90% at 85% 10%,#0A8378 0%,{PETROL} 45%,{PETROL_DK} 100%);overflow:hidden}}
+html,body{{margin:0;width:1600px;height:900px;overflow:hidden;font-family:'IBM Plex Sans Arabic',sans-serif}}
+.b{{position:relative;width:1600px;height:900px;background:radial-gradient(120% 90% at 85% 10%,#0A8378 0%,{PETROL} 45%,{PETROL_DK} 100%);overflow:hidden}}
 .ring{{position:absolute;border-radius:50%;border:2px solid rgba(224,241,236,.14)}}
-.shelf{{position:absolute;left:0;right:0;bottom:0;height:190px;background:{MINT};border-top-left-radius:60% 40px;border-top-right-radius:60% 40px}}
-.txt{{position:absolute;right:90px;top:90px;width:640px;color:{WHITE}}}
+.shelf{{position:absolute;left:0;right:0;bottom:0;height:210px;background:{MINT};border-top-left-radius:60% 40px;border-top-right-radius:60% 40px}}
+.txt{{position:absolute;right:100px;top:120px;width:640px;color:{WHITE}}}
 h1{{margin:0;font-size:96px;line-height:1.1;font-weight:700}}
 p{{margin:22px 0 0;font-size:40px;line-height:1.45;font-weight:500;color:rgba(255,255,255,.9)}}
 .cta{{display:inline-block;margin-top:34px;background:{CORAL};color:{INK};font-size:40px;font-weight:700;padding:16px 50px;border-radius:999px}}
@@ -25,9 +25,9 @@ p{{margin:22px 0 0;font-size:40px;line-height:1.45;font-weight:500;color:rgba(25
 <div class="ring" style="width:620px;height:620px;left:-110px;top:-160px"></div>
 <div class="shelf"></div>
 <div class="txt"><h1>وش تحتاج اليوم؟</h1><p>الطازج والمقاضي والمشروبات<br>في طلب واحد</p><div class="cta">اطلب الحين</div></div>
-{img('rice', 470, 330, 170, 2)}{img('oil', 440, 160, 220, 3)}{img('laban', 400, 560, 250, 3)}
-{img('water', 230, 20, 470, 4)}{img('eggs', 190, 540, 560, 5)}{img('tomato', 200, 760, 520, 5)}
-{img('orange', 170, 300, 590, 6)}{img('ketchup', 280, 900, 470, 4)}{img('chips', 230, 1010, 520, 4)}
+{img('rice', 520, 350, 200, 2)}{img('oil', 490, 170, 250, 3)}{img('laban', 440, 600, 290, 3)}
+{img('water', 250, 30, 540, 4)}{img('eggs', 210, 580, 650, 5)}{img('tomato', 220, 810, 600, 5)}
+{img('orange', 190, 320, 680, 6)}{img('ketchup', 300, 960, 540, 4)}{img('chips', 250, 1080, 600, 4)}
 </div></body></html>"""
 
 CARDS = [
@@ -41,6 +41,8 @@ CARDS = [
      "items": [("water", 250, 250, 330, 2), ("juice", 300, 110, 290, 3), ("nectar", 290, 20, 300, 2), ("soda", 160, 280, 460, 4)]},
     {"id": "c5_snacks", "bg": MINT, "fg": INK, "title": "السناكات<br>والحلى", "cat": 28,
      "items": [("haribo", 280, 320, 290, 2), ("digestive", 270, 60, 300, 3), ("nuts", 230, 230, 380, 4)]},
+    {"id": "c6_icecream", "bg": PETROL, "fg": WHITE, "title": "الآيس<br>كريم", "cat": 34,
+     "items": [("icecream", 230, 60, 330, 2)]},
 ]
 
 CARD = """<!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8">{font}<style>
