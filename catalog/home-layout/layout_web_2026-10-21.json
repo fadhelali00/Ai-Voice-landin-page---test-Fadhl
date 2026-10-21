@@ -1,0 +1,1331 @@
+{
+ "platform": "web",
+ "scope_type": "global",
+ "scope_id": null,
+ "zone_id": null,
+ "is_active": true,
+ "excluded_global_section_ids": [],
+ "sections": [
+  {
+   "id": null,
+   "sort_order": 0,
+   "is_active": true,
+   "start_at": null,
+   "end_at": null,
+   "zone_ids": [],
+   "type": "products",
+   "title": "العروض",
+   "style": null,
+   "config": {
+    "source": "custom",
+    "orientation": "horizontal",
+    "background_type": "none"
+   },
+   "items": [
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 0,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1323
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 1,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1490
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 2,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1467
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 3,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1698
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 4,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1686
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 5,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1693
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 6,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1541
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 7,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1691
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 8,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1695
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 9,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1602
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 10,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1227
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 11,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1665
+    }
+   ]
+  },
+  {
+   "id": null,
+   "sort_order": 1,
+   "is_active": true,
+   "start_at": null,
+   "end_at": null,
+   "zone_ids": [],
+   "type": "categories",
+   "title": "الطازج",
+   "style": "card",
+   "config": {
+    "source": "custom",
+    "rows_layout": "grid",
+    "grid_columns": "4",
+    "background_type": "none"
+   },
+   "items": [
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 0,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 75
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 1,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 76
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 2,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 5
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 3,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 3
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 4,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 102
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 5,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 103
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 6,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 4
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 7,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 104
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 8,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 7
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 9,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 6
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 10,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 105
+    }
+   ]
+  },
+  {
+   "id": null,
+   "sort_order": 2,
+   "is_active": true,
+   "start_at": null,
+   "end_at": null,
+   "zone_ids": [],
+   "type": "products",
+   "title": "مختارات الطازج",
+   "style": null,
+   "config": {
+    "source": "custom",
+    "orientation": "horizontal",
+    "background_type": "none"
+   },
+   "items": [
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 0,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1323
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 1,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1686
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 2,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1541
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 3,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1691
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 4,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1602
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 5,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1227
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 6,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1665
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 7,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1689
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 8,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1685
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 9,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1182
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 10,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1181
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 11,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1687
+    }
+   ]
+  },
+  {
+   "id": null,
+   "sort_order": 3,
+   "is_active": true,
+   "start_at": null,
+   "end_at": null,
+   "zone_ids": [],
+   "type": "categories",
+   "title": "المقاضي",
+   "style": "card",
+   "config": {
+    "source": "custom",
+    "rows_layout": "grid",
+    "grid_columns": "4",
+    "background_type": "none"
+   },
+   "items": [
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 0,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 15
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 1,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 106
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 2,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 9
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 3,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 10
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 4,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 12
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 5,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 13
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 6,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 17
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 7,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 11
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 8,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 14
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 9,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 18
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 10,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 16
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 11,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 107
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 12,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 19
+    }
+   ]
+  },
+  {
+   "id": null,
+   "sort_order": 4,
+   "is_active": true,
+   "start_at": null,
+   "end_at": null,
+   "zone_ids": [],
+   "type": "products",
+   "title": "مختارات المقاضي",
+   "style": null,
+   "config": {
+    "source": "custom",
+    "orientation": "horizontal",
+    "background_type": "none"
+   },
+   "items": [
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 0,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1490
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 1,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1467
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 2,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1698
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 3,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1693
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 4,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1695
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 5,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1701
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 6,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1468
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 7,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1696
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 8,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1472
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 9,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1188
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 10,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1185
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 11,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1184
+    }
+   ]
+  },
+  {
+   "id": null,
+   "sort_order": 5,
+   "is_active": true,
+   "start_at": null,
+   "end_at": null,
+   "zone_ids": [],
+   "type": "categories",
+   "title": "المشروبات",
+   "style": "card",
+   "config": {
+    "source": "custom",
+    "rows_layout": "grid",
+    "grid_columns": "4",
+    "background_type": "none"
+   },
+   "items": [
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 0,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 21
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 1,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 22
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 2,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 23
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 3,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 24
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 4,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 108
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 5,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 26
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 6,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 25
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 7,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 27
+    }
+   ]
+  },
+  {
+   "id": null,
+   "sort_order": 6,
+   "is_active": true,
+   "start_at": null,
+   "end_at": null,
+   "zone_ids": [],
+   "type": "products",
+   "title": "مختارات المشروبات",
+   "style": null,
+   "config": {
+    "source": "custom",
+    "orientation": "horizontal",
+    "background_type": "none"
+   },
+   "items": [
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 0,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1702
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 1,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1704
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 2,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1707
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 3,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1199
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 4,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1198
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 5,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1195
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 6,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1193
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 7,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1191
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 8,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1705
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 9,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1703
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 10,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1706
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 11,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1197
+    }
+   ]
+  },
+  {
+   "id": null,
+   "sort_order": 7,
+   "is_active": true,
+   "start_at": null,
+   "end_at": null,
+   "zone_ids": [],
+   "type": "categories",
+   "title": "السناكات والحلى",
+   "style": "card",
+   "config": {
+    "source": "custom",
+    "rows_layout": "grid",
+    "grid_columns": "4",
+    "background_type": "none"
+   },
+   "items": [
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 0,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 29
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 1,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 30
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 2,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 31
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 3,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 32
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 4,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 109
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 5,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 34
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 6,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 33
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 7,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 35
+    }
+   ]
+  },
+  {
+   "id": null,
+   "sort_order": 8,
+   "is_active": true,
+   "start_at": null,
+   "end_at": null,
+   "zone_ids": [],
+   "type": "products",
+   "title": "مختارات السناكات والحلى",
+   "style": null,
+   "config": {
+    "source": "custom",
+    "orientation": "horizontal",
+    "background_type": "none"
+   },
+   "items": [
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 0,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1710
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 1,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1708
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 2,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1475
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 3,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1205
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 4,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1204
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 5,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1203
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 6,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1201
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 7,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1200
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 8,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1709
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 9,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1208
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 10,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1202
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 11,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1207
+    }
+   ]
+  },
+  {
+   "id": null,
+   "sort_order": 9,
+   "is_active": true,
+   "start_at": null,
+   "end_at": null,
+   "zone_ids": [],
+   "type": "categories",
+   "title": "الجمال والعناية الشخصية",
+   "style": "card",
+   "config": {
+    "source": "custom",
+    "rows_layout": "grid",
+    "grid_columns": "4",
+    "background_type": "none"
+   },
+   "items": [
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 0,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 48
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 1,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 51
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 2,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 46
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 3,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 47
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 4,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 50
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 5,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 53
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 6,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 49
+    }
+   ]
+  },
+  {
+   "id": null,
+   "sort_order": 10,
+   "is_active": true,
+   "start_at": null,
+   "end_at": null,
+   "zone_ids": [],
+   "type": "products",
+   "title": "مختارات الجمال والعناية الشخصية",
+   "style": null,
+   "config": {
+    "source": "custom",
+    "orientation": "horizontal",
+    "background_type": "none"
+   },
+   "items": [
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 0,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1218
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 1,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1217
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 2,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1216
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 3,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1215
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 4,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1214
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 5,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1212
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 6,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1211
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 7,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1178
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 8,
+     "purpose": "display",
+     "itemable_type": "product",
+     "itemable_id": 1213
+    }
+   ]
+  },
+  {
+   "id": null,
+   "sort_order": 11,
+   "is_active": true,
+   "start_at": null,
+   "end_at": null,
+   "zone_ids": [],
+   "type": "categories",
+   "title": "المنزل والتنظيف",
+   "style": "card",
+   "config": {
+    "source": "custom",
+    "rows_layout": "grid",
+    "grid_columns": "4",
+    "background_type": "none"
+   },
+   "items": [
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 0,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 37
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 1,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 38
+    }
+   ]
+  },
+  {
+   "id": null,
+   "sort_order": 12,
+   "is_active": true,
+   "start_at": null,
+   "end_at": null,
+   "zone_ids": [],
+   "type": "categories",
+   "title": "الأطفال والرضع",
+   "style": "card",
+   "config": {
+    "source": "custom",
+    "rows_layout": "grid",
+    "grid_columns": "4",
+    "background_type": "none"
+   },
+   "items": [
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 0,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 57
+    },
+    {
+     "id": null,
+     "title": null,
+     "link_url": null,
+     "sort_order": 1,
+     "purpose": "display",
+     "itemable_type": "category",
+     "itemable_id": 56
+    }
+   ]
+  }
+ ]
+}
