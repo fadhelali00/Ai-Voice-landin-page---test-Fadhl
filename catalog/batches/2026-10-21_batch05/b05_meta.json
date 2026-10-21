@@ -1,0 +1,3115 @@
+[
+{
+"sku": "JRN00001400",
+"barcode": "8013399168512",
+"cat": 32,
+"ar": "توتي فروتي حلوى قلب بنكهة الفواكه 18 جم",
+"en": "Tutti Frutti Candy Heart Fruity 18 g",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-8232",
+"img_src": "ninja",
+"images": [
+"8013399168512.webp",
+"8013399168512-1.webp"
+]
+},
+{
+"sku": "JRN00001401",
+"barcode": "8713800134456",
+"cat": 32,
+"ar": "توتي فروتي حلوى بنكهة الكولا 18 جم",
+"en": "Tutti Frutti Cola Candy 18 g",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-114793",
+"img_src": "ninja",
+"images": [
+"8713800134456.webp"
+]
+},
+{
+"sku": "JRN00001402",
+"barcode": "6281100305385",
+"cat": 32,
+"ar": "بورقات حلوى جيلي فواكه مطاطية 36 جم",
+"en": "Borgat Gummy Fruity Wiggles 36 g",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395022",
+"img_src": "ninja",
+"images": [
+"6281100305385.webp",
+"6281100305385-1.webp",
+"6281100305385-2.webp"
+]
+},
+{
+"sku": "JRN00001403",
+"barcode": "8935001727392",
+"cat": 32,
+"ar": "شوبا شوبس مصاصة نغمات بنكهة الكولا 15 جم",
+"en": "Chupa Chups Melody Pops Lollipop Cola 15 g",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328467",
+"img_src": "ninja",
+"images": [
+"8935001727392.webp",
+"8935001727392-1.webp"
+]
+},
+{
+"sku": "JRN00001404",
+"barcode": "6281100305392",
+"cat": 32,
+"ar": "بورقات حلاوة جيلي بنكهة البطيخ الحامض 36 جم",
+"en": "Borgat Jelly Candy Sour Watermelon Sachets 36 g",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395025",
+"img_src": "ninja",
+"images": [
+"6281100305392.webp",
+"6281100305392-1.webp",
+"6281100305392-2.webp"
+]
+},
+{
+"sku": "JRN00001405",
+"barcode": "4003084840100",
+"cat": 32,
+"ar": "زيلو حلوى جلي بيتزا 20 جم",
+"en": "Zello Jelly Gum Pizza 20 g",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7819",
+"img_src": "ninja",
+"images": [
+"4003084840100.webp"
+]
+},
+{
+"sku": "JRN00001406",
+"barcode": "6281100305408",
+"cat": 32,
+"ar": "بورقات حلاوة جيلي بنكهة التوت الأحمر 36 جم",
+"en": "Borgat Jelly Candy Heart Berries Sachets 36 g",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395024",
+"img_src": "ninja",
+"images": [
+"6281100305408.webp",
+"6281100305408-1.webp",
+"6281100305408-2.webp"
+]
+},
+{
+"sku": "JRN00001407",
+"barcode": "796648140207",
+"cat": 32,
+"ar": "ميسكا علك طبيعي بلستر 10 جم",
+"en": "Miska Natural Gum Blister 10 g",
+"price": 3.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293695",
+"img_src": "ninja",
+"images": [
+"796648140207.webp",
+"796648140207-1.webp"
+]
+},
+{
+"sku": "JRN00001408",
+"barcode": "796648200178",
+"cat": 32,
+"ar": "كلاست علك بارد 28.8 جم",
+"en": "Klast Gum Spearmint 28.8 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293704",
+"img_src": "ninja",
+"images": [
+"796648200178.webp",
+"796648200178-1.webp"
+]
+},
+{
+"sku": "JRN00001409",
+"barcode": "8690997014207",
+"cat": 32,
+"ar": "جيمي بلت الفواكة الحامضة 75 جم",
+"en": "Jimmy Sour Belt Rainbow Bag 75 g",
+"price": 5.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293672",
+"img_src": "ninja",
+"images": [
+"8690997014207.webp",
+"8690997014207-1.webp",
+"8690997014207-2.webp"
+]
+},
+{
+"sku": "JRN00001410",
+"barcode": "6281004289422",
+"cat": 32,
+"ar": "غندور فروتي بوبس حلوى مصاص بنكهة البرتقال 15 حبة 8.6 جم",
+"en": "Gandour Fruity Pops Lollipop Zesty Orange 15 pcs 8.6 g",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380694",
+"img_src": "ninja",
+"images": [
+"6281004289422.webp",
+"6281004289422-1.webp",
+"6281004289422-2.webp"
+]
+},
+{
+"sku": "JRN00001411",
+"barcode": "796648201175",
+"cat": 32,
+"ar": "كلاست علك حار 28.8 جم",
+"en": "Klast Gum Peppermint 28.8 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293689",
+"img_src": "ninja",
+"images": [
+"796648201175.webp",
+"796648201175-1.webp",
+"796648201175-2.webp"
+]
+},
+{
+"sku": "JRN00001412",
+"barcode": "6281004289323",
+"cat": 32,
+"ar": "غندور فروتي بوبس حلوى مصاص بنكهة التفاح 15 حبة 8.6 جم",
+"en": "Gandour Fruity Pops Lollipop Apple 15 pcs 8.6 g",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380693",
+"img_src": "ninja",
+"images": [
+"6281004289323.webp",
+"6281004289323-1.webp",
+"6281004289323-2.webp"
+]
+},
+{
+"sku": "JRN00001413",
+"barcode": "8713800138553",
+"cat": 32,
+"ar": "توتي فروتي حلوى بنكهة الفواكه 18 جم",
+"en": "Tutti Frutti Candy Fruit 18 g",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-8229",
+"img_src": "ninja",
+"images": [
+"8713800138553.webp",
+"8713800138553-1.webp",
+"8713800138553-2.webp"
+]
+},
+{
+"sku": "JRN00001414",
+"barcode": "8935001726265",
+"cat": 32,
+"ar": "مينتوس بيور فريش مينت 17.5 جم",
+"en": "Mentos Purefresh Gum Mint 17.5 g",
+"price": 4.15,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3078711",
+"img_src": "ninja",
+"images": [
+"8935001726265.webp",
+"8935001726265-1.webp"
+]
+},
+{
+"sku": "JRN00001415",
+"barcode": "6281100305439",
+"cat": 32,
+"ar": "بورقات حلاوة جيلي بنكهة التوت البري والتوت الأسود 36 جم",
+"en": "Borgat Jelly Candy Raspberry Blackberry 36 g",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395020",
+"img_src": "ninja",
+"images": [
+"6281100305439.webp",
+"6281100305439-1.webp",
+"6281100305439-2.webp"
+]
+},
+{
+"sku": "JRN00001416",
+"barcode": "8690146061649",
+"cat": 32,
+"ar": "بورقات حلوى جلي سيارات 80 جم",
+"en": "Borgat Gummy Cars 80 g",
+"price": 5.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-126430",
+"img_src": "ninja",
+"images": [
+"8690146061649.webp",
+"8690146061649-1.webp"
+]
+},
+{
+"sku": "JRN00001417",
+"barcode": "8691216022010",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي كولا 80 جم",
+"en": "Haribo Happy Cola Jelly Candy 80 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387163",
+"img_src": "ninja",
+"images": [
+"8691216022010.webp",
+"8691216022010-1.webp",
+"8691216022010-2.webp"
+]
+},
+{
+"sku": "JRN00001418",
+"barcode": "4009900482806",
+"cat": 32,
+"ar": "إكسترا علك بنكهة النعناع 60 حبة 84 جم",
+"en": "Extra Peppermint Gum 60 Pellet 84 g",
+"price": 19.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19291672",
+"img_src": "ninja",
+"images": [
+"4009900482806.webp",
+"4009900482806-1.webp"
+]
+},
+{
+"sku": "JRN00001419",
+"barcode": "6281100305101",
+"cat": 32,
+"ar": "بورقات حلاوة جيلي قلوب 80 جم",
+"en": "Borgat Heart Jelly Candy 80 g",
+"price": 6.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388062",
+"img_src": "ninja",
+"images": [
+"6281100305101.webp",
+"6281100305101-1.webp"
+]
+},
+{
+"sku": "JRN00001420",
+"barcode": "4009900534437",
+"cat": 32,
+"ar": "اكسترا علكة بنكهة النعناع 15.6 جم",
+"en": "Extra Spearmint Flavour Chewing Gum 15.6 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-266974",
+"img_src": "ninja",
+"images": [
+"4009900534437.webp",
+"4009900534437-1.webp",
+"4009900534437-2.webp"
+]
+},
+{
+"sku": "JRN00001421",
+"barcode": "8723400795780",
+"cat": 32,
+"ar": "مينتوس علك بنكهة البرتقال 112.5 جم",
+"en": "Mentos Gum Fanta Orange 112.5 g",
+"price": 19.85,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19417095",
+"img_src": "ninja",
+"images": [
+"8723400795780.webp"
+]
+},
+{
+"sku": "JRN00001422",
+"barcode": "4014400907902",
+"cat": 32,
+"ar": "ويرذرز حلوى خالية من السكر 42 جم",
+"en": "Werther's Original Sugar Free 42 g",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19403763",
+"img_src": "ninja",
+"images": [
+"4014400907902.webp",
+"4014400907902-1.webp",
+"4014400907902-2.webp"
+]
+},
+{
+"sku": "JRN00001423",
+"barcode": "796648202172",
+"cat": 32,
+"ar": "كلاست علك توت احمر 28.8 جم",
+"en": "Klast Gum Red Berry 28.8 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293681",
+"img_src": "ninja",
+"images": [
+"796648202172.webp",
+"796648202172-1.webp",
+"796648202172-2.webp"
+]
+},
+{
+"sku": "JRN00001424",
+"barcode": "50159208",
+"cat": 32,
+"ar": "سكيتلز حلوى بالفواكه 30.6 جم",
+"en": "Skittles Candy Fruit 30.6 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7770",
+"img_src": "ninja",
+"images": [
+"50159208.webp",
+"50159208-1.webp",
+"50159208-2.webp"
+]
+},
+{
+"sku": "JRN00001425",
+"barcode": "8990800015255",
+"cat": 32,
+"ar": "مينتوس كاندي فواكه 29 جم",
+"en": "Mentos Candy Roll Fruit 29 g",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3036838",
+"img_src": "ninja",
+"images": [
+"8990800015255.webp",
+"8990800015255-1.webp",
+"8990800015255-2.webp"
+]
+},
+{
+"sku": "JRN00001426",
+"barcode": "6281100303879",
+"cat": 32,
+"ar": "بورقات حلاوة مصاص كولا عبوة 9 حبة 126 جم",
+"en": "Borgat 3D Lollies Cola Bag 9 Pcs 126 g",
+"price": 8.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-15937295",
+"img_src": "ninja",
+"images": [
+"6281100303879.webp",
+"6281100303879-1.webp"
+]
+},
+{
+"sku": "JRN00001427",
+"barcode": "5200701000902",
+"cat": 32,
+"ar": "ريلكون دي سي تحالف الاصدقاء فليبرز مع حلاوة 1 حبة 10 جم متنوع",
+"en": "Relcon DC super Friends Flipprez With Candy 1 pcs 10 g Assorted",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322143",
+"img_src": "ninja",
+"images": [
+"5200701000902.webp",
+"5200701000902-1.webp",
+"5200701000902-2.webp"
+]
+},
+{
+"sku": "JRN00001428",
+"barcode": "8691216099616",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي متعددة النكهات حامضة 160 جم",
+"en": "Haribo Mix Sour Jelly Candy 160 g",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19387184",
+"img_src": "ninja",
+"images": [
+"8691216099616.webp",
+"8691216099616-1.webp",
+"8691216099616-2.webp"
+]
+},
+{
+"sku": "JRN00001429",
+"barcode": "6281004194139",
+"cat": 32,
+"ar": "غندور لبان مستكة 60 حبة",
+"en": "Gandour Gum Mastic canister 60 pcs",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3444779",
+"img_src": "ninja",
+"images": [
+"6281004194139.webp",
+"6281004194139-1.webp",
+"6281004194139-2.webp"
+]
+},
+{
+"sku": "JRN00001430",
+"barcode": "8990800015316",
+"cat": 32,
+"ar": "مينتوس كاندي توتي فروتي 29 جم",
+"en": "Mentos Candy Roll Tutti Fruti 29 g",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3037802",
+"img_src": "ninja",
+"images": [
+"8990800015316.webp",
+"8990800015316-1.webp",
+"8990800015316-2.webp"
+]
+},
+{
+"sku": "JRN00001431",
+"barcode": "6281100304449",
+"cat": 32,
+"ar": "بورقات حلوى جلي حامضة بنكهة الفراولة 75 جم",
+"en": "Borgat Jelly Candy Sour Strawberry Flavour 75 g",
+"price": 5.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-126190",
+"img_src": "ninja",
+"images": [
+"6281100304449.webp"
+]
+},
+{
+"sku": "JRN00001432",
+"barcode": "8935001723684",
+"cat": 32,
+"ar": "تشوبا تشوبس مصاصة XXL بالفراولة 29 جم",
+"en": "Chupa Chups XXL Lollipop Strawberry 29 g",
+"price": 4.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11608373",
+"img_src": "ninja",
+"images": [
+"8935001723684.webp",
+"8935001723684-1.webp"
+]
+},
+{
+"sku": "JRN00001433",
+"barcode": "8901393017106",
+"cat": 32,
+"ar": "شوبا شوبس جيلي تيوب الحامضة بنكهة الفواكهة المتنوعة 24.2 جم",
+"en": "Chupa Chups Sour Bites Mix Fruit Jellies 24.2 g",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3035267",
+"img_src": "ninja",
+"images": [
+"8901393017106.webp",
+"8901393017106-1.webp",
+"8901393017106-2.webp"
+]
+},
+{
+"sku": "JRN00001434",
+"barcode": "8690997121943",
+"cat": 32,
+"ar": "جيمي جيلي بيج بير 80 جم",
+"en": "Jimmy Gummy Big Bear Bag 80 g",
+"price": 5.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293697",
+"img_src": "ninja",
+"images": [
+"8690997121943.webp",
+"8690997121943-1.webp",
+"8690997121943-2.webp"
+]
+},
+{
+"sku": "JRN00001435",
+"barcode": "6281004289521",
+"cat": 32,
+"ar": "غندور فروتي بوبس حلوى مصاص بنكهة الفراولة 15 حبة 8.6 جم",
+"en": "Gandour Fruity Pops Lollipop Strawberry 15 pcs 8.6 g",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380698",
+"img_src": "ninja",
+"images": [
+"6281004289521.webp",
+"6281004289521-1.webp",
+"6281004289521-2.webp"
+]
+},
+{
+"sku": "JRN00001436",
+"barcode": "4003084840025",
+"cat": 32,
+"ar": "زيلو حلاوة جيلي برجر 72 جم",
+"en": "Zello Burger Jelly Candy 72 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388045",
+"img_src": "ninja",
+"images": [
+"4003084840025.webp",
+"4003084840025-1.webp",
+"4003084840025-2.webp"
+]
+},
+{
+"sku": "JRN00001437",
+"barcode": "6297000756080",
+"cat": 32,
+"ar": "نوم نومز مارشميلو النكهة الأصلية 150 جم",
+"en": "Nom Noms Marshmallows Original 150 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19393896",
+"img_src": "ninja",
+"images": [
+"6297000756080.webp",
+"6297000756080-1.webp",
+"6297000756080-2.webp"
+]
+},
+{
+"sku": "JRN00001438",
+"barcode": "87108408",
+"cat": 32,
+"ar": "فروتلا حلوى مضغية فراوله 32.4 جم",
+"en": "Fruitella Chewy Candy Strawberry 32.4 g",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3036299",
+"img_src": "ninja",
+"images": [
+"87108408.webp",
+"87108408-1.webp",
+"87108408-2.webp"
+]
+},
+{
+"sku": "JRN00001439",
+"barcode": "6281100304425",
+"cat": 32,
+"ar": "بورقات سور باز أعواد محشوة متنوعة 125 جم",
+"en": "Borgat Sour Buzz Assorted Filled Sticks 125 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19346139",
+"img_src": "ninja",
+"images": [
+"6281100304425.webp"
+]
+},
+{
+"sku": "JRN00001440",
+"barcode": "6281100309390",
+"cat": 32,
+"ar": "بورقات حلاوة مصاص بنكهة البطيخ و الكرز الحامض 162 جم",
+"en": "Borgat Lollipops With Watermelon & Sour Cherry Flavour 162 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-117961",
+"img_src": "ninja",
+"images": [
+"6281100309390.webp",
+"6281100309390-1.webp",
+"6281100309390-2.webp"
+]
+},
+{
+"sku": "JRN00001441",
+"barcode": "8935001726029",
+"cat": 32,
+"ar": "مينتوس حلوى مضغية بنكهة العنب 45 جم",
+"en": "Mentos Incredible Chew Candy Grape Flavor 45 g",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290189",
+"img_src": "ninja",
+"images": [
+"8935001726029.webp",
+"8935001726029-1.webp",
+"8935001726029-2.webp"
+]
+},
+{
+"sku": "JRN00001442",
+"barcode": "8691216020689",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي شكل ديدان 80 جم",
+"en": "Haribo Worms Jelly Candy 80 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387167",
+"img_src": "ninja",
+"images": [
+"8691216020689.webp",
+"8691216020689-1.webp",
+"8691216020689-2.webp"
+]
+},
+{
+"sku": "JRN00001443",
+"barcode": "8691216025080",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي بالتوت الأسود و الأحمر 160 جم",
+"en": "Haribo Mix Berries Jelly Candy 160 g",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19387185",
+"img_src": "ninja",
+"images": [
+"8691216025080.webp",
+"8691216025080-1.webp",
+"8691216025080-2.webp"
+]
+},
+{
+"sku": "JRN00001444",
+"barcode": "5200701005778",
+"cat": 32,
+"ar": "ريلكون سبونج بوب فليبرز مع حلاوة 1 حبة 10 جم متنوع",
+"en": "Relcon Spongebob Flipprez With Candy 1 pcs 10 g Assorted",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322153",
+"img_src": "ninja",
+"images": [
+"5200701005778.webp",
+"5200701005778-1.webp",
+"5200701005778-2.webp"
+]
+},
+{
+"sku": "JRN00001445",
+"barcode": "8935001722533",
+"cat": 32,
+"ar": "مينتوس علك نعناع 72 حبة 102.6 جم",
+"en": "Mentos White Gum Spearmint 72 pcs 102.6 g",
+"price": 17.8,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11611200",
+"img_src": "ninja",
+"images": [
+"8935001722533.webp",
+"8935001722533-1.webp",
+"8935001722533-2.webp"
+]
+},
+{
+"sku": "JRN00001446",
+"barcode": "5200701001213",
+"cat": 32,
+"ar": "ريلكون باو باترول دورية المخلب مارشملو عود 45 جم منوع",
+"en": "Relcon Paw Patrol Marshmallow pop 45 g Assorted",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19391603",
+"img_src": "ninja",
+"images": [
+"5200701001213.webp",
+"5200701001213-1.webp"
+]
+},
+{
+"sku": "JRN00001447",
+"barcode": "9044400841000",
+"cat": 32,
+"ar": "موزع حلوى بيز شخصيات متنوعة 25.5 جم",
+"en": "Pez Candy Dispenser Diverse Characters 25.5 g",
+"price": 11.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294018",
+"img_src": "ninja",
+"images": [
+"9044400841000.webp",
+"9044400841000-1.webp",
+"9044400841000-2.webp"
+]
+},
+{
+"sku": "JRN00001448",
+"barcode": "4003084840346",
+"cat": 32,
+"ar": "زيلو حلاوة جيلي كولا حامضة 80 جم",
+"en": "Zello Jelly Candy Sour Cola 80 g",
+"price": 6.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-125761",
+"img_src": "ninja",
+"images": [
+"4003084840346.webp"
+]
+},
+{
+"sku": "JRN00001449",
+"barcode": "6281004032523",
+"cat": 32,
+"ar": "غندور حلاوة مصاص كرز 35 حبة 9 جم",
+"en": "Gandour Lollipops Cherry 35 pcs 9 g",
+"price": 9.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-35837",
+"img_src": "ninja",
+"images": [
+"6281004032523.webp",
+"6281004032523-1.webp",
+"6281004032523-2.webp"
+]
+},
+{
+"sku": "JRN00001450",
+"barcode": "4009900550581",
+"cat": 32,
+"ar": "سكيتلز حامض 152 جم",
+"en": "Skittles Crazy Sours 152 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19330017",
+"img_src": "ninja",
+"images": [
+"4009900550581.webp",
+"4009900550581-1.webp",
+"4009900550581-2.webp"
+]
+},
+{
+"sku": "JRN00001451",
+"barcode": "5907637926091",
+"cat": 32,
+"ar": "حلاوة بقرة كروكي 200 جم",
+"en": "Cream Fudge krowki 200 g",
+"price": 7.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322150",
+"img_src": "ninja",
+"images": [
+"5907637926091.webp",
+"5907637926091-1.webp",
+"5907637926091-2.webp"
+]
+},
+{
+"sku": "JRN00001452",
+"barcode": "6281100305088",
+"cat": 32,
+"ar": "بورقات حلوى جيلي البطيخ المطاطية 80 جم",
+"en": "Borgat Gummy Watermelon Wiggles 80 g",
+"price": 6.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388060",
+"img_src": "ninja",
+"images": [
+"6281100305088.webp",
+"6281100305088-1.webp",
+"6281100305088-2.webp"
+]
+},
+{
+"sku": "JRN00001453",
+"barcode": "4009900545808",
+"cat": 32,
+"ar": "أكسترا علك نعناع قوي 30 حبة",
+"en": "Extra Gum Spearmint Flavor 30 pieces",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289872",
+"img_src": "ninja",
+"images": [
+"4009900545808.webp"
+]
+},
+{
+"sku": "JRN00001454",
+"barcode": "6936168709827",
+"cat": 32,
+"ar": "ريلكون توم وجيري مارشملو عود 45 جم منوع",
+"en": "Relcon Tom & Jerry Marshmallow pop 45 g Assorted",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19391604",
+"img_src": "ninja",
+"images": [
+"6936168709827.webp",
+"6936168709827-1.webp",
+"6936168709827-2.webp"
+]
+},
+{
+"sku": "JRN00001455",
+"barcode": "8691216104068",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي دبدوب 150 جم",
+"en": "Haribo Gold Bears Jelly Candy 150 g",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19387172",
+"img_src": "ninja",
+"images": [
+"8691216104068.webp",
+"8691216104068-1.webp",
+"8691216104068-2.webp"
+]
+},
+{
+"sku": "JRN00001456",
+"barcode": "8992741963176",
+"cat": 32,
+"ar": "بورقات حلوى جلي بارتي مكس 80 جم",
+"en": "Borgat Gummy Party Mix 80 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-135602",
+"img_src": "ninja",
+"images": [
+"8992741963176.webp",
+"8992741963176-1.webp"
+]
+},
+{
+"sku": "JRN00001457",
+"barcode": "5907637926084",
+"cat": 32,
+"ar": "حلاوة بقرة كروكي 300 جم",
+"en": "Cream Fudge Krowki 300 g",
+"price": 9.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322123",
+"img_src": "ninja",
+"images": [
+"5907637926084.webp",
+"5907637926084-1.webp",
+"5907637926084-2.webp"
+]
+},
+{
+"sku": "JRN00001458",
+"barcode": "8935001726289",
+"cat": 32,
+"ar": "مينتوس بيور فريش فراوله 17.5 جم",
+"en": "Mentos Purefresh Gum Strawberry 17.5 g",
+"price": 5.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3079440",
+"img_src": "ninja",
+"images": [
+"8935001726289.webp",
+"8935001726289-1.webp",
+"8935001726289-2.webp"
+]
+},
+{
+"sku": "JRN00001459",
+"barcode": "86947992",
+"cat": 32,
+"ar": "منتوس علك بيور فرش اير اكشن 17.5 جم",
+"en": "Mentos Gum Purefresh Air Action 17.5 g",
+"price": 5.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380967",
+"img_src": "ninja",
+"images": [
+"86947992.webp",
+"86947992-1.webp"
+]
+},
+{
+"sku": "JRN00001460",
+"barcode": "6281100305644",
+"cat": 32,
+"ar": "بورقات مارشميلو قلوب 150 جم",
+"en": "Borgat Marshmallow Hearts 150 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19346133",
+"img_src": "ninja",
+"images": [
+"6281100305644.webp",
+"6281100305644-1.webp",
+"6281100305644-2.webp"
+]
+},
+{
+"sku": "JRN00001461",
+"barcode": "8410525241314",
+"cat": 32,
+"ar": "فيني حلوى جيلي قارورة الوردي والازرق 80 جم",
+"en": "Fini Bouteilles Roses & Bleues 80 g",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19377610",
+"img_src": "ninja",
+"images": [
+"8410525241314.webp",
+"8410525241314-1.webp",
+"8410525241314-2.webp"
+]
+},
+{
+"sku": "JRN00001462",
+"barcode": "6281100309499",
+"cat": 32,
+"ar": "بورقات جامبو مارشميلو فواكه مشكلة 300 جم",
+"en": "Borgat Jumbo Mixed Fruit Marshmallows 300 g",
+"price": 14.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388056",
+"img_src": "ninja",
+"images": [
+"6281100309499.webp",
+"6281100309499-1.webp"
+]
+},
+{
+"sku": "JRN00001463",
+"barcode": "8901393027631",
+"cat": 32,
+"ar": "شوبا شوبس حلاوة جيلي بايتس بالفواكة 150 جم",
+"en": "Chupa Chups Jelly Candy Sour Bites Mix Fruit 150 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392765",
+"img_src": "ninja",
+"images": [
+"8901393027631.webp",
+"8901393027631-1.webp",
+"8901393027631-2.webp"
+]
+},
+{
+"sku": "JRN00001464",
+"barcode": "8410031996852",
+"cat": 32,
+"ar": "شوبا شوبس حلوى مصاص بنكهة الفواكهة المتنوعة 10 حبات",
+"en": "Chupa Chups Fruit Lollipop 10 pcs",
+"price": 13.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290183",
+"img_src": "ninja",
+"images": [
+"8410031996852.webp",
+"8410031996852-1.webp"
+]
+},
+{
+"sku": "JRN00001465",
+"barcode": "8413178390323",
+"cat": 32,
+"ar": "فيدال جيلي فراولة وكريمة 90 جم",
+"en": "Vidal Mega Jelly Strawberry & Cream 90 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3083912",
+"img_src": "ninja",
+"images": [
+"8413178390323.webp",
+"8413178390323-1.webp",
+"8413178390323-2.webp"
+]
+},
+{
+"sku": "JRN00001466",
+"barcode": "6921211114307",
+"cat": 32,
+"ar": "فروتلا ليمون وعنب 9 حبات 32.4 جم",
+"en": "Fruitella Lemon & Grape 9 pcs 32.4 g",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3086292",
+"img_src": "ninja",
+"images": [
+"6921211114307.webp",
+"6921211114307-1.webp",
+"6921211114307-2.webp"
+]
+},
+{
+"sku": "JRN00001467",
+"barcode": "8690997014214",
+"cat": 32,
+"ar": "جيمي عيدان فواكة حامضة 75 جم",
+"en": "Jimmy Sour Pencil Assorted Bag 75 g",
+"price": 5.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293677",
+"img_src": "ninja",
+"images": [
+"8690997014214.webp",
+"8690997014214-1.webp"
+]
+},
+{
+"sku": "JRN00001468",
+"barcode": "8690146061496",
+"cat": 32,
+"ar": "بورقات حلوى جلي كولا 80 جم",
+"en": "Borgat Gummy Cola 80 g",
+"price": 5.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-126538",
+"img_src": "ninja",
+"images": [
+"8690146061496.webp",
+"8690146061496-1.webp"
+]
+},
+{
+"sku": "JRN00001469",
+"barcode": "8992741904391",
+"cat": 32,
+"ar": "بورقات حلوى جلو ستيكس 160 جم",
+"en": "Borgat Gummy Glow Sticks 160 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-126202",
+"img_src": "ninja",
+"images": [
+"8992741904391.webp",
+"8992741904391-1.webp"
+]
+},
+{
+"sku": "JRN00001470",
+"barcode": "8690146061595",
+"cat": 32,
+"ar": "بورقات حلوى جلي كيك 80 جم",
+"en": "Borgat Gummy Cakes 80 g",
+"price": 5.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-126278",
+"img_src": "ninja",
+"images": [
+"8690146061595.webp",
+"8690146061595-1.webp",
+"8690146061595-2.webp"
+]
+},
+{
+"sku": "JRN00001471",
+"barcode": "5200701000810",
+"cat": 32,
+"ar": "ريلكون باو باترول فليبرز دورية المخلب مع حلاوة 1 حبة متنوع",
+"en": "Relcon Paw Patrol Flipprez With Candy 1 pcs Assorted",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322132",
+"img_src": "ninja",
+"images": [
+"5200701000810.webp",
+"5200701000810-1.webp",
+"5200701000810-2.webp"
+]
+},
+{
+"sku": "JRN00001472",
+"barcode": "8690146097327",
+"cat": 32,
+"ar": "بيبيتو جيلي كولا 80 جم",
+"en": "Bebeto Jelly Cola 80 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317662",
+"img_src": "ninja",
+"images": [
+"8690146097327.webp",
+"8690146097327-1.webp",
+"8690146097327-2.webp"
+]
+},
+{
+"sku": "JRN00001473",
+"barcode": "6281100306757",
+"cat": 32,
+"ar": "بورقات ميني مارشميلو فانيليا 300 جم",
+"en": "Borgat Mini Vanilla Marshmallows 300 g",
+"price": 14.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388054",
+"img_src": "ninja",
+"images": [
+"6281100306757.webp",
+"6281100306757-1.webp",
+"6281100306757-2.webp"
+]
+},
+{
+"sku": "JRN00001474",
+"barcode": "8691216095519",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي متعددة النكهات حامضة 70 جم",
+"en": "Haribo Mix Sour Jelly Candy 70 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387173",
+"img_src": "ninja",
+"images": [
+"8691216095519.webp",
+"8691216095519-1.webp",
+"8691216095519-2.webp"
+]
+},
+{
+"sku": "JRN00001475",
+"barcode": "8691216020672",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي بالتوت الأسود و الأحمر 80 جم",
+"en": "Haribo Mix Berries Jelly Candy 80 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387176",
+"img_src": "ninja",
+"images": [
+"8691216020672.webp",
+"8691216020672-1.webp",
+"8691216020672-2.webp"
+]
+},
+{
+"sku": "JRN00001476",
+"barcode": "6297000756097",
+"cat": 32,
+"ar": "نوم نومز مارشميلو فراولة 150 جم",
+"en": "Nom Noms Marshmallows Strawberry 150 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19393897",
+"img_src": "ninja",
+"images": [
+"6297000756097.webp",
+"6297000756097-1.webp",
+"6297000756097-2.webp"
+]
+},
+{
+"sku": "JRN00001477",
+"barcode": "850064550238",
+"cat": 32,
+"ar": "سبونج بوب حلوى جيلي حامضة بنكهة الكولا 120 جم",
+"en": "SpongeBob Cola Flavoured Soft Sour Candy 120 g",
+"price": 11.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19390350",
+"img_src": "ninja",
+"images": [
+"850064550238.webp",
+"850064550238-1.webp"
+]
+},
+{
+"sku": "JRN00001478",
+"barcode": "850049855556",
+"cat": 32,
+"ar": "سبونج بوب حلوى جيلي بنكهة الفاكهة 70 جم",
+"en": "SpongeBob Fruit Flavoured Soft Candy (Worms) 70 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390353",
+"img_src": "ninja",
+"images": [
+"850049855556.webp",
+"850049855556-1.webp"
+]
+},
+{
+"sku": "JRN00001479",
+"barcode": "4009900550567",
+"cat": 32,
+"ar": "سكيتلز فواكه 152 جم",
+"en": "Skittles Fruits 152 g",
+"price": 16.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19330008",
+"img_src": "ninja",
+"images": [
+"4009900550567.webp",
+"4009900550567-1.webp",
+"4009900550567-2.webp"
+]
+},
+{
+"sku": "JRN00001480",
+"barcode": "796648247173",
+"cat": 32,
+"ar": "نوفا علك جارز بارد 50 حبة",
+"en": "Nova Gum Jar Spearmint 50 pcs",
+"price": 11.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19295316",
+"img_src": "ninja",
+"images": [
+"796648247173.webp",
+"796648247173-1.webp",
+"796648247173-2.webp"
+]
+},
+{
+"sku": "JRN00001481",
+"barcode": "796648247166",
+"cat": 32,
+"ar": "نوفا علك جارز حار 50 حبة",
+"en": "Nova Gum Jar Peppermint 50 pcs",
+"price": 11.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19295346",
+"img_src": "ninja",
+"images": [
+"796648247166.webp",
+"796648247166-1.webp",
+"796648247166-2.webp"
+]
+},
+{
+"sku": "JRN00001482",
+"barcode": "8992741904384",
+"cat": 32,
+"ar": "بورقات حلوى جلي رازبيري أند بلاك بيري 160 جم",
+"en": "Borgat Gummy Raspberry & Blackberry 160 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-136713",
+"img_src": "ninja",
+"images": [
+"8992741904384.webp",
+"8992741904384-1.webp",
+"8992741904384-2.webp"
+]
+},
+{
+"sku": "JRN00001483",
+"barcode": "5026418055727",
+"cat": 32,
+"ar": "برين بلاسترز مسحوق سكر مع مصاص نكهات متنوعة حبة واحدة 10 جم",
+"en": "Brain Blasterz Powder Lolly Sach Assorted 1 pcs 10 g",
+"price": 4.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349299",
+"img_src": "ninja",
+"images": [
+"5026418055727.webp",
+"5026418055727-1.webp",
+"5026418055727-2.webp"
+]
+},
+{
+"sku": "JRN00001484",
+"barcode": "5000159029469",
+"cat": 32,
+"ar": "سيكتلز حلوى الفواكه 198 جم",
+"en": "Skittles Fruit Candy 198 g",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1427",
+"img_src": "ninja",
+"images": [
+"5000159029469.webp",
+"5000159029469-1.webp",
+"5000159029469-2.webp"
+]
+},
+{
+"sku": "JRN00001485",
+"barcode": "4009900543040",
+"cat": 32,
+"ar": "أكسترا علك نكهة الفاكهة والنعناع 60 حبة 84 جم",
+"en": "Extra Bubblemint Gum 60 Pellet 84 g",
+"price": 20.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19289883",
+"img_src": "ninja",
+"images": [
+"4009900543040.webp",
+"4009900543040-1.webp"
+]
+},
+{
+"sku": "JRN00001486",
+"barcode": "850064550214",
+"cat": 32,
+"ar": "سبونج بوب حلوى حامضة بنكهة الفاكهة المشكلة 75 جم",
+"en": "SpongeBob Fruit Flavoured Mix Sour Belt 75 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390348",
+"img_src": "ninja",
+"images": [
+"850064550214.webp",
+"850064550214-1.webp",
+"850064550214-2.webp"
+]
+},
+{
+"sku": "JRN00001487",
+"barcode": "8690997155672",
+"cat": 32,
+"ar": "داملا حلوى مشكلة 800 جم",
+"en": "Damla Candy Assorted Bag 800 g",
+"price": 21.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293691",
+"img_src": "ninja",
+"images": [
+"8690997155672.webp",
+"8690997155672-1.webp",
+"8690997155672-2.webp"
+]
+},
+{
+"sku": "JRN00001488",
+"barcode": "8901393020557",
+"cat": 32,
+"ar": "شوبا شوبس جيليز ميني تيوب 85.5 جم",
+"en": "Chupa Chups Extruded Mini Tubes 85.5 g",
+"price": 6.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11608299",
+"img_src": "ninja",
+"images": [
+"8901393020557.webp",
+"8901393020557-1.webp",
+"8901393020557-2.webp"
+]
+},
+{
+"sku": "JRN00001489",
+"barcode": "8992741973373",
+"cat": 32,
+"ar": "بورقات حلاوة جيلي بنكهة التوت الأسود والتوت البري 24 حبة 10 جم",
+"en": "Borgat Jelly Candy Raspberry Blackberry 24 pcs 10 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395016",
+"img_src": "ninja",
+"images": [
+"8992741973373.webp",
+"8992741973373-1.webp",
+"8992741973373-2.webp"
+]
+},
+{
+"sku": "JRN00001490",
+"barcode": "6281100306214",
+"cat": 32,
+"ar": "بورقات تويدلز حلوى المارشميلو بالفراولة 150 جم",
+"en": "Borgat Twiddles Strawberry Marshmallow 150 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-136121",
+"img_src": "ninja",
+"images": [
+"6281100306214.webp",
+"6281100306214-1.webp",
+"6281100306214-2.webp"
+]
+},
+{
+"sku": "JRN00001491",
+"barcode": "5200701001817",
+"cat": 32,
+"ar": "ريلكون هيلو كيتي لعبة مروحة مع حلاوة 1 حبة 10 جم متنوع",
+"en": "Relcon Hello Kitty Fan With Candy 1 pcs 10 g Assorted",
+"price": 24.75,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-19322148",
+"img_src": "ninja",
+"images": [
+"5200701001817.webp",
+"5200701001817-1.webp",
+"5200701001817-2.webp"
+]
+},
+{
+"sku": "JRN00001492",
+"barcode": "6925425474462",
+"cat": 32,
+"ar": "شوبا شوبس جيليز بينكيز 90 جم",
+"en": "Chupa Chups Jellies Pinkis 90 g",
+"price": 7.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11607090",
+"img_src": "ninja",
+"images": [
+"6925425474462.webp",
+"6925425474462-1.webp",
+"6925425474462-2.webp"
+]
+},
+{
+"sku": "JRN00001493",
+"barcode": "8691216024564",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي خوخ 160 جم",
+"en": "Haribo Peach Jelly Candy 160 g",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19387165",
+"img_src": "ninja",
+"images": [
+"8691216024564.webp",
+"8691216024564-1.webp",
+"8691216024564-2.webp"
+]
+},
+{
+"sku": "JRN00001494",
+"barcode": "850064550245",
+"cat": 32,
+"ar": "سبونج بوب حلوى حامضة بنكهة الأناناس 120 جم",
+"en": "SpongeBob Pineapple Flavoured Soft Sour Candy 120 g",
+"price": 11.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19390351",
+"img_src": "ninja",
+"images": [
+"850064550245.webp",
+"850064550245-1.webp"
+]
+},
+{
+"sku": "JRN00001495",
+"barcode": "96022757",
+"cat": 32,
+"ar": "برين بلاسترز حلوى حامضة 48 جم",
+"en": "Brain Blasterz Sour Candy 48 g",
+"price": 10.25,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19349292",
+"img_src": "ninja",
+"images": [
+"96022757.webp",
+"96022757-1.webp",
+"96022757-2.webp"
+]
+},
+{
+"sku": "JRN00001496",
+"barcode": "8935001726302",
+"cat": 32,
+"ar": "مينتوس بيور فريش بطيخ 17.5 جم",
+"en": "Mentos Purefresh Gum Watermelon 17.5 g",
+"price": 5.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3079460",
+"img_src": "ninja",
+"images": [
+"8935001726302.webp",
+"8935001726302-1.webp"
+]
+},
+{
+"sku": "JRN00001497",
+"barcode": "4003084843019",
+"cat": 32,
+"ar": "ترولي حلوى جيلي ميني برجر 12 جم",
+"en": "Trolli Gummi Mini Burger 12 g",
+"price": 1.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-126745",
+"img_src": "ninja",
+"images": [
+"4003084843019.webp",
+"4003084843019-1.webp",
+"4003084843019-2.webp"
+]
+},
+{
+"sku": "JRN00001498",
+"barcode": "8410031936988",
+"cat": 32,
+"ar": "شوبا شوبس مصاص ميني ذا بيست 35 حبة",
+"en": "Chupa Chups Mini The Best Lollipops 35 pcs",
+"price": 22.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11608867",
+"img_src": "ninja",
+"images": [
+"8410031936988.webp",
+"8410031936988-1.webp",
+"8410031936988-2.webp"
+]
+},
+{
+"sku": "JRN00001499",
+"barcode": "6925425474363",
+"cat": 32,
+"ar": "شوبا شوبس جيليز كولا الحامض 90 جم",
+"en": "Chupa Chups Sour Cola Jellies 90 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11609661",
+"img_src": "ninja",
+"images": [
+"6925425474363.webp",
+"6925425474363-1.webp",
+"6925425474363-2.webp"
+]
+},
+{
+"sku": "JRN00001500",
+"barcode": "6287042471133",
+"cat": 32,
+"ar": "زيلو حلاوة جيلي بطاطس 80 جم",
+"en": "Zello French Fries Jelly Candy 80 g",
+"price": 8.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388063",
+"img_src": "ninja",
+"images": [
+"6287042471133.webp",
+"6287042471133-1.webp",
+"6287042471133-2.webp"
+]
+},
+{
+"sku": "JRN00001501",
+"barcode": "8691216095496",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي كولا حامضة 70 جم",
+"en": "Haribo Happy Cola Sour Jelly Candy 70 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387187",
+"img_src": "ninja",
+"images": [
+"8691216095496.webp",
+"8691216095496-1.webp",
+"8691216095496-2.webp"
+]
+},
+{
+"sku": "JRN00001502",
+"barcode": "8691216020627",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي دبدوب 80 جم",
+"en": "Haribo Gold Bears Jelly Candy 80 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387175",
+"img_src": "ninja",
+"images": [
+"8691216020627.webp",
+"8691216020627-1.webp",
+"8691216020627-2.webp"
+]
+},
+{
+"sku": "JRN00001503",
+"barcode": "4009900550420",
+"cat": 32,
+"ar": "سيكتلز حلوى الفواكه حجم كبير 125 جم",
+"en": "Skittles Giants Fruits 125 g",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19357260",
+"img_src": "ninja",
+"images": [
+"4009900550420.webp",
+"4009900550420-1.webp",
+"4009900550420-2.webp"
+]
+},
+{
+"sku": "JRN00001504",
+"barcode": "6297000756608",
+"cat": 32,
+"ar": "نوم نومز مارشميلو وردي وأبيض 150 جم",
+"en": "Nom Noms Marshmallows Pink & White 150 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292128",
+"img_src": "ninja",
+"images": [
+"6297000756608.webp",
+"6297000756608-1.webp",
+"6297000756608-2.webp"
+]
+},
+{
+"sku": "JRN00001505",
+"barcode": "7702174084734",
+"cat": 32,
+"ar": "بن بوب مصاص حامض بالكرز 48 حبة 816 جم",
+"en": "Pin Pop Sour Cherry Lollipop 48 pcs 816 g",
+"price": 18.5,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-4817224",
+"img_src": "ninja",
+"images": [
+"7702174084734.webp",
+"7702174084734-1.webp",
+"7702174084734-2.webp"
+]
+},
+{
+"sku": "JRN00001506",
+"barcode": "4009900549967",
+"cat": 32,
+"ar": "سكيتلز توت بري 152 جم",
+"en": "Skittles Wild Berry 152 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19330015",
+"img_src": "ninja",
+"images": [
+"4009900549967.webp",
+"4009900549967-1.webp",
+"4009900549967-2.webp"
+]
+},
+{
+"sku": "JRN00001507",
+"barcode": "796648129202",
+"cat": 32,
+"ar": "ميسكا علك طبيعي 35 حبة",
+"en": "Natural Gum Miska 35 pcs",
+"price": 21.45,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293703",
+"img_src": "ninja",
+"images": [
+"796648129202.webp",
+"796648129202-1.webp",
+"796648129202-2.webp"
+]
+},
+{
+"sku": "JRN00001508",
+"barcode": "8690146135487",
+"cat": 32,
+"ar": "بورقات حلوى جلي كولا 160 جم",
+"en": "Borgat Gummy Cola 160 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-135446",
+"img_src": "ninja",
+"images": [
+"8690146135487.webp",
+"8690146135487-1.webp",
+"8690146135487-2.webp"
+]
+},
+{
+"sku": "JRN00001509",
+"barcode": "8693029605299",
+"cat": 32,
+"ar": "الفان حلوى توفي بعصير الفاكهة 750 جم",
+"en": "Elvan Chew Candy Filling With Fruit 750 g",
+"price": 23.0,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19318821",
+"img_src": "ninja",
+"images": [
+"8693029605299.webp",
+"8693029605299-1.webp",
+"8693029605299-2.webp"
+]
+},
+{
+"sku": "JRN00001510",
+"barcode": "6923450610220",
+"cat": 32,
+"ar": "أكسترا علك ميجا نكهة النعناع الحار 23 حبة",
+"en": "Extra Mega Bottle Spearmint Gum 23 pcs",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289880",
+"img_src": "ninja",
+"images": [
+"6923450610220.webp",
+"6923450610220-1.webp",
+"6923450610220-2.webp"
+]
+},
+{
+"sku": "JRN00001511",
+"barcode": "8691216024519",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي دبدوب 160 جم",
+"en": "Haribo Gold Bears Jelly Candy 160 g",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19387177",
+"img_src": "ninja",
+"images": [
+"8691216024519.webp",
+"8691216024519-1.webp",
+"8691216024519-2.webp"
+]
+},
+{
+"sku": "JRN00001512",
+"barcode": "8691216104075",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي ستارميكس 150 جم",
+"en": "Haribo Starmix Jelly Candy 150 g",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19387178",
+"img_src": "ninja",
+"images": [
+"8691216104075.webp",
+"8691216104075-1.webp",
+"8691216104075-2.webp"
+]
+},
+{
+"sku": "JRN00001513",
+"barcode": "5032860010160",
+"cat": 32,
+"ar": "سويت زون حلاوة جيلي فيزي كولا 170 جم",
+"en": "Sweetzone Jelly Candy Fizzy Cola Tub 170 g",
+"price": 10.5,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19393807",
+"img_src": "ninja",
+"images": [
+"5032860010160.webp",
+"5032860010160-1.webp",
+"5032860010160-2.webp"
+]
+},
+{
+"sku": "JRN00001514",
+"barcode": "628235199179",
+"cat": 32,
+"ar": "جامي راش حلوى بنكهة فواكة منوعة 80 جم",
+"en": "Rush Gummy Crunchers Party Mix 80 g",
+"price": 14.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19417091",
+"img_src": "ninja",
+"images": [
+"628235199179.webp"
+]
+},
+{
+"sku": "JRN00001515",
+"barcode": "4823077630736",
+"cat": 32,
+"ar": "روشين مصاصات حلوى صلبة بنكهات الزبادي 920 جم",
+"en": "Roshen Lollipops with Yoghurt Flavours 920 g",
+"price": 26.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19398081",
+"img_src": "ninja",
+"images": [
+"4823077630736.webp"
+]
+},
+{
+"sku": "JRN00001516",
+"barcode": "850049855532",
+"cat": 32,
+"ar": "سبونج بوب حلوى جيلي بنكهة الفاكهة 70 جم",
+"en": "SpongeBob Fruit Flavoured Soft Candy (Bears) 70 g",
+"price": 7.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390354",
+"img_src": "ninja",
+"images": [
+"850049855532.webp",
+"850049855532-1.webp"
+]
+},
+{
+"sku": "JRN00001517",
+"barcode": "40144979",
+"cat": 32,
+"ar": "مامبا حلوى فواكه 106 جم",
+"en": "Mamba Fruit Candy 106 g",
+"price": 6.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1033277",
+"img_src": "ninja",
+"images": [
+"40144979.webp",
+"40144979-1.webp",
+"40144979-2.webp"
+]
+},
+{
+"sku": "JRN00001518",
+"barcode": "8935001725671",
+"cat": 32,
+"ar": "شوبا شوبس حلوى مصاص بنكهات متنوعة 50 حبة",
+"en": "Chupa Chups The Best Of Lollipop Candy 50 pcs",
+"price": 24.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19295446",
+"img_src": "ninja",
+"images": [
+"8935001725671.webp",
+"8935001725671-1.webp"
+]
+},
+{
+"sku": "JRN00001519",
+"barcode": "5200701000995",
+"cat": 32,
+"ar": "ريلكون باو باترول لعبة مروحة دوريات المخالب مع حلاوة 1 حبة 10 جم متنوع",
+"en": "Relcon Paw Patrol Fan With Candy 1 pcs 10 g Assorted",
+"price": 24.75,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-19322115",
+"img_src": "ninja",
+"images": [
+"5200701000995.webp",
+"5200701000995-1.webp",
+"5200701000995-2.webp"
+]
+},
+{
+"sku": "JRN00001520",
+"barcode": "6281100308003",
+"cat": 32,
+"ar": "بورقات مارشميلو كلاسيك أبيض 150 جم",
+"en": "Borgat Marshmallow Classic White 150 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19346131",
+"img_src": "ninja",
+"images": [
+"6281100308003.webp",
+"6281100308003-1.webp"
+]
+},
+{
+"sku": "JRN00001521",
+"barcode": "4009900529556",
+"cat": 32,
+"ar": "سيكتلز حلوى الفواكه علبة 125 جم",
+"en": "Skittles Bottle Fruit Candy 125 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1103",
+"img_src": "ninja",
+"images": [
+"4009900529556.webp"
+]
+},
+{
+"sku": "JRN00001522",
+"barcode": "4003084840261",
+"cat": 32,
+"ar": "زيلو حلاوة جيلي حلقات التفاح 80 جم",
+"en": "Zello Jelly Candy Apple Rings 80 g",
+"price": 6.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-125949",
+"img_src": "ninja",
+"images": [
+"4003084840261.webp",
+"4003084840261-1.webp",
+"4003084840261-2.webp"
+]
+},
+{
+"sku": "JRN00001523",
+"barcode": "6923450664650",
+"cat": 32,
+"ar": "أكسترا علك ميجا بنكهة النعناع 23 حبة",
+"en": "Extra Mega Bottle Peppermint Gum 23 pcs",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289881",
+"img_src": "ninja",
+"images": [
+"6923450664650.webp",
+"6923450664650-1.webp",
+"6923450664650-2.webp"
+]
+},
+{
+"sku": "JRN00001524",
+"barcode": "4009900545846",
+"cat": 32,
+"ar": "أكسترا علك طعم استوائي 30 حبة",
+"en": "Extra Gum Tropical Flavor 30 pieces",
+"price": 15.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-19289873",
+"img_src": "ninja",
+"images": [
+"4009900545846.webp"
+]
+},
+{
+"sku": "JRN00001525",
+"barcode": "8691216022027",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي ستارميكس 80 جم",
+"en": "Haribo Starmix Jelly Candy 80 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387171",
+"img_src": "ninja",
+"images": [
+"8691216022027.webp",
+"8691216022027-1.webp",
+"8691216022027-2.webp"
+]
+},
+{
+"sku": "JRN00001526",
+"barcode": "5032860010221",
+"cat": 32,
+"ar": "سويت زون حلاوة جيلي هابي بير 170 جم",
+"en": "Sweetzone Jelly Candy Happy Bears 170 g",
+"price": 10.5,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19393810",
+"img_src": "ninja",
+"images": [
+"5032860010221.webp",
+"5032860010221-1.webp",
+"5032860010221-2.webp"
+]
+},
+{
+"sku": "JRN00001527",
+"barcode": "8691216107786",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي فيز ميكس 150 جم",
+"en": "Haribo Jelly Candy Fizz Mix 150 g",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19390545",
+"img_src": "ninja",
+"images": [
+"8691216107786.webp",
+"8691216107786-1.webp",
+"8691216107786-2.webp"
+]
+},
+{
+"sku": "JRN00001528",
+"barcode": "850049855549",
+"cat": 32,
+"ar": "سبونج بوب حلوى جيلي بنكهة الكولا 70 جم",
+"en": "SpongeBob Cola Flavoured Soft Candy 70 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390355",
+"img_src": "ninja",
+"images": [
+"850049855549.webp",
+"850049855549-1.webp"
+]
+},
+{
+"sku": "JRN00001529",
+"barcode": "8992741963169",
+"cat": 32,
+"ar": "بورقات حلوى جلي رازبيري أند بلاك بيري 80 جم",
+"en": "Borgat Gummy Raspberry & Blackberry 80 g",
+"price": 5.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-135720",
+"img_src": "ninja",
+"images": [
+"8992741963169.webp",
+"8992741963169-1.webp",
+"8992741963169-2.webp"
+]
+},
+{
+"sku": "JRN00001530",
+"barcode": "6281004288920",
+"cat": 32,
+"ar": "غندور بابل لوليز حلوى مصاص بنكهة الكولا 35 حبة 8.6 جم",
+"en": "Gandour Bubble lollies Lollipop Cola 35 pcs 8.6 g",
+"price": 10.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380696",
+"img_src": "ninja",
+"images": [
+"6281004288920.webp",
+"6281004288920-1.webp",
+"6281004288920-2.webp"
+]
+},
+{
+"sku": "JRN00001531",
+"barcode": "6281100305613",
+"cat": 32,
+"ar": "بورقات حلاوة مصاص قلوب عبوة 9 حبة 126 جم",
+"en": "Borgat 3D Lollies Hearts Bag 9 Pcs 126 g",
+"price": 9.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-15937470",
+"img_src": "ninja",
+"images": [
+"6281100305613.webp",
+"6281100305613-1.webp"
+]
+},
+{
+"sku": "JRN00001532",
+"barcode": "8410031132519",
+"cat": 32,
+"ar": "شوبا شوبس مصاص ذا بيست 10 حبات",
+"en": "Chupa Chups The Best Of Lollipops 10 pcs",
+"price": 12.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11607960",
+"img_src": "ninja",
+"images": [
+"8410031132519.webp",
+"8410031132519-1.webp"
+]
+},
+{
+"sku": "JRN00001533",
+"barcode": "8992741952583",
+"cat": 32,
+"ar": "شوبا شوبس جيليز كولا الحامض 160 جم",
+"en": "Chupa Chups Sour Cola Jellies 160 g",
+"price": 12.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11608223",
+"img_src": "ninja",
+"images": [
+"8992741952583.webp",
+"8992741952583-1.webp",
+"8992741952583-2.webp"
+]
+},
+{
+"sku": "JRN00001534",
+"barcode": "6925425474387",
+"cat": 32,
+"ar": "تشوبا تشوبس حلوى جيلي لوليز 90 جم",
+"en": "Chupa Chups Jellies Lollies 90 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11609606",
+"img_src": "ninja",
+"images": [
+"6925425474387.webp",
+"6925425474387-1.webp",
+"6925425474387-2.webp"
+]
+},
+{
+"sku": "JRN00001535",
+"barcode": "8410525271342",
+"cat": 32,
+"ar": "فيني حلوى البساط السحري 80 جم",
+"en": "Fini Magic Carpets 80 g",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19377612",
+"img_src": "ninja",
+"images": [
+"8410525271342.webp",
+"8410525271342-1.webp",
+"8410525271342-2.webp"
+]
+},
+{
+"sku": "JRN00001536",
+"barcode": "6281100306498",
+"cat": 32,
+"ar": "بورقات علبة حلاوة جيلي بالخوخ 160 جم",
+"en": "Borgat Peach Jelly Candy Box 160 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388052",
+"img_src": "ninja",
+"images": [
+"6281100306498.webp",
+"6281100306498-1.webp",
+"6281100306498-2.webp"
+]
+},
+{
+"sku": "JRN00001537",
+"barcode": "8691216104082",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي كولا 150 جم",
+"en": "Haribo Happy Cola Jelly Candy 150 g",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19387166",
+"img_src": "ninja",
+"images": [
+"8691216104082.webp",
+"8691216104082-1.webp",
+"8691216104082-2.webp"
+]
+},
+{
+"sku": "JRN00001538",
+"barcode": "8691216095502",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي حامضة شكل ديدان 70 جم",
+"en": "Haribo Worms Sour Jelly Candy 70 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387170",
+"img_src": "ninja",
+"images": [
+"8691216095502.webp",
+"8691216095502-1.webp",
+"8691216095502-2.webp"
+]
+},
+{
+"sku": "JRN00001539",
+"barcode": "628235199193",
+"cat": 32,
+"ar": "جامي راش حلوى بنكهة تفاح أخضر حامض 80 جم",
+"en": "Rush Gummy Crunchers Sour Green Apple 80 g",
+"price": 14.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19417089",
+"img_src": "ninja",
+"images": [
+"628235199193.webp"
+]
+},
+{
+"sku": "JRN00001540",
+"barcode": "8901393020564",
+"cat": 32,
+"ar": "شوبا شوبس جيلي تيوب الحامضة 24.2 جم",
+"en": "Chupa Chups Sour Tubes Mix Fruit Jellies 24.2 g",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3029963",
+"img_src": "ninja",
+"images": [
+"8901393020564.webp",
+"8901393020564-1.webp",
+"8901393020564-2.webp"
+]
+},
+{
+"sku": "JRN00001541",
+"barcode": "796648175254",
+"cat": 32,
+"ar": "نوفا علك 5 شرائح تفاح أخضر 20 حبة 230 جم",
+"en": "Nova Chewing Gum Green Apple 20 pcs 230 g",
+"price": 21.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19295312",
+"img_src": "ninja",
+"images": [
+"796648175254.webp",
+"796648175254-1.webp",
+"796648175254-2.webp"
+]
+},
+{
+"sku": "JRN00001542",
+"barcode": "5200701001060",
+"cat": 32,
+"ar": "ريلكون لوني تونز بوكس الهدايا مع حلاوة 1 حبة متنوع",
+"en": "Relcon Looney Tunes Gift Pack With Candy 1 pcs Assorted",
+"price": 24.75,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-19322117",
+"img_src": "ninja",
+"images": [
+"5200701001060.webp",
+"5200701001060-1.webp",
+"5200701001060-2.webp"
+]
+},
+{
+"sku": "JRN00001543",
+"barcode": "8935001723851",
+"cat": 32,
+"ar": "مينتوس لبان 3 دي بطيخ 15 حبة 8.5 جم",
+"en": "Mentos Gum 3D Watermelon 15 pcs 8.5 g",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3077403",
+"img_src": "ninja",
+"images": [
+"8935001723851.webp",
+"8935001723851-1.webp",
+"8935001723851-2.webp"
+]
+},
+{
+"sku": "JRN00001544",
+"barcode": "4009900545563",
+"cat": 32,
+"ar": "اكسترا علك ريفريش بنكهة الفراولة والليمون 30 حبة",
+"en": "Extra Gum Refreshers Strawberry Citrus Bottle 30 pcs",
+"price": 17.5,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-19318198",
+"img_src": "ninja",
+"images": [
+"4009900545563.webp",
+"4009900545563-1.webp",
+"4009900545563-2.webp"
+]
+},
+{
+"sku": "JRN00001545",
+"barcode": "6281100304487",
+"cat": 32,
+"ar": "بورقات حلوى جلي حامضة متعددة النكهات 75 جم",
+"en": "Borgat Jelly Sour Candy Multi Flavour 75 g",
+"price": 5.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-131424",
+"img_src": "ninja",
+"images": [
+"6281100304487.webp"
+]
+},
+{
+"sku": "JRN00001546",
+"barcode": "776992121053",
+"cat": 32,
+"ar": "ديمه مصاص اكس جوي مشكل 25 حبة 24.5 جم",
+"en": "Deemah Lollipop X Joy Pouch 25 pcs 24.5 g",
+"price": 24.5,
+"special": 21.56,
+"src": "ninja",
+"ninja_id": "5-19317647",
+"img_src": "ninja",
+"images": [
+"776992121053.webp"
+]
+},
+{
+"sku": "JRN00001547",
+"barcode": "8992741993340",
+"cat": 32,
+"ar": "شوبا شوبس جيليز كراوليس 90 جم",
+"en": "Chupa Chups Jellies Crawlers 90 g",
+"price": 6.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11610451",
+"img_src": "ninja",
+"images": [
+"8992741993340.webp",
+"8992741993340-1.webp",
+"8992741993340-2.webp"
+]
+},
+{
+"sku": "JRN00001548",
+"barcode": "8901393027662",
+"cat": 32,
+"ar": "شوبا شوبس حلاوة جيلي تيوب بالفواكة 150 جم",
+"en": "Chupa Chups Jelly Candy Sour mini tubes Mix Fruit 150 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392768",
+"img_src": "ninja",
+"images": [
+"8901393027662.webp",
+"8901393027662-1.webp",
+"8901393027662-2.webp"
+]
+},
+{
+"sku": "JRN00001549",
+"barcode": "8691216014916",
+"cat": 32,
+"ar": "هاريبو شامالوز وردي و أبيض 150 جم",
+"en": "Haribo Chamallows Pink and White 150 g",
+"price": 12.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-19387182",
+"img_src": "ninja",
+"images": [
+"8691216014916.webp",
+"8691216014916-1.webp",
+"8691216014916-2.webp"
+]
+},
+{
+"sku": "JRN00001550",
+"barcode": "628235199186",
+"cat": 32,
+"ar": "جامي راش حلوى بنكهة التوت 80 جم",
+"en": "Rush Gummy Crunchers Berry Bliss 80 g",
+"price": 14.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19417090",
+"img_src": "ninja",
+"images": [
+"628235199186.webp"
+]
+},
+{
+"sku": "JRN00001551",
+"barcode": "8992741973380",
+"cat": 32,
+"ar": "بورقات حلاوة جيلي كولا 24 حبة 10 جم",
+"en": "Borgat Jelly Candy Cola 24 pcs 10 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395017",
+"img_src": "ninja",
+"images": [
+"8992741973380.webp"
+]
+},
+{
+"sku": "JRN00001552",
+"barcode": "8993017200018",
+"cat": 32,
+"ar": "بورقات حلوى قطنية بنكهة الفراولة 15 جم",
+"en": "Borgat Cotton Candy Strawberry 15 g",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395026",
+"img_src": "ninja",
+"images": [
+"8993017200018.webp",
+"8993017200018-1.webp"
+]
+},
+{
+"sku": "JRN00001553",
+"barcode": "796648220282",
+"cat": 32,
+"ar": "نوفا علك فراولة بلستر 10 حبات 112 جم",
+"en": "Nova Chewing Gum Blister Strawberry 10 pcs 112 g",
+"price": 15.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293699",
+"img_src": "ninja",
+"images": [
+"796648220282.webp",
+"796648220282-1.webp",
+"796648220282-2.webp"
+]
+},
+{
+"sku": "JRN00001554",
+"barcode": "6223005612885",
+"cat": 32,
+"ar": "الفان حلوى توفيكس محشوه بطعم الفواكه 800 جم",
+"en": "Elvan Toffix Candy Filled Fruit Chew 800 g",
+"price": 22.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19318810",
+"img_src": "ninja",
+"images": [
+"6223005612885.webp",
+"6223005612885-1.webp",
+"6223005612885-2.webp"
+]
+},
+{
+"sku": "JRN00001555",
+"barcode": "5200701001107",
+"cat": 32,
+"ar": "ريلكون دي سي تحالف الاصدقاء بوكس الهدايا مع حلاوة 1 حبة متنوع",
+"en": "Relcon DC super friends Gift Pack With Candy 1 pcs Assorted",
+"price": 24.75,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-19322131",
+"img_src": "ninja",
+"images": [
+"5200701001107.webp",
+"5200701001107-1.webp",
+"5200701001107-2.webp"
+]
+},
+{
+"sku": "JRN00001556",
+"barcode": "6281100306405",
+"cat": 32,
+"ar": "بورقات علبة حلاوة جيلي حامضة بالبطيخ 160 جم",
+"en": "Borgat Sour Watermelon Jelly Candy Box 160 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388051",
+"img_src": "ninja",
+"images": [
+"6281100306405.webp",
+"6281100306405-1.webp",
+"6281100306405-2.webp"
+]
+},
+{
+"sku": "JRN00001557",
+"barcode": "6281100304968",
+"cat": 32,
+"ar": "بورقات حلاوة جيلي حامضة بالفراولة 80 جم",
+"en": "Borgat Sour Strawberry Jelly Candy 80 g",
+"price": 6.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388058",
+"img_src": "ninja",
+"images": [
+"6281100304968.webp",
+"6281100304968-1.webp",
+"6281100304968-2.webp"
+]
+},
+{
+"sku": "JRN00001558",
+"barcode": "8691216080362",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي كرز 80 جم",
+"en": "Haribo Happy Cherries Jelly Candy 80 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387169",
+"img_src": "ninja",
+"images": [
+"8691216080362.webp",
+"8691216080362-1.webp",
+"8691216080362-2.webp"
+]
+},
+{
+"sku": "JRN00001559",
+"barcode": "4003084843903",
+"cat": 32,
+"ar": "زيلو حلاوة جيلي سلينكيز مينيز توت 24 حبة 10 جم",
+"en": "Zello Jelly Candy Berry Slinkies Minis 24 pcs 10 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395038",
+"img_src": "ninja",
+"images": [
+"4003084843903.webp",
+"4003084843903-1.webp",
+"4003084843903-2.webp"
+]
+},
+{
+"sku": "JRN00001560",
+"barcode": "4003084843194",
+"cat": 32,
+"ar": "زيلو حلاوة جيلي حلقات التفاح 24 حبة 10 جم",
+"en": "Zello Jelly Candy Apple Rings 24 pcs 10 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395039",
+"img_src": "ninja",
+"images": [
+"4003084843194.webp",
+"4003084843194-1.webp",
+"4003084843194-2.webp"
+]
+},
+{
+"sku": "JRN00001561",
+"barcode": "8990800015224",
+"cat": 32,
+"ar": "مينتوس كاندي مينت 29 جم",
+"en": "Mentos Candy Roll Mint 29 g",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3036484",
+"img_src": "ninja",
+"images": [
+"8990800015224.webp",
+"8990800015224-1.webp",
+"8990800015224-2.webp"
+]
+},
+{
+"sku": "JRN00001562",
+"barcode": "776992098829",
+"cat": 32,
+"ar": "ديمه فروتي مكس 700 جم",
+"en": "Deemah Fruity 700 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294766",
+"img_src": "ninja",
+"images": [
+"776992098829.webp"
+]
+},
+{
+"sku": "JRN00001563",
+"barcode": "6281100309383",
+"cat": 32,
+"ar": "بورقات حلاوة مصاص بنكهة الفراولة 162 جم",
+"en": "Borgat Lollipops Strawberry Flavour 162 g",
+"price": 8.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-117665",
+"img_src": "ninja",
+"images": [
+"6281100309383.webp",
+"6281100309383-1.webp",
+"6281100309383-2.webp"
+]
+},
+{
+"sku": "JRN00001564",
+"barcode": "6936168710311",
+"cat": 32,
+"ar": "ريلكون هلو كيتي مارشملو عود 45 جم منوع",
+"en": "Relcon Hello Kitty Marshmallow pop 45 g Assorted",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19391602",
+"img_src": "ninja",
+"images": [
+"6936168710311.webp",
+"6936168710311-1.webp",
+"6936168710311-2.webp"
+]
+},
+{
+"sku": "JRN00001565",
+"barcode": "8691216025097",
+"cat": 32,
+"ar": "هاريبو حلاوة جيلي شكل ديدان 160 جم",
+"en": "Haribo Worms Jelly Candy 160 g",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19387162",
+"img_src": "ninja",
+"images": [
+"8691216025097.webp",
+"8691216025097-1.webp",
+"8691216025097-2.webp"
+]
+},
+{
+"sku": "JRN00001566",
+"barcode": "850064550221",
+"cat": 32,
+"ar": "سبونج بوب حلوى حامضة بنكهة الفاكهة المشكلة 75 جم",
+"en": "SpongeBob Fruit Flavoured Mix Sour Bites 75 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390349",
+"img_src": "ninja",
+"images": [
+"850064550221.webp",
+"850064550221-1.webp"
+]
+},
+{
+"sku": "JRN00001567",
+"barcode": "8690997022042",
+"cat": 32,
+"ar": "جيمي حامض بيج كولا 80 جم",
+"en": "Jimmy Sour Gummy Big Cola Bag 80 g",
+"price": 5.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293668",
+"img_src": "ninja",
+"images": [
+"8690997022042.webp",
+"8690997022042-1.webp",
+"8690997022042-2.webp"
+]
+},
+{
+"sku": "JRN00001568",
+"barcode": "5200701000841",
+"cat": 32,
+"ar": "ريلكون دي سي تحالف الاصدقاء كوب اشرب و اذهب مع حلاوة 1 حبة متنوع",
+"en": "Relcon DC super friends Cup Drink & Go With Candy 1 pcs Assorted",
+"price": 24.75,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19322124",
+"img_src": "ninja",
+"images": [
+"5200701000841.webp",
+"5200701000841-1.webp"
+]
+},
+{
+"sku": "JRN00001569",
+"barcode": "5060221242998",
+"cat": 32,
+"ar": "فيمتو حلوى غزل البنات 20 جم",
+"en": "Vimto Candy Floss 20 g",
+"price": 6.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060221242998.webp",
+"5060221242998-1.webp",
+"5060221242998-2.webp"
+]
+},
+{
+"sku": "JRN00001570",
+"barcode": "6294001850076",
+"cat": 32,
+"ar": "سكيتلز جوميز حلوى الفواكه 60 جم",
+"en": "Skittles Gummies Fruits 60 g",
+"price": 6.75,
+"special": 5.06,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6294001850076.webp",
+"6294001850076-1.webp",
+"6294001850076-2.webp"
+]
+},
+{
+"sku": "JRN00001571",
+"barcode": "6281100307501",
+"cat": 32,
+"ar": "بورقات حلوى فواكه مطاطية 160 جم",
+"en": "Borgat Gummy Fruity Wiggles 160 g",
+"price": 8.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281100307501.webp",
+"6281100307501-1.webp",
+"6281100307501-2.webp"
+]
+},
+{
+"sku": "JRN00001572",
+"barcode": "8691216024533",
+"cat": 32,
+"ar": "هاريبو حلوى الكرز 160 جم",
+"en": "Haribo Happy Cherries 160 g",
+"price": 15.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8691216024533.webp",
+"8691216024533-1.webp",
+"8691216024533-2.webp"
+]
+},
+{
+"sku": "JRN00001573",
+"barcode": "6294001850106",
+"cat": 32,
+"ar": "سكيتلز جوميز حلوى الفواكه 120 جم",
+"en": "Skittles Gummies Fruits 120 g",
+"price": 11.25,
+"special": 8.43,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6294001850106.webp",
+"6294001850106-1.webp",
+"6294001850106-2.webp"
+]
+},
+{
+"sku": "JRN00001574",
+"barcode": "4009900550543",
+"cat": 32,
+"ar": "سكيتلز حلوى الفواكه الاستوائية 152 جم",
+"en": "Skittles Tropical 152 g",
+"price": 13,
+"special": 9.1,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"4009900550543.webp",
+"4009900550543-1.webp",
+"4009900550543-2.webp"
+]
+},
+{
+"sku": "JRN00001575",
+"barcode": "4009900550529",
+"cat": 32,
+"ar": "سكيتلز حلوى ديزرتس 152 جم",
+"en": "Skittles Desserts 152 g",
+"price": 14.25,
+"special": 9.97,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"4009900550529.webp",
+"4009900550529-1.webp",
+"4009900550529-2.webp"
+]
+},
+{
+"sku": "JRN00001576",
+"barcode": "4014400907636",
+"cat": 32,
+"ar": "ويرذرز حلوى كريمية خالية من السكر 70 جم",
+"en": "Werther's Original Sugar Free Cream Candies 70 g",
+"price": 12.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"4014400907636.webp",
+"4014400907636-1.webp",
+"4014400907636-2.webp"
+]
+},
+{
+"sku": "JRN00001577",
+"barcode": "6281100309901",
+"cat": 32,
+"ar": "ريد باند حلوى توتي فروتي 120 جم",
+"en": "Red Band Tutti Frutti Tub 120 g",
+"price": 10,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281100309901.webp",
+"6281100309901-1.webp",
+"6281100309901-2.webp"
+]
+},
+{
+"sku": "JRN00001578",
+"barcode": "40144191",
+"cat": 32,
+"ar": "مامبا حلوى مطاطية بنكهة الكولا 26.5 جم",
+"en": "Mamba Cola Flavored Gummy Candy 26.5 g",
+"price": 1.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"40144191.webp",
+"40144191-1.webp",
+"40144191-2.webp"
+]
+},
+{
+"sku": "JRN00001579",
+"barcode": "4014400916591",
+"cat": 32,
+"ar": "ويرثرز حلوى التوفي بالشوكولاتة 100 جم",
+"en": "Werther's Original Soft Chocolate Caramel 100 g",
+"price": 12.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"4014400916591.webp",
+"4014400916591-1.webp",
+"4014400916591-2.webp"
+]
+},
+{
+"sku": "JRN00001580",
+"barcode": "42113300",
+"cat": 32,
+"ar": "سكيتلز حلوى التوت البري 30.6 جم",
+"en": "Skittles Wild Berries 30.6 g",
+"price": 5.25,
+"special": 3.67,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"42113300.webp",
+"42113300-1.webp",
+"42113300-2.webp"
+]
+},
+{
+"sku": "JRN00001581",
+"barcode": "796648247180",
+"cat": 32,
+"ar": "نوفا علكة بطيخ 50 حبة",
+"en": "Nova Watermelon Gum 50 pcs",
+"price": 11.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"796648247180.webp",
+"796648247180-1.webp",
+"796648247180-2.webp"
+]
+},
+{
+"sku": "JRN00001582",
+"barcode": "796648247159",
+"cat": 32,
+"ar": "نوفا علكة فراولة 50 حبة",
+"en": "Nova Strawberry Gum 50 pcs",
+"price": 11.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"796648247159.webp",
+"796648247159-1.webp",
+"796648247159-2.webp"
+]
+},
+{
+"sku": "JRN00001583",
+"barcode": "8935001724087",
+"cat": 32,
+"ar": "منتوس علكة بيور فريش نعناع خالية من السكر 50 حبة",
+"en": "Mentos Pure Fresh Spearmint Sugar Free Gum 50 pcs",
+"price": 18,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8935001724087.webp",
+"8935001724087-1.webp",
+"8935001724087-2.webp"
+]
+},
+{
+"sku": "JRN00001584",
+"barcode": "034000722310",
+"cat": 32,
+"ar": "ايس بريكرز حلوى حامضة بطيخ وتفاح أخضر خالية من السكر 42 جم",
+"en": "Ice Breakers Sours Watermelon & Green Apple Sugar Free 42 g",
+"price": 10.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"034000722310.webp",
+"034000722310-1.webp",
+"034000722310-2.webp"
+]
+},
+{
+"sku": "JRN00001585",
+"barcode": "6291109790280",
+"cat": 32,
+"ar": "تشوبا تشوبس مارشميلو فانيليا و فراولة 280 جم",
+"en": "Chupa Chups Marshmallow Vanilla Strawberry 280 g",
+"price": 20.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6291109790280.webp",
+"6291109790280-1.webp",
+"6291109790280-2.webp"
+]
+},
+{
+"sku": "JRN00001586",
+"barcode": "6291109790297",
+"cat": 32,
+"ar": "تشوبا تشوبس مارشميلو فانيليا و فراولة 140 جم",
+"en": "Chupa Chups Marshmallow Vanilla And Strawberry 140 g",
+"price": 10.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6291109790297.webp",
+"6291109790297-1.webp",
+"6291109790297-2.webp"
+]
+}
+]
