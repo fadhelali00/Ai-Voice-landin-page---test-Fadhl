@@ -1,0 +1,5608 @@
+{
+ "JRN00001000": {
+  "price": 7.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036004345",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Tasali Cumin and Lemon 155 g",
+  "ar": "تسالي بطاطس كمون وليمون 155 جم",
+  "cat": 33,
+  "nj_id": "5-9934699",
+  "hs_id": "e314be0d-79dc-4d4f-9099-5edf1be11464",
+  "hs_sku": "0Y7634",
+  "images": [
+   "6281036004345.webp",
+   "6281036004345-1.webp",
+   "6281036004345-2.webp"
+  ]
+ },
+ "JRN00001001": {
+  "price": 7.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036004925",
+  "barcode_src": "Tamimi",
+  "en": "Tasali Potato Chips Spicy Cream Cheese 155 g",
+  "ar": "تسالي شرائح بطاطس بالجبنة الكريمية الحارة 155 جم",
+  "cat": 33,
+  "nj_id": "5-19368617",
+  "hs_id": "47c5aee8-10b7-4f7e-846d-ad96b4c82437",
+  "hs_sku": "4ZW9Z0",
+  "images": [
+   "6281036004925.webp",
+   "6281036004925-1.webp",
+   "6281036004925-2.webp"
+  ]
+ },
+ "JRN00001002": {
+  "price": 5.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036004178",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Tasali Potato Chips Ketchup 90 g",
+  "ar": "تسالي بطاطس بالكاتشب 90 جم",
+  "cat": 33,
+  "nj_id": "5-9927375",
+  "hs_id": "47399c1d-5100-415d-b2ca-e86f6fc63e3c",
+  "hs_sku": "7G9WWD",
+  "images": [
+   "6281036004178.webp",
+   "6281036004178-1.webp",
+   "6281036004178-2.webp"
+  ]
+ },
+ "JRN00001003": {
+  "price": 8.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036029188",
+  "barcode_src": "Ninja",
+  "en": "Tasali Spicy Pickled Lemon Potato Chips 180 g",
+  "ar": "تسالي شرائح بطاطس مخلل ليمون حار 180 جم",
+  "cat": 33,
+  "nj_id": "5-19423655",
+  "hs_id": "66bb86ee-7e51-44fd-bef8-211ffd34931d",
+  "hs_sku": "QD4WTE",
+  "images": [
+   "6281036029188.webp",
+   "6281036029188-1.webp"
+  ]
+ },
+ "JRN00001004": {
+  "price": 3.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036029171",
+  "barcode_src": "Ninja",
+  "en": "Tasali Spicy Pickled Lemon Potato Chips 63 g",
+  "ar": "تسالي شرائح بطاطس مخلل ليمون حار 63 جم",
+  "cat": 33,
+  "nj_id": "5-19423654",
+  "hs_id": "9a200cc3-6bbd-4581-91b7-8a10cd132bfa",
+  "hs_sku": "2GBG90",
+  "images": [
+   "6281036029171.webp",
+   "6281036029171-1.webp"
+  ]
+ },
+ "JRN00001005": {
+  "price": 5.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036004185",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Tasali Potato Chips Chilli 90 g",
+  "ar": "تسالي بطاطس بالفلفل الحار 90 جم",
+  "cat": 33,
+  "nj_id": "5-9927130",
+  "hs_id": "d345039a-ec2c-4315-b1f9-efa29157f795",
+  "hs_sku": "0UGM96",
+  "images": [
+   "6281036004185.webp",
+   "6281036004185-1.webp",
+   "6281036004185-2.webp"
+  ]
+ },
+ "JRN00001006": {
+  "price": 17.95,
+  "special": 10.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036171177",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Tasali Ketchup Potato Chips 12 x 25 g",
+  "ar": "تسالي رقائق البطاطس بنكهة الكاتشب 12×25 جم",
+  "cat": 33,
+  "nj_id": "5-19291780",
+  "hs_id": "5d547aa1-bc77-426b-b580-47d6b79a596f",
+  "hs_sku": "BV07W6",
+  "images": [
+   "6281036171177.webp",
+   "6281036171177-1.webp",
+   "6281036171177-2.webp"
+  ]
+ },
+ "JRN00001007": {
+  "price": 16.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036004314",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Tasali Lemon and Cumin 12 x 25 g",
+  "ar": "تسالي رقائق البطاطس بنكهة الكمون الليمون 12×25 جم",
+  "cat": 33,
+  "nj_id": "5-19291775",
+  "hs_id": "33827a5b-08d2-4191-8fe9-d6ed6081297c",
+  "hs_sku": "2214KR",
+  "images": [
+   "6281036004314.webp",
+   "6281036004314-1.webp",
+   "6281036004314-2.webp"
+  ]
+ },
+ "JRN00001008": {
+  "price": 17.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036171276",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Tasali Chili Chips 12 x 25 g",
+  "ar": "تسالي رقائق البطاطس بنكهة الفلفل الحار 12×25 جم",
+  "cat": 33,
+  "nj_id": "5-19291769",
+  "hs_id": "f32af860-9fb1-45cd-9202-05529098b531",
+  "hs_sku": "E7JZ7P",
+  "images": [
+   "6281036171276.webp",
+   "6281036171276-1.webp",
+   "6281036171276-2.webp"
+  ]
+ },
+ "JRN00001009": {
+  "price": 5.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5053990107339",
+  "barcode_src": "Ninja",
+  "en": "Pringles Original 40 g",
+  "ar": "برينجلز شيبس عادي 40 جم",
+  "cat": 33,
+  "nj_id": "5-6960",
+  "hs_id": "abdeb7eb-cead-4e57-8f6d-8bde8f4e0782",
+  "hs_sku": "KNS550",
+  "images": [
+   "5053990107339.webp",
+   "5053990107339-1.webp",
+   "5053990107339-2.webp"
+  ]
+ },
+ "JRN00001010": {
+  "price": 5.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5053990107292",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Pringles Hot & Spicy 40 g",
+  "ar": "برينجلز شيبس الحار 40 جم",
+  "cat": 33,
+  "nj_id": "5-6958",
+  "hs_id": "0f951466-ffac-4532-b8c6-22c993751405",
+  "hs_sku": "ER2A4I",
+  "images": [
+   "5053990107292.webp",
+   "5053990107292-1.webp",
+   "5053990107292-2.webp"
+  ]
+ },
+ "JRN00001011": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5053990107384",
+  "barcode_src": "Ninja",
+  "en": "Pringles Sour Cream & Onion 40 g",
+  "ar": "برينجلز شيبس بصل مع كريم 40 جم",
+  "cat": 33,
+  "nj_id": "5-6956",
+  "hs_id": "bd0075e0-ee94-4997-ae02-6697581b643e",
+  "hs_sku": "768849",
+  "images": [
+   "5053990107384.webp",
+   "5053990107384-1.webp",
+   "5053990107384-2.webp"
+  ]
+ },
+ "JRN00001012": {
+  "price": 4.0,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "5053990107278",
+  "barcode_src": "Tamimi",
+  "en": "Pringles Barbeque Chips 40 g",
+  "ar": "برينجلز شيبس باربيكيو 40 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "b02a9610-1a8e-4f34-b4a2-d361e015f256",
+  "hs_sku": "S4LSBN",
+  "images": [
+   "5053990107278.webp",
+   "5053990107278-1.webp",
+   "5053990107278-2.webp"
+  ]
+ },
+ "JRN00001013": {
+  "price": 17.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5053990139545",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Pringles Hot & Spicy 200 g",
+  "ar": "برينجلز شيبس حار زائد 200 جم",
+  "cat": 33,
+  "nj_id": "5-4251",
+  "hs_id": "97334969-e7b5-4ea8-9fc7-66cd8663f5a3",
+  "hs_sku": "125Y20",
+  "images": [
+   "5053990139545.webp",
+   "5053990139545-1.webp",
+   "5053990139545-2.webp"
+  ]
+ },
+ "JRN00001014": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5053990107353",
+  "barcode_src": "Ninja",
+  "en": "Pringles Salt & Vinegar 40 g",
+  "ar": "برينجلز شيبس خل وملح 40 جم",
+  "cat": 33,
+  "nj_id": "5-6952",
+  "hs_id": "7eb7db69-ac72-475c-a928-6354737b4c3e",
+  "hs_sku": "6ATBZ9",
+  "images": [
+   "5053990107353.webp",
+   "5053990107353-1.webp",
+   "5053990107353-2.webp"
+  ]
+ },
+ "JRN00001015": {
+  "price": 5.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9501100018144",
+  "barcode_src": "Tamimi",
+  "en": "Oman Potato Chips in Tins Chilli Flavour 37 g",
+  "ar": "عمان بطاطس علبة بالنكهة الحارة 37 جم",
+  "cat": 33,
+  "nj_id": "5-19368615",
+  "hs_id": "c41db314-4219-4749-9331-55390d75021c",
+  "hs_sku": "36HIJM",
+  "images": [
+   "9501100018144.webp",
+   "9501100018144-1.webp"
+  ]
+ },
+ "JRN00001016": {
+  "price": 16.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5053990138722",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Pringles Original 200 g",
+  "ar": "برينجلز شيبس عادي 200 جم",
+  "cat": 33,
+  "nj_id": "5-4249",
+  "hs_id": "12dd8b8a-7aa7-42f6-8e32-cc6daf332821",
+  "hs_sku": "8005RZ",
+  "images": [
+   "5053990138722.webp",
+   "5053990138722-1.webp",
+   "5053990138722-2.webp"
+  ]
+ },
+ "JRN00001017": {
+  "price": 9.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5053990137497",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Pringles Ketchup 70 g",
+  "ar": "برينجلز كاتشب 70 جم",
+  "cat": 33,
+  "nj_id": "5-4155",
+  "hs_id": "493b33c5-eabc-4700-a1f1-52247947177f",
+  "hs_sku": "1Z89Z2",
+  "images": [
+   "5053990137497.webp",
+   "5053990137497-1.webp",
+   "5053990137497-2.webp"
+  ]
+ },
+ "JRN00001018": {
+  "price": 17.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5053990138753",
+  "barcode_src": "Tamimi",
+  "en": "Pringles Sour Cream & Onion 200 g",
+  "ar": "برينجلز شيبس بصل مع كريم 200 جم",
+  "cat": 33,
+  "nj_id": "5-4259",
+  "hs_id": "9b38f695-f8ee-4cb8-968a-dafe0c83081a",
+  "hs_sku": "68T027",
+  "images": [
+   "5053990138753.webp",
+   "5053990138753-1.webp",
+   "5053990138753-2.webp"
+  ]
+ },
+ "JRN00001019": {
+  "price": 16.75,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "5053990176168",
+  "barcode_src": "Tamimi",
+  "en": "Pringles Hot Mexican Chilli Lime 160 g",
+  "ar": "برينجلز نكهة الليمون والفلفل المكسيكي الحار 160 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "7e004df5-e84d-484c-886b-038678966a6a",
+  "hs_sku": "S3485V",
+  "images": [
+   "5053990176168.webp",
+   "5053990176168-1.webp",
+   "5053990176168-2.webp"
+  ]
+ },
+ "JRN00001020": {
+  "price": 17.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5053990146864",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Pringles Ketchup 200 g",
+  "ar": "برينجلز شيبس كاتشب 200 جم",
+  "cat": 33,
+  "nj_id": "5-4253",
+  "hs_id": "1b84aa51-077b-4bdb-a204-c33a12a5e521",
+  "hs_sku": "8QH07B",
+  "images": [
+   "5053990146864.webp",
+   "5053990146864-1.webp",
+   "5053990146864-2.webp"
+  ]
+ },
+ "JRN00001021": {
+  "price": 12.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9501100018120",
+  "barcode_src": "Tamimi",
+  "en": "Oman Potato Chips in Tins Chilli Flavour 137 g",
+  "ar": "عمان بطاطس علبة بنكهة الفلفل 137 جم",
+  "cat": 33,
+  "nj_id": "5-19368616",
+  "hs_id": "6b4556ca-48f6-4444-9e6b-27106912d3b5",
+  "hs_sku": "5GUE8B",
+  "images": [
+   "9501100018120.webp",
+   "9501100018120-1.webp",
+   "9501100018120-2.webp"
+  ]
+ },
+ "JRN00001022": {
+  "price": 8.75,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "5053990124886",
+  "barcode_src": "Tamimi",
+  "en": "Pringles Hot & Spicy 70 g",
+  "ar": "برينجلز شيبس حار زائد 70 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "2b86cc60-f15b-4678-ba33-404d4eaed259",
+  "hs_sku": "36E14M",
+  "images": [
+   "5053990124886.webp",
+   "5053990124886-1.webp",
+   "5053990124886-2.webp"
+  ]
+ },
+ "JRN00001023": {
+  "price": 9.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5053990125050",
+  "barcode_src": "Ninja",
+  "en": "Pringles Sour Cream & Onion 70 g",
+  "ar": "برينجلز شيبس بصل مع كريم 70 جم",
+  "cat": 33,
+  "nj_id": "5-19291787",
+  "hs_id": "76380c46-966c-4783-bf23-f99cd3b11fe3",
+  "hs_sku": "G7C2MQ",
+  "images": [
+   "5053990125050.webp",
+   "5053990125050-1.webp",
+   "5053990125050-2.webp"
+  ]
+ },
+ "JRN00001024": {
+  "price": 9.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5053990124961",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Pringles Original 70 g",
+  "ar": "برينجلز شيبس عادي 70 جم",
+  "cat": 33,
+  "nj_id": "5-19291788",
+  "hs_id": "cf436259-b859-4c62-8ddf-4905f8a8a1fe",
+  "hs_sku": "FA1219",
+  "images": [
+   "5053990124961.webp",
+   "5053990124961-1.webp",
+   "5053990124961-2.webp"
+  ]
+ },
+ "JRN00001025": {
+  "price": 17.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5053990138746",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Pringles Salt & Vinegar 200 g",
+  "ar": "برينجلز شيبس خل وملح 200 جم",
+  "cat": 33,
+  "nj_id": "5-4257",
+  "hs_id": "fe5b312c-c91a-4d42-adc1-760cea10e4c8",
+  "hs_sku": "8L7U9Q",
+  "images": [
+   "5053990138746.webp",
+   "5053990138746-1.webp",
+   "5053990138746-2.webp"
+  ]
+ },
+ "JRN00001026": {
+  "price": 17.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "4017100537004",
+  "barcode_src": "Ninja",
+  "en": "Lorenz Chipsletten Paprika 100 g",
+  "ar": "لورنز شرائح بطاطس فلفل الحلو 100 جم",
+  "cat": 33,
+  "nj_id": "5-19357450",
+  "hs_id": "8f694d39-a532-46c7-a834-6256fb44fef7",
+  "hs_sku": "R453VI",
+  "images": [
+   "4017100537004.webp",
+   "4017100537004-1.webp",
+   "4017100537004-2.webp"
+  ]
+ },
+ "JRN00001027": {
+  "price": 16.95,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "5053990138708",
+  "barcode_src": "Tamimi",
+  "en": "Pringles Hot Paprika Chips Xxl 200 g",
+  "ar": "برينجلز شيبس بابريكا الحار 200 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "477c6871-28f5-4865-8960-27c1610c3d54",
+  "hs_sku": "T26MD1",
+  "images": [
+   "5053990138708.webp",
+   "5053990138708-1.webp",
+   "5053990138708-2.webp"
+  ]
+ },
+ "JRN00001028": {
+  "price": 16.75,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "5053990175888",
+  "barcode_src": "Tamimi",
+  "en": "Pringles Hot Cheese Chilli 160 g",
+  "ar": "برينجلز رقائق بطاطس بالجبنة الحارة والفلفل 160 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "d185359c-5238-4e1b-a934-3ba88bc8003c",
+  "hs_sku": "TCRQJ2",
+  "images": [
+   "5053990175888.webp",
+   "5053990175888-1.webp",
+   "5053990175888-2.webp"
+  ]
+ },
+ "JRN00001029": {
+  "price": 12.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "4017100726101",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Lorenz Chipsletten Hot & Spicy 100 g",
+  "ar": "لورنز شرائح بطاطس حار 100 جم",
+  "cat": 33,
+  "nj_id": "5-19357442",
+  "hs_id": "3241fafe-99cc-477c-8887-5f089faaa038",
+  "hs_sku": "IJW7DN",
+  "images": [
+   "4017100726101.webp",
+   "4017100726101-1.webp",
+   "4017100726101-2.webp"
+  ]
+ },
+ "JRN00001030": {
+  "price": 10.0,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "4018077821790",
+  "barcode_src": "Tamimi",
+  "en": "Lorenz Pomsticks Paprika 85 g",
+  "ar": "لورينز بومستيكس بطعم البابريكا 85 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "4846efdd-83d2-4c1c-b8dd-2d94d1c8daf7",
+  "hs_sku": "697MHL",
+  "images": [
+   "4018077821790.webp",
+   "4018077821790-1.webp",
+   "4018077821790-2.webp"
+  ]
+ },
+ "JRN00001031": {
+  "price": 16.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "4018077668333",
+  "barcode_src": "Ninja",
+  "en": "Lorenz Crunchips Salted 150 g",
+  "ar": "لورنز كرانش شيبس بالملح 150 جم",
+  "cat": 33,
+  "nj_id": "5-19357456",
+  "hs_id": "4c835549-78c2-4d42-ae62-02e04b2d81cb",
+  "hs_sku": "7Q69I4",
+  "images": [
+   "4018077668333.webp",
+   "4018077668333-1.webp",
+   "4018077668333-2.webp"
+  ]
+ },
+ "JRN00001032": {
+  "price": 12.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "4017100723100",
+  "barcode_src": "Ninja",
+  "en": "Lorenz Chipsletten Sea Salt 100 g",
+  "ar": "لورنز شرائح بطاطس بملح البحر 100 جم",
+  "cat": 33,
+  "nj_id": "5-19357444",
+  "hs_id": "977e6a4a-cce5-4e04-b8a0-584c6f0650c4",
+  "hs_sku": "0KOK8Y",
+  "images": [
+   "4017100723100.webp",
+   "4017100723100-1.webp",
+   "4017100723100-2.webp"
+  ]
+ },
+ "JRN00001033": {
+  "price": 10.0,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "4018077821851",
+  "barcode_src": "Tamimi",
+  "en": "Lorenz Pomsticks Hot & Spicy 85 g",
+  "ar": "لورينز بومستيكس حار 85 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "e5d25e25-417b-4c77-8e4b-0b671968fe8b",
+  "hs_sku": "337K55",
+  "images": [
+   "4018077821851.webp",
+   "4018077821851-1.webp",
+   "4018077821851-2.webp"
+  ]
+ },
+ "JRN00001034": {
+  "price": 8.95,
+  "special": 7.87,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281036028280",
+  "barcode_src": "Tamimi",
+  "en": "Lay's Mango & Hot Spices Flavored Potato Chips 165 g",
+  "ar": "ليز مانجو وتوابل حارة 165 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "fee3e49c-5f5e-47c1-a092-999d1d900f32",
+  "hs_sku": "1HFVTI",
+  "images": [
+   "6281036028280.webp",
+   "6281036028280-1.webp",
+   "6281036028280-2.webp"
+  ]
+ },
+ "JRN00001035": {
+  "price": 8.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036108203",
+  "barcode_src": "Ninja",
+  "en": "Lays Chilli Family Pack 155-165 g",
+  "ar": "ليز رقائق البطاطس بنكهة الفلفل الحار حجم عائلي 155-165 جم",
+  "cat": 33,
+  "nj_id": "5-19288197",
+  "hs_id": "41672179-ad32-4922-896a-fccd18fbf41f",
+  "hs_sku": "6FUCJT",
+  "images": [
+   "6281036108203.webp",
+   "6281036108203-1.webp",
+   "6281036108203-2.webp"
+  ]
+ },
+ "JRN00001036": {
+  "price": 4.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036194107",
+  "barcode_src": "Ninja",
+  "en": "Lays Forno Baked Potato Chips Black Pepper 40 g",
+  "ar": "ليز فورنو رقائق البطاطس مخبوزة بالفلفل أسود 40 جم",
+  "cat": 33,
+  "nj_id": "5-3147",
+  "hs_id": "71d6b827-30a8-4498-b8da-c173ffa7cc58",
+  "hs_sku": "ILY38D",
+  "images": [
+   "6281036194107.webp",
+   "6281036194107-1.webp",
+   "6281036194107-2.webp"
+  ]
+ },
+ "JRN00001037": {
+  "price": 8.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036108302",
+  "barcode_src": "Ninja",
+  "en": "Lay's Potato Chips Salt And Vinegar Family Pack 155-165 g",
+  "ar": "ليز شرائح البطاطس بالملح والخل حجم عائلي 155-165 جم",
+  "cat": 33,
+  "nj_id": "5-19381769",
+  "hs_id": "a2f41fb7-21e2-4b67-8617-4a5feb1f5bc8",
+  "hs_sku": "ESJPRF",
+  "images": [
+   "6281036108302.webp",
+   "6281036108302-1.webp",
+   "6281036108302-2.webp"
+  ]
+ },
+ "JRN00001038": {
+  "price": 8.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036005458",
+  "barcode_src": "Ninja",
+  "en": "Lays Max Potato Chips with Chili Mexican Family Pack 155 g",
+  "ar": "ليز ماكس رقائق البطاطس بالفلفل الحار المكسيكي حجم عائلي 155 جم",
+  "cat": 33,
+  "nj_id": "5-7803",
+  "hs_id": "b53047f7-6104-4c48-a75a-d98be03e5dfc",
+  "hs_sku": "360015188",
+  "images": [
+   "6281036005458.webp",
+   "6281036005458-1.webp"
+  ]
+ },
+ "JRN00001039": {
+  "price": 4.5,
+  "special": 3.96,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281016900483",
+  "barcode_src": "Tamimi",
+  "en": "Al Batal Potato Chips Salt And Vinegar 110 g",
+  "ar": "البطل شرائح بطاطس بالملح والخل حجم عائلي 110 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "bd6e9e03-649d-45bd-854f-b12a88d82e62",
+  "hs_sku": "A14074",
+  "images": [
+   "6281016900483.webp",
+   "6281016900483-1.webp",
+   "6281016900483-2.webp"
+  ]
+ },
+ "JRN00001040": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016731612",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Potato Chips Chilli 110 g",
+  "ar": "البطل رقائق بطاطس بالفلفل الحار 110 جم",
+  "cat": 33,
+  "nj_id": "5-6262459",
+  "hs_id": "800c2881-db14-45db-8a98-7ba7731dd8f9",
+  "hs_sku": "N21XMO",
+  "images": [
+   "6281016731612.webp",
+   "6281016731612-1.webp",
+   "6281016731612-2.webp"
+  ]
+ },
+ "JRN00001041": {
+  "price": 3.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036005434",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Lays Max Mexican Chili 45 g",
+  "ar": "ليز ماكس بنكهة الفلفل المكسيكي 45 جم",
+  "cat": 33,
+  "nj_id": "5-19393934",
+  "hs_id": "00bab67a-7417-4ce1-b31e-52a15875a055",
+  "hs_sku": "8S53ZI",
+  "images": [
+   "6281036005434.webp",
+   "6281036005434-1.webp",
+   "6281036005434-2.webp"
+  ]
+ },
+ "JRN00001042": {
+  "price": 8.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036108104",
+  "barcode_src": "Ninja",
+  "en": "Lays Potato Chips With Ketchup Family Pack 155-165 g",
+  "ar": "ليز رقائق البطاطس بالكاتشب حجم عائلي 155-165 جم",
+  "cat": 33,
+  "nj_id": "5-6844",
+  "hs_id": "472bde6a-00f0-4ba5-b3e8-4f53672cda2a",
+  "hs_sku": "N6V64W",
+  "images": [
+   "6281036108104.webp",
+   "6281036108104-1.webp",
+   "6281036108104-2.webp"
+  ]
+ },
+ "JRN00001043": {
+  "price": 5.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036002020",
+  "barcode_src": "Ninja",
+  "en": "Lays Chilli 110 g",
+  "ar": "ليز شرائح بطاطس الحارة 110 جم",
+  "cat": 33,
+  "nj_id": "5-9929967",
+  "hs_id": "08b2d7c5-10b9-44b7-be5b-68e9338f7c95",
+  "hs_sku": "516TFL",
+  "images": [
+   "6281036002020.webp",
+   "6281036002020-1.webp",
+   "6281036002020-2.webp"
+  ]
+ },
+ "JRN00001044": {
+  "price": 7.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281071112166",
+  "barcode_src": "Ninja",
+  "en": "Marami Hot Chili Wavy Potato Chips 100 g",
+  "ar": "مرامي رقائق البطاطس بالفلفل الحار 100 جم",
+  "cat": 33,
+  "nj_id": "5-19294926",
+  "hs_id": "1078d0a6-ae7a-417a-b9a2-ee949af16cb5",
+  "hs_sku": "42DX1F",
+  "images": [
+   "6281071112166.webp",
+   "6281071112166-1.webp",
+   "6281071112166-2.webp"
+  ]
+ },
+ "JRN00001045": {
+  "price": 3.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036115300",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Lays Potato Chips Salt Vinegar 45-48 g",
+  "ar": "ليز شرائح بطاطس بالملح والخل 45-48 جم",
+  "cat": 33,
+  "nj_id": "5-4774",
+  "hs_id": "b236dd6a-ce18-406a-86a9-c49ba9d69ab2",
+  "hs_sku": "I16P13",
+  "images": [
+   "6281036115300.webp",
+   "6281036115300-1.webp",
+   "6281036115300-2.webp"
+  ]
+ },
+ "JRN00001046": {
+  "price": 6.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281071114160",
+  "barcode_src": "Ninja",
+  "en": "Marami Salt & Vinegar Wavy Potato Chips 100 g",
+  "ar": "مرامي رقائق البطاطس الويفي بالملح والخل 100 جم",
+  "cat": 33,
+  "nj_id": "5-19294927",
+  "hs_id": "26614b12-8f65-4379-b5ca-9e8cbbcec2f9",
+  "hs_sku": "DMQD83",
+  "images": [
+   "6281071114160.webp",
+   "6281071114160-1.webp",
+   "6281071114160-2.webp"
+  ]
+ },
+ "JRN00001047": {
+  "price": 9.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036108401",
+  "barcode_src": "Tamimi",
+  "en": "Lays French Cheese Family Pack 155-165 g",
+  "ar": "ليز بنكهة الجبنة الفرنسية حجم عائلي 155-165 جم",
+  "cat": 33,
+  "nj_id": "5-19289703",
+  "hs_id": "f897535a-5aeb-40f0-b150-998b9c1c2ec7",
+  "hs_sku": "087J1W",
+  "images": [
+   "6281036108401.webp",
+   "6281036108401-1.webp",
+   "6281036108401-2.webp"
+  ]
+ },
+ "JRN00001048": {
+  "price": 6.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036003713",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Lay's Salt and Vinegar Potato Chips 110 g",
+  "ar": "ليز شرائح بطاطس بالملح والخل 110 جم",
+  "cat": 33,
+  "nj_id": "5-19365622",
+  "hs_id": "2a8b530b-9792-4547-ac8b-4c6e03d389fe",
+  "hs_sku": "LSJ5H0",
+  "images": [
+   "6281036003713.webp",
+   "6281036003713-1.webp",
+   "6281036003713-2.webp"
+  ]
+ },
+ "JRN00001049": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016900506",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Potato Chips Cheese 110 g",
+  "ar": "البطل رقائق بطاطس بالجبنة 110 جم",
+  "cat": 33,
+  "nj_id": "5-6208448",
+  "hs_id": "31f1fbd4-f0d8-404b-b424-84119300595e",
+  "hs_sku": "GV0BRX",
+  "images": [
+   "6281016900506.webp",
+   "6281016900506-1.webp",
+   "6281016900506-2.webp"
+  ]
+ },
+ "JRN00001050": {
+  "price": 3.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036115003",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Lays Potato Chips Salt 45-48 g",
+  "ar": "ليز شرائح بطاطس بنكهة الملح 45-48 جم",
+  "cat": 33,
+  "nj_id": "5-4772",
+  "hs_id": "f2c57a38-b1fd-4173-a852-fc3e2716a28d",
+  "hs_sku": "TUK8QG",
+  "images": [
+   "6281036115003.webp",
+   "6281036115003-1.webp",
+   "6281036115003-2.webp"
+  ]
+ },
+ "JRN00001051": {
+  "price": 14.75,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281016795126",
+  "barcode_src": "Tamimi",
+  "en": "Al Batal Potato Chips Salt And Vinegar 12 x 23 g",
+  "ar": "البطل رقائق بطاطس بنكهة الملح والخل 12×23 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "c1a12167-ffc9-4066-aa69-b29b9be91d8b",
+  "hs_sku": "DYOS1R",
+  "images": [
+   "6281016795126.webp",
+   "6281016795126-1.webp",
+   "6281016795126-2.webp"
+  ]
+ },
+ "JRN00001052": {
+  "price": 3.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036124708",
+  "barcode_src": "Ninja",
+  "en": "Lays Potato Chips With Chili Lemon 45-48 g",
+  "ar": "ليز شرائح بطاطس بالفلفل الحار والليمون 45-48 جم",
+  "cat": 33,
+  "nj_id": "5-3141",
+  "hs_id": "ab45886d-9a59-4f04-8031-fbbd701a43f6",
+  "hs_sku": "3X69SN",
+  "images": [
+   "6281036124708.webp",
+   "6281036124708-1.webp",
+   "6281036124708-2.webp"
+  ]
+ },
+ "JRN00001053": {
+  "price": 8.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036108005",
+  "barcode_src": "Ninja",
+  "en": "Lays Salt Family Pack 155-165 g",
+  "ar": "ليز بطاطس بنكهة الملح حجم عائلي 155-165 جم",
+  "cat": 33,
+  "nj_id": "5-19288208",
+  "hs_id": "62a3f383-d106-4260-811e-d12dfce20912",
+  "hs_sku": "3MX8N8",
+  "images": [
+   "6281036108005.webp",
+   "6281036108005-1.webp",
+   "6281036108005-2.webp"
+  ]
+ },
+ "JRN00001054": {
+  "price": 6.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036125705",
+  "barcode_src": "Ninja",
+  "en": "Lays French Cheese 110 g",
+  "ar": "ليز شرائح بطاطس بالجبنة الفرنسية 110 جم",
+  "cat": 33,
+  "nj_id": "5-9930332",
+  "hs_id": "cd1c44ff-4507-4edc-8dbd-37dc4d5b4654",
+  "hs_sku": "E44UY1",
+  "images": [
+   "6281036125705.webp",
+   "6281036125705-1.webp",
+   "6281036125705-2.webp"
+  ]
+ },
+ "JRN00001055": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016960432",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Chips BBQ 110 g",
+  "ar": "البطل بطاطس الباربكيو 110 جم",
+  "cat": 33,
+  "nj_id": "5-19291762",
+  "hs_id": "ea89fb6e-fc0e-4f8e-9067-adb81b27d97f",
+  "hs_sku": "29ZY9G",
+  "images": [
+   "6281016960432.webp",
+   "6281016960432-1.webp",
+   "6281016960432-2.webp"
+  ]
+ },
+ "JRN00001056": {
+  "price": 7.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281071111169",
+  "barcode_src": "Ninja",
+  "en": "Marami Ketchup Wavy Potato Chips 100 g",
+  "ar": "مرامي رقائق بطاطس كاتشب 100 جم",
+  "cat": 33,
+  "nj_id": "5-19294948",
+  "hs_id": "0d5bb43d-516f-4c6b-a67e-999f77ecd31c",
+  "hs_sku": "MKO374",
+  "images": [
+   "6281071111169.webp",
+   "6281071111169-1.webp",
+   "6281071111169-2.webp"
+  ]
+ },
+ "JRN00001057": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016900469",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Potato Chips Ketchup 110 g",
+  "ar": "البطل رقائق بطاطس بالكاتشب 110 جم",
+  "cat": 33,
+  "nj_id": "5-6204051",
+  "hs_id": "4df8e4a4-b792-4e4f-8b99-23b82bb9f444",
+  "hs_sku": "2YYQJ3",
+  "images": [
+   "6281016900469.webp",
+   "6281016900469-1.webp",
+   "6281016900469-2.webp"
+  ]
+ },
+ "JRN00001058": {
+  "price": 14.75,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281016003788",
+  "barcode_src": "Tamimi",
+  "en": "Al Batal Cheese Potato Chips 12 x 23 g",
+  "ar": "البطل رقائق البطاطس بنكهة الجبنة 12×23 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "1dde9d09-daad-4714-928e-3eecfd9570bf",
+  "hs_sku": "XOHQ95",
+  "images": [
+   "6281016003788.webp",
+   "6281016003788-1.webp",
+   "6281016003788-2.webp"
+  ]
+ },
+ "JRN00001059": {
+  "price": 5.75,
+  "special": 5.17,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281016012322",
+  "barcode_src": "Tamimi",
+  "en": "Al Batal Ridges Chili Lemon Flavor 155 g",
+  "ar": "البطل شرائح البطاطس ردجز بنكهة الفلفل والليمون 155 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "6840e80c-ca71-4fe6-b6e6-df5066f8016f",
+  "hs_sku": "92V04M",
+  "images": [
+   "6281016012322.webp",
+   "6281016012322-1.webp",
+   "6281016012322-2.webp"
+  ]
+ },
+ "JRN00001060": {
+  "price": 8.95,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281036028877",
+  "barcode_src": "Tamimi",
+  "en": "Lay's Pickled Lemon Chips 155 g",
+  "ar": "ليز رقائق بطاطس الليمون المخلل السعودي 155 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "91c1bfe6-c565-4811-8aa1-403150cd6fc3",
+  "hs_sku": "PQ2MVH",
+  "images": [
+   "6281036028877.webp",
+   "6281036028877-1.webp",
+   "6281036028877-2.webp"
+  ]
+ },
+ "JRN00001061": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6285602016954",
+  "barcode_src": "Ninja",
+  "en": "Deemah Cruxx Chips Daqoos 75 g",
+  "ar": "ديمة كركس شيبس دقوس 75 جم",
+  "cat": 33,
+  "nj_id": "5-19394335",
+  "hs_id": "99aaf02e-5bd4-44d9-a126-efb981694c14",
+  "hs_sku": "ILNFJY",
+  "images": [
+   "6285602016954.webp",
+   "6285602016954-1.webp"
+  ]
+ },
+ "JRN00001062": {
+  "price": 4.5,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6285602013304",
+  "barcode_src": "Tamimi",
+  "en": "Farfasha Salt & Vinegar Chips 75 g",
+  "ar": "ديمة فرفشة رقائق البطاطس بالملح والخل 75 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "4622f84d-2bce-4aaa-a747-37cd07cef9e4",
+  "hs_sku": "6B6GON",
+  "images": [
+   "6285602013304.webp",
+   "6285602013304-1.webp",
+   "6285602013304-2.webp"
+  ]
+ },
+ "JRN00001063": {
+  "price": 7.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281071113163",
+  "barcode_src": "Ninja",
+  "en": "Marami Salt Wavy Potato Chips 100 g",
+  "ar": "مرامي رقائق البطاطس بالملح 100 جم",
+  "cat": 33,
+  "nj_id": "5-19294935",
+  "hs_id": "49e64349-ff9a-44e8-9ff6-6a82942f2268",
+  "hs_sku": "833146",
+  "images": [
+   "6281071113163.webp",
+   "6281071113163-1.webp",
+   "6281071113163-2.webp"
+  ]
+ },
+ "JRN00001064": {
+  "price": 4.95,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6285602013236",
+  "barcode_src": "Tamimi",
+  "en": "Farfasha Tomato Ketchup Chips 75 g",
+  "ar": "ديمة فرفشة بطاطس شيبس بالكاتشب 75 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "adbc1af3-9d26-4cbf-9824-b65d410fa4b0",
+  "hs_sku": "ZRZ28V",
+  "images": [
+   "6285602013236.webp",
+   "6285602013236-1.webp",
+   "6285602013236-2.webp"
+  ]
+ },
+ "JRN00001065": {
+  "price": 17.75,
+  "special": 15.62,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281036002594",
+  "barcode_src": "Tamimi",
+  "en": "Lay's Potato Chips Chili 12 x 21 g",
+  "ar": "ليز رقائق البطاطس بالنكهة الحارة 12×21 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "c9309e90-f20e-40f8-a09e-82c6f5e6676c",
+  "hs_sku": "6NEV8L",
+  "images": [
+   "6281036002594.webp",
+   "6281036002594-1.webp",
+   "6281036002594-2.webp"
+  ]
+ },
+ "JRN00001066": {
+  "price": 18.75,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6285602013076",
+  "barcode_src": "Tamimi",
+  "en": "Farfasha Chilli & Lemon Potato Sticks 24 x 15 g",
+  "ar": "ديمة فرفشة عيدان بطاطا طبيعية بالشطة و الليمون 24×15 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "be65daaa-a0b2-4784-9ec6-31432d38eb17",
+  "hs_sku": "6WV6MC",
+  "images": [
+   "6285602013076.webp",
+   "6285602013076-1.webp",
+   "6285602013076-2.webp"
+  ]
+ },
+ "JRN00001067": {
+  "price": 14.75,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281016795225",
+  "barcode_src": "Tamimi",
+  "en": "Al Batal Salted Potato Chips 12 x 23 g",
+  "ar": "البطل رقائق البطاطس بالملح 12×23 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "fb5942a5-3952-44dc-a236-babacd02c1dd",
+  "hs_sku": "866GM9",
+  "images": [
+   "6281016795225.webp",
+   "6281016795225-1.webp",
+   "6281016795225-2.webp"
+  ]
+ },
+ "JRN00001068": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016731711",
+  "barcode_src": "Tamimi",
+  "en": "Al Batal Potato Chips Salt 110 g",
+  "ar": "البطل رقائق بطاطس بالملح 110 جم",
+  "cat": 33,
+  "nj_id": "5-6215807",
+  "hs_id": "4518ed5d-5900-43d3-ad3d-4c959b67e611",
+  "hs_sku": "4AK7EG",
+  "images": [
+   "6281016731711.webp",
+   "6281016731711-1.webp"
+  ]
+ },
+ "JRN00001069": {
+  "price": 17.75,
+  "special": 15.62,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281036002587",
+  "barcode_src": "Tamimi",
+  "en": "Lay's Potato Chips Tomato Ketchup 12 x 21 g",
+  "ar": "ليز رقائق البطاطس بنكهة الكاتشب 12×21 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "6f4e641e-2c22-4ca1-ab3a-f6e5d4c79c98",
+  "hs_sku": "I26DB9",
+  "images": [
+   "6281036002587.webp",
+   "6281036002587-1.webp",
+   "6281036002587-2.webp"
+  ]
+ },
+ "JRN00001070": {
+  "price": 8.95,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281036028822",
+  "barcode_src": "Tamimi",
+  "en": "Lay's Pineapple Jalapeno Chips 155 g",
+  "ar": "ليز رقائق بطاطس الأناناس المكسيكي والهلابينو 155 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "59668daa-8e28-4a09-a0c5-524a5096865e",
+  "hs_sku": "S27HQG",
+  "images": [
+   "6281036028822.webp",
+   "6281036028822-1.webp",
+   "6281036028822-2.webp"
+  ]
+ },
+ "JRN00001071": {
+  "price": 8.95,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281036028723",
+  "barcode_src": "Tamimi",
+  "en": "Lay's Cream N Herbs Chips 155 g",
+  "ar": "ليز رقائق بطاطس الكريمة والأعشاب الفرنسية 155 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "5ab4868f-a9cd-48c6-b38d-07536c7cef32",
+  "hs_sku": "KFVPZA",
+  "images": [
+   "6281036028723.webp",
+   "6281036028723-1.webp",
+   "6281036028723-2.webp"
+  ]
+ },
+ "JRN00001072": {
+  "price": 17.75,
+  "special": 15.62,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281036002624",
+  "barcode_src": "Tamimi",
+  "en": "Lay's French Cheese Potato Chips 12 x 21 g",
+  "ar": "ليز رقائق البطاطس بنكهة الجبنة الفرنسية 12×21 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "2a3e6b55-24e9-4f8e-b35a-595fbe9afdcc",
+  "hs_sku": "0MCV9X",
+  "images": [
+   "6281036002624.webp",
+   "6281036002624-1.webp",
+   "6281036002624-2.webp"
+  ]
+ },
+ "JRN00001073": {
+  "price": 17.75,
+  "special": 15.62,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281036002617",
+  "barcode_src": "Tamimi",
+  "en": "Lay's Salted Potato Chips 12 x 21 g",
+  "ar": "ليز شرائح بطاطس بالملح 12×21 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "748dc6a2-23a0-44aa-a090-4c52953c1123",
+  "hs_sku": "PKZ4EG",
+  "images": [
+   "6281036002617.webp",
+   "6281036002617-1.webp",
+   "6281036002617-2.webp"
+  ]
+ },
+ "JRN00001074": {
+  "price": 4.5,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6285602013250",
+  "barcode_src": "Tamimi",
+  "en": "Farfasha Natural Salt Chips 75 g",
+  "ar": "ديمة فرفشة بطاطس بالملح 75 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "9b0b9710-1e4f-45b7-b734-20f857339b3e",
+  "hs_sku": "B249IY",
+  "images": [
+   "6285602013250.webp",
+   "6285602013250-1.webp",
+   "6285602013250-2.webp"
+  ]
+ },
+ "JRN00001075": {
+  "price": 6.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016013053",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Ridges Potato Chips Cheese 155 g",
+  "ar": "البطل ردجز بطاطس جبنة 155 جم",
+  "cat": 33,
+  "nj_id": "5-19291777",
+  "hs_id": "35f6347d-5e6c-44a3-bc7a-fa3c15db705d",
+  "hs_sku": "A10VA2",
+  "images": [
+   "6281016013053.webp",
+   "6281016013053-1.webp",
+   "6281016013053-2.webp"
+  ]
+ },
+ "JRN00001076": {
+  "price": 26.0,
+  "special": 19.5,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281057016914",
+  "barcode_src": "Ninja",
+  "en": "Nadec Crackles Spicy Chilli Chips 25 x 21 g",
+  "ar": "نادك كراكليز رقائق بطاطس بطعم الفلفل الحار 25×21 جم",
+  "cat": 33,
+  "nj_id": "5-19405018",
+  "hs_id": "71b340b3-540f-4f62-94af-3c01603f50a4",
+  "hs_sku": "NY93R5",
+  "images": [
+   "6281057016914.webp",
+   "6281057016914-1.webp",
+   "6281057016914-2.webp"
+  ]
+ },
+ "JRN00001077": {
+  "price": 9.5,
+  "special": 6.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281057016839",
+  "barcode_src": "Ninja",
+  "en": "Nadec Crackles Spicy Chilli Chips 155 g",
+  "ar": "نادك كراكليز رقائق بطاطس بطعم الفلفل الحار 155 جم",
+  "cat": 33,
+  "nj_id": "5-19405008",
+  "hs_id": "3bac61c5-9f2c-4749-bb5d-b7ecfe4b992f",
+  "hs_sku": "S30M72",
+  "images": [
+   "6281057016839.webp",
+   "6281057016839-1.webp",
+   "6281057016839-2.webp"
+  ]
+ },
+ "JRN00001078": {
+  "price": 9.5,
+  "special": 6.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281057016860",
+  "barcode_src": "Ninja",
+  "en": "Nadec Crackles Salt Chips 155 g",
+  "ar": "نادك كراكليز رقائق بطاطس بطعم الملح 155 جم",
+  "cat": 33,
+  "nj_id": "5-19405007",
+  "hs_id": "ef65171b-49fe-42b5-a9b1-5ec865796bde",
+  "hs_sku": "73I1OS",
+  "images": [
+   "6281057016860.webp",
+   "6281057016860-1.webp",
+   "6281057016860-2.webp"
+  ]
+ },
+ "JRN00001079": {
+  "price": 9.5,
+  "special": 6.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281057016877",
+  "barcode_src": "Ninja",
+  "en": "Nadec Crackles Salt & Vinegar Chips 155 g",
+  "ar": "نادك كراكليز رقائق بطاطس بطعم الملح والخل 155 جم",
+  "cat": 33,
+  "nj_id": "5-19405006",
+  "hs_id": "2852b1f4-0cfa-41d8-b23c-9bbede95b845",
+  "hs_sku": "8743ZM",
+  "images": [
+   "6281057016877.webp",
+   "6281057016877-1.webp",
+   "6281057016877-2.webp"
+  ]
+ },
+ "JRN00001080": {
+  "price": 9.5,
+  "special": 6.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281057016853",
+  "barcode_src": "Ninja",
+  "en": "Nadec Crackles Cheese Chips 155 g",
+  "ar": "نادك كراكليز رقائق بطاطس بطعم الجبن 155 جم",
+  "cat": 33,
+  "nj_id": "5-19405005",
+  "hs_id": "0a7be2ed-ac3a-409b-9621-538e63facf85",
+  "hs_sku": "8CWSEK",
+  "images": [
+   "6281057016853.webp",
+   "6281057016853-1.webp",
+   "6281057016853-2.webp"
+  ]
+ },
+ "JRN00001081": {
+  "price": 26.0,
+  "special": 19.5,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281057016921",
+  "barcode_src": "Ninja",
+  "en": "Nadec Crackles Tomato Ketchup Chips 25 x 21 g",
+  "ar": "نادك كراكليز رقائق بطاطس بطعم الكاتشب 25×21 جم",
+  "cat": 33,
+  "nj_id": "5-19405019",
+  "hs_id": "ecaf70ef-f535-46ef-802f-5e4d572cae7e",
+  "hs_sku": "J54G02",
+  "images": [
+   "6281057016921.webp",
+   "6281057016921-1.webp",
+   "6281057016921-2.webp"
+  ]
+ },
+ "JRN00001082": {
+  "price": 4.5,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6285602013281",
+  "barcode_src": "Tamimi",
+  "en": "Farfasha Jalapeno Pepper Chips 75 g",
+  "ar": "ديمة فرفشة شرائح بطاطس هالبينو 75 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "561667ac-256a-4250-95b4-c58bcb683984",
+  "hs_sku": "44V177",
+  "images": [
+   "6285602013281.webp",
+   "6285602013281-1.webp",
+   "6285602013281-2.webp"
+  ]
+ },
+ "JRN00001083": {
+  "price": 13.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6285602012888",
+  "barcode_src": "Ninja",
+  "en": "Deemah Farfasha Potatoes Chip Jalapeno 12 x 21 g",
+  "ar": "ديمة فرفشة بطاطس هلابينو 12×21 جم",
+  "cat": 33,
+  "nj_id": "5-19317651",
+  "hs_id": "ff77fedd-9012-4b9f-9e9c-e58de61fb6ef",
+  "hs_sku": "E3ZCI5",
+  "images": [
+   "6285602012888.webp",
+   "6285602012888-1.webp"
+  ]
+ },
+ "JRN00001084": {
+  "price": 4.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287006940019",
+  "barcode_src": "Ninja",
+  "en": "Kitco Bites Snacks Cocktail 90 g",
+  "ar": "كتكو سناكس كوكتيل 90 جم",
+  "cat": 33,
+  "nj_id": "5-19309096",
+  "hs_id": "ac5d6bb7-38d1-4e87-a0de-289931f4bfd6",
+  "hs_sku": "WFUZ6X",
+  "images": [
+   "6287006940019.webp",
+   "6287006940019-1.webp",
+   "6287006940019-2.webp"
+  ]
+ },
+ "JRN00001085": {
+  "price": 8.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281071275267",
+  "barcode_src": "Ninja",
+  "en": "Krinkle Sweet Thai Chili Sauce 90 g",
+  "ar": "كرينكل صلصة الفلفل الحلو التايلاندي 90 جم",
+  "cat": 33,
+  "nj_id": "5-19294945",
+  "hs_id": "0c992eaa-5959-47a3-a019-8c81c55a9877",
+  "hs_sku": "88RLR4",
+  "images": [
+   "6281071275267.webp",
+   "6281071275267-1.webp",
+   "6281071275267-2.webp"
+  ]
+ },
+ "JRN00001086": {
+  "price": 10.0,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "5905187101296",
+  "barcode_src": "Tamimi",
+  "en": "Lorenz Crunch Chips X Cut Salted 85 g",
+  "ar": "لورنز كرنش شيبس ملح 85 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "e2254f01-e3ad-4749-b18a-792a70f82830",
+  "hs_sku": "X105KP",
+  "images": [
+   "5905187101296.webp",
+   "5905187101296-1.webp",
+   "5905187101296-2.webp"
+  ]
+ },
+ "JRN00001087": {
+  "price": 4.95,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6285602013212",
+  "barcode_src": "Tamimi",
+  "en": "Farfasha Chilli & Lemon Chips 75 g",
+  "ar": "فرفشة بطاطس شيبس بالشطة والليمون 75 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "8b58fa7c-93e2-4963-a11a-d6b775ddd366",
+  "hs_sku": "P7D00C",
+  "images": [
+   "6285602013212.webp",
+   "6285602013212-1.webp",
+   "6285602013212-2.webp"
+  ]
+ },
+ "JRN00001088": {
+  "price": 7.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6271101020165",
+  "barcode_src": "Ninja",
+  "en": "Hectare's Chips Salt & Black Pepper Gluten Free 40 g",
+  "ar": "هيكتورز بطاطس بطعم الملح البحري والفلفل الأسود خالي من الجلوتين 40 جم",
+  "cat": 33,
+  "nj_id": "1-19289694",
+  "hs_id": "48612dab-20e8-44d7-861c-f84f68408ee8",
+  "hs_sku": "ACT613",
+  "images": [
+   "6271101020165.webp",
+   "6271101020165-1.webp",
+   "6271101020165-2.webp"
+  ]
+ },
+ "JRN00001089": {
+  "price": 7.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6271101020172",
+  "barcode_src": "Ninja",
+  "en": "Hectare's Chips Salt & Balsamic Vinegar 40 g",
+  "ar": "هيكتورز بطاطس بطعم الملح البحري والخل البلسمي 40 جم",
+  "cat": 33,
+  "nj_id": "1-19289702",
+  "hs_id": "ab5fd3d4-8255-475c-a87a-277e536a3969",
+  "hs_sku": "9YQCD5",
+  "images": [
+   "6271101020172.webp",
+   "6271101020172-1.webp",
+   "6271101020172-2.webp"
+  ]
+ },
+ "JRN00001090": {
+  "price": 7.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6271101020196",
+  "barcode_src": "Ninja",
+  "en": "Hectare's Chips Sweet Chili & Red Pepper Gluten Free 40 g",
+  "ar": "هيكتورز بطاطس بطعم الفلفل الحلو والفلفل الأحمر خالي من الجلوتين 40 جم",
+  "cat": 33,
+  "nj_id": "1-19289715",
+  "hs_id": "d50d611b-f017-4cdb-8e46-24c81cf937be",
+  "hs_sku": "ETN2I3",
+  "images": [
+   "6271101020196.webp",
+   "6271101020196-1.webp",
+   "6271101020196-2.webp"
+  ]
+ },
+ "JRN00001091": {
+  "price": 1.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556296000206",
+  "barcode_src": "Ninja",
+  "en": "Sun Ring Cheese 16 g",
+  "ar": "صن رينج جبنه 16 جم",
+  "cat": 33,
+  "nj_id": "5-3080241",
+  "hs_id": "54d387d1-e02f-41b7-b335-4dc7ec6149a3",
+  "hs_sku": "1R6I29",
+  "images": [
+   "9556296000206.webp",
+   "9556296000206-1.webp",
+   "9556296000206-2.webp"
+  ]
+ },
+ "JRN00001092": {
+  "price": 8.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556296311197",
+  "barcode_src": "Ninja",
+  "en": "Sun Ring Cheese Family 60 g",
+  "ar": "صن رينج جبنه عائلي 60 جم",
+  "cat": 33,
+  "nj_id": "5-3081004",
+  "hs_id": "6dabee0f-dc7d-49e0-977b-f785c8b32ad0",
+  "hs_sku": "M98HEV",
+  "images": [
+   "9556296311197.webp",
+   "9556296311197-1.webp",
+   "9556296311197-2.webp"
+  ]
+ },
+ "JRN00001093": {
+  "price": 4.5,
+  "special": 4.0,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281039821116",
+  "barcode_src": "Tamimi",
+  "en": "Crispy Cheese Rings 90 g",
+  "ar": "كريسبي حلقات البطاطس بالجبن 90 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "2e95d460-e658-49f8-ab9a-a1fca10fea19",
+  "hs_sku": "C48N9V",
+  "images": [
+   "6281039821116.webp",
+   "6281039821116-1.webp",
+   "6281039821116-2.webp"
+  ]
+ },
+ "JRN00001094": {
+  "price": 1.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556296000039",
+  "barcode_src": "Ninja",
+  "en": "Sun Ring Onion 16 g",
+  "ar": "صن رينج بصل 16 جم",
+  "cat": 33,
+  "nj_id": "5-3080470",
+  "hs_id": "b241dcad-4a42-4264-bcc9-07c007063654",
+  "hs_sku": "VOOI71",
+  "images": [
+   "9556296000039.webp",
+   "9556296000039-1.webp",
+   "9556296000039-2.webp"
+  ]
+ },
+ "JRN00001095": {
+  "price": 8.95,
+  "special": 7.87,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281036567109",
+  "barcode_src": "Tamimi",
+  "en": "Doritos Nacho Cheese 180 g",
+  "ar": "دوريتوس جبنة الناتشو 180 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "5dc4f38c-d8e1-46c8-8a99-792baa7d9594",
+  "hs_sku": "9LV498",
+  "images": [
+   "6281036567109.webp",
+   "6281036567109-1.webp",
+   "6281036567109-2.webp"
+  ]
+ },
+ "JRN00001096": {
+  "price": 3.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036564108",
+  "barcode_src": "Ninja",
+  "en": "Doritos Corn Chips With Nacho Cheese 48 g",
+  "ar": "دوريتوس رقائق الذرة بجبنة الناتشو 48 جم",
+  "cat": 33,
+  "nj_id": "5-8288",
+  "hs_id": "3a02dab3-124e-4583-8847-2ee35354300c",
+  "hs_sku": "J55985",
+  "images": [
+   "6281036564108.webp",
+   "6281036564108-1.webp",
+   "6281036564108-2.webp"
+  ]
+ },
+ "JRN00001097": {
+  "price": 8.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287006941818",
+  "barcode_src": "Ninja",
+  "en": "Mexita Tortilla Sweet & Sour 180 g",
+  "ar": "مكسيتا حلو وحامض 180 جم",
+  "cat": 33,
+  "nj_id": "5-19309092",
+  "hs_id": "4bc65ff2-2a44-4e4d-ae6e-3fba52acb57b",
+  "hs_sku": "569IPS",
+  "images": [
+   "6287006941818.webp",
+   "6287006941818-1.webp",
+   "6287006941818-2.webp"
+  ]
+ },
+ "JRN00001098": {
+  "price": 8.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287006941825",
+  "barcode_src": "Ninja",
+  "en": "Mexita Tortilla Sweet & Chilli Pepper 180 g",
+  "ar": "مكسيتا حار وحلو 180 جم",
+  "cat": 33,
+  "nj_id": "5-19309095",
+  "hs_id": "4e26366e-4e8d-4b14-8d6a-ba82ca164578",
+  "hs_sku": "G0GX10",
+  "images": [
+   "6287006941825.webp",
+   "6287006941825-1.webp",
+   "6287006941825-2.webp"
+  ]
+ },
+ "JRN00001099": {
+  "price": 17.5,
+  "special": 15.4,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281036008091",
+  "barcode_src": "Tamimi",
+  "en": "Doritos Sweet Chilli Pepper 12 x 21 g",
+  "ar": "دوريتوس رقائق التورتيلا حار حلو 12×21 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "595b46f1-2856-43e5-a211-2b1dbdf8ee80",
+  "hs_sku": "IQRMNJ",
+  "images": [
+   "6281036008091.webp",
+   "6281036008091-1.webp",
+   "6281036008091-2.webp"
+  ]
+ },
+ "JRN00001100": {
+  "price": 8.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287006941832",
+  "barcode_src": "Ninja",
+  "en": "Mexita Tortilla Hot Chilli & Lime 180 g",
+  "ar": "مكسيتا بالفلفل الحار والليمون 180 جم",
+  "cat": 33,
+  "nj_id": "5-19309078",
+  "hs_id": "22ff2c64-6900-4f9f-afba-8c7c99ac70d4",
+  "hs_sku": "4AXHNE",
+  "images": [
+   "6287006941832.webp",
+   "6287006941832-1.webp",
+   "6287006941832-2.webp"
+  ]
+ },
+ "JRN00001101": {
+  "price": 9.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5203912390886",
+  "barcode_src": "Tamimi",
+  "en": "Bugles Corn Snack Original 125 g",
+  "ar": "بيوقلز سناك الذرة الأصلية 125 جم",
+  "cat": 33,
+  "nj_id": "5-382",
+  "hs_id": "6b1897ec-4720-426e-a81e-fc81d60609f9",
+  "hs_sku": "W828N1",
+  "images": [
+   "5203912390886.webp",
+   "5203912390886-1.webp",
+   "5203912390886-2.webp"
+  ]
+ },
+ "JRN00001102": {
+  "price": 4.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016013008",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Corn Balls Snacks Cheese 90 g",
+  "ar": "البطل كرات الذرة بالجبنة 90 جم",
+  "cat": 33,
+  "nj_id": "5-6246346",
+  "hs_id": "7867c6aa-ceab-4000-8214-47107d83f66d",
+  "hs_sku": "0E3172",
+  "images": [
+   "6281016013008.webp",
+   "6281016013008-1.webp",
+   "6281016013008-2.webp"
+  ]
+ },
+ "JRN00001103": {
+  "price": 7.75,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6287006941801",
+  "barcode_src": "Tamimi",
+  "en": "Kitco Tortilla Chips With Nacho Cheese 180 g",
+  "ar": "كتكو مكسيتا رقائق التورتيلا بجبنة الناتشو 180 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "d9c9e779-253b-4377-9d44-ad076a6eec87",
+  "hs_sku": "O0K91V",
+  "images": [
+   "6287006941801.webp",
+   "6287006941801-1.webp",
+   "6287006941801-2.webp"
+  ]
+ },
+ "JRN00001104": {
+  "price": 13.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6291105694179",
+  "barcode_src": "Tamimi",
+  "en": "Bugles XXL BBQ 195 g",
+  "ar": "بيوقلز XXL الشواء 195 جم",
+  "cat": 33,
+  "nj_id": "5-19289161",
+  "hs_id": "2a018a13-a87f-4cbd-bc55-b2350fbbc942",
+  "hs_sku": "5Q7E1R",
+  "images": [
+   "6291105694179.webp",
+   "6291105694179-1.webp",
+   "6291105694179-2.webp"
+  ]
+ },
+ "JRN00001105": {
+  "price": 3.0,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6291105691444",
+  "barcode_src": "Tamimi",
+  "en": "Bugles Sweet Chili Corn Snack 30 g",
+  "ar": "بيوقلز مقرمشات الذرة بالفلفل الأحمر الحلو 30 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "da0ecccd-84a9-42d9-9e43-c75c7fa9f141",
+  "hs_sku": "Z73T9A",
+  "images": [
+   "6291105691444.webp",
+   "6291105691444-1.webp",
+   "6291105691444-2.webp"
+  ]
+ },
+ "JRN00001106": {
+  "price": 4.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287006940989",
+  "barcode_src": "Tamimi",
+  "en": "Kitco Bites Corn Cheese Balls 90 g",
+  "ar": "كتكو بايتس كرات الجبن 90 جم",
+  "cat": 33,
+  "nj_id": "5-19309072",
+  "hs_id": "5084f8f7-9916-4768-beb7-0316973dcf0e",
+  "hs_sku": "4NU27O",
+  "images": [
+   "6287006940989.webp",
+   "6287006940989-1.webp",
+   "6287006940989-2.webp"
+  ]
+ },
+ "JRN00001107": {
+  "price": 18.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036008107",
+  "barcode_src": "Tamimi",
+  "en": "Doritos Tortilla Chips Nacho Cheese Potato Chips 12 x 21 g",
+  "ar": "دوريتوس رقائق الذرة بنكهة جبنة الناتشوز حلو 12×21 جم",
+  "cat": 33,
+  "nj_id": "5-19291763",
+  "hs_id": "831581c8-77c6-48ea-8717-3ff1bbe32146",
+  "hs_sku": "XQEWWI",
+  "images": [
+   "6281036008107.webp",
+   "6281036008107-1.webp",
+   "6281036008107-2.webp"
+  ]
+ },
+ "JRN00001108": {
+  "price": 27.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556296331522",
+  "barcode_src": "Ninja",
+  "en": "Sun Ring Cheese 20 x 16 g",
+  "ar": "صن رينج حلقات الجبن 20×16 جم",
+  "cat": 33,
+  "nj_id": "5-19355014",
+  "hs_id": "79f7bf7a-0860-43a8-819e-89ed6dc47809",
+  "hs_sku": "56TPBB",
+  "images": [
+   "9556296331522.webp",
+   "9556296331522-1.webp",
+   "9556296331522-2.webp"
+  ]
+ },
+ "JRN00001109": {
+  "price": 8.75,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6291105691505",
+  "barcode_src": "Tamimi",
+  "en": "Bugles Corn Snacks Firey Hot 125 g",
+  "ar": "بيوقلز ذرة مقرمشة حار مثل النار 125 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "4a05af6e-fbb7-49c0-adf8-94225c6fae6f",
+  "hs_sku": "4E91A2",
+  "images": [
+   "6291105691505.webp",
+   "6291105691505-1.webp",
+   "6291105691505-2.webp"
+  ]
+ },
+ "JRN00001110": {
+  "price": 9.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5203912390916",
+  "barcode_src": "Ninja",
+  "en": "Bugles Cs Ketchup 125 g",
+  "ar": "قراقيش بيوقلز بطعم الكتشاب كبير 125 جم",
+  "cat": 33,
+  "nj_id": "5-19289174",
+  "hs_id": "b04aebc7-bc59-4e26-8c1e-cf832872aae9",
+  "hs_sku": "3A8Q68",
+  "images": [
+   "5203912390916.webp",
+   "5203912390916-1.webp",
+   "5203912390916-2.webp"
+  ]
+ },
+ "JRN00001111": {
+  "price": 22.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6291105694285",
+  "barcode_src": "Ninja",
+  "en": "Bugles Box Original 12 x 15 g",
+  "ar": "بيوقلز بوكس الاصلي 12×15 جم",
+  "cat": 33,
+  "nj_id": "5-19289168",
+  "hs_id": "e6776f77-d10e-4ffd-85d6-f8c470955cbb",
+  "hs_sku": "6LNGZD",
+  "images": [
+   "6291105694285.webp",
+   "6291105694285-1.webp",
+   "6291105694285-2.webp"
+  ]
+ },
+ "JRN00001112": {
+  "price": 8.75,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6291105693202",
+  "barcode_src": "Tamimi",
+  "en": "Bugles Buffalo Wings Corn Snack 125 g",
+  "ar": "بيوجلز قراقيش الذرة بصلصة أجنحة البوفالو 125 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "945ad475-5b86-42ce-bc48-feaf97b5fda8",
+  "hs_sku": "M21NL9",
+  "images": [
+   "6291105693202.webp",
+   "6291105693202-1.webp",
+   "6291105693202-2.webp"
+  ]
+ },
+ "JRN00001113": {
+  "price": 20.75,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6291105694292",
+  "barcode_src": "Tamimi",
+  "en": "Bugles Ketchup 12 x 15 g",
+  "ar": "بيوقلز شيبس كاتشاب 12×15 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "cb9a7b50-4065-4165-89fc-52c1ef072d57",
+  "hs_sku": "742695",
+  "images": [
+   "6291105694292.webp",
+   "6291105694292-1.webp",
+   "6291105694292-2.webp"
+  ]
+ },
+ "JRN00001114": {
+  "price": 9.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036247407",
+  "barcode_src": "Ninja",
+  "en": "Cheetos Crunchy Chips Flaming Hot Flavour 190-210 g",
+  "ar": "شيتوس رقائق الذرة بنكهة حار نار 190-210 جم",
+  "cat": 33,
+  "nj_id": "5-7420",
+  "hs_id": "2733faf9-9281-4185-ae2a-c6d4336eba7f",
+  "hs_sku": "4454HQ",
+  "images": [
+   "6281036247407.webp",
+   "6281036247407-1.webp",
+   "6281036247407-2.webp"
+  ]
+ },
+ "JRN00001115": {
+  "price": 3.25,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281036014054",
+  "barcode_src": "Tamimi",
+  "en": "Cheetos Crunchy Flamin Hot 50 g",
+  "ar": "شيتوس كرانشي فلامينج هوت 50 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "10da8a54-287f-4ca4-b5f2-07c93adcdb73",
+  "hs_sku": "462H68",
+  "images": [
+   "6281036014054.webp",
+   "6281036014054-1.webp",
+   "6281036014054-2.webp"
+  ]
+ },
+ "JRN00001116": {
+  "price": 4.0,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6287006941009",
+  "barcode_src": "Tamimi",
+  "en": "Kitco Potato Sticks Ketchup 90 g",
+  "ar": "كيتكو أصابع بطاطس نكهة الكاتشب 90 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "eedffae1-3a74-4f51-a3f2-d9690a6e8ce4",
+  "hs_sku": "UZ02Z1",
+  "images": [
+   "6287006941009.webp",
+   "6287006941009-1.webp",
+   "6287006941009-2.webp"
+  ]
+ },
+ "JRN00001117": {
+  "price": 4.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287006940996",
+  "barcode_src": "Ninja",
+  "en": "Kitco Bites Corn Puff Cheese 90 g",
+  "ar": "كيتكو بايتس منتفخات الذرة 90 جم",
+  "cat": 33,
+  "nj_id": "5-19309118",
+  "hs_id": "77bedf7a-09c5-4e8b-963e-c822a984a6ca",
+  "hs_sku": "O59Y8Q",
+  "images": [
+   "6287006940996.webp",
+   "6287006940996-1.webp",
+   "6287006940996-2.webp"
+  ]
+ },
+ "JRN00001118": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281039821710",
+  "barcode_src": "Ninja",
+  "en": "Crispy Letters Salt & Vinegar 80 g",
+  "ar": "كريسبي حروف بالخل والملح 80 جم",
+  "cat": 33,
+  "nj_id": "5-1403",
+  "hs_id": "b568b6bc-bb61-443c-8677-fc0ffcaf0768",
+  "hs_sku": "WF28QQ",
+  "images": [
+   "6281039821710.webp",
+   "6281039821710-1.webp",
+   "6281039821710-2.webp"
+  ]
+ },
+ "JRN00001119": {
+  "price": 6.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556296331720",
+  "barcode_src": "Ninja",
+  "en": "Sun Ring Cheese Family Spicy 60 g",
+  "ar": "صن رنج جبن عائلي حار 60 جم",
+  "cat": 33,
+  "nj_id": "5-19403088",
+  "hs_id": "d5fe7ef5-76ec-4ba3-99fc-cdb8bd61761a",
+  "hs_sku": "6V8B0V",
+  "images": [
+   "9556296331720.webp",
+   "9556296331720-1.webp",
+   "9556296331720-2.webp"
+  ]
+ },
+ "JRN00001120": {
+  "price": 6.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016900759",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Popcorn Butter 90 g",
+  "ar": "البطل فشار بالزبدة 90 جم",
+  "cat": 33,
+  "nj_id": "5-6236913",
+  "hs_id": "c512e4b7-9fe6-4978-92e4-b4f0d65b1a72",
+  "hs_sku": "U4IH6L",
+  "images": [
+   "6281016900759.webp",
+   "6281016900759-1.webp",
+   "6281016900759-2.webp"
+  ]
+ },
+ "JRN00001121": {
+  "price": 10.95,
+  "special": 8.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016840239",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Popcorn Butter 10 x 23 g",
+  "ar": "البطل فشار بالزبدة 10×23 جم",
+  "cat": 33,
+  "nj_id": "5-6220728",
+  "hs_id": "562025d0-5017-4e46-a4e9-fa0036eeb88b",
+  "hs_sku": "WUOEHW",
+  "images": [
+   "6281016840239.webp",
+   "6281016840239-1.webp",
+   "6281016840239-2.webp"
+  ]
+ },
+ "JRN00001122": {
+  "price": 7.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016901664",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Popcorn Caramel 140 g",
+  "ar": "البطل فشار بالكراميل 140 جم",
+  "cat": 33,
+  "nj_id": "5-6230624",
+  "hs_id": "564a3472-ee39-444b-9efb-a6d0b484eb2b",
+  "hs_sku": "00N5S5",
+  "images": [
+   "6281016901664.webp",
+   "6281016901664-1.webp",
+   "6281016901664-2.webp"
+  ]
+ },
+ "JRN00001123": {
+  "price": 6.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016840710",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Popcorn Chilli 90 g",
+  "ar": "البطل فشار بالفلفل الحار 90 جم",
+  "cat": 33,
+  "nj_id": "5-6234979",
+  "hs_id": "b4406079-ac4d-4254-9214-b2ba2fbf045d",
+  "hs_sku": "13O1J3",
+  "images": [
+   "6281016840710.webp",
+   "6281016840710-1.webp",
+   "6281016840710-2.webp"
+  ]
+ },
+ "JRN00001124": {
+  "price": 7.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016590318",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Popcorn Cheese 90 g",
+  "ar": "البطل فشار بالجبنة 90 جم",
+  "cat": 33,
+  "nj_id": "5-6238372",
+  "hs_id": "a6285e2f-011e-4436-8ab3-cb0c2a643cb3",
+  "hs_sku": "53324Q",
+  "images": [
+   "6281016590318.webp",
+   "6281016590318-1.webp",
+   "6281016590318-2.webp"
+  ]
+ },
+ "JRN00001125": {
+  "price": 10.8,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016840215",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Popcorn Cheese 10 x 23 g",
+  "ar": "البطل فشار بالجبنة 10×23 جم",
+  "cat": 33,
+  "nj_id": "5-6224149",
+  "hs_id": "32d174e8-26ab-4976-b1b0-7f0f7514bb75",
+  "hs_sku": "4MFX18",
+  "images": [
+   "6281016840215.webp",
+   "6281016840215-1.webp",
+   "6281016840215-2.webp"
+  ]
+ },
+ "JRN00001126": {
+  "price": 17.95,
+  "special": 11.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "7622201747145",
+  "barcode_src": "Tamimi",
+  "en": "Ritz Salted Cracker Biscuit Multipack 12 x 39.6 g",
+  "ar": "ريتز بسكويت مقرمش مالح علبة 12×39.6 جم",
+  "cat": 33,
+  "nj_id": "5-19288217",
+  "hs_id": "d270f6d6-e076-4d7b-a629-5518abb9b47d",
+  "hs_sku": "04R8HN",
+  "images": [
+   "7622201747145.webp",
+   "7622201747145-1.webp",
+   "7622201747145-2.webp"
+  ]
+ },
+ "JRN00001127": {
+  "price": 8.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556085508364",
+  "barcode_src": "Ninja",
+  "en": "Haweek Crackers With Cheese 110 g",
+  "ar": "هاويك كراكرز بسكويت بالجبنة 110 جم",
+  "cat": 33,
+  "nj_id": "5-134302",
+  "hs_id": "139b3304-0bdc-41c1-aba7-08d806c06e78",
+  "hs_sku": "7L550B",
+  "images": [
+   "9556085508364.webp",
+   "9556085508364-1.webp",
+   "9556085508364-2.webp"
+  ]
+ },
+ "JRN00001128": {
+  "price": 8.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556085318406",
+  "barcode_src": "Ninja",
+  "en": "Haweek Crackers With Vegetable 110 g",
+  "ar": "هاويك كراكرز بسكويت بالخضار 110 جم",
+  "cat": 33,
+  "nj_id": "5-133756",
+  "hs_id": "8d38bbcc-b22e-476a-9cd2-5ce1d303c10a",
+  "hs_sku": "RHDVRQ",
+  "images": [
+   "9556085318406.webp",
+   "9556085318406-1.webp",
+   "9556085318406-2.webp"
+  ]
+ },
+ "JRN00001129": {
+  "price": 15.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6253809980972",
+  "barcode_src": "Ninja",
+  "en": "Baker Nuts Sweet & Chilli 275 g",
+  "ar": "بيكر مقرمشات حار حلو 275 جم",
+  "cat": 33,
+  "nj_id": "5-19288212",
+  "hs_id": "c64b0e01-6e2e-4c84-aea5-1550591a11e2",
+  "hs_sku": "O40B1S",
+  "images": [
+   "6253809980972.webp",
+   "6253809980972-1.webp",
+   "6253809980972-2.webp"
+  ]
+ },
+ "JRN00001130": {
+  "price": 14.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6251934001517",
+  "barcode_src": "Ninja",
+  "en": "Baker Original Pretzels Sweet & Chilli 275 g",
+  "ar": "بيكر بريتزل حار حلو 275 جم",
+  "cat": 33,
+  "nj_id": "5-19288219",
+  "hs_id": "e79f261e-047a-4c88-8d15-271a5f2b5049",
+  "hs_sku": "NE3WJX",
+  "images": [
+   "6251934001517.webp",
+   "6251934001517-1.webp",
+   "6251934001517-2.webp"
+  ]
+ },
+ "JRN00001131": {
+  "price": 4.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036006455",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Lay's Forno Potato Chips Yogurt And Herbs 40 g",
+  "ar": "ليز شرائح بطاطس فورنو بالزبادي والأعشاب 40 جم",
+  "cat": 33,
+  "nj_id": "5-19395708",
+  "hs_id": "20bef319-6f78-4131-b647-5e391b33b0ec",
+  "hs_sku": "A19I37",
+  "images": [
+   "6281036006455.webp",
+   "6281036006455-1.webp"
+  ]
+ },
+ "JRN00001132": {
+  "price": 3.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036284204",
+  "barcode_src": "Ninja",
+  "en": "Sunbites Cheese & Herbs Bread Bites 50 g",
+  "ar": "صن بايتس بالجبنة والأعشاب 50 جم",
+  "cat": 33,
+  "nj_id": "5-9853118",
+  "hs_id": "22af0e59-fdd6-4297-b69a-745f84996b5e",
+  "hs_sku": "5E4L2F",
+  "images": [
+   "6281036284204.webp",
+   "6281036284204-1.webp",
+   "6281036284204-2.webp"
+  ]
+ },
+ "JRN00001133": {
+  "price": 9.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036006486",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Lay's Forno Potato Chips Yogurt And Herbs Family Pack 160 g",
+  "ar": "ليز فورنو شرائح بطاطس بالزبادي والأعشاب حجم عائلي 160 جم",
+  "cat": 33,
+  "nj_id": "5-19395710",
+  "hs_id": "b75d161e-782c-43ee-ac61-c0946b6a4bad",
+  "hs_sku": "M2HF10",
+  "images": [
+   "6281036006486.webp",
+   "6281036006486-1.webp",
+   "6281036006486-2.webp"
+  ]
+ },
+ "JRN00001134": {
+  "price": 6.0,
+  "special": null,
+  "src": "hungerstation",
+  "img_src": "hs",
+  "barcode": "6281036287205",
+  "barcode_src": "Tamimi",
+  "en": "Sunbites Cheese & Herbs Bread Bites 110 g",
+  "ar": "صن بايتس خبز محمص بالجبنة و الأعشاب 110 جم",
+  "cat": 33,
+  "nj_id": null,
+  "hs_id": "f27e53cc-f149-4a9d-a97a-00766e353357",
+  "hs_sku": "HO0V97",
+  "images": [
+   "6281036287205.webp",
+   "6281036287205-1.webp",
+   "6281036287205-2.webp"
+  ]
+ },
+ "JRN00001135": {
+  "price": 6.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036287106",
+  "barcode_src": "Tamimi",
+  "en": "Sunbites Olive & Oregano Bread Bites 110 g",
+  "ar": "صن بايتس بالزيتون والأوريجانو 110 جم",
+  "cat": 33,
+  "nj_id": "5-9932769",
+  "hs_id": "3035f4bd-e7b6-4c84-a775-46ba11248dbb",
+  "hs_sku": "C1571R",
+  "images": [
+   "6281036287106.webp",
+   "6281036287106-1.webp",
+   "6281036287106-2.webp"
+  ]
+ },
+ "JRN00001136": {
+  "price": 19.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287006941610",
+  "barcode_src": "Ninja",
+  "en": "Kitco Bliss Veg Chips Original 135 g",
+  "ar": "كتكو بلس رقائق الخضروات الأصلي 135 جم",
+  "cat": 33,
+  "nj_id": "1-19375506",
+  "hs_id": "bb2962a6-8581-48ad-a9d2-076669a5abb6",
+  "hs_sku": "A4ARO8",
+  "images": [
+   "6287006941610.webp",
+   "6287006941610-1.webp",
+   "6287006941610-2.webp"
+  ]
+ },
+ "JRN00001137": {
+  "price": 23.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036246837",
+  "barcode_src": "Ninja",
+  "en": "Cheetos Sticks Cheese & Ketchup 14 x 30 g",
+  "ar": "شيتوس أصابع رقائق ذرة بنكهة الجبنة والكاتشب 14×30 جم",
+  "cat": 33,
+  "nj_id": "5-19291782",
+  "hs_id": "339c76f3-3601-456b-bb51-fd502f2b4626",
+  "hs_sku": "K31U57",
+  "images": [
+   "6281036246837.webp",
+   "6281036246837-1.webp",
+   "6281036246837-2.webp"
+  ]
+ },
+ "JRN00001138": {
+  "price": 8.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036001481",
+  "barcode_src": "Ninja",
+  "en": "Lays Potato Chips with Chili and Lemon Family Pack 155-165 g",
+  "ar": "ليز رقائق البطاطس بالشطة والليمون حجم عائلي 155-165 جم",
+  "cat": 33,
+  "nj_id": "5-7118",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281036001481.webp",
+   "6281036001481-1.webp",
+   "6281036001481-2.webp"
+  ]
+ },
+ "JRN00001139": {
+  "price": 16.5,
+  "special": 10.29,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281039825220",
+  "barcode_src": "Ninja",
+  "en": "Crispy Letters Ketchup Box 12 x 12 g",
+  "ar": "كريسبي حروف بالكاتشب 12×12 جم",
+  "cat": 33,
+  "nj_id": "5-3867219",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281039825220.webp",
+   "6281039825220-1.webp",
+   "6281039825220-2.webp"
+  ]
+ },
+ "JRN00001140": {
+  "price": 12.95,
+  "special": 9.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5941664010316",
+  "barcode_src": "Ninja",
+  "en": "Ulker Cubuk Kraker Salted Biscuits Box 12 x 30 g",
+  "ar": "أولكر أعواد البسكويت علبة 12×30 جم",
+  "cat": 33,
+  "nj_id": "5-7249008",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "5941664010316.webp",
+   "5941664010316-1.webp",
+   "5941664010316-2.webp"
+  ]
+ },
+ "JRN00001141": {
+  "price": 22.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6291105694308",
+  "barcode_src": "Ninja",
+  "en": "Bugles Box BBQ 12 x 15 g",
+  "ar": "بيوقلز بوكس نكهة الشواء المدخن 12×15 جم",
+  "cat": 33,
+  "nj_id": "5-19289162",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6291105694308.webp",
+   "6291105694308-1.webp",
+   "6291105694308-2.webp"
+  ]
+ },
+ "JRN00001142": {
+  "price": 14.9,
+  "special": 12.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016503554",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Dubbi Corn Tomato Snacks Box 20 x 15 g",
+  "ar": "البطل دبي منتفخات الذرة دبي بالطماطم علبة 20×15 جم",
+  "cat": 33,
+  "nj_id": "5-6238910",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281016503554.webp",
+   "6281016503554-1.webp"
+  ]
+ },
+ "JRN00001143": {
+  "price": 13.95,
+  "special": 10.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035209461",
+  "barcode_src": "Ninja",
+  "en": "Tiger Chips Tomato 20 x 12 g",
+  "ar": "تايجر شرائح بطاطس مقلية بطعم الطماطم 20×12 جم",
+  "cat": 33,
+  "nj_id": "5-19320380",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035209461.webp",
+   "6222035209461-1.webp",
+   "6222035209461-2.webp"
+  ]
+ },
+ "JRN00001144": {
+  "price": 13.95,
+  "special": 10.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035209423",
+  "barcode_src": "Ninja",
+  "en": "Tiger Chips Chili & lemon 20 x 12 g",
+  "ar": "تايجر شرائح بطاطس مقلية بطعم الشطة والليمون 20×12 جم",
+  "cat": 33,
+  "nj_id": "5-19318978",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035209423.webp",
+   "6222035209423-1.webp",
+   "6222035209423-2.webp"
+  ]
+ },
+ "JRN00001145": {
+  "price": 13.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016004686",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Dino Snacks Corn Ketchup Box 20 x 15 g",
+  "ar": "البطل داينو سناك الذرة بالكاتشب علبة 20×15 جم",
+  "cat": 33,
+  "nj_id": "5-6239688",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281016004686.webp",
+   "6281016004686-1.webp",
+   "6281016004686-2.webp"
+  ]
+ },
+ "JRN00001146": {
+  "price": 20.5,
+  "special": 17.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "776992017233",
+  "barcode_src": "Ninja",
+  "en": "Deemah Farfasha Potato Stick French Cheese 24 x 15 g",
+  "ar": "ديمة فرفشه أعواد البطاطس جبنة فرنسية 24×15 جم",
+  "cat": 33,
+  "nj_id": "5-7254351",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "776992017233.webp",
+   "776992017233-1.webp",
+   "776992017233-2.webp"
+  ]
+ },
+ "JRN00001147": {
+  "price": 15.95,
+  "special": 12.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6291011011138",
+  "barcode_src": "Ninja",
+  "en": "XL Potato Chips Ketchup Duplex 12 x 21 g",
+  "ar": "اكسل رقائق شيبس طماطم بالكاتشب 12×21 جم",
+  "cat": 33,
+  "nj_id": "5-818274",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6291011011138.webp",
+   "6291011011138-1.webp",
+   "6291011011138-2.webp"
+  ]
+ },
+ "JRN00001148": {
+  "price": 13.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016012957",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Corn Balls Cheese Box 20 x 15 g",
+  "ar": "البطل كرات الذرة بالجبنة علبة 20×15 جم",
+  "cat": 33,
+  "nj_id": "5-6240068",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281016012957.webp",
+   "6281016012957-1.webp"
+  ]
+ },
+ "JRN00001149": {
+  "price": 13.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016012988",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Corn Curls Cheese Box 20 x 15 g",
+  "ar": "البطل منتفخات الذرة كيرلز بالجبنة علبة 20×15 جم",
+  "cat": 33,
+  "nj_id": "5-6241117",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281016012988.webp",
+   "6281016012988-1.webp"
+  ]
+ },
+ "JRN00001150": {
+  "price": 14.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281039828221",
+  "barcode_src": "Ninja",
+  "en": "Crispy Rings Cheese Box 12 x 12 g",
+  "ar": "كريسبي حلقات بالجبنة علبة 12×12 جم",
+  "cat": 33,
+  "nj_id": "5-3868357",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281039828221.webp",
+   "6281039828221-1.webp",
+   "6281039828221-2.webp"
+  ]
+ },
+ "JRN00001151": {
+  "price": 16.5,
+  "special": 12.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6291011011121",
+  "barcode_src": "Ninja",
+  "en": "XL Potato Chips Salt Duplex 12 x 21 g",
+  "ar": "اكس ال رقائق شيبس ملح كريستال 12×21 جم",
+  "cat": 33,
+  "nj_id": "5-818404",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6291011011121.webp",
+   "6291011011121-1.webp",
+   "6291011011121-2.webp"
+  ]
+ },
+ "JRN00001152": {
+  "price": 6.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "028400022231",
+  "barcode_src": "Ninja",
+  "en": "Cheetos Crunchy Cheese 35 g",
+  "ar": "شيتوس كرنشي جبنة 35 جم",
+  "cat": 33,
+  "nj_id": "5-19394878",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "028400022231.webp",
+   "028400022231-1.webp"
+  ]
+ },
+ "JRN00001153": {
+  "price": 4.0,
+  "special": 2.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287048780079",
+  "barcode_src": "Ninja",
+  "en": "Croker Popped Chips BBQ 30 g",
+  "ar": "كروكر بوبد شيبس باربكيو 30 جم",
+  "cat": 33,
+  "nj_id": "5-19404225",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287048780079.webp",
+   "6287048780079-1.webp",
+   "6287048780079-2.webp"
+  ]
+ },
+ "JRN00001154": {
+  "price": 4.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6285602013373",
+  "barcode_src": "Ninja",
+  "en": "Deemah Farfasha Crunchy Hot 100 g",
+  "ar": "ديمة فرفشة كرنشي حار نار 100 جم",
+  "cat": 33,
+  "nj_id": "5-19294773",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6285602013373.webp",
+   "6285602013373-1.webp",
+   "6285602013373-2.webp"
+  ]
+ },
+ "JRN00001155": {
+  "price": 9.5,
+  "special": 7.5,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035238362",
+  "barcode_src": "Ninja",
+  "en": "Tiger Excellence Lime and Coriander 140 g",
+  "ar": "تايجر اكسلانس ليمون و توابل 140 جم",
+  "cat": 33,
+  "nj_id": "5-19381799",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035238362.webp",
+   "6222035238362-1.webp",
+   "6222035238362-2.webp"
+  ]
+ },
+ "JRN00001156": {
+  "price": 3.95,
+  "special": 2.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "795697032006",
+  "barcode_src": "Ninja",
+  "en": "Chill Out Fire Fingers Spicy Shrimp 50 g",
+  "ar": "شيل اوت مقرمشات الذرة المحمصة بنكهة الجمبري الحار 50 جم",
+  "cat": 33,
+  "nj_id": "5-19397799",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "795697032006.webp",
+   "795697032006-1.webp",
+   "795697032006-2.webp"
+  ]
+ },
+ "JRN00001157": {
+  "price": 12.95,
+  "special": 10.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6224000582081",
+  "barcode_src": "Ninja",
+  "en": "SnakDip Paprika Nacho Chips Sweet Chili Dip 120 g",
+  "ar": "سناكدب ناتشوز مملح مع صوص الفلفل الحلو 120 جم",
+  "cat": 33,
+  "nj_id": "5-19397809",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6224000582081.webp"
+  ]
+ },
+ "JRN00001158": {
+  "price": 8.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9501100018304",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Oman Potato Chips Chilli Flavour 150 g",
+  "ar": "عمان بطاطس بالنكهة الحارة 150 جم",
+  "cat": 33,
+  "nj_id": "5-19368612",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "9501100018304.webp",
+   "9501100018304-1.webp"
+  ]
+ },
+ "JRN00001159": {
+  "price": 3.95,
+  "special": 2.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "795697032037",
+  "barcode_src": "Ninja",
+  "en": "Chill Out Fire Fingers Spicy Chicken 50 g",
+  "ar": "شيل اوت مقرمشات الذرة المحمصة بنكهة الدجاج الحار 50 جم",
+  "cat": 33,
+  "nj_id": "5-19397802",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "795697032037.webp",
+   "795697032037-1.webp",
+   "795697032037-2.webp"
+  ]
+ },
+ "JRN00001160": {
+  "price": 4.0,
+  "special": 2.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287048780048",
+  "barcode_src": "Ninja",
+  "en": "Croker Popped Chips Sweet chili pepper 30 g",
+  "ar": "كروكر بوبد شيبس فلفل حلو 30 جم",
+  "cat": 33,
+  "nj_id": "5-19404227",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287048780048.webp",
+   "6287048780048-1.webp",
+   "6287048780048-2.webp"
+  ]
+ },
+ "JRN00001161": {
+  "price": 4.0,
+  "special": 2.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287048780031",
+  "barcode_src": "Ninja",
+  "en": "Croker Popped Chips Chili lime 30 g",
+  "ar": "كروكر بوبد شيبس حار وليمون 30 جم",
+  "cat": 33,
+  "nj_id": "5-19404228",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287048780031.webp",
+   "6287048780031-1.webp",
+   "6287048780031-2.webp"
+  ]
+ },
+ "JRN00001162": {
+  "price": 7.5,
+  "special": 4.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223000508602",
+  "barcode_src": "Ninja",
+  "en": "Tiger Chips Tomato 115 g",
+  "ar": "تايجر شرائح بطاطس مقلية بطعم الطماطم 115 جم",
+  "cat": 33,
+  "nj_id": "5-19294461",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223000508602.webp",
+   "6223000508602-1.webp",
+   "6223000508602-2.webp"
+  ]
+ },
+ "JRN00001163": {
+  "price": 7.5,
+  "special": 4.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223000508596",
+  "barcode_src": "Ninja",
+  "en": "Tiger Chips Seasoned Cheese 115 g",
+  "ar": "تايجر شرائح بطاطس مقلية بطعم الجبنة المتبلة 115 جم",
+  "cat": 33,
+  "nj_id": "5-19294483",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223000508596.webp",
+   "6223000508596-1.webp",
+   "6223000508596-2.webp"
+  ]
+ },
+ "JRN00001164": {
+  "price": 3.95,
+  "special": 2.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6224000582852",
+  "barcode_src": "Ninja",
+  "en": "Chill Out Oat Chips Cheese 50 g",
+  "ar": "شيل اوت شيبس شوفان محمص بنكهة الجبنة 50 جم",
+  "cat": 33,
+  "nj_id": "5-19397790",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6224000582852.webp",
+   "6224000582852-1.webp",
+   "6224000582852-2.webp"
+  ]
+ },
+ "JRN00001165": {
+  "price": 3.95,
+  "special": 2.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6224000582968",
+  "barcode_src": "Ninja",
+  "en": "Chill Out Oat Chips Sweet Lemon 50 g",
+  "ar": "شيل اوت شيبس شوفان محمص بنكهة الليمون الحلو 50 جم",
+  "cat": 33,
+  "nj_id": "5-19397794",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6224000582968.webp",
+   "6224000582968-1.webp",
+   "6224000582968-2.webp"
+  ]
+ },
+ "JRN00001166": {
+  "price": 12.95,
+  "special": 10.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6224000582128",
+  "barcode_src": "Ninja",
+  "en": "SnakDip Cheese Nacho Chips Smokey Burger Dip 120 g",
+  "ar": "سناكدب ناتشوز مملح مع صوص البرجر المدخن 120 جم",
+  "cat": 33,
+  "nj_id": "5-19397808",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6224000582128.webp"
+  ]
+ },
+ "JRN00001167": {
+  "price": 6.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6291011004673",
+  "barcode_src": "Ninja",
+  "en": "XL Potato Chips Ketchup 120 g",
+  "ar": "اكسل رقائق بطاطس بالكاتشب 120 جم",
+  "cat": 33,
+  "nj_id": "5-821971",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6291011004673.webp",
+   "6291011004673-1.webp",
+   "6291011004673-2.webp"
+  ]
+ },
+ "JRN00001168": {
+  "price": 9.95,
+  "special": 7.5,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223000501627",
+  "barcode_src": "Ninja",
+  "en": "Tiger Chips Sweet chili 170 g",
+  "ar": "تايجر شرائح بطاطس مقلية بطعم الفلفل الحلو 170 جم",
+  "cat": 33,
+  "nj_id": "5-19294460",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223000501627.webp",
+   "6223000501627-1.webp",
+   "6223000501627-2.webp"
+  ]
+ },
+ "JRN00001169": {
+  "price": 3.95,
+  "special": 2.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "795697032013",
+  "barcode_src": "Ninja",
+  "en": "Chill Out Fire Fingers Spicy Lemon 50 g",
+  "ar": "شيل اوت مقرمشات الذرة المحمصة بنكهة الليمون الحار 50 جم",
+  "cat": 33,
+  "nj_id": "5-19397800",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "795697032013.webp",
+   "795697032013-1.webp",
+   "795697032013-2.webp"
+  ]
+ },
+ "JRN00001170": {
+  "price": 4.0,
+  "special": 2.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287048780062",
+  "barcode_src": "Ninja",
+  "en": "Croker Popped Chips Nacho cheese 30 g",
+  "ar": "كروكر بوبد شيبس ناتشو تشيز 30 جم",
+  "cat": 33,
+  "nj_id": "5-19404222",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287048780062.webp",
+   "6287048780062-1.webp",
+   "6287048780062-2.webp"
+  ]
+ },
+ "JRN00001171": {
+  "price": 6.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6291011004680",
+  "barcode_src": "Ninja",
+  "en": "XL Potato Chips Chili 120 g",
+  "ar": "اكسل رقائق بطاطس بالفلفل الحار 120 جم",
+  "cat": 33,
+  "nj_id": "5-822061",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6291011004680.webp",
+   "6291011004680-1.webp",
+   "6291011004680-2.webp"
+  ]
+ },
+ "JRN00001172": {
+  "price": 20.5,
+  "special": 17.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "776992032830",
+  "barcode_src": "Ninja",
+  "en": "Deemah Farfasha Salt and Vinegar Potato Sticks 24 x 15 g",
+  "ar": "ديمة فرفشة بطاطس عيدان ملح وخل 24×15 جم",
+  "cat": 33,
+  "nj_id": "5-19294783",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "776992032830.webp",
+   "776992032830-1.webp"
+  ]
+ },
+ "JRN00001173": {
+  "price": 5.75,
+  "special": 3.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035207627",
+  "barcode_src": "Ninja",
+  "en": "Tiger Chipstix Chili 80 g",
+  "ar": "تايجر عيدان بطاطس مقلية بطعم الطماطم الحارة 80 جم",
+  "cat": 33,
+  "nj_id": "5-19294481",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035207627.webp",
+   "6222035207627-1.webp",
+   "6222035207627-2.webp"
+  ]
+ },
+ "JRN00001174": {
+  "price": 9.5,
+  "special": 7.5,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035238386",
+  "barcode_src": "Ninja",
+  "en": "Tiger Excellence Balsamic Vinegar and Sea Salt 140 g",
+  "ar": "تايجر اكسلانس ملح وخل بلسيمك 140 جم",
+  "cat": 33,
+  "nj_id": "5-19381800",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035238386.webp",
+   "6222035238386-1.webp",
+   "6222035238386-2.webp"
+  ]
+ },
+ "JRN00001175": {
+  "price": 9.5,
+  "special": 7.5,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035238379",
+  "barcode_src": "Ninja",
+  "en": "Tiger Excellence Thai Sweet Chili 140 g",
+  "ar": "تايجر اكسلانس سويت شيلي تايلندي 140 جم",
+  "cat": 33,
+  "nj_id": "5-19381797",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035238379.webp",
+   "6222035238379-1.webp",
+   "6222035238379-2.webp"
+  ]
+ },
+ "JRN00001176": {
+  "price": 4.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6285602013397",
+  "barcode_src": "Ninja",
+  "en": "Deemah Farfasha Crunchy Nacho Cheese 100 g",
+  "ar": "ديمة فرفشة كرنشي جبنة الناتشو 100 جم",
+  "cat": 33,
+  "nj_id": "5-19317641",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6285602013397.webp",
+   "6285602013397-1.webp",
+   "6285602013397-2.webp"
+  ]
+ },
+ "JRN00001177": {
+  "price": 7.5,
+  "special": 4.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223000506608",
+  "barcode_src": "Ninja",
+  "en": "Tiger Chips Sweet chili 115 g",
+  "ar": "تايجر شرائح بطاطس مقلية بطعم الفلفل الحلو 115 جم",
+  "cat": 33,
+  "nj_id": "5-19294499",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223000506608.webp",
+   "6223000506608-1.webp",
+   "6223000506608-2.webp"
+  ]
+ },
+ "JRN00001178": {
+  "price": 9.5,
+  "special": 7.5,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035238232",
+  "barcode_src": "Ninja",
+  "en": "Tiger Excellence Smoked Cheese 140 g",
+  "ar": "تايجر اكسلانس سموكي تشيز 140 جم",
+  "cat": 33,
+  "nj_id": "5-19381798",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035238232.webp",
+   "6222035238232-1.webp",
+   "6222035238232-2.webp"
+  ]
+ },
+ "JRN00001179": {
+  "price": 3.95,
+  "special": 2.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6224000582180",
+  "barcode_src": "Ninja",
+  "en": "Chill Out Oat Chips Sour Cream 50 g",
+  "ar": "شيل اوت شيبس شوفان محمص بنكهة ساور كريم بالأعشاب 50 جم",
+  "cat": 33,
+  "nj_id": "5-19397792",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6224000582180.webp",
+   "6224000582180-1.webp",
+   "6224000582180-2.webp"
+  ]
+ },
+ "JRN00001180": {
+  "price": 13.95,
+  "special": 12.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "776992015017",
+  "barcode_src": "Ninja",
+  "en": "Deemah Farfasha Chips Salt 12 x 21 g",
+  "ar": "ديمة فرفشة بطاطس ملح 12×21 جم",
+  "cat": 33,
+  "nj_id": "5-19294776",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "776992015017.webp",
+   "776992015017-1.webp",
+   "776992015017-2.webp"
+  ]
+ },
+ "JRN00001181": {
+  "price": 9.95,
+  "special": 7.5,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223000501634",
+  "barcode_src": "Ninja",
+  "en": "Tiger Chips Seasoned Cheese 170 g",
+  "ar": "تايجر شرائح بطاطس مقلية بطعم الجبنة المتبلة 170 جم",
+  "cat": 33,
+  "nj_id": "5-19294467",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223000501634.webp",
+   "6223000501634-1.webp",
+   "6223000501634-2.webp"
+  ]
+ },
+ "JRN00001182": {
+  "price": 9.95,
+  "special": 7.5,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223000501641",
+  "barcode_src": "Ninja",
+  "en": "Tiger Chips Chilli & lemon 170 g",
+  "ar": "تايجر شرائح بطاطس مقلية بطعم الشطة والليمون 170 جم",
+  "cat": 33,
+  "nj_id": "5-19294496",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223000501641.webp",
+   "6223000501641-1.webp",
+   "6223000501641-2.webp"
+  ]
+ },
+ "JRN00001183": {
+  "price": 13.25,
+  "special": 9.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016822938",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Potato Sticks Sea Salt 12 x 23 g",
+  "ar": "البطل عيدان بطاطس ملح البحر 12×23 جم",
+  "cat": 33,
+  "nj_id": "5-19370692",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281016822938.webp",
+   "6281016822938-1.webp",
+   "6281016822938-2.webp"
+  ]
+ },
+ "JRN00001184": {
+  "price": 20.5,
+  "special": 17.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6285602013137",
+  "barcode_src": "Ninja",
+  "en": "Deemah Farfasha Salt Potato Sticks 24 x 15 g",
+  "ar": "ديمة فرفشة بطاطس عيدان ملح 24×15 جم",
+  "cat": 33,
+  "nj_id": "5-19294781",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6285602013137.webp",
+   "6285602013137-1.webp",
+   "6285602013137-2.webp"
+  ]
+ },
+ "JRN00001185": {
+  "price": 5.75,
+  "special": 3.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035207634",
+  "barcode_src": "Ninja",
+  "en": "Tiger Chipstix Sour Cream 80 g",
+  "ar": "تايجر عيدان بطاطس مقلية بطعم ساور كريم 80 جم",
+  "cat": 33,
+  "nj_id": "5-19294471",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035207634.webp",
+   "6222035207634-1.webp",
+   "6222035207634-2.webp"
+  ]
+ },
+ "JRN00001186": {
+  "price": 6.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6291011004796",
+  "barcode_src": "Ninja",
+  "en": "Raja Potato Crunchies Vegetables 120 g",
+  "ar": "راجا مقرمشات بطاطس خضار 120 جم",
+  "cat": 33,
+  "nj_id": "5-19293213",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6291011004796.webp",
+   "6291011004796-1.webp",
+   "6291011004796-2.webp"
+  ]
+ },
+ "JRN00001187": {
+  "price": 6.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556345280061",
+  "barcode_src": "Ninja",
+  "en": "Miawo Potato Chips Pizza 60 g",
+  "ar": "مياو شرائح البطاطس بيتزا 60 جم",
+  "cat": 33,
+  "nj_id": "5-19379351",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "9556345280061.webp",
+   "9556345280061-1.webp"
+  ]
+ },
+ "JRN00001188": {
+  "price": 6.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556345008573",
+  "barcode_src": "Ninja",
+  "en": "Miawo Potato Chips Prawn 60 g",
+  "ar": "مياو شرائح البطاطس روبيان 60 جم",
+  "cat": 33,
+  "nj_id": "5-19379356",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "9556345008573.webp",
+   "9556345008573-1.webp"
+  ]
+ },
+ "JRN00001189": {
+  "price": 8.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287014281289",
+  "barcode_src": "Ninja",
+  "en": "Flowchy Korean Flavour 145 g",
+  "ar": "فلوتشي منتفخات الذرة النكهة الكورية 145 جم",
+  "cat": 33,
+  "nj_id": "5-19320832",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287014281289.webp",
+   "6287014281289-1.webp",
+   "6287014281289-2.webp"
+  ]
+ },
+ "JRN00001190": {
+  "price": 6.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556345280078",
+  "barcode_src": "Ninja",
+  "en": "Miawo Potato Chips Hot N Spicy 60 g",
+  "ar": "مياو شرائح البطاطس حار وسبايسي 60 جم",
+  "cat": 33,
+  "nj_id": "5-19379352",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "9556345280078.webp",
+   "9556345280078-1.webp",
+   "9556345280078-2.webp"
+  ]
+ },
+ "JRN00001191": {
+  "price": 6.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556345280016",
+  "barcode_src": "Ninja",
+  "en": "Miawo Potato Chips Chicken 60 g",
+  "ar": "مياو شرائح البطاطس دجاج 60 جم",
+  "cat": 33,
+  "nj_id": "5-19379353",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "9556345280016.webp",
+   "9556345280016-1.webp",
+   "9556345280016-2.webp"
+  ]
+ },
+ "JRN00001192": {
+  "price": 6.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556345280047",
+  "barcode_src": "Ninja",
+  "en": "Miawo Potato Chips BBQ 60 g",
+  "ar": "مياو شرائح البطاطس باربكيو 60 جم",
+  "cat": 33,
+  "nj_id": "5-19379354",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "9556345280047.webp",
+   "9556345280047-1.webp"
+  ]
+ },
+ "JRN00001193": {
+  "price": 6.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556345280108",
+  "barcode_src": "Ninja",
+  "en": "Miawo Potato Chips Hot Prawn 60 g",
+  "ar": "مياو شرائح البطاطس روبيان حار 60 جم",
+  "cat": 33,
+  "nj_id": "5-19379350",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "9556345280108.webp",
+   "9556345280108-1.webp"
+  ]
+ },
+ "JRN00001194": {
+  "price": 4.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287014280459",
+  "barcode_src": "Ninja",
+  "en": "Flowchy Sweet&Sour 70 g",
+  "ar": "فلوتشي منتفخات الذرة حامض حلو 70 جم",
+  "cat": 33,
+  "nj_id": "5-19320831",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287014280459.webp",
+   "6287014280459-1.webp",
+   "6287014280459-2.webp"
+  ]
+ },
+ "JRN00001195": {
+  "price": 4.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287014280251",
+  "barcode_src": "Ninja",
+  "en": "Flowchy Sparking Fire 70 g",
+  "ar": "فلوتشي منتفخات الذرة نار وشرار 70 جم",
+  "cat": 33,
+  "nj_id": "5-19320852",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287014280251.webp",
+   "6287014280251-1.webp",
+   "6287014280251-2.webp"
+  ]
+ },
+ "JRN00001196": {
+  "price": 15.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6277000008396",
+  "barcode_src": "Ninja",
+  "en": "Prolife Pro Protein Puff Salt & Vinegar Gluten Free 50 g",
+  "ar": "برولايف بروتين باف نكهه الملح والخل خالي من الجلوتين 50 جم",
+  "cat": 33,
+  "nj_id": "5-19287750",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6277000008396.webp",
+   "6277000008396-1.webp",
+   "6277000008396-2.webp"
+  ]
+ },
+ "JRN00001197": {
+  "price": 5.95,
+  "special": 3.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035227762",
+  "barcode_src": "Ninja",
+  "en": "Balance Protein Crackers Sweet Lemon 70 g",
+  "ar": "بالانس كراكرز بالبروتين بنكهة الليمون الحلو 70 جم",
+  "cat": 33,
+  "nj_id": "5-19369820",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035227762.webp",
+   "6222035227762-1.webp",
+   "6222035227762-2.webp"
+  ]
+ },
+ "JRN00001198": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6285602016718",
+  "barcode_src": "Ninja",
+  "en": "Deemah Cruxx Chips Labneh And Herbs 75 g",
+  "ar": "ديمة كركس شيبس لبنة وأعشاب 75 جم",
+  "cat": 33,
+  "nj_id": "5-19394338",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6285602016718.webp",
+   "6285602016718-1.webp"
+  ]
+ },
+ "JRN00001199": {
+  "price": 4.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287014280763",
+  "barcode_src": "Ninja",
+  "en": "Wesee Corn Puff Cheese 100 g",
+  "ar": "ويسي بفك الذرة بنكهة الجبنة 100 جم",
+  "cat": 33,
+  "nj_id": "5-19320822",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287014280763.webp",
+   "6287014280763-1.webp",
+   "6287014280763-2.webp"
+  ]
+ },
+ "JRN00001200": {
+  "price": 7.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281039821512",
+  "barcode_src": "Ninja",
+  "en": "Crispy Letters Ketchup 80 g",
+  "ar": "كريسبي حروف بالكاتشب 80 جم",
+  "cat": 33,
+  "nj_id": "5-1402",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281039821512.webp",
+   "6281039821512-1.webp",
+   "6281039821512-2.webp"
+  ]
+ },
+ "JRN00001201": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281039820119",
+  "barcode_src": "Ninja",
+  "en": "Crispy Potato Chips Abc Cheese 80 g",
+  "ar": "كريسبي حروف رقائق البطاطس جبن 80 جم",
+  "cat": 33,
+  "nj_id": "5-19373518",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281039820119.webp",
+   "6281039820119-1.webp",
+   "6281039820119-2.webp"
+  ]
+ },
+ "JRN00001202": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5060689760157",
+  "barcode_src": "Ninja",
+  "en": "Kidzy Vegan Cheesy Stars Gluten Free and Organic and Vegan 12 g",
+  "ar": "كدزي نباتي تشيزي ستارز خالي من الجلوتين وعضوي ونباتي 12 جم",
+  "cat": 33,
+  "nj_id": "5-19287280",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "5060689760157.webp",
+   "5060689760157-1.webp",
+   "5060689760157-2.webp"
+  ]
+ },
+ "JRN00001203": {
+  "price": 13.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "028400037174",
+  "barcode_src": "Ninja",
+  "en": "Cheetos Crunchy Flamin Hot 99 g",
+  "ar": "شيتوس كرنشي فلامين هوت 99 جم",
+  "cat": 33,
+  "nj_id": "5-19318892",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "028400037174.webp",
+   "028400037174-1.webp",
+   "028400037174-2.webp"
+  ]
+ },
+ "JRN00001204": {
+  "price": 6.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016839769",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Tikita Chips Chili Lime 155 g",
+  "ar": "البطل تيكيتا بطاطس فلفل ليمون 155 جم",
+  "cat": 33,
+  "nj_id": "5-19370694",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281016839769.webp",
+   "6281016839769-1.webp",
+   "6281016839769-2.webp"
+  ]
+ },
+ "JRN00001205": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6285602016671",
+  "barcode_src": "Ninja",
+  "en": "Deemah Cruxx Chips Chili 75 g",
+  "ar": "ديمة كركس شيبس فلفل 75 جم",
+  "cat": 33,
+  "nj_id": "5-19394337",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6285602016671.webp",
+   "6285602016671-1.webp",
+   "6285602016671-2.webp"
+  ]
+ },
+ "JRN00001206": {
+  "price": 15.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6277000008341",
+  "barcode_src": "Ninja",
+  "en": "Prolife Pro Protein Puff Chilli Lemon Flavor Gluten Free 50 g",
+  "ar": "برولايف بروتين باف نكهه الشطه والليمون خالي من الجلوتين 50 جم",
+  "cat": 33,
+  "nj_id": "5-19287742",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6277000008341.webp",
+   "6277000008341-1.webp",
+   "6277000008341-2.webp"
+  ]
+ },
+ "JRN00001207": {
+  "price": 27.95,
+  "special": 23.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "028400031462",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Ruffles Potato Chips Sour Cream & Onion 184 g",
+  "ar": "رفلز رقائق بطاطس ساور كريم وأونيون 184 جم",
+  "cat": 33,
+  "nj_id": "5-19318883",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "028400031462.webp",
+   "028400031462-1.webp",
+   "028400031462-2.webp"
+  ]
+ },
+ "JRN00001208": {
+  "price": 3.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036026675",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Doritos Dinamita flaming hot 40 g",
+  "ar": "دوريتوس ديناميتا حار نار 40 جم",
+  "cat": 33,
+  "nj_id": "5-19291459",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281036026675.webp",
+   "6281036026675-1.webp",
+   "6281036026675-2.webp"
+  ]
+ },
+ "JRN00001209": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6291105470759",
+  "barcode_src": "Ninja",
+  "en": "Minoman Cheese Puffs 70 g",
+  "ar": "مينوعمان بفك بالجبنة 70 جم",
+  "cat": 33,
+  "nj_id": "5-19292125",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6291105470759.webp",
+   "6291105470759-1.webp",
+   "6291105470759-2.webp"
+  ]
+ },
+ "JRN00001210": {
+  "price": 4.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281096002046",
+  "barcode_src": "Ninja",
+  "en": "Maistro Corn Puff Cheese 65 g",
+  "ar": "المايسترو منتفخات الذرة بطعم الجبنة 65 جم",
+  "cat": 33,
+  "nj_id": "5-19327149",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281096002046.webp",
+   "6281096002046-1.webp",
+   "6281096002046-2.webp"
+  ]
+ },
+ "JRN00001211": {
+  "price": 3.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287014281470",
+  "barcode_src": "Ninja",
+  "en": "Fairco Potato Chips Hot Pepper Flavor 50 g",
+  "ar": "فيركو شرائح البطاطس نكهة الفلفل الحار 50 جم",
+  "cat": 33,
+  "nj_id": "5-19378186",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287014281470.webp",
+   "6287014281470-1.webp",
+   "6287014281470-2.webp"
+  ]
+ },
+ "JRN00001212": {
+  "price": 11.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "4017100737909",
+  "barcode_src": "Ninja",
+  "en": "Lorenz Saltletts Sticks Salted 150 g",
+  "ar": "لورنز سالتلتيس أصابع بالملح 150 جم",
+  "cat": 33,
+  "nj_id": "5-19357448",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "4017100737909.webp",
+   "4017100737909-1.webp",
+   "4017100737909-2.webp"
+  ]
+ },
+ "JRN00001213": {
+  "price": 5.95,
+  "special": 3.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035227779",
+  "barcode_src": "Ninja",
+  "en": "Balance Protein Crackers Sweet Chili 70 g",
+  "ar": "بالانس كراكرز بالبروتين بنكهة الفلفل الحلو 70 جم",
+  "cat": 33,
+  "nj_id": "5-19369819",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035227779.webp",
+   "6222035227779-1.webp",
+   "6222035227779-2.webp"
+  ]
+ },
+ "JRN00001214": {
+  "price": 8.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287014280855",
+  "barcode_src": "Ninja",
+  "en": "Flowchy Sparking Fire 145 g",
+  "ar": "فلوتشي منتفخات الذرة نار وشرار 145 جم",
+  "cat": 33,
+  "nj_id": "5-19320834",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287014280855.webp",
+   "6287014280855-1.webp",
+   "6287014280855-2.webp"
+  ]
+ },
+ "JRN00001215": {
+  "price": 5.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6285602016695",
+  "barcode_src": "Ninja",
+  "en": "Deemah Cruxx Chips Ketchup 75 g",
+  "ar": "ديمة كركس شيبس كاتشب 75 جم",
+  "cat": 33,
+  "nj_id": "5-19394336",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6285602016695.webp",
+   "6285602016695-1.webp",
+   "6285602016695-2.webp"
+  ]
+ },
+ "JRN00001216": {
+  "price": 9.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5203912390893",
+  "barcode_src": "Ninja",
+  "en": "Bugles Corn Snack Nacho Cheese 125 g",
+  "ar": "بيوقلز سناك الذرة بنكهة الجبنة 125 جم",
+  "cat": 33,
+  "nj_id": "5-383",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "5203912390893.webp",
+   "5203912390893-1.webp",
+   "5203912390893-2.webp"
+  ]
+ },
+ "JRN00001217": {
+  "price": 5.95,
+  "special": 3.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035227786",
+  "barcode_src": "Ninja",
+  "en": "Balance Protein Crackers Sour Cream & Onion 70 g",
+  "ar": "بالانس كراكرز بالبروتين بنكهة الكريمة الحامضة والبصل 70 جم",
+  "cat": 33,
+  "nj_id": "5-19369818",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035227786.webp",
+   "6222035227786-1.webp",
+   "6222035227786-2.webp"
+  ]
+ },
+ "JRN00001218": {
+  "price": 13.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "028400014618",
+  "barcode_src": "Ninja",
+  "en": "Cheetos Crunchy Cheese 99 g",
+  "ar": "شيتوس كرنشي جبنة 99 جم",
+  "cat": 33,
+  "nj_id": "5-19394867",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "028400014618.webp",
+   "028400014618-1.webp",
+   "028400014618-2.webp"
+  ]
+ },
+ "JRN00001219": {
+  "price": 4.0,
+  "special": 2.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287048780055",
+  "barcode_src": "Ninja",
+  "en": "Croker Popped Chips Tomato 30 g",
+  "ar": "كروكر بوبد شيبس طماطم 30 جم",
+  "cat": 33,
+  "nj_id": "5-19404226",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287048780055.webp",
+   "6287048780055-1.webp",
+   "6287048780055-2.webp"
+  ]
+ },
+ "JRN00001220": {
+  "price": 8.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287006600739",
+  "barcode_src": "Ninja",
+  "en": "Marsa Matrooh Bbq Rice Crackers 80 g",
+  "ar": "مرسى مطروح مقرمشات الأرز بنكهة الباربكيو 80 جم",
+  "cat": 33,
+  "nj_id": "5-19381983",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287006600739.webp",
+   "6287006600739-1.webp",
+   "6287006600739-2.webp"
+  ]
+ },
+ "JRN00001221": {
+  "price": 27.95,
+  "special": 23.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "028400017053",
+  "barcode_src": "Ninja",
+  "en": "Ruffles Potato Chips Sour Cream & Cheddar 184 g",
+  "ar": "رفلز رقائق بطاطس ساور كريم وشيدر 184 جم",
+  "cat": 33,
+  "nj_id": "5-19318904",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "028400017053.webp",
+   "028400017053-1.webp",
+   "028400017053-2.webp"
+  ]
+ },
+ "JRN00001222": {
+  "price": 12.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9556296306070",
+  "barcode_src": "Ninja",
+  "en": "Coco Land Cheese Ball Cracker 80 g",
+  "ar": "كوكولاند بفك كرات الجبن 80 جم",
+  "cat": 33,
+  "nj_id": "5-19293886",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "9556296306070.webp",
+   "9556296306070-1.webp",
+   "9556296306070-2.webp"
+  ]
+ },
+ "JRN00001223": {
+  "price": 3.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016273594",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Potato Sticks Burning 80 g",
+  "ar": "البطل عيدان بطاطس بنكهة الفلفل الحار 80 جم",
+  "cat": 33,
+  "nj_id": "5-19370690",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281016273594.webp",
+   "6281016273594-1.webp",
+   "6281016273594-2.webp"
+  ]
+ },
+ "JRN00001224": {
+  "price": 9.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6291105691451",
+  "barcode_src": "Ninja",
+  "en": "Bugles Corn Snack Sweet Chili 125 g",
+  "ar": "بيوقلز سناك الذرة بالفلفل الأحمر الحلو 125 جم",
+  "cat": 33,
+  "nj_id": "5-396",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6291105691451.webp",
+   "6291105691451-1.webp",
+   "6291105691451-2.webp"
+  ]
+ },
+ "JRN00001225": {
+  "price": 15.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6251934005638",
+  "barcode_src": "Ninja",
+  "en": "Nana Pretzel Salt Pretzel 250 g",
+  "ar": "نانا بسكويت برتزل مملح 250 جم",
+  "cat": 33,
+  "nj_id": "5-19321869",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6251934005638.webp",
+   "6251934005638-1.webp",
+   "6251934005638-2.webp"
+  ]
+ },
+ "JRN00001226": {
+  "price": 7.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281071273423",
+  "barcode_src": "Ninja",
+  "en": "Marami Cheese Popcorn100 g",
+  "ar": "مرامي فشار الجبنة 100 جم",
+  "cat": 33,
+  "nj_id": "5-19294931",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281071273423.webp",
+   "6281071273423-1.webp",
+   "6281071273423-2.webp"
+  ]
+ },
+ "JRN00001227": {
+  "price": 8.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287014280879",
+  "barcode_src": "Ninja",
+  "en": "Flowchy Sweet&Sour 145 g",
+  "ar": "فلوتشي منتفخات الذرة حامض حلو 145 جم",
+  "cat": 33,
+  "nj_id": "5-19320848",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287014280879.webp",
+   "6287014280879-1.webp",
+   "6287014280879-2.webp"
+  ]
+ },
+ "JRN00001228": {
+  "price": 4.25,
+  "special": 3.25,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "730167934206",
+  "barcode_src": "Ninja",
+  "en": "Dubai Popcorn Salad 50 g",
+  "ar": "دبي فشار بنكهة السلطة 50 جم",
+  "cat": 33,
+  "nj_id": "5-19374661",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "730167934206.webp",
+   "730167934206-1.webp",
+   "730167934206-2.webp"
+  ]
+ },
+ "JRN00001229": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6291105470766",
+  "barcode_src": "Ninja",
+  "en": "Minoman Chilli Puffs 70 g",
+  "ar": "مينوعمان بفك حار 70 جم",
+  "cat": 33,
+  "nj_id": "5-19292131",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6291105470766.webp",
+   "6291105470766-1.webp",
+   "6291105470766-2.webp"
+  ]
+ },
+ "JRN00001230": {
+  "price": 14.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6251934001593",
+  "barcode_src": "Ninja",
+  "en": "Baker Pretzels Classic Salty 250 g",
+  "ar": "بيكر بريتزل ملح 250 جم",
+  "cat": 33,
+  "nj_id": "5-19288218",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6251934001593.webp",
+   "6251934001593-1.webp",
+   "6251934001593-2.webp"
+  ]
+ },
+ "JRN00001231": {
+  "price": 15.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6251934005645",
+  "barcode_src": "Ninja",
+  "en": "Nana Cheese Flavor 250 g",
+  "ar": "نانا بسكويت برتزل بالجبنة 250 جم",
+  "cat": 33,
+  "nj_id": "5-19321870",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6251934005645.webp",
+   "6251934005645-1.webp",
+   "6251934005645-2.webp"
+  ]
+ },
+ "JRN00001232": {
+  "price": 9.95,
+  "special": 8.5,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9501025023018",
+  "barcode_src": "Ninja",
+  "en": "Nabil Cracker Salted Biscuits 12 x 30 g",
+  "ar": "نبيل بسكويت مالح كراكر 12×30 جم",
+  "cat": 33,
+  "nj_id": "5-19402095",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "9501025023018.webp"
+  ]
+ },
+ "JRN00001233": {
+  "price": 7.95,
+  "special": 4.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223015760156",
+  "barcode_src": "Ninja",
+  "en": "Raw Kettle Cooked Potato Chips With Sea Salt Gluten Free 60 g",
+  "ar": "رو رقائق بطاطس مطهوة بالغلاية بالملح البحر خالٍ من الجلوتين 60 جم",
+  "cat": 33,
+  "nj_id": "5-19385772",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223015760156.webp",
+   "6223015760156-1.webp",
+   "6223015760156-2.webp"
+  ]
+ },
+ "JRN00001234": {
+  "price": 7.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6290340361709",
+  "barcode_src": "Ninja",
+  "en": "Kitco Nice Chicken 150 g",
+  "ar": "كتكو دجاج نايس 150 جم",
+  "cat": 33,
+  "nj_id": "5-19309100",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6290340361709.webp",
+   "6290340361709-1.webp",
+   "6290340361709-2.webp"
+  ]
+ },
+ "JRN00001235": {
+  "price": 18.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281100850779",
+  "barcode_src": "Ninja",
+  "en": "Nasma Zoro Corn Puffs Cheese Flavor 20 g 22 Pcs",
+  "ar": "نسمة زورو منتفخات الذرة بنكهة الجبنة 22×20 جم",
+  "cat": 33,
+  "nj_id": "5-19378737",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281100850779.webp",
+   "6281100850779-1.webp",
+   "6281100850779-2.webp"
+  ]
+ },
+ "JRN00001236": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6285602016169",
+  "barcode_src": "Ninja",
+  "en": "Deemah Cruxx Chips Spicy Ketchup 75 g",
+  "ar": "ديمة كركس شيبس كاتشب حار 75 جم",
+  "cat": 33,
+  "nj_id": "5-19394339",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6285602016169.webp",
+   "6285602016169-1.webp",
+   "6285602016169-2.webp"
+  ]
+ },
+ "JRN00001237": {
+  "price": 7.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287013711725",
+  "barcode_src": "Ninja",
+  "en": "Millionaire Potato Cheese Flavour 12 x 12 g",
+  "ar": "المليونير بطاطس بطعم الجبنة الفرنسية 12×12 جم",
+  "cat": 33,
+  "nj_id": "5-19327143",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287013711725.webp",
+   "6287013711725-1.webp",
+   "6287013711725-2.webp"
+  ]
+ },
+ "JRN00001238": {
+  "price": 8.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036247308",
+  "barcode_src": "Ninja",
+  "en": "Cheetos Crunchy Cheese Flavour 190 g",
+  "ar": "شيتوس رقائق الذرة بالجبن 190 جم",
+  "cat": 33,
+  "nj_id": "5-19381767",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281036247308.webp",
+   "6281036247308-1.webp",
+   "6281036247308-2.webp"
+  ]
+ },
+ "JRN00001239": {
+  "price": 7.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016011233",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Popcorn Salted Caramel 140 g",
+  "ar": "البطل فشار كراميل مملح 140 جم",
+  "cat": 33,
+  "nj_id": "5-6232894",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281016011233.webp",
+   "6281016011233-1.webp",
+   "6281016011233-2.webp"
+  ]
+ },
+ "JRN00001240": {
+  "price": 9.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287014281517",
+  "barcode_src": "Ninja",
+  "en": "Fairco Potato Chips Flamin Hot Flavor 120 g",
+  "ar": "فيركو شرائح البطاطس نكهة الحار نار 120 جم",
+  "cat": 33,
+  "nj_id": "5-19378187",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287014281517.webp",
+   "6287014281517-1.webp",
+   "6287014281517-2.webp"
+  ]
+ },
+ "JRN00001241": {
+  "price": 7.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287013711619",
+  "barcode_src": "Ninja",
+  "en": "Millionaire Corn Puff Cheese 14 x 12 g",
+  "ar": "المليونير منتفخات الذرة بطعم الجبنة 14×12 جم",
+  "cat": 33,
+  "nj_id": "5-19327145",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287013711619.webp",
+   "6287013711619-1.webp"
+  ]
+ },
+ "JRN00001242": {
+  "price": 15.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6251934005621",
+  "barcode_src": "Ninja",
+  "en": "Nana Pretzel Sweet & Chili 250 g",
+  "ar": "نانا برتزل بالحار حلو 250 جم",
+  "cat": 33,
+  "nj_id": "5-19321872",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6251934005621.webp",
+   "6251934005621-1.webp",
+   "6251934005621-2.webp"
+  ]
+ },
+ "JRN00001243": {
+  "price": 27.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "028400659765",
+  "barcode_src": "Ninja",
+  "en": "Ruffles Potato Chips Jalapeno Ranch 184 g",
+  "ar": "رفلز رقائق بطاطس هالبينو رانش 184 جم",
+  "cat": 33,
+  "nj_id": "5-19318882",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "028400659765.webp",
+   "028400659765-1.webp"
+  ]
+ },
+ "JRN00001244": {
+  "price": 10.95,
+  "special": 8.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223015760279",
+  "barcode_src": "Ninja",
+  "en": "Raw Kettle Cooked Potato Chips With Sour Cream and Herbs Gluten Free 100 g",
+  "ar": "رو رقائق بطاطس مطهوة بالغلاية بالقشدة الحامضة والأعشاب خالٍ من الجلوتين 100 جم",
+  "cat": 33,
+  "nj_id": "5-19385781",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223015760279.webp",
+   "6223015760279-1.webp",
+   "6223015760279-2.webp"
+  ]
+ },
+ "JRN00001245": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016000602",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Chips Yoghurt Mint 110 g",
+  "ar": "البطل بطاطس زبادي ونعناع 110 جم",
+  "cat": 33,
+  "nj_id": "5-19332646",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281016000602.webp",
+   "6281016000602-1.webp",
+   "6281016000602-2.webp"
+  ]
+ },
+ "JRN00001246": {
+  "price": 6.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "9501100017413",
+  "barcode_src": "Ninja",
+  "en": "Oman Potato Chips Chilli Flavour 100 g",
+  "ar": "عمان بطاطس بالنكهة الحارة 100 جم",
+  "cat": 33,
+  "nj_id": "5-19368614",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "9501100017413.webp",
+   "9501100017413-1.webp",
+   "9501100017413-2.webp"
+  ]
+ },
+ "JRN00001247": {
+  "price": 15.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287013720406",
+  "barcode_src": "Ninja",
+  "en": "Millionaire Sweet Corn Tube30 x 10 g",
+  "ar": "المليونير اصابع الذرة الحلوة 30×10 جم",
+  "cat": 33,
+  "nj_id": "5-19327150",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287013720406.webp"
+  ]
+ },
+ "JRN00001248": {
+  "price": 6.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016012308",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Ridges Potato Chips Hot Chili 155 g",
+  "ar": "البطل ردجز رقائق بطاطس بالفلفل الحار 155 جم",
+  "cat": 33,
+  "nj_id": "5-6261073",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281016012308.webp",
+   "6281016012308-1.webp",
+   "6281016012308-2.webp"
+  ]
+ },
+ "JRN00001249": {
+  "price": 9.5,
+  "special": 6.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035238324",
+  "barcode_src": "Ninja",
+  "en": "Big Chips Kettle Cooked Sea Salt and Balsamic Vinegar Gluten Free 140 g",
+  "ar": "بيج شيبس بريميم ملح وخل يلسميك خالٍ من الجلوتين 140 جم",
+  "cat": 33,
+  "nj_id": "5-19381761",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035238324.webp",
+   "6222035238324-1.webp",
+   "6222035238324-2.webp"
+  ]
+ },
+ "JRN00001250": {
+  "price": 27.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "028400065979",
+  "barcode_src": "Ninja",
+  "en": "Sunchips Wholegrain Chips Garden Salsa 184 g",
+  "ar": "سن تشيبس رقائق حبوب كاملة جاردن سالسا 184 جم",
+  "cat": 33,
+  "nj_id": "5-19408459",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "028400065979.webp",
+   "028400065979-1.webp",
+   "028400065979-2.webp"
+  ]
+ },
+ "JRN00001251": {
+  "price": 10.95,
+  "special": 8.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223015760231",
+  "barcode_src": "Ninja",
+  "en": "Raw Kettle Cooked Potato Chips With Sea Salt and Balsamic Vinegar Gluten Free 100 g",
+  "ar": "رو رقائق بطاطس مطهوة بالغلاية بملح البحر وخل البلسميك خالٍ من الجلوتين 100 جم",
+  "cat": 33,
+  "nj_id": "5-19385774",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223015760231.webp",
+   "6223015760231-1.webp",
+   "6223015760231-2.webp"
+  ]
+ },
+ "JRN00001252": {
+  "price": 10.95,
+  "special": 8.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223015760255",
+  "barcode_src": "Ninja",
+  "en": "Raw Kettle Cooked Potato Chips With Sweet Chili Gluten Free 100 g",
+  "ar": "رو رقائق بطاطس مطهوة بالغلاية بالفلفل الحلو خالٍ من الجلوتين 100 جم",
+  "cat": 33,
+  "nj_id": "5-19385775",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223015760255.webp",
+   "6223015760255-1.webp",
+   "6223015760255-2.webp"
+  ]
+ },
+ "JRN00001253": {
+  "price": 7.95,
+  "special": 4.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223015760187",
+  "barcode_src": "Ninja",
+  "en": "Raw Kettle Cooked Potato Chips With Sweet Chili Gluten Free 60 g",
+  "ar": "رو رقائق بطاطس مطهوة بالغلاية بالفلفل الحلو خالٍ من الجلوتين 60 جم",
+  "cat": 33,
+  "nj_id": "5-19385783",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223015760187.webp",
+   "6223015760187-1.webp",
+   "6223015760187-2.webp"
+  ]
+ },
+ "JRN00001254": {
+  "price": 13.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "776992064015",
+  "barcode_src": "Ninja",
+  "en": "Deemah Farfasha Potatoes Chip French Cheese 12 x 21 g",
+  "ar": "ديمة فرفشة بطاطس جبنة فرنسية 12×21 جم",
+  "cat": 33,
+  "nj_id": "5-19317645",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "776992064015.webp",
+   "776992064015-1.webp",
+   "776992064015-2.webp"
+  ]
+ },
+ "JRN00001255": {
+  "price": 3.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036284105",
+  "barcode_src": "Ninja",
+  "en": "Sunbites Olive and Oregano Bread Bites 50 g",
+  "ar": "صن بايتس بالزيتون والأوريجانو 50 جم",
+  "cat": 33,
+  "nj_id": "5-9924049",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281036284105.webp",
+   "6281036284105-1.webp",
+   "6281036284105-2.webp"
+  ]
+ },
+ "JRN00001256": {
+  "price": 14.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6251934002811",
+  "barcode_src": "Ninja",
+  "en": "Baker Sticks Salty 250 g",
+  "ar": "بيكر أعواد ستيكس ملح 250 جم",
+  "cat": 33,
+  "nj_id": "5-19288209",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6251934002811.webp",
+   "6251934002811-1.webp",
+   "6251934002811-2.webp"
+  ]
+ },
+ "JRN00001257": {
+  "price": 14.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6253809980859",
+  "barcode_src": "Ninja",
+  "en": "Baker Original Pretzels Barbeque 250 g",
+  "ar": "بيكر بريتزل باربيكيو 250 جم",
+  "cat": 33,
+  "nj_id": "5-19288222",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6253809980859.webp",
+   "6253809980859-1.webp",
+   "6253809980859-2.webp"
+  ]
+ },
+ "JRN00001258": {
+  "price": 7.5,
+  "special": 4.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223000508619",
+  "barcode_src": "Ninja",
+  "en": "Tiger Chips Chili & lemon 115 g",
+  "ar": "تايجر شرائح بطاطس مقلية بطعم الشطة والليمون 115 جم",
+  "cat": 33,
+  "nj_id": "5-19294476",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223000508619.webp",
+   "6223000508619-1.webp",
+   "6223000508619-2.webp"
+  ]
+ },
+ "JRN00001259": {
+  "price": 10.95,
+  "special": 8.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223015760224",
+  "barcode_src": "Ninja",
+  "en": "Raw Kettle Cooked Potato Chips With Sea Salt Gluten Free 100 g",
+  "ar": "رو رقائق بطاطس مطهوة بالغلاية بملح البحر خالٍ من الجلوتين 100 جم",
+  "cat": 33,
+  "nj_id": "5-19385779",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223015760224.webp",
+   "6223015760224-1.webp",
+   "6223015760224-2.webp"
+  ]
+ },
+ "JRN00001260": {
+  "price": 5.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036028242",
+  "barcode_src": "Ninja",
+  "en": "Lay's Potato Chips Crispz Cheese 90 g",
+  "ar": "ليز شرائح البطاطس كريسبز بالجبنة 90 جم",
+  "cat": 33,
+  "nj_id": "5-19381775",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281036028242.webp",
+   "6281036028242-1.webp",
+   "6281036028242-2.webp"
+  ]
+ },
+ "JRN00001261": {
+  "price": 3.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287014281500",
+  "barcode_src": "Ninja",
+  "en": "Fairco Potato Chips Flamin Hot Flavor 50 g",
+  "ar": "فيركو شرائح البطاطس نكهة الحار نار 50 جم",
+  "cat": 33,
+  "nj_id": "5-19378184",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287014281500.webp",
+   "6287014281500-1.webp",
+   "6287014281500-2.webp"
+  ]
+ },
+ "JRN00001262": {
+  "price": 9.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5203912390909",
+  "barcode_src": "Ninja",
+  "en": "Bugles Cs Smokin BBQ 125 g",
+  "ar": "قراقيش بيوقلز بنكهة المشوي كبير 125 جم",
+  "cat": 33,
+  "nj_id": "5-19289166",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "5203912390909.webp",
+   "5203912390909-1.webp",
+   "5203912390909-2.webp"
+  ]
+ },
+ "JRN00001263": {
+  "price": 9.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6291105693196",
+  "barcode_src": "Ninja",
+  "en": "Bugles Chilli & Lime 125 g",
+  "ar": "بيوقلز بالفلفل والليمون 125 جم",
+  "cat": 33,
+  "nj_id": "5-19289178",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6291105693196.webp",
+   "6291105693196-1.webp",
+   "6291105693196-2.webp"
+  ]
+ },
+ "JRN00001264": {
+  "price": 15.0,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6253809980989",
+  "barcode_src": "Ninja",
+  "en": "Baker Nuts Barbeque 275 g",
+  "ar": "بيكر مقرمشات باربيكيو 275 جم",
+  "cat": 33,
+  "nj_id": "5-19288213",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6253809980989.webp",
+   "6253809980989-1.webp",
+   "6253809980989-2.webp"
+  ]
+ },
+ "JRN00001265": {
+  "price": 3.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036029157",
+  "barcode_src": "Ninja",
+  "en": "Tasali Yogurt and Herbs Potato Chips 63 g",
+  "ar": "تسالي شرائح بطاطس بلبن زبادي وأعشاب 63 جم",
+  "cat": 33,
+  "nj_id": "5-19423652",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281036029157.webp",
+   "6281036029157-1.webp"
+  ]
+ },
+ "JRN00001266": {
+  "price": 7.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287013711459",
+  "barcode_src": "Ninja",
+  "en": "Millionaire Cheezy Bafak 14 x 12 g",
+  "ar": "المليونير تشيزي بفك 14×12 جم",
+  "cat": 33,
+  "nj_id": "5-19327146",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287013711459.webp",
+   "6287013711459-1.webp"
+  ]
+ },
+ "JRN00001267": {
+  "price": 7.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287013711664",
+  "barcode_src": "Ninja",
+  "en": "Millionaire Potato Chili Flavour 12 x 12 g",
+  "ar": "المليونير بطاطس بطعم الفلفل الحار 12×12 جم",
+  "cat": 33,
+  "nj_id": "5-19327142",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287013711664.webp"
+  ]
+ },
+ "JRN00001268": {
+  "price": 16.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281071213214",
+  "barcode_src": "Ninja",
+  "en": "Marami Salt Plain Potato Chips 18 x 10 g",
+  "ar": "مرامي رقائق البطاطس بالملح 18×10 جم",
+  "cat": 33,
+  "nj_id": "5-19294924",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281071213214.webp",
+   "6281071213214-1.webp",
+   "6281071213214-2.webp"
+  ]
+ },
+ "JRN00001269": {
+  "price": 6.95,
+  "special": 4.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223015760200",
+  "barcode_src": "Ninja",
+  "en": "Raw Kettle Cooked Potato Chips With Sour Cream and Herbs Gluten Free 60 g",
+  "ar": "رو رقائق بطاطس مطهوة بالغلاية بالقشدة الحامضة والأعشاب خالٍ من الجلوتين 60 جم",
+  "cat": 33,
+  "nj_id": "5-19385784",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223015760200.webp",
+   "6223015760200-1.webp",
+   "6223015760200-2.webp"
+  ]
+ },
+ "JRN00001270": {
+  "price": 4.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287014280008",
+  "barcode_src": "Ninja",
+  "en": "Farico Potato Hot&Spicy 40 g",
+  "ar": "فاركو بطاطس عيدان فلفل 40 جم",
+  "cat": 33,
+  "nj_id": "5-19320854",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287014280008.webp",
+   "6287014280008-1.webp",
+   "6287014280008-2.webp"
+  ]
+ },
+ "JRN00001271": {
+  "price": 4.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287014280015",
+  "barcode_src": "Ninja",
+  "en": "Fairco Potato Salt 40 g",
+  "ar": "فاركو بطاطس عيدان ملح 40 جم",
+  "cat": 33,
+  "nj_id": "5-19320835",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287014280015.webp",
+   "6287014280015-1.webp",
+   "6287014280015-2.webp"
+  ]
+ },
+ "JRN00001272": {
+  "price": 4.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287014280121",
+  "barcode_src": "Ninja",
+  "en": "Fairco Potato Brazilian 40 g",
+  "ar": "فاركو بطاطس عيدان برازيلي 40 جم",
+  "cat": 33,
+  "nj_id": "5-19320840",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287014280121.webp",
+   "6287014280121-1.webp",
+   "6287014280121-2.webp"
+  ]
+ },
+ "JRN00001273": {
+  "price": 27.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "028400017824",
+  "barcode_src": "Tamimi (via Ninja EN match)",
+  "en": "Funyuns Rings Onion 163 g",
+  "ar": "فانيونز حلقات بصل أونيون 163 جم",
+  "cat": 33,
+  "nj_id": "5-19378722",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "028400017824.webp",
+   "028400017824-1.webp"
+  ]
+ },
+ "JRN00001274": {
+  "price": 16.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5905187500129",
+  "barcode_src": "Ninja",
+  "en": "Lorenz Saltletts Cocktail Mix 180 g",
+  "ar": "لورنز سالتلتيس ميكس بالملح 180 جم",
+  "cat": 33,
+  "nj_id": "5-19357445",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "5905187500129.webp",
+   "5905187500129-1.webp",
+   "5905187500129-2.webp"
+  ]
+ },
+ "JRN00001275": {
+  "price": 14.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6251934001111",
+  "barcode_src": "Ninja",
+  "en": "Baker Cracker Biscuit Zaatar 250 g",
+  "ar": "بيكر كراكر الزعتر 250 جم",
+  "cat": 33,
+  "nj_id": "5-19288216",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6251934001111.webp",
+   "6251934001111-1.webp",
+   "6251934001111-2.webp"
+  ]
+ },
+ "JRN00001276": {
+  "price": 7.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287013711688",
+  "barcode_src": "Ninja",
+  "en": "Millionaire Potato Ketchup Flavour 12 x 12 g",
+  "ar": "المليونير بطاطس بطعم الكاتشب 12×12 جم",
+  "cat": 33,
+  "nj_id": "5-19327151",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287013711688.webp",
+   "6287013711688-1.webp",
+   "6287013711688-2.webp"
+  ]
+ },
+ "JRN00001277": {
+  "price": 16.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281071214211",
+  "barcode_src": "Ninja",
+  "en": "Marami Salt & Vinegar Plain Potato Chips 18 x 10 g",
+  "ar": "مرامي رقائق البطاطس بالملح والخل 18×10 جم",
+  "cat": 33,
+  "nj_id": "5-19294921",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281071214211.webp",
+   "6281071214211-1.webp",
+   "6281071214211-2.webp"
+  ]
+ },
+ "JRN00001278": {
+  "price": 14.5,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281071211210",
+  "barcode_src": "Ninja",
+  "en": "Marami Ketchup Plain Potato Chips 18 x 10 g",
+  "ar": "مرامي رقائق بطاطس كاتشب 18×10 جم",
+  "cat": 33,
+  "nj_id": "5-19294922",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281071211210.webp",
+   "6281071211210-1.webp",
+   "6281071211210-2.webp"
+  ]
+ },
+ "JRN00001279": {
+  "price": 7.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287013711473",
+  "barcode_src": "Ninja",
+  "en": "Maistro Corn Puff Cheese 14 x 12 g",
+  "ar": "المايسترو منتفخات الذرة بطعم الجبنة 14×12 جم",
+  "cat": 33,
+  "nj_id": "5-19327144",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287013711473.webp"
+  ]
+ },
+ "JRN00001280": {
+  "price": 9.5,
+  "special": 6.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035238294",
+  "barcode_src": "Ninja",
+  "en": "Big Chips Kettle Cooked Sour Cream and Onion Gluten Free 140 g",
+  "ar": "بيج شيبس بريميم ساور كريم وبصل خالٍ من الجلوتين 140 جم",
+  "cat": 33,
+  "nj_id": "5-19381760",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035238294.webp",
+   "6222035238294-1.webp",
+   "6222035238294-2.webp"
+  ]
+ },
+ "JRN00001281": {
+  "price": 7.95,
+  "special": 4.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223015760163",
+  "barcode_src": "Ninja",
+  "en": "Raw Kettle Cooked Potato Chips With Sea Salt and Balsamic Vinegar Gluten Free 60 g",
+  "ar": "رو رقائق بطاطس مطهوة بالغلاية بملح البحر وخل البلسميك خالٍ من الجلوتين 60 جم",
+  "cat": 33,
+  "nj_id": "5-19385780",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223015760163.webp",
+   "6223015760163-1.webp",
+   "6223015760163-2.webp"
+  ]
+ },
+ "JRN00001282": {
+  "price": 7.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6290340391706",
+  "barcode_src": "Ninja",
+  "en": "Kitco Nice Hot & Spicy 150 g",
+  "ar": "كتكو توابل حارة نايس 150 جم",
+  "cat": 33,
+  "nj_id": "5-19309105",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6290340391706.webp",
+   "6290340391706-1.webp",
+   "6290340391706-2.webp"
+  ]
+ },
+ "JRN00001283": {
+  "price": 5.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6287014280565",
+  "barcode_src": "Ninja",
+  "en": "Farico Potato Flamin Hot 42 g",
+  "ar": "فاركو بطاطس عيدان حار نار 42 جم",
+  "cat": 33,
+  "nj_id": "5-19320841",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6287014280565.webp",
+   "6287014280565-1.webp",
+   "6287014280565-2.webp"
+  ]
+ },
+ "JRN00001284": {
+  "price": 14.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6291105470797",
+  "barcode_src": "Ninja",
+  "en": "Minoman Cheese Puffs 22 x 12 g",
+  "ar": "مينوعمان بفك بالجبنة 22×12 جم",
+  "cat": 33,
+  "nj_id": "5-19292135",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6291105470797.webp",
+   "6291105470797-1.webp"
+  ]
+ },
+ "JRN00001285": {
+  "price": 23.75,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281016011219",
+  "barcode_src": "Ninja",
+  "en": "Al Batal Caramel SALTED 15 x 23 g",
+  "ar": "البطل فشار كراميل مملح 15×23 جم",
+  "cat": 33,
+  "nj_id": "5-19295290",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281016011219.webp",
+   "6281016011219-1.webp",
+   "6281016011219-2.webp"
+  ]
+ },
+ "JRN00001286": {
+  "price": 9.5,
+  "special": 6.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035238317",
+  "barcode_src": "Ninja",
+  "en": "Big Chips Kettle Cooked Spiced Cheese Gluten Free 140 g",
+  "ar": "بيج شيبس بريميم جبنه حاره خالٍ من الجلوتين 140 جم",
+  "cat": 33,
+  "nj_id": "5-19381762",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035238317.webp",
+   "6222035238317-1.webp",
+   "6222035238317-2.webp"
+  ]
+ },
+ "JRN00001287": {
+  "price": 4.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "5060689760164",
+  "barcode_src": "Ninja",
+  "en": "Kidzy Vegan Tomato Puffs Gluten Free and Organic and Vegan 12 g",
+  "ar": "كدزي نباتي منفخات طماطم خالي من الجلوتين وعضوي ونباتي 12 جم",
+  "cat": 33,
+  "nj_id": "5-19287255",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "5060689760164.webp",
+   "5060689760164-1.webp",
+   "5060689760164-2.webp"
+  ]
+ },
+ "JRN00001288": {
+  "price": 10.25,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "4018077662614",
+  "barcode_src": "Ninja",
+  "en": "Lorenz Saltletts Brezel Salted 150 g",
+  "ar": "لورنز سالتلتيس برتزل بالملح 150 جم",
+  "cat": 33,
+  "nj_id": "5-19357452",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "4018077662614.webp",
+   "4018077662614-1.webp",
+   "4018077662614-2.webp"
+  ]
+ },
+ "JRN00001289": {
+  "price": 24.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281036281128",
+  "barcode_src": "Ninja",
+  "en": "Sunbites Bread Bites Olives and Oregano 12 x 18 g",
+  "ar": "سن بايتس شرائح خبز محمصة بنكهة بالزيتون والاوريغانو 12×18 جم",
+  "cat": 33,
+  "nj_id": "5-19291768",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281036281128.webp",
+   "6281036281128-1.webp",
+   "6281036281128-2.webp"
+  ]
+ },
+ "JRN00001290": {
+  "price": 7.95,
+  "special": 4.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223015760194",
+  "barcode_src": "Ninja",
+  "en": "Raw Kettle Cooked Potato Chips With Jalapeno Gluten Free 60 g",
+  "ar": "رو رقائق بطاطس مطهوة بالغلاية بالهالبينو خالٍ من الجلوتين 60 جم",
+  "cat": 33,
+  "nj_id": "5-19385776",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223015760194.webp",
+   "6223015760194-1.webp",
+   "6223015760194-2.webp"
+  ]
+ },
+ "JRN00001291": {
+  "price": 13.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6281071273737",
+  "barcode_src": "Ninja",
+  "en": "Marami Blazing Hot Chili Corn Sticks18 x 14 g",
+  "ar": "مرامي عيدان الذرة فلفل حار نار 18×14 جم",
+  "cat": 33,
+  "nj_id": "5-19294936",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6281071273737.webp",
+   "6281071273737-1.webp",
+   "6281071273737-2.webp"
+  ]
+ },
+ "JRN00001292": {
+  "price": 37.95,
+  "special": null,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "028400029049",
+  "barcode_src": "Ninja",
+  "en": "Lay's Kettle Cooked Potato Chips Jalapeno 184 g",
+  "ar": "ليز رقائق بطاطس كيتل كوكيد هالبينو 184 جم",
+  "cat": 33,
+  "nj_id": "5-19394875",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "028400029049.webp",
+   "028400029049-1.webp",
+   "028400029049-2.webp"
+  ]
+ },
+ "JRN00001293": {
+  "price": 10.95,
+  "special": 8.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223015760248",
+  "barcode_src": "Ninja",
+  "en": "Raw Kettle Cooked Potato Chips With Cheddar Cheese and Shallots Gluten Free 100 g",
+  "ar": "رو رقائق بطاطس مطهوة بالغلاية بالجبنة الشيدر والكراث خالٍ من الجلوتين 100 جم",
+  "cat": 33,
+  "nj_id": "5-19385773",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223015760248.webp",
+   "6223015760248-1.webp",
+   "6223015760248-2.webp"
+  ]
+ },
+ "JRN00001294": {
+  "price": 7.95,
+  "special": 4.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223015760170",
+  "barcode_src": "Ninja",
+  "en": "Raw Kettle Cooked Potato Chips With Cheddar Cheese and Shallots Gluten Free 60 g",
+  "ar": "رو رقائق بطاطس مطهوة بالغلاية بالجبنة الشيدر وكراث خالٍ من الجلوتين 60 جم",
+  "cat": 33,
+  "nj_id": "5-19385777",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223015760170.webp",
+   "6223015760170-1.webp",
+   "6223015760170-2.webp"
+  ]
+ },
+ "JRN00001295": {
+  "price": 10.95,
+  "special": 8.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6223015760262",
+  "barcode_src": "Ninja",
+  "en": "Raw Kettle Cooked Potato Chips With Jalapeno Gluten Free 100 g",
+  "ar": "رو رقائق بطاطس مطهوة بالغلاية بالهالبينو خالٍ من الجلوتين 100 جم",
+  "cat": 33,
+  "nj_id": "5-19385778",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6223015760262.webp",
+   "6223015760262-1.webp",
+   "6223015760262-2.webp"
+  ]
+ },
+ "JRN00001296": {
+  "price": 9.5,
+  "special": 6.95,
+  "src": "ninja",
+  "img_src": "ninja",
+  "barcode": "6222035238300",
+  "barcode_src": "Ninja",
+  "en": "Big Chips Kettle Cooked Parmesan Cheese and Pesto Gluten Free 140 g",
+  "ar": "بيج شيبس بريميم جبنه برميزان و بيستو خالٍ من الجلوتين 140 جم",
+  "cat": 33,
+  "nj_id": "5-19381763",
+  "hs_id": null,
+  "hs_sku": null,
+  "images": [
+   "6222035238300.webp",
+   "6222035238300-1.webp",
+   "6222035238300-2.webp"
+  ]
+ }
+}

@@ -1,0 +1,1832 @@
+[
+{
+"sku": "JRN00000792",
+"barcode": "682430611751",
+"cat": 21,
+"ar": "فوس مياه فوارة زجاج 375 مل",
+"en": "Voss Sparkling Water Glass 375 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19383657",
+"img_src": "ninja",
+"images": [
+"682430611751.webp"
+]
+},
+{
+"sku": "JRN00000793",
+"barcode": "9556495800010",
+"cat": 21,
+"ar": "كوا ماء جوز الهند 330 مل",
+"en": "Cowa Coconut Water 330 ml",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392954",
+"img_src": "ninja",
+"images": [
+"9556495800010.webp"
+]
+},
+{
+"sku": "JRN00000794",
+"barcode": "6281101221332",
+"cat": 21,
+"ar": "بيرين مياه شرب 24×200 مل",
+"en": "Berain Drinking Water 24 x 200 ml",
+"price": 12.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281101221332.webp",
+"6281101221332-1.webp",
+"6281101221332-2.webp"
+]
+},
+{
+"sku": "JRN00000795",
+"barcode": "6287016760041",
+"cat": 21,
+"ar": "أڤا مياه شرب 40×330 مل",
+"en": "Ava Drinking Water 40 x 330 ml",
+"price": 24.95,
+"special": 20.95,
+"src": "ninja",
+"ninja_id": "5-1019121",
+"img_src": "ninja",
+"images": [
+"6287016760041.webp",
+"6287016760041-1.webp",
+"6287016760041-2.webp"
+]
+},
+{
+"sku": "JRN00000796",
+"barcode": "5449000083999",
+"cat": 21,
+"ar": "أروى مياه شرب 6×1.5 لتر",
+"en": "Arwa Drinking Water 6 x 1.5 L",
+"price": 10.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-448688",
+"img_src": "ninja",
+"images": [
+"5449000083999.webp",
+"5449000083999-1.webp",
+"5449000083999-2.webp"
+]
+},
+{
+"sku": "JRN00000797",
+"barcode": "6287016760027",
+"cat": 21,
+"ar": "أڤا مياه شرب 48×200 مل",
+"en": "Ava Drinking Water 48 x 200 ml",
+"price": 25.95,
+"special": 20.95,
+"src": "ninja",
+"ninja_id": "5-1007911",
+"img_src": "ninja",
+"images": [
+"6287016760027.webp",
+"6287016760027-1.webp",
+"6287016760027-2.webp"
+]
+},
+{
+"sku": "JRN00000798",
+"barcode": "6281103270017",
+"cat": 21,
+"ar": "تانيا مياه شرب 40×200 مل",
+"en": "Tania Drinking Water 40 x 200 ml",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-994139",
+"img_src": "ninja",
+"images": [
+"6281103270017.webp",
+"6281103270017-1.webp",
+"6281103270017-2.webp"
+]
+},
+{
+"sku": "JRN00000799",
+"barcode": "6281101220137",
+"cat": 21,
+"ar": "بيرين مياه شرب 48×200 مل",
+"en": "Berain Drinking Water 48 x 200 ml",
+"price": 24.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1007607",
+"img_src": "ninja",
+"images": [
+"6281101220137.webp",
+"6281101220137-1.webp",
+"6281101220137-2.webp"
+]
+},
+{
+"sku": "JRN00000800",
+"barcode": "6287016760058",
+"cat": 21,
+"ar": "أڤا مياه شرب الحزمة الخضراء 12×330 مل",
+"en": "Ava Drinking Water Green Pack 12 x 330 ml",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1019917",
+"img_src": "ninja",
+"images": [
+"6287016760058.webp",
+"6287016760058-1.webp",
+"6287016760058-2.webp"
+]
+},
+{
+"sku": "JRN00000801",
+"barcode": "6281101220250",
+"cat": 21,
+"ar": "بيرين مياه شرب 12×330 مل",
+"en": "Berain Drinking Water 12 x 330 ml",
+"price": 8.8,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281101220250.webp",
+"6281101220250-1.webp",
+"6281101220250-2.webp"
+]
+},
+{
+"sku": "JRN00000802",
+"barcode": "6287025900148",
+"cat": 21,
+"ar": "إيفال مياه شرب 48×200 مل",
+"en": "Ival Drinking Water 48 x 200 ml",
+"price": 24.0,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-1020178",
+"img_src": "ninja",
+"images": [
+"6287025900148.webp",
+"6287025900148-1.webp"
+]
+},
+{
+"sku": "JRN00000803",
+"barcode": "6287034100980",
+"cat": 21,
+"ar": "كينزا مياه صودا فوارة 250 مل",
+"en": "Kinza Soda Water 250 ml",
+"price": 1.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19319174",
+"img_src": "hs",
+"images": [
+"6287034100980.webp",
+"6287034100980-1.webp",
+"6287034100980-2.webp"
+]
+},
+{
+"sku": "JRN00000804",
+"barcode": "6287034102199",
+"cat": 21,
+"ar": "كينزا مياه صودا فوارة 6×250 مل",
+"en": "Kinza Soda Water 6 x 250 ml",
+"price": 11.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404408",
+"img_src": "ninja",
+"images": [
+"6287034102199.webp",
+"6287034102199-1.webp",
+"6287034102199-2.webp"
+]
+},
+{
+"sku": "JRN00000805",
+"barcode": "6281035154492",
+"cat": 21,
+"ar": "نوفا مياه فوارة ليمون ونعناع 6×250 مل",
+"en": "Nova Sparkling Water Lemon & Mint 6 x 250 ml",
+"price": 26.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19382384",
+"img_src": "ninja",
+"images": [
+"6281035154492.webp",
+"6281035154492-1.webp",
+"6281035154492-2.webp"
+]
+},
+{
+"sku": "JRN00000806",
+"barcode": "012000048333",
+"cat": 21,
+"ar": "أكوافينا مياه فوارة علبة 250 مل",
+"en": "Aquafina Sparkling Water Can 250 ml",
+"price": 1.99,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"012000048333.webp",
+"012000048333-1.webp",
+"012000048333-2.webp"
+]
+},
+{
+"sku": "JRN00000807",
+"barcode": "6281101221196",
+"cat": 21,
+"ar": "بيرين مياه فوارة زجاج 270 مل",
+"en": "Berain Sparkling Water Glass 270 ml",
+"price": 4.2,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281101221196.webp",
+"6281101221196-1.webp"
+]
+},
+{
+"sku": "JRN00000808",
+"barcode": "6281035360404",
+"cat": 21,
+"ar": "نوفا مياه فوارة فراولة 250 مل",
+"en": "Nova Sparkling Water Strawberry 250 ml",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19382381",
+"img_src": "ninja",
+"images": [
+"6281035360404.webp",
+"6281035360404-1.webp",
+"6281035360404-2.webp"
+]
+},
+{
+"sku": "JRN00000809",
+"barcode": "3179730011864",
+"cat": 21,
+"ar": "بيريه مياه معدنية فوارة طبيعية 200 مل",
+"en": "Perrier Natural Sparkling Mineral Water 200 ml",
+"price": 5.75,
+"special": 4.6,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"3179730011864.webp",
+"3179730011864-1.webp"
+]
+},
+{
+"sku": "JRN00000810",
+"barcode": "6281035000430",
+"cat": 21,
+"ar": "نوفا مياه فوارة زجاج 24×250 مل",
+"en": "Nova Sparkling Water Glass 24 x 250 ml",
+"price": 81.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290780",
+"img_src": "ninja",
+"images": [
+"6281035000430.webp",
+"6281035000430-1.webp",
+"6281035000430-2.webp"
+]
+},
+{
+"sku": "JRN00000811",
+"barcode": "6281035370397",
+"cat": 21,
+"ar": "نوفا مياه فوارة فراولة 6×250 مل",
+"en": "Nova Sparkling Water Strawberry 6 x 250 ml",
+"price": 25.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281035370397.webp",
+"6281035370397-1.webp",
+"6281035370397-2.webp"
+]
+},
+{
+"sku": "JRN00000812",
+"barcode": "8002270011054",
+"cat": 21,
+"ar": "سان بيليغرينو مياه معدنية فوارة 750 مل",
+"en": "San Pellegrino Sparkling Natural Mineral Water 750 ml",
+"price": 11.2,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8002270011054.webp",
+"8002270011054-1.webp"
+]
+},
+{
+"sku": "JRN00000813",
+"barcode": "7613034625328",
+"cat": 21,
+"ar": "بيريه مياه معدنية فوارة علب 10×250 مل",
+"en": "Perrier Sparkling Mineral Water Can 10 x 250 ml",
+"price": 49,
+"special": 39.2,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7613034625328.webp",
+"7613034625328-1.webp"
+]
+},
+{
+"sku": "JRN00000814",
+"barcode": "3179730013134",
+"cat": 21,
+"ar": "بيريه مياه معدنية فوارة طبيعية 750 مل",
+"en": "Perrier Natural Sparkling Mineral Water 750 ml",
+"price": 11.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6839",
+"img_src": "ninja",
+"images": [
+"3179730013134.webp",
+"3179730013134-1.webp"
+]
+},
+{
+"sku": "JRN00000815",
+"barcode": "8002270011023",
+"cat": 21,
+"ar": "سان بيليغرينو مياه معدنية فوارة 500 مل",
+"en": "San Pellegrino Sparkling Natural Mineral Water 500 ml",
+"price": 7.8,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8002270011023.webp",
+"8002270011023-1.webp",
+"8002270011023-2.webp"
+]
+},
+{
+"sku": "JRN00000816",
+"barcode": "8445291047167",
+"cat": 21,
+"ar": "ميزون بيريه مياه فوارة بنكهة الخوخ 10×250 مل",
+"en": "Maison Perrier Peach Sparkling Water 10 x 250 ml",
+"price": 52,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8445291047167.webp"
+]
+},
+{
+"sku": "JRN00000817",
+"barcode": "6287034240006",
+"cat": 21,
+"ar": "سبادا مياه صودا فوارة 250 مل",
+"en": "Spada Sparkling Soda Water 250 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19329288",
+"img_src": "hs",
+"images": [
+"6287034240006.webp",
+"6287034240006-1.webp"
+]
+},
+{
+"sku": "JRN00000818",
+"barcode": "8445291046979",
+"cat": 21,
+"ar": "ميزون بيريه مياه فوارة بنكهة الفراولة 250 مل",
+"en": "Maison Perrier Strawberry Sparkling Water 250 ml",
+"price": 6,
+"special": 4.8,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8445291046979.webp",
+"8445291046979-1.webp"
+]
+},
+{
+"sku": "JRN00000819",
+"barcode": "3068320109657",
+"cat": 21,
+"ar": "إيفيان مياه معدنية طبيعية 330 مل",
+"en": "Evian Natural Mineral Water 330 ml",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4169",
+"img_src": "ninja",
+"images": [
+"3068320109657.webp",
+"3068320109657-1.webp",
+"3068320109657-2.webp"
+]
+},
+{
+"sku": "JRN00000820",
+"barcode": "3068320101231",
+"cat": 21,
+"ar": "إيفيان مياه معدنية طبيعية زجاج 750 مل",
+"en": "Evian Natural Mineral Water Glass 750 ml",
+"price": 13.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"3068320101231.webp",
+"3068320101231-1.webp",
+"3068320101231-2.webp"
+]
+},
+{
+"sku": "JRN00000821",
+"barcode": "6291010900952",
+"cat": 21,
+"ar": "ستار مياه صودا علبة 300 مل",
+"en": "Star Soda Water Can 300 ml",
+"price": 2.8,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6291010900952.webp",
+"6291010900952-1.webp",
+"6291010900952-2.webp"
+]
+},
+{
+"sku": "JRN00000822",
+"barcode": "5029396003483",
+"cat": 23,
+"ar": "فينتيمانز ليمونادة التوت 275 مل",
+"en": "Fentimans Raspberry Lemonade 275 ml",
+"price": 14.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5029396003483.webp"
+]
+},
+{
+"sku": "JRN00000823",
+"barcode": "6281055000564",
+"cat": 21,
+"ar": "هارفست ماء جوز الهند 500 مل",
+"en": "Harvest Coconut Water 500 ml",
+"price": 12.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-19319315",
+"img_src": "ninja",
+"images": [
+"6281055000564.webp",
+"6281055000564-1.webp",
+"6281055000564-2.webp"
+]
+},
+{
+"sku": "JRN00000824",
+"barcode": "6281055000571",
+"cat": 21,
+"ar": "هارفست ماء جوز الهند 1 لتر",
+"en": "Harvest Coconut Water 1 L",
+"price": 22.95,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-19319314",
+"img_src": "ninja",
+"images": [
+"6281055000571.webp",
+"6281055000571-1.webp",
+"6281055000571-2.webp"
+]
+},
+{
+"sku": "JRN00000825",
+"barcode": "6281055001387",
+"cat": 21,
+"ar": "هارفست ماء جوز الهند 3×500 مل",
+"en": "Harvest Coconut Water 3 x 500 ml",
+"price": 36.95,
+"special": 31.03,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281055001387.webp",
+"6281055001387-1.webp"
+]
+},
+{
+"sku": "JRN00000826",
+"barcode": "5060232813071",
+"cat": 21,
+"ar": "فيتا كوكو ماء جوز الهند المعصور 330 مل",
+"en": "Vita Coco Pressed Coconut Water 330 ml",
+"price": 11.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060232813071.webp",
+"5060232813071-1.webp",
+"5060232813071-2.webp"
+]
+},
+{
+"sku": "JRN00000827",
+"barcode": "6281058102081",
+"cat": 24,
+"ar": "كود رد مشروب طاقة 250 مل",
+"en": "Code Red Energy Drink 250 ml",
+"price": 5.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4689",
+"img_src": "ninja",
+"images": [
+"6281058102081.webp",
+"6281058102081-1.webp"
+]
+},
+{
+"sku": "JRN00000828",
+"barcode": "6281058107086",
+"cat": 24,
+"ar": "كود رد مشروب طاقة 185 مل",
+"en": "Code Red Energy Drink 185 ml",
+"price": 4.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4691",
+"img_src": "ninja",
+"images": [
+"6281058107086.webp",
+"6281058107086-1.webp"
+]
+},
+{
+"sku": "JRN00000829",
+"barcode": "90162602",
+"cat": 24,
+"ar": "ريد بول مشروب طاقة 250 مل",
+"en": "Red Bull Energy Drink 250 ml",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4687",
+"img_src": "ninja",
+"images": [
+"90162602.webp",
+"90162602-1.webp",
+"90162602-2.webp"
+]
+},
+{
+"sku": "JRN00000830",
+"barcode": "6281060781311",
+"cat": 24,
+"ar": "بايسن مشروب طاقة أزرق 185 مل",
+"en": "Bison Blue Energy Drink 185 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398428",
+"img_src": "hs",
+"images": [
+"6281060781311.webp",
+"6281060781311-1.webp",
+"6281060781311-2.webp"
+]
+},
+{
+"sku": "JRN00000831",
+"barcode": "5061013945653",
+"cat": 24,
+"ar": "مونستر مشروب طاقة جرين 500 مل",
+"en": "Monster Energy Drink Green 500 ml",
+"price": 10.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19394737",
+"img_src": "hs",
+"images": [
+"5061013945653.webp",
+"5061013945653-1.webp",
+"5061013945653-2.webp"
+]
+},
+{
+"sku": "JRN00000832",
+"barcode": "90162800",
+"cat": 24,
+"ar": "ريد بول مشروب طاقة خالٍ من السكر 250 مل",
+"en": "Red Bull Sugar Free Energy Drink 250 ml",
+"price": 11.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3549679",
+"img_src": "hs",
+"images": [
+"90162800.webp"
+]
+},
+{
+"sku": "JRN00000833",
+"barcode": "6281058107987",
+"cat": 24,
+"ar": "كود رد مشروب طاقة سيري بوست وردي 330 مل",
+"en": "Code Red Cere Boost Pink Energy Drink 330 ml",
+"price": 9.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281058107987.webp",
+"6281058107987-1.webp",
+"6281058107987-2.webp"
+]
+},
+{
+"sku": "JRN00000834",
+"barcode": "6281058179830",
+"cat": 24,
+"ar": "كود رد مشروب طاقة سيري بوست فوكس أزرق 330 مل",
+"en": "Code Red Cere Boost Focus Blue Energy Drink 330 ml",
+"price": 11.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19385296",
+"img_src": "ninja",
+"images": [
+"6281058179830.webp",
+"6281058179830-1.webp",
+"6281058179830-2.webp"
+]
+},
+{
+"sku": "JRN00000835",
+"barcode": "9002490206406",
+"cat": 24,
+"ar": "ريد بول مشروب طاقة 4×250 مل",
+"en": "Red Bull Energy Drink 4 x 250 ml",
+"price": 45.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19336664",
+"img_src": "ninja",
+"images": [
+"9002490206406.webp",
+"9002490206406-1.webp",
+"9002490206406-2.webp"
+]
+},
+{
+"sku": "JRN00000836",
+"barcode": "9002490267049",
+"cat": 24,
+"ar": "ريد بول مشروب طاقة خالٍ من السكر 4×250 مل",
+"en": "Red Bull Sugar Free Energy Drink 4 x 250 ml",
+"price": 45.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19336667",
+"img_src": "ninja",
+"images": [
+"9002490267049.webp",
+"9002490267049-1.webp",
+"9002490267049-2.webp"
+]
+},
+{
+"sku": "JRN00000837",
+"barcode": "9008442000085",
+"cat": 24,
+"ar": "باور هورس مشروب طاقة زيرو سكر 250 مل",
+"en": "Power Horse Zero Sugar Energy Drink 250 ml",
+"price": 8.99,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"9008442000085.webp",
+"9008442000085-1.webp"
+]
+},
+{
+"sku": "JRN00000838",
+"barcode": "012000069277",
+"cat": 24,
+"ar": "ستينج مشروب طاقة علبة 185 مل",
+"en": "Sting Energy Drink Can 185 ml",
+"price": 3.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"012000069277.webp",
+"012000069277-1.webp",
+"012000069277-2.webp"
+]
+},
+{
+"sku": "JRN00000839",
+"barcode": "012000055782",
+"cat": 24,
+"ar": "جاتوريد ليمون ولايم 495 مل",
+"en": "Gatorade Lemon Lime 495 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19372530",
+"img_src": "ninja",
+"images": [
+"012000055782.webp",
+"012000055782-1.webp",
+"012000055782-2.webp"
+]
+},
+{
+"sku": "JRN00000840",
+"barcode": "9002490285999",
+"cat": 24,
+"ar": "ريد بول إصدار الصيف مشمش وفراولة 4×250 مل",
+"en": "Red Bull Summer Edition Apricot & Strawberry 4 x 250 ml",
+"price": 45.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"9002490285999.webp",
+"9002490285999-1.webp",
+"9002490285999-2.webp"
+]
+},
+{
+"sku": "JRN00000841",
+"barcode": "8859577502644",
+"cat": 27,
+"ar": "كيومن سي مشروب الكركم بالليمون 150 مل",
+"en": "Qminc Curcumin Lemon Drink 150 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396412",
+"img_src": "hs",
+"images": [
+"8859577502644.webp",
+"8859577502644-1.webp"
+]
+},
+{
+"sku": "JRN00000842",
+"barcode": "8859577502927",
+"cat": 27,
+"ar": "كيومن سي مشروب الزنجبيل بالعسل 150 مل",
+"en": "Qminc Ginger Honey Drink 150 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396413",
+"img_src": "hs",
+"images": [
+"8859577502927.webp",
+"8859577502927-1.webp"
+]
+},
+{
+"sku": "JRN00000843",
+"barcode": "76162947",
+"cat": 24,
+"ar": "موسي شراب شعير بالتوت 330 مل",
+"en": "Moussy Raspberry Malt Drink 330 ml",
+"price": 6.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4223",
+"img_src": "ninja",
+"images": [
+"76162947.webp",
+"76162947-1.webp",
+"76162947-2.webp"
+]
+},
+{
+"sku": "JRN00000844",
+"barcode": "76162978",
+"cat": 24,
+"ar": "موسي شراب شعير بالخوخ 330 مل",
+"en": "Moussy Peach Malt Drink 330 ml",
+"price": 6.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1501",
+"img_src": "ninja",
+"images": [
+"76162978.webp"
+]
+},
+{
+"sku": "JRN00000845",
+"barcode": "76162954",
+"cat": 24,
+"ar": "موسي شراب شعير بالتفاح 330 مل",
+"en": "Moussy Apple Malt Drink 330 ml",
+"price": 6.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1489",
+"img_src": "ninja",
+"images": [
+"76162954.webp",
+"76162954-1.webp",
+"76162954-2.webp"
+]
+},
+{
+"sku": "JRN00000846",
+"barcode": "3080216035079",
+"cat": 24,
+"ar": "موسي شراب شعير بالليمون والنعناع 330 مل",
+"en": "Moussy Lemon & Mint Malt Drink 330 ml",
+"price": 6.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1502",
+"img_src": "ninja",
+"images": [
+"3080216035079.webp",
+"3080216035079-1.webp"
+]
+},
+{
+"sku": "JRN00000847",
+"barcode": "3080216031248",
+"cat": 24,
+"ar": "هولستن شراب شعير بالعنب الأسود 330 مل",
+"en": "Holsten Black Grape Malt Drink 330 ml",
+"price": 6.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1496",
+"img_src": "ninja",
+"images": [
+"3080216031248.webp",
+"3080216031248-1.webp",
+"3080216031248-2.webp"
+]
+},
+{
+"sku": "JRN00000848",
+"barcode": "8712000055349",
+"cat": 24,
+"ar": "هاينكن 0.0 مشروب شعير خالٍ من الكحول علبة 250 مل",
+"en": "Heineken 0.0 Non-Alcoholic Malt Drink Can 250 ml",
+"price": 5.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19309075",
+"img_src": "ninja",
+"images": [
+"8712000055349.webp",
+"8712000055349-1.webp",
+"8712000055349-2.webp"
+]
+},
+{
+"sku": "JRN00000849",
+"barcode": "793888013711",
+"cat": 24,
+"ar": "هولستن شراب شعير بالجوافة الوردية والأناناس 330 مل",
+"en": "Holsten Pink Guava & Pineapple Malt Drink 330 ml",
+"price": 6.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"793888013711.webp"
+]
+},
+{
+"sku": "JRN00000850",
+"barcode": "40678498",
+"cat": 24,
+"ar": "هولستن شراب شعير موهيتو ليمون ونعناع 330 مل",
+"en": "Holsten Mojito Lemon & Mint Malt Drink 330 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4371341",
+"img_src": "ninja",
+"images": [
+"40678498.webp",
+"40678498-1.webp",
+"40678498-2.webp"
+]
+},
+{
+"sku": "JRN00000851",
+"barcode": "7616200091002",
+"cat": 24,
+"ar": "موسي شراب شعير كلاسيك 6×330 مل",
+"en": "Moussy Classic Malt Drink 6 x 330 ml",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381018",
+"img_src": "ninja",
+"images": [
+"7616200091002.webp",
+"7616200091002-1.webp",
+"7616200091002-2.webp"
+]
+},
+{
+"sku": "JRN00000852",
+"barcode": "7616200045685",
+"cat": 24,
+"ar": "موسي شراب شعير بالخوخ 6×330 مل",
+"en": "Moussy Peach Malt Drink 6 x 330 ml",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381019",
+"img_src": "ninja",
+"images": [
+"7616200045685.webp",
+"7616200045685-1.webp",
+"7616200045685-2.webp"
+]
+},
+{
+"sku": "JRN00000853",
+"barcode": "3080216042039",
+"cat": 24,
+"ar": "موسي شراب شعير بالتوت المثلج 6×330 مل",
+"en": "Moussy Ice Berry Malt Drink 6 x 330 ml",
+"price": 39.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381017",
+"img_src": "ninja",
+"images": [
+"3080216042039.webp",
+"3080216042039-1.webp",
+"3080216042039-2.webp"
+]
+},
+{
+"sku": "JRN00000854",
+"barcode": "3080216035086",
+"cat": 24,
+"ar": "موسي شراب شعير بالليمون والنعناع 6×330 مل",
+"en": "Moussy Lemon & Mint Malt Drink 6 x 330 ml",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381012",
+"img_src": "ninja",
+"images": [
+"3080216035086.webp",
+"3080216035086-1.webp",
+"3080216035086-2.webp"
+]
+},
+{
+"sku": "JRN00000855",
+"barcode": "5029396322782",
+"cat": 23,
+"ar": "فينتيمانز كيوريوسيتي كولا 275 مل",
+"en": "Fentimans Curiosity Cola 275 ml",
+"price": 14.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5029396322782.webp"
+]
+},
+{
+"sku": "JRN00000856",
+"barcode": "7616200045678",
+"cat": 24,
+"ar": "موسي شراب شعير بالفراولة 6×330 مل",
+"en": "Moussy Strawberry Malt Drink 6 x 330 ml",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381023",
+"img_src": "ninja",
+"images": [
+"7616200045678.webp",
+"7616200045678-1.webp",
+"7616200045678-2.webp"
+]
+},
+{
+"sku": "JRN00000857",
+"barcode": "5029396738576",
+"cat": 23,
+"ar": "فينتيمانز ليمونادة الورد 275 مل",
+"en": "Fentimans Rose Lemonade 275 ml",
+"price": 14.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5029396738576.webp",
+"5029396738576-1.webp"
+]
+},
+{
+"sku": "JRN00000858",
+"barcode": "8712000056759",
+"cat": 24,
+"ar": "ديسبيرادوس مشروب شعير خالٍ من الكحول بالحمضيات 330 مل",
+"en": "Desperados Non-Alcoholic Citrus 330 ml",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19323113",
+"img_src": "ninja",
+"images": [
+"8712000056759.webp",
+"8712000056759-1.webp"
+]
+},
+{
+"sku": "JRN00000859",
+"barcode": "6281034007041",
+"cat": 24,
+"ar": "باربيكان شراب شعير عادي 330 مل",
+"en": "Barbican Regular Malt Drink 330 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4229",
+"img_src": "ninja",
+"images": [
+"6281034007041.webp",
+"6281034007041-1.webp",
+"6281034007041-2.webp"
+]
+},
+{
+"sku": "JRN00000860",
+"barcode": "012000055775",
+"cat": 24,
+"ar": "جاتوريد كول بلو توت 495 مل",
+"en": "Gatorade Cool Blue Raspberry 495 ml",
+"price": 7.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19372531",
+"img_src": "ninja",
+"images": [
+"012000055775.webp",
+"012000055775-1.webp",
+"012000055775-2.webp"
+]
+},
+{
+"sku": "JRN00000861",
+"barcode": "8720608614011",
+"cat": 25,
+"ar": "ليبتون العلامة الصفراء شاي أسود 100 كيس",
+"en": "Lipton Yellow Label Black Tea 100 Bags",
+"price": 19.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19288661",
+"img_src": "ninja",
+"images": [
+"8720608614011.webp",
+"8720608614011-1.webp",
+"8720608614011-2.webp"
+]
+},
+{
+"sku": "JRN00000862",
+"barcode": "6281013231009",
+"cat": 25,
+"ar": "ربيع شاي إكسبرس 100 كيس",
+"en": "Rabea Express Tea 100 Bags",
+"price": 16.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-661066",
+"img_src": "hs",
+"images": [
+"6281013231009.webp",
+"6281013231009-1.webp"
+]
+},
+{
+"sku": "JRN00000863",
+"barcode": "6281006701236",
+"cat": 25,
+"ar": "ليبتون العلامة الصفراء شاي أسود 25 كيس",
+"en": "Lipton Yellow Label Black Tea 25 Bags",
+"price": 9.8,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006701236.webp"
+]
+},
+{
+"sku": "JRN00000864",
+"barcode": "6281013241008",
+"cat": 25,
+"ar": "ربيع شاي أخضر طبيعي 25 كيس",
+"en": "Rabea Natural Green Tea 25 Bags",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4648",
+"img_src": "hs",
+"images": [
+"6281013241008.webp"
+]
+},
+{
+"sku": "JRN00000865",
+"barcode": "6281013233003",
+"cat": 25,
+"ar": "ربيع شاي المذاق الأصلي 25 كيس",
+"en": "Rabea Original Taste Tea 25 Bags",
+"price": 6.6,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281013233003.webp",
+"6281013233003-1.webp",
+"6281013233003-2.webp"
+]
+},
+{
+"sku": "JRN00000866",
+"barcode": "6281013112186",
+"cat": 25,
+"ar": "ربيع أعشاب البابونج 20 كيس",
+"en": "Rabea Chamomile Herbal Tea 20 Bags",
+"price": 11.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-662431",
+"img_src": "ninja",
+"images": [
+"6281013112186.webp",
+"6281013112186-1.webp"
+]
+},
+{
+"sku": "JRN00000867",
+"barcode": "6281101495191",
+"cat": 25,
+"ar": "الخير شاي كرك بالزعفران خالٍ من السكر 3×15 جم",
+"en": "Al Khair Karak Tea Saffron Sugar Free 3 x 15 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19391592",
+"img_src": "ninja",
+"images": [
+"6281101495191.webp",
+"6281101495191-1.webp",
+"6281101495191-2.webp"
+]
+},
+{
+"sku": "JRN00000868",
+"barcode": "6281006868380",
+"cat": 25,
+"ar": "ليبتون أعشاب الليمون والزنجبيل 20 كيس",
+"en": "Lipton Lemon & Ginger Herbal Infusion 20 Bags",
+"price": 17.4,
+"special": 14.79,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006868380.webp"
+]
+},
+{
+"sku": "JRN00000869",
+"barcode": "5063305009500",
+"cat": 25,
+"ar": "ليبتون أعشاب بعد الطعام 20 كيس",
+"en": "Lipton After Meal Herbal Infusion 20 Bags",
+"price": 15.95,
+"special": 13.55,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5063305009500.webp"
+]
+},
+{
+"sku": "JRN00000870",
+"barcode": "6281006704954",
+"cat": 25,
+"ar": "ليبتون أعشاب الكركديه 20 كيس",
+"en": "Lipton Hibiscus Herbal Infusion 20 Bags",
+"price": 17.4,
+"special": 14.79,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006704954.webp",
+"6281006704954-1.webp"
+]
+},
+{
+"sku": "JRN00000871",
+"barcode": "6281013131200",
+"cat": 25,
+"ar": "أبو جبل شاي 75 كيس",
+"en": "Abu Jabal Tea 75 Bags",
+"price": 36.98,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355619",
+"img_src": "hs",
+"images": [
+"6281013131200.webp",
+"6281013131200-1.webp"
+]
+},
+{
+"sku": "JRN00000872",
+"barcode": "8437024039389",
+"cat": 25,
+"ar": "فابوريتا أعشاب الكركديه 20 كيس",
+"en": "Faborita Hibiscus Herbal Tea 20 Bags",
+"price": 13.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19338676",
+"img_src": "ninja",
+"images": [
+"8437024039389.webp",
+"8437024039389-1.webp",
+"8437024039389-2.webp"
+]
+},
+{
+"sku": "JRN00000873",
+"barcode": "6281013112124",
+"cat": 25,
+"ar": "ربيع أعشاب الكركديه 20 كيس",
+"en": "Rabea Hibiscus Herbal Tea 20 Bags",
+"price": 11.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-661985",
+"img_src": "ninja",
+"images": [
+"6281013112124.webp",
+"6281013112124-1.webp"
+]
+},
+{
+"sku": "JRN00000874",
+"barcode": "6281013223004",
+"cat": 25,
+"ar": "ربيع شاي أسود الخلطة الخاصة 25 كيس",
+"en": "Rabea Special Blend Black Tea 25 Bags",
+"price": 7.4,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281013223004.webp",
+"6281013223004-1.webp"
+]
+},
+{
+"sku": "JRN00000875",
+"barcode": "6281101495108",
+"cat": 25,
+"ar": "الخير شاي كرك بالقهوة خالٍ من السكر 12×15 جم",
+"en": "Al Khair Karak Tea Coffee Sugar Free 12 x 15 g",
+"price": 32,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281101495108.webp",
+"6281101495108-1.webp",
+"6281101495108-2.webp"
+]
+},
+{
+"sku": "JRN00000876",
+"barcode": "8720608631100",
+"cat": 25,
+"ar": "ليبتون شاي أخضر بالنعناع 50 كيس",
+"en": "Lipton Green Tea Mint 50 Bags",
+"price": 25.8,
+"special": 19.35,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8720608631100.webp",
+"8720608631100-1.webp"
+]
+},
+{
+"sku": "JRN00000877",
+"barcode": "6281101495078",
+"cat": 25,
+"ar": "الخير شاي كرك بالزعفران خالٍ من السكر 12×15 جم",
+"en": "Al Khair Karak Tea Saffron Sugar Free 12 x 15 g",
+"price": 30.95,
+"special": 27.95,
+"src": "ninja",
+"ninja_id": "5-19379042",
+"img_src": "ninja",
+"images": [
+"6281101495078.webp",
+"6281101495078-1.webp",
+"6281101495078-2.webp"
+]
+},
+{
+"sku": "JRN00000878",
+"barcode": "8720608631087",
+"cat": 25,
+"ar": "ليبتون شاي أخضر خالص 50 كيس",
+"en": "Lipton Pure Green Tea 50 Bags",
+"price": 25.8,
+"special": 19.35,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8720608631087.webp"
+]
+},
+{
+"sku": "JRN00000879",
+"barcode": "8436613383032",
+"cat": 25,
+"ar": "فابوريتا أعشاب النعناع 20 كيس",
+"en": "Faborita Mint Herbal Tea 20 Bags",
+"price": 13.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19352136",
+"img_src": "ninja",
+"images": [
+"8436613383032.webp",
+"8436613383032-1.webp",
+"8436613383032-2.webp"
+]
+},
+{
+"sku": "JRN00000880",
+"barcode": "070177011710",
+"cat": 25,
+"ar": "تويننجز شاي أخضر بالياسمين 25 كيس",
+"en": "Twinings Jasmine Green Tea 25 Bags",
+"price": 31.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"070177011710.webp",
+"070177011710-1.webp"
+]
+},
+{
+"sku": "JRN00000881",
+"barcode": "8720608631049",
+"cat": 25,
+"ar": "ليبتون شاي أسود الفطور الإنجليزي 50 كيس",
+"en": "Lipton English Breakfast Black Tea 50 Bags",
+"price": 48.8,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8720608631049.webp"
+]
+},
+{
+"sku": "JRN00000882",
+"barcode": "8413700001284",
+"cat": 25,
+"ar": "الضيافة شاي أخضر ماتشا 25 كيس",
+"en": "Al Diyafa Matcha Green Tea 25 Bags",
+"price": 28.8,
+"special": 17.56,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8413700001284.webp",
+"8413700001284-1.webp"
+]
+},
+{
+"sku": "JRN00000883",
+"barcode": "5000311241227",
+"cat": 25,
+"ar": "الكبوس شاي أسود ناعم فرط 227 جم",
+"en": "Alkbous Fine Black Loose Tea 227 g",
+"price": 11.8,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5000311241227.webp",
+"5000311241227-1.webp"
+]
+},
+{
+"sku": "JRN00000884",
+"barcode": "5000311241456",
+"cat": 25,
+"ar": "الكبوس شاي أسود ناعم فرط 454 جم",
+"en": "Alkbous Fine Black Loose Tea 454 g",
+"price": 19.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5000311241456.webp",
+"5000311241456-1.webp"
+]
+},
+{
+"sku": "JRN00000885",
+"barcode": "6281013116023",
+"cat": 25,
+"ar": "ربيع شاي أسود أوراق كاملة فرط 300 جم",
+"en": "Rabea Premium Full Leaf Black Tea 300 g",
+"price": 32.2,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281013116023.webp",
+"6281013116023-1.webp"
+]
+},
+{
+"sku": "JRN00000886",
+"barcode": "6281101492633",
+"cat": 25,
+"ar": "الخير شاي كرك بالهيل 12×20 جم",
+"en": "Al Khair Karak Tea Cardamom 12 x 20 g",
+"price": 37.6,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281101492633.webp"
+]
+},
+{
+"sku": "JRN00000887",
+"barcode": "6281006704619",
+"cat": 25,
+"ar": "ليبتون العلامة الصفراء شاي أسود فرط 400 جم",
+"en": "Lipton Yellow Label Black Loose Tea 400 g",
+"price": 25.25,
+"special": 17.67,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006704619.webp"
+]
+},
+{
+"sku": "JRN00000888",
+"barcode": "6281006704602",
+"cat": 25,
+"ar": "ليبتون شاي أسود فرط 200 جم",
+"en": "Lipton Black Loose Tea 200 g",
+"price": 14.4,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006704602.webp"
+]
+},
+{
+"sku": "JRN00000889",
+"barcode": "6287022050013",
+"cat": 25,
+"ar": "الكبوس شاي سيلاني فرط 250 جم",
+"en": "Alkbous Ceylon Loose Tea 250 g",
+"price": 33.95,
+"special": 27.95,
+"src": "ninja",
+"ninja_id": "5-19304075",
+"img_src": "ninja",
+"images": [
+"6287022050013.webp",
+"6287022050013-1.webp",
+"6287022050013-2.webp"
+]
+},
+{
+"sku": "JRN00000890",
+"barcode": "7613287431943",
+"cat": 27,
+"ar": "نسكويك مشروب الشوكولاتة 300 جم",
+"en": "Nesquik Chocolate Drink Powder 300 g",
+"price": 29.95,
+"special": 20.95,
+"src": "ninja",
+"ninja_id": "5-960",
+"img_src": "ninja",
+"images": [
+"7613287431943.webp",
+"7613287431943-1.webp",
+"7613287431943-2.webp"
+]
+},
+{
+"sku": "JRN00000891",
+"barcode": "7613287413048",
+"cat": 27,
+"ar": "نسكويك مشروب الشوكولاتة 500 جم",
+"en": "Nesquik Chocolate Drink Powder 500 g",
+"price": 48.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7613287413048.webp",
+"7613287413048-1.webp"
+]
+},
+{
+"sku": "JRN00000892",
+"barcode": "6281018154846",
+"cat": 27,
+"ar": "ندى حليب بروتين سادة 320 مل",
+"en": "Nada Protein Milk Plain 320 ml",
+"price": 5.95,
+"special": 4.95,
+"src": "ninja",
+"ninja_id": "5-1186128",
+"img_src": "hs",
+"images": [
+"6281018154846.webp",
+"6281018154846-1.webp"
+]
+},
+{
+"sku": "JRN00000893",
+"barcode": "6281018154648",
+"cat": 27,
+"ar": "ندى حليب بروتين بالفراولة 320 مل",
+"en": "Nada Protein Milk Strawberry 320 ml",
+"price": 5.95,
+"special": 5.25,
+"src": "ninja",
+"ninja_id": "5-1186164",
+"img_src": "hs",
+"images": [
+"6281018154648.webp",
+"6281018154648-1.webp"
+]
+},
+{
+"sku": "JRN00000894",
+"barcode": "6291109603559",
+"cat": 27,
+"ar": "ذا جنجر بيبول شوت زنجبيل بالليمون والعسل 30 مل",
+"en": "The Ginger People Ginger Shot Lemon & Honey 30 ml",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292736",
+"img_src": "ninja",
+"images": [
+"6291109603559.webp",
+"6291109603559-1.webp",
+"6291109603559-2.webp"
+]
+},
+{
+"sku": "JRN00000895",
+"barcode": "173891873227",
+"cat": 108,
+"ar": "صواع قهوة كولومبيا ويلا مجففة 250 جم",
+"en": "Suwaa Colombia Huila Natural Coffee Beans 250 g",
+"price": 57.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317336",
+"img_src": "ninja",
+"images": [
+"173891873227.webp"
+]
+},
+{
+"sku": "JRN00000896",
+"barcode": "8445291363717",
+"cat": 108,
+"ar": "ستاربكس كبسولات نسبريسو هاوس بليند لونجو 10 كبسولات",
+"en": "Starbucks House Blend Lungo Nespresso Capsules 10 pcs",
+"price": 35.6,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8445291363717.webp",
+"8445291363717-1.webp"
+]
+},
+{
+"sku": "JRN00000897",
+"barcode": "7613036984478",
+"cat": 108,
+"ar": "ستاربكس كبسولات نسبريسو بلوند إسبريسو روست 10 كبسولات",
+"en": "Starbucks Blonde Espresso Roast Nespresso Capsules 10 pcs",
+"price": 34.0,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-917",
+"img_src": "ninja",
+"images": [
+"7613036984478.webp",
+"7613036984478-1.webp"
+]
+},
+{
+"sku": "JRN00000898",
+"barcode": "8445291367456",
+"cat": 108,
+"ar": "ستاربكس كبسولات نسبريسو إسبريسو روست 10 كبسولات",
+"en": "Starbucks Espresso Roast Nespresso Capsules 10 pcs",
+"price": 38.6,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8445291367456.webp",
+"8445291367456-1.webp"
+]
+},
+{
+"sku": "JRN00000899",
+"barcode": "7613036984430",
+"cat": 108,
+"ar": "ستاربكس كبسولات نسبريسو كافيه فيرونا 10 كبسولات",
+"en": "Starbucks Caffe Verona Nespresso Capsules 10 pcs",
+"price": 33.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-925",
+"img_src": "ninja",
+"images": [
+"7613036984430.webp",
+"7613036984430-1.webp"
+]
+},
+{
+"sku": "JRN00000900",
+"barcode": "8445291112438",
+"cat": 108,
+"ar": "نسكافيه فارمرز أوريجنز كولومبيا إسبريسو 10 كبسولات",
+"en": "Nescafe Farmers Origins Colombia Espresso Capsules 10 pcs",
+"price": 24.2,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8445291112438.webp",
+"8445291112438-1.webp",
+"8445291112438-2.webp"
+]
+},
+{
+"sku": "JRN00000901",
+"barcode": "7613036984492",
+"cat": 108,
+"ar": "ستاربكس كبسولات نسبريسو بايك بليس 10 كبسولات",
+"en": "Starbucks Pike Place Roast Nespresso Capsules 10 pcs",
+"price": 30.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-918",
+"img_src": "hs",
+"images": [
+"7613036984492.webp",
+"7613036984492-1.webp",
+"7613036984492-2.webp"
+]
+},
+{
+"sku": "JRN00000902",
+"barcode": "7613036984379",
+"cat": 108,
+"ar": "ستاربكس كبسولات نسبريسو كولومبيا 10 كبسولات",
+"en": "Starbucks Colombia Nespresso Capsules 10 pcs",
+"price": 36.2,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7613036984379.webp",
+"7613036984379-1.webp"
+]
+},
+{
+"sku": "JRN00000903",
+"barcode": "7613287186843",
+"cat": 108,
+"ar": "ستاربكس كبسولات نسبريسو بريكفاست بليند 10 كبسولات",
+"en": "Starbucks Breakfast Blend Nespresso Capsules 10 pcs",
+"price": 38.6,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7613287186843.webp",
+"7613287186843-1.webp"
+]
+}
+]

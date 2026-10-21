@@ -7,7 +7,7 @@ import html, json, re, sys, time, urllib.request
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36"
 IMG = re.compile(r'<img alt="([^"]+?) - view \d+"[^>]*?(?:srcSet|src)="([^"]+)"')
-CODE = re.compile(r"/(\d{8,14})(?:_\d+)?\.(?:png|jpe?g|webp)")
+CODE = re.compile(r"/(\d{8,14})(?:_\d+|\s*-\s*\d+)?\.(?:png|jpe?g|webp)", re.I)
 
 
 def gallery_barcodes(page):
