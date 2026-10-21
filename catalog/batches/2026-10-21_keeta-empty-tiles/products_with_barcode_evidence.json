@@ -1,0 +1,548 @@
+[
+ {
+  "tile_key": "poultry",
+  "hs_id": "671adb3c-a929-4899-ab02-e388e11c9e6c",
+  "hs_sku": "9NQEB0",
+  "name_ar": "اليوم دجاج كامل طازج فاخر 1 كجم",
+  "name_en": "Alyoum Premium Fresh Whole Chicken 1 kg",
+  "barcode": "6281007025270",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/fresh-whole-chicken-15 (item 357103_EA, 'Fresh Chicken Premium Tray-1000 G', barcodes 6281007025270, SAR 23.75) | Ninja image filename: https://ananinja.com/sa/ar/product/x-1249 ('Alyoum Fresh Whole Chicken Sealed Tray Pack 1000 gm')",
+  "price": 22.75,
+  "special_price": 20.7,
+  "hs_image_files": [
+   "6a71bc93d5758be5c484e23f.jpg",
+   "69a7e2a45e2a83af4e2a0932.png",
+   "69a7e2a48493486b81522e5f.png"
+  ],
+  "output_images": [
+   "6281007025270.webp",
+   "6281007025270-1.webp",
+   "6281007025270-2.webp"
+  ]
+ },
+ {
+  "tile_key": "poultry",
+  "hs_id": "bd5c7749-c688-4237-a732-d84a054d1f84",
+  "hs_sku": "SG1UKP",
+  "name_ar": "اليوم أفخاذ دجاج كاملة طازجة فاخرة 900 جم",
+  "name_en": "Alyoum Premium Fresh Chicken Whole Legs 900 g",
+  "barcode": "6281007057882",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/whole-chicken-leg (item 376395_EA, 'Chicken Whole Legs-900 G', barcodes 6281007057882, SAR 21.25)",
+  "price": 20.95,
+  "special_price": 17.8,
+  "hs_image_files": [
+   "6a71bb92d5758be5c4849b82.jpg",
+   "699ed47f0cc85084d3297e0d.png",
+   "69a5787a57ff2e5707813346.png"
+  ],
+  "output_images": [
+   "6281007057882.webp",
+   "6281007057882-1.webp",
+   "6281007057882-2.webp"
+  ]
+ },
+ {
+  "tile_key": "deli",
+  "hs_id": "e2db66b5-bad8-4607-b955-035c4b687417",
+  "hs_sku": "VOB8Y8",
+  "name_ar": "رنا مخلل خضار مشكل 370 جم",
+  "name_en": "Rana Mixed Pickles 370 g",
+  "barcode": "6281100038078",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/mixed-pickles-small (item 407546_EA, 'Mixed Pickles Small-370 G', barcodes 6281100038078, SAR 8.95)",
+  "price": 8.25,
+  "special_price": 5.77,
+  "hs_image_files": [
+   "6ad4bff630fa8afde4575cf2.png",
+   "6ad4bff730fa8afde4575dd6.png",
+   "6ad4bff930fa8afde4575ea1.png"
+  ],
+  "output_images": [
+   "6281100038078.webp",
+   "6281100038078-1.webp",
+   "6281100038078-2.webp"
+  ]
+ },
+ {
+  "tile_key": "deli",
+  "hs_id": "b9e76de5-0e06-45b6-a36f-fe1a53a5ead3",
+  "hs_sku": "48C4BK",
+  "name_ar": "رنا خيار مخلل 660 جم",
+  "name_en": "Rana Pickled Cucumber 660 g",
+  "barcode": "6281100038016",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/pickled-cucumber-5 (item 407561_EA, 'Pickled Cucumber-660 G', barcodes 6281100038016, SAR 13.95)",
+  "price": 13.5,
+  "special_price": 9.45,
+  "hs_image_files": [
+   "69561a33655a47c62c8c6c76.png",
+   "69561a33655a47c62c8c6c74.png",
+   "69561a33655a47c62c8c6c75.png"
+  ],
+  "output_images": [
+   "6281100038016.webp",
+   "6281100038016-1.webp",
+   "6281100038016-2.webp"
+  ]
+ },
+ {
+  "tile_key": "ready_meals",
+  "hs_id": "1795ca4a-2441-40ce-b1b1-be6561808b16",
+  "hs_sku": "57C491",
+  "name_ar": "ريو ماري سلاتونا سلطة خضار وتونة بالذرة 160 جم",
+  "name_en": "Rio Mare Salatuna Tuna & Vegetable Salad Maize Recipe 160 g",
+  "barcode": "8004030022010",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/salatuna-maize-recipe-1 (item 192486_EA, 'Salatuna Maize Recipe-160 G', barcodes 8004030022010, SAR 19.5) | Ninja image filename: https://ananinja.com/sa/ar/product/x-4176756 ('Rio Mare Tuna With Vegetables Salad And Corn 160 gm')",
+  "price": 19.5,
+  "special_price": null,
+  "hs_image_files": [
+   "6953d4b4c70103641f7e40ed.png",
+   "6953d4b36332865c18fabfb3.png",
+   "692c3cafdc773c8ba90d3118.png"
+  ],
+  "output_images": [
+   "8004030022010.webp",
+   "8004030022010-1.webp",
+   "8004030022010-2.webp"
+  ]
+ },
+ {
+  "tile_key": "ready_meals",
+  "hs_id": "47f909c8-f344-4e3f-b47b-3ea5fec6d637",
+  "hs_sku": "JX8474",
+  "name_ar": "أبو بنت أرز بسمتي أبيض جاهز للأكل 250 جم",
+  "name_en": "Abu Bint Ready-to-Eat White Basmati Rice 250 g",
+  "barcode": "8410184044158",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/white-basmati-rice-21 (item 419989_EA, 'White Basmati Rice-250 G', barcodes 2800004199896| 8410184044158, SAR 11.5)",
+  "price": 13.2,
+  "special_price": 10.69,
+  "hs_image_files": [
+   "6ad4c00f30fa8afde4576752.png",
+   "6ad4c01130fa8afde4576843.png",
+   "6926f76598e5cb2bcb483579.png"
+  ],
+  "output_images": [
+   "8410184044158.webp",
+   "8410184044158-1.webp",
+   "8410184044158-2.webp"
+  ]
+ },
+ {
+  "tile_key": "imported",
+  "hs_id": "85ec493e-8877-4a47-baa6-b5c00d04a5e0",
+  "hs_sku": "77761W",
+  "name_ar": "توني شوكولوني شوكولاتة بالحليب بالكراميل وملح البحر 180 جم",
+  "name_en": "Tony's Chocolonely Milk Chocolate Caramel Sea Salt 180 g",
+  "barcode": "8717677339938",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/milk-chocolate-caramel-sea-salt (item 367393_EA, 'Milk Chocolate Caramel Sea Salt-180 G', barcodes 8717677339938, SAR 31.95)",
+  "price": 30.5,
+  "special_price": null,
+  "hs_image_files": [
+   "6866ab02d35f4cb212116b22.png",
+   "6aa8eb3700be9af1aadf93ac.png"
+  ],
+  "output_images": [
+   "8717677339938.webp",
+   "8717677339938-1.webp"
+  ]
+ },
+ {
+  "tile_key": "imported",
+  "hs_id": "18c35722-bcf7-416e-92f8-44a52450f34a",
+  "hs_sku": "416R45",
+  "name_ar": "رود هيلث مشروب اللوز العضوي 1 لتر",
+  "name_en": "Rude Health Organic Almond Drink 1 L",
+  "barcode": "5060120282019",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/organic-almond-drink-no-gluten (item 389687_EA, 'Organic Almond Drink No Gluten-1L', barcodes 5060120282019, SAR 22.95) | Ninja product-page gallery: https://ananinja.com/sa/ar/product/x-19389945 ('Rude Health Almond Drink Organic and Gluten Free 1 L')",
+  "price": 26.75,
+  "special_price": 20.06,
+  "hs_image_files": [
+   "69355a24864e746313757b46.png",
+   "69355a23a632e029bbe5968a.png",
+   "69355a23864e746313757b45.png"
+  ],
+  "output_images": [
+   "5060120282019.webp",
+   "5060120282019-1.webp",
+   "5060120282019-2.webp"
+  ]
+ },
+ {
+  "tile_key": "frozen",
+  "hs_id": "5f6c7b01-9fcd-4e0a-9800-da7b053bf35d",
+  "hs_sku": "ME5N5W",
+  "name_ar": "الكبير هاش براونز بطاطس مجمدة 1 كجم",
+  "name_en": "Al Kabeer Hash Browns 1 kg",
+  "barcode": "5033712152038",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/hash-brown-14 (item 361773_EA, 'Hash Brown-1000G', barcodes 5033712152038, SAR 20.95)",
+  "price": 20.5,
+  "special_price": 17.42,
+  "hs_image_files": [
+   "6a71bc03d5758be5c484b8d3.jpg",
+   "6a71bc04d5758be5c484b8f7.jpg",
+   "691f1d27a14e34873ff3c612.jpg"
+  ],
+  "output_images": [
+   "5033712152038.webp",
+   "5033712152038-1.webp",
+   "5033712152038-2.webp"
+  ]
+ },
+ {
+  "tile_key": "frozen",
+  "hs_id": "4626cef8-2394-43a7-8bff-0ac25941de5d",
+  "hs_sku": "N31K89",
+  "name_ar": "العملاق الأخضر بازلاء خضراء مجمدة 450 جم",
+  "name_en": "Green Giant Frozen Green Peas 450 g",
+  "barcode": "5203912721000",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/green-peas-7 (item 120599_EA, 'Green Peas-450G', barcodes 5203912721000, SAR 14.95)",
+  "price": 14.95,
+  "special_price": 10.46,
+  "hs_image_files": [
+   "689dfab0eca7e0ad0dd229cd.png",
+   "69232671c4b26d49bfe6715b.png",
+   "69232675c4b26d49bfe6715c.jpg"
+  ],
+  "output_images": [
+   "5203912721000.webp",
+   "5203912721000-1.webp",
+   "5203912721000-2.webp"
+  ]
+ },
+ {
+  "tile_key": "frozen_meat",
+  "hs_id": "f801b54c-3bae-48ed-a447-128673fe794c",
+  "hs_sku": "2A0453",
+  "name_ar": "دو دجاج كامل مجمد 1 كجم",
+  "name_en": "Doux Frozen Whole Chicken 1 kg",
+  "barcode": "3280310020098",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/frozen-chicken-3 (item 134480_EA, 'Frozen Chicken-1000G', barcodes 3280310020098, SAR 21.5)",
+  "price": 23.5,
+  "special_price": 17.86,
+  "hs_image_files": [
+   "6a71bbb9d5758be5c484acf7.jpg",
+   "6950dbfb655a47c62c8c2617.png",
+   "692b2479728a7280d45f7202.png"
+  ],
+  "output_images": [
+   "3280310020098.webp",
+   "3280310020098-1.webp",
+   "3280310020098-2.webp"
+  ]
+ },
+ {
+  "tile_key": "frozen_meat",
+  "hs_id": "a31c57d7-8292-42ba-b04b-d510f5b6abfc",
+  "hs_sku": "9C1S90",
+  "name_ar": "رضوى ستربس دجاج فاخر مجمد 600 جم",
+  "name_en": "Radwa Premium Chicken Strips Frozen 600 g",
+  "barcode": "6287007092434",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/frozen-chicken-strips-regular (item 367772_EA, 'Frozen Chicken Strips Regular-600G', barcodes 6287007092434, SAR 32.5)",
+  "price": 31.95,
+  "special_price": 23.96,
+  "hs_image_files": [
+   "685d12c2e85118e9e57ef6ee.png",
+   "6694e7adb507613748fc1413.jpg",
+   "68e611e87d9945a0b6e40549.png"
+  ],
+  "output_images": [
+   "6287007092434.webp",
+   "6287007092434-1.webp",
+   "6287007092434-2.webp"
+  ]
+ },
+ {
+  "tile_key": "oils",
+  "hs_id": "97bc215b-b0b0-4f46-9a6b-b6f17ef75c26",
+  "hs_sku": "KKADSX",
+  "name_ar": "نور زيت دوار الشمس 1.5 لتر",
+  "name_en": "Noor Sunflower Oil 1.5 L",
+  "barcode": "6291003304293",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/sunflower-oil-27 (item 369387_EA, 'Sunflower Oil-1.5 L', barcodes 6291003304293, SAR 27.95)",
+  "price": 25.95,
+  "special_price": 22.83,
+  "hs_image_files": [
+   "689dffcf8fefcf4041dc694c.png",
+   "68eb8546b906df5c22625ed3.png"
+  ],
+  "output_images": [
+   "6291003304293.webp",
+   "6291003304293-1.webp"
+  ],
+  "image_note": "HS lifestyle banner image dropped after visual review"
+ },
+ {
+  "tile_key": "oils",
+  "hs_id": "c2f9fff3-d49b-4ce9-8be8-3c6cab544b06",
+  "hs_sku": "1IK4L7",
+  "name_ar": "شروق زيت دوار الشمس 1.5 لتر",
+  "name_en": "Shurooq Sunflower Oil 1.5 L",
+  "barcode": "6291003303845",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/sunflower-oil-44 (item 375452_EA, 'Sunflower Oil-1.5 L', barcodes 6291003303845, SAR 25.25)",
+  "price": 20.95,
+  "special_price": 18.85,
+  "hs_image_files": [
+   "692ffb8a55e7dc46cc906869.png"
+  ],
+  "output_images": [
+   "6291003303845.webp"
+  ]
+ },
+ {
+  "tile_key": "sauces",
+  "hs_id": "31381b07-895b-451c-963e-ed574cb3c06b",
+  "hs_sku": "A3D0UC",
+  "name_ar": "رنا كاتشب طماطم 340 جم",
+  "name_en": "Rana Tomato Ketchup 340 g",
+  "barcode": "6281100033011",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/tomato-ketchup-73 (item 407518_EA, 'Tomato Ketchup-340 G', barcodes 6281100033011, SAR 7.95) | Ninja image filename: https://ananinja.com/sa/ar/product/x-19290264 ('Rana Tomato Ketchup 340 gm')",
+  "price": 5.75,
+  "special_price": 4.02,
+  "hs_image_files": [
+   "6ad4bff630fa8afde4575cf3.png",
+   "6ad4bff830fa8afde4575e07.png",
+   "6ad4bff930fa8afde4575e7e.png"
+  ],
+  "output_images": [
+   "6281100033011.webp",
+   "6281100033011-1.webp",
+   "6281100033011-2.webp"
+  ]
+ },
+ {
+  "tile_key": "sauces",
+  "hs_id": "629bc457-2d78-44f9-b610-739d6742c6f8",
+  "hs_sku": "9PV1Q2",
+  "name_ar": "هاينز مايونيز بالفلفل الحار 400 مل",
+  "name_en": "Heinz Chilli Mayonnaise 400 ml",
+  "barcode": "6290090033185",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/chilli-mayo (item 279266_EA, 'Chilli Mayo-400 ML', barcodes 6290090033185, SAR 23.95) | Ninja image filename: https://ananinja.com/sa/ar/product/x-19316921 ('Heinz mayonnaise chilli 400 ml')",
+  "price": 23.5,
+  "special_price": 19.74,
+  "hs_image_files": [
+   "6a71bbb9d5758be5c484acf6.jpg",
+   "6a71bbbad5758be5c484ad7f.jpg",
+   "6931921738386db87e57b5c5.png"
+  ],
+  "output_images": [
+   "6290090033185.webp",
+   "6290090033185-1.webp",
+   "6290090033185-2.webp"
+  ]
+ },
+ {
+  "tile_key": "organic",
+  "hs_id": "2dbebe7f-6432-4ed2-90df-875b5b6754ad",
+  "hs_sku": "T3F9HH",
+  "name_ar": "أورجانيك لاردر بذور شيا سوداء عضوية 300 جم",
+  "name_en": "Organic Larder Organic Black Chia Seeds 300 g",
+  "barcode": "6291104284128",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/organic-black-chia-seeds-2 (item 308838_EA, 'Organic Black Chia Seeds-300G', barcodes 6291104284128, SAR 28.95) | Ninja image filename: https://ananinja.com/sa/ar/product/x-19381264 ('Organic Larder Organic Black Chia Seeds 300 gm')",
+  "price": 39.95,
+  "special_price": null,
+  "hs_image_files": [
+   "689e00638fefcf4041dcd91d.png",
+   "689e00658fefcf4041dcd9f6.JPG"
+  ],
+  "output_images": [
+   "6291104284128.webp",
+   "6291104284128-1.webp"
+  ]
+ },
+ {
+  "tile_key": "organic",
+  "hs_id": "72add2a2-f41a-4325-8f62-ec7e3427138d",
+  "hs_sku": "IWN1QS",
+  "name_ar": "أورجانيك لاردر زيت زيتون إسباني بكر ممتاز عضوي 750 مل",
+  "name_en": "Organic Larder Organic Spanish Extra Virgin Olive Oil 750 ml",
+  "barcode": "6291104283510",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/olive-oil-45 (item 318535_EA, 'Olive Oil-750Ml', barcodes 6291104283510, SAR 89.95) | Ninja image filename: https://ananinja.com/sa/ar/product/x-19381278 ('Organic Larder Organic Spanish Extra Virgin Olive Oil 750 ml')",
+  "price": 74.99,
+  "special_price": 59.99,
+  "hs_image_files": [
+   "6866a87351a43e920589db96.png"
+  ],
+  "output_images": [
+   "6291104283510.webp"
+  ]
+ },
+ {
+  "tile_key": "water",
+  "hs_id": "c069b111-9317-49aa-b5bb-968fdecea63b",
+  "hs_sku": "3B2QU6",
+  "name_ar": "نوفا مياه شرب 6×1.5 لتر",
+  "name_en": "Nova Drinking Water 6×1.5 L",
+  "barcode": "6281035000119",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/mineral-water-74 (item 400535_CS, 'Mineral Bottled Water-6 X 1.5 L', barcodes 6281035000119, SAR 9.5) | Ninja image filename: https://ananinja.com/sa/ar/product/x-19290773 ('Nova Water 6 pcs 1.5 L')",
+  "price": 10,
+  "special_price": 8.4,
+  "hs_image_files": [
+   "68c92b6b532f868ce731fbd8.jpg",
+   "6ab9026f55bc8a17322515bf.png"
+  ],
+  "output_images": [
+   "6281035000119.webp",
+   "6281035000119-1.webp"
+  ],
+  "image_note": "HS 3rd image shows an older Nova pack design; dropped after visual review"
+ },
+ {
+  "tile_key": "water",
+  "hs_id": "abad9ae5-619c-4d46-ae3e-37ad67053da8",
+  "hs_sku": "9OP10G",
+  "name_ar": "بيرين مياه شرب 40×330 مل",
+  "name_en": "Berain Drinking Water 40×330 ml",
+  "barcode": "6281101220113",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/mineral-bottled-water-13 (item 272565_CS, 'Mineral Bottled Water-40 X 330 ML', barcodes 6281101220113, SAR 22.95)",
+  "price": 22.25,
+  "special_price": null,
+  "hs_image_files": [
+   "6ad4bff130fa8afde4575ada.png",
+   "6ad4bff230fa8afde4575b14.webp",
+   "6ad4bff330fa8afde4575b79.jpg"
+  ],
+  "output_images": [
+   "6281101220113.webp",
+   "6281101220113-1.webp",
+   "6281101220113-2.webp"
+  ]
+ },
+ {
+  "tile_key": "juice",
+  "hs_id": "8e388276-f9c7-49d8-b4e8-e510aa60553a",
+  "hs_sku": "606369",
+  "name_ar": "الربيع عصير تفاح 100% بدون سكر مضاف 1 لتر",
+  "name_en": "Al Rabie 100% Apple Juice No Added Sugar 1 L",
+  "barcode": "6281026305209",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/apple-juice-20 (item 104485_EA, 'Apple Juice-1 L', barcodes 6281026305209, SAR 7.25) | Ninja image filename: https://ananinja.com/sa/ar/product/x-19335239 ('Alrabie Apple Juice 1 L')",
+  "price": 7,
+  "special_price": 5.95,
+  "hs_image_files": [
+   "68ef81a3208c9c6f39eeb5f5.png",
+   "6937e2c36b4284f536c5af3e.png",
+   "68f4d83f4e5c52d0a960fde0.png"
+  ],
+  "output_images": [
+   "6281026305209.webp",
+   "6281026305209-1.webp",
+   "6281026305209-2.webp"
+  ]
+ },
+ {
+  "tile_key": "juice",
+  "hs_id": "75f1fc38-b0cb-4bdc-876b-67b7eb85fd8e",
+  "hs_sku": "R39PC2",
+  "name_ar": "نادك نكتار مانجو مع فواكه مشكلة 1.3 لتر",
+  "name_en": "Nadec Mango Mixed Fruit Nectar 1.3 L",
+  "barcode": "6281057013586",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/mango-with-fruit-mix-nectar-1 (item 397544_EA, 'Mango With Fruit Mix Nectar-1.3 L', barcodes 6281057013586, SAR 12.0)",
+  "price": 13.25,
+  "special_price": 11.52,
+  "hs_image_files": [
+   "6a71bb9ed5758be5c4849e8e.jpg",
+   "696763532bda32587236b19f.png",
+   "68ec9e1c90524633313ec20e.png"
+  ],
+  "output_images": [
+   "6281057013586.webp",
+   "6281057013586-1.webp",
+   "6281057013586-2.webp"
+  ]
+ },
+ {
+  "tile_key": "specialty_coffee",
+  "hs_id": "e6706b03-a4ce-40ed-9b52-4e4db79f8a94",
+  "hs_sku": "D9J83O",
+  "name_ar": "محمصة الرياض أظرف قهوة مختصة خلطة القدية 5×15 جم",
+  "name_en": "Arriyadh Roaster Qiddiyah Blend Drip Coffee Bags 5×15 g",
+  "barcode": "6287038121134",
+  "barcode_source": "Ninja image filename: https://ananinja.com/sa/ar/product/x-19292039 ('Arriyadh Roaster Drip Bags Coffee Qiddyah Blend 5 Bags 75 gm')",
+  "price": 36.2,
+  "special_price": null,
+  "hs_image_files": [
+   "6866ab21d35f4cb21211744f.png",
+   "691b2e25fe0b375d06eb2240.png",
+   "68f9dc26944fc8eed3a27fc6.png"
+  ],
+  "output_images": [
+   "6287038121134.webp",
+   "6287038121134-1.webp",
+   "6287038121134-2.webp"
+  ]
+ },
+ {
+  "tile_key": "specialty_coffee",
+  "hs_id": "0207c0a7-0211-446e-8d4f-6390f6674768",
+  "hs_sku": "W1EB22",
+  "name_ar": "بيت التحميص قهوة كولومبيا أغوستينو فورست 227 جم",
+  "name_en": "Roasting House Colombia Agustino Forest Coffee 227 g",
+  "barcode": "6287030600019",
+  "barcode_source": "Ninja product-page gallery: https://ananinja.com/sa/ar/product/x-19293056 ('Roasting House Colombia Augistino 227 gm')",
+  "price": 44.95,
+  "special_price": null,
+  "hs_image_files": [
+   "696c8617c6b4c5c936e83b44.png",
+   "696c86179df001f4beaa047e.png",
+   "696c86170b4f37842c94a2c3.png"
+  ],
+  "output_images": [
+   "6287030600019.webp",
+   "6287030600019-1.webp",
+   "6287030600019-2.webp"
+  ]
+ },
+ {
+  "tile_key": "sweets",
+  "hs_id": "6ff9e511-fb99-4fe4-afd4-8feec98e24e7",
+  "hs_sku": "SMW5QL",
+  "name_ar": "النخلة حلاوة طحينية بالفستق 250 جم",
+  "name_en": "Al Nakhla Tahini Halawa with Pistachio 250 g",
+  "barcode": "6281041005818",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/halawa-filled-with-pistachio (item 168722_EA, 'Halawa Filled With Pistachio-250 G', barcodes 6281041005818, SAR 16.5) | Ninja image filename: https://ananinja.com/sa/ar/product/x-19287909 ('Al-Nakhla Halawa Pistachio 250 gm')",
+  "price": 14.5,
+  "special_price": null,
+  "hs_image_files": [
+   "689dfd4e8fefcf4041da7e2a.png",
+   "695e1004f3e98d7021cbb337.jpg",
+   "695e10106e46f1b311711bcc.jpg"
+  ],
+  "output_images": [
+   "6281041005818.webp",
+   "6281041005818-1.webp",
+   "6281041005818-2.webp"
+  ],
+  "note": "not in HS listing at second fetch (2026-10-21); price from first fetch same day"
+ },
+ {
+  "tile_key": "ice_cream",
+  "hs_id": "15c76a35-ba92-4c6f-b29a-6a420d891087",
+  "hs_sku": "31QQ80",
+  "name_ar": "المراعي آيس كريم فانيليا 900 مل",
+  "name_en": "Almarai Vanilla Ice Cream 900 ml",
+  "barcode": "6281007067379",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/vanila-ice-cream-tub (item 401719_EA, 'Vanilla Ice Cream Tub-900 ML', barcodes 6281007067379, SAR 31.95)",
+  "price": 29,
+  "special_price": null,
+  "hs_image_files": [
+   "6ac611201b558f607b91bdba.png"
+  ],
+  "output_images": [
+   "6281007067379.webp"
+  ]
+ },
+ {
+  "tile_key": "ice_cream",
+  "hs_id": "f93cbbac-0cd1-44a4-915e-326ddb100427",
+  "hs_sku": "OJBSEB",
+  "name_ar": "المراعي آيس كريم كوكيز ساندويتش 100 مل",
+  "name_en": "Almarai Cookies Sandwich Ice Cream 100 ml",
+  "barcode": "6281007067294",
+  "barcode_source": "Tamimi: https://shop.tamimimarkets.com/product/cookies-sandwich-ice-cream (item 401872_EA, 'Cookies Sandwich Ice Cream-100 ML', barcodes 6281007067294, SAR 4.5)",
+  "price": 4.25,
+  "special_price": 3.69,
+  "hs_image_files": [
+   "6ac61092662420fa61afdf14.png"
+  ],
+  "output_images": [
+   "6281007067294.webp"
+  ]
+ }
+]
