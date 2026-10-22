@@ -8,9 +8,11 @@ while true; do
   if [ -z "$tag" ]; then sleep 60; continue; fi
   until [ -f ${tag}_rest.csv ] && [ -f ${tag}_meta.json ] && [ -f ${tag}_images.dir ]; do sleep 60; done
   PANEL=seller node get.cjs "/products/datatable?draw=1&start=0&length=9999" lane_max.json >/dev/null 2>&1
-  M=$(python3 -c "import json;print(max(int(x['id']) for x in json.load(open('lane_max.json'))['data']))")
+  M=$(python3 -c "import json;print(max(int(x['id']) for x in json.load(open('lane_max.json'))['data']))" 2>/dev/null)
+  # session expired or panel down: wait and retry, never skip a batch
+  if [ -z "$M" ]; then echo "$(date -u +%H:%M) seller session not valid, waiting"; sleep 300; continue; fi
   echo "$(date -u +%H:%M) start $tag minid $M"
   bash run_batch.sh $tag $(cat ${tag}_images.dir) $M > ${tag}_run.log 2>&1
   echo "$(date -u +%H:%M) end $tag: $(grep -E 'mapped|fixed|AUDIT' ${tag}_run.log | tr '\n' ' ' | cut -c1-300)"
-  echo $tag >> $done_list
+  grep -q AUDIT ${tag}_run.log && echo $tag >> $done_list || { echo "$(date -u +%H:%M) $tag incomplete, retry later"; sleep 300; }
 done
