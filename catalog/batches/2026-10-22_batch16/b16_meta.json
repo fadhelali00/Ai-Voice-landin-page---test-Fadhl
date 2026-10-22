@@ -1,0 +1,4750 @@
+[
+{
+"sku": "JRN00006600",
+"barcode": "6251001239188",
+"cat": 66,
+"ar": "فاين كير مفارش طبية لكبار السن 90 *60 سم 20 مفرش",
+"en": "Fine Care Underpads 90*60cm 20 Pad",
+"price": 56.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287885",
+"img_src": "ninja",
+"images": [
+"6251001239188.webp",
+"6251001239188-1.webp",
+"6251001239188-2.webp"
+]
+},
+{
+"sku": "JRN00006601",
+"barcode": "768702543422",
+"cat": 66,
+"ar": "تينا ليدي كلوت للسيدات كبير 16 قطعة",
+"en": "Tena Lady Pants Blanc Discreet Plus Large 16 pcs",
+"price": 163.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363582",
+"img_src": "ninja",
+"images": [
+"768702543422.webp",
+"768702543422-1.webp",
+"768702543422-2.webp"
+]
+},
+{
+"sku": "JRN00006602",
+"barcode": "6281008173512",
+"cat": 66,
+"ar": "لايفري حفائض كبار السن كيلوت حجم وسط 20 قطعة",
+"en": "Lifree Adult Diaper Culotte Size M 20 pcs",
+"price": 105.95,
+"special": 97.0,
+"src": "ninja",
+"ninja_id": "5-19286627",
+"img_src": "ninja",
+"images": [
+"6281008173512.webp",
+"6281008173512-1.webp",
+"6281008173512-2.webp"
+]
+},
+{
+"sku": "JRN00006603",
+"barcode": "6251001216509",
+"cat": 66,
+"ar": "فاين كير حفائض لكبار السن كيلوت مقاس وسط خصر 80 - 110 سم 14 قطعة",
+"en": "Fine Care Adult Diaper Pull Ups Size Medium Waist 80 110 cm 14 Pcs",
+"price": 89.0,
+"special": 76.0,
+"src": "ninja",
+"ninja_id": "5-19287884",
+"img_src": "ninja",
+"images": [
+"6251001216509.webp",
+"6251001216509-1.webp",
+"6251001216509-2.webp"
+]
+},
+{
+"sku": "JRN00006604",
+"barcode": "6251001216400",
+"cat": 66,
+"ar": "فاين كير حفائض لكبار السن مقاس وسط خصر 75 - 110 سم 22 قطعة",
+"en": "Fine Care Adult Diaper Medium Waist 75 110 cm 22 Pcs",
+"price": 89.0,
+"special": 76.0,
+"src": "ninja",
+"ninja_id": "5-19287889",
+"img_src": "ninja",
+"images": [
+"6251001216400.webp",
+"6251001216400-1.webp",
+"6251001216400-2.webp"
+]
+},
+{
+"sku": "JRN00006605",
+"barcode": "380040549500",
+"cat": 66,
+"ar": "تينا حفائض لكبار السن كلوت كبير جدا 14 قطعة",
+"en": "Tena Adult Diapers pants XLarge 14 pcs",
+"price": 169.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363595",
+"img_src": "ninja",
+"images": [
+"380040549500.webp",
+"380040549500-1.webp",
+"380040549500-2.webp"
+]
+},
+{
+"sku": "JRN00006606",
+"barcode": "6224000132309",
+"cat": 63,
+"ar": "سيلك بلاست شريط لاصق حرير 7.5 سم في 5 م 1 قطعة",
+"en": "Silkplast Roll Plaster 7.5×5Cm 1 Pcs",
+"price": 12.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19406027",
+"img_src": "ninja",
+"images": [
+"6224000132309.webp"
+]
+},
+{
+"sku": "JRN00006607",
+"barcode": "738666400093",
+"cat": 63,
+"ar": "فارما بلاست ضماد الجروح عادي",
+"en": "Pharmaplast Plain Wound Dressing",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13470791",
+"img_src": "ninja",
+"images": [
+"738666400093.webp",
+"738666400093-1.webp",
+"738666400093-2.webp"
+]
+},
+{
+"sku": "JRN00006608",
+"barcode": "6223003735463",
+"cat": 63,
+"ar": "فارما بلاست ضماد للجروح مضاد للماء",
+"en": "Pharmaplast Waterproof Wound Dressing",
+"price": 8.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13479311",
+"img_src": "ninja",
+"images": [
+"6223003735463.webp",
+"6223003735463-1.webp",
+"6223003735463-2.webp"
+]
+},
+{
+"sku": "JRN00006609",
+"barcode": "738666400178",
+"cat": 63,
+"ar": "سمارت ثيرابى لاصقات جروح مقاومة للماء اشكال متنوعة شفافة 30 قطعة",
+"en": "Smarttherapy Waterproof Strips Assorted Clear 30 Pcs",
+"price": 5.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19406018",
+"img_src": "ninja",
+"images": [
+"738666400178.webp"
+]
+},
+{
+"sku": "JRN00006610",
+"barcode": "6223003737078",
+"cat": 63,
+"ar": "سمارت ثيرابى لاصقات ذات نسيج قوي اشكال متنوعة 30 قطعة",
+"en": "Smarttherapy Rigid Fabric Assort 30 Pcs",
+"price": 7.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19406020",
+"img_src": "ninja",
+"images": [
+"6223003737078.webp"
+]
+},
+{
+"sku": "JRN00006611",
+"barcode": "6224000132323",
+"cat": 63,
+"ar": "سيلك بلاست شريط لاصق حرير 2.5سم في 4.55م 1 قطعة",
+"en": "Silkplast Silk Tape 2.5 cm x 4.55 M 1 Pcs",
+"price": 6.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19406025",
+"img_src": "ninja",
+"images": [
+"6224000132323.webp"
+]
+},
+{
+"sku": "JRN00006612",
+"barcode": "6224000132316",
+"cat": 63,
+"ar": "سيلك بلاست شريط لاصق حرير 5 سم في 4.55 م 1 قطعة",
+"en": "Silkplast Silk Tape 5 cm x 4.55 M 1 Pcs",
+"price": 8.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19406026",
+"img_src": "ninja",
+"images": [
+"6224000132316.webp"
+]
+},
+{
+"sku": "JRN00006613",
+"barcode": "6037601110016",
+"cat": 63,
+"ar": "هيلث سمارت شنطه اسعاف اوليه 1",
+"en": "Health smart First aid bag 1",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19379264",
+"img_src": "ninja",
+"images": [
+"6037601110016.webp",
+"6037601110016-1.webp",
+"6037601110016-2.webp"
+]
+},
+{
+"sku": "JRN00006614",
+"barcode": "6037601110023",
+"cat": 63,
+"ar": "هيلث سمارت شنطه اسعاف اوليه 2",
+"en": "Health smart First aid bag 2",
+"price": 35.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19379272",
+"img_src": "ninja",
+"images": [
+"6037601110023.webp",
+"6037601110023-1.webp"
+]
+},
+{
+"sku": "JRN00006615",
+"barcode": "6951248000120",
+"cat": 63,
+"ar": "فرست ستيب سداد اذن 4 قطع",
+"en": "First Step Ear Plug 4 Pcs",
+"price": 19.55,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293321",
+"img_src": "ninja",
+"images": [
+"6951248000120.webp",
+"6951248000120-1.webp",
+"6951248000120-2.webp"
+]
+},
+{
+"sku": "JRN00006616",
+"barcode": "6955887327839",
+"cat": 63,
+"ar": "شانيل ميد شاش قطع 7 سم (3*3)",
+"en": "Channelmed Gauze Swap 3*3 (7.5Cm)",
+"price": 9.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19389823",
+"img_src": "ninja",
+"images": [
+"6955887327839.webp",
+"6955887327839-1.webp"
+]
+},
+{
+"sku": "JRN00006617",
+"barcode": "8058090003434",
+"cat": 63,
+"ar": "بيك اكوابلوك بلاستر شفاف مع كلوروهيكسيدين ضد الماء 5*7 سم 5 قطع",
+"en": "Pic Aqua Bloc With Chg Plaster 5 Cm X 7 Cm 5 Pcs",
+"price": 19.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19390761",
+"img_src": "ninja",
+"images": [
+"8058090003434.webp",
+"8058090003434-1.webp",
+"8058090003434-2.webp"
+]
+},
+{
+"sku": "JRN00006618",
+"barcode": "8058090008347",
+"cat": 63,
+"ar": "بيك اوبتي سوفت كومفورت غطاء عين لاصق 10 قطع",
+"en": "Pic Optisoft Comfort Eye Pad Adhesive Edge 10 Pads",
+"price": 28.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390780",
+"img_src": "ninja",
+"images": [
+"8058090008347.webp",
+"8058090008347-1.webp",
+"8058090008347-2.webp"
+]
+},
+{
+"sku": "JRN00006619",
+"barcode": "6291103651136",
+"cat": 63,
+"ar": "ثري إم نيكسكير ضمادات جروح شفافة لاصقة مقاومة للماء أحجام مختلفة 50 قطعة",
+"en": "3M Nexcare Transparent Adhesive Waterproof Bandages Assorted Sizes 50 Pieces",
+"price": 26.95,
+"special": 22.95,
+"src": "ninja",
+"ninja_id": "5-19386108",
+"img_src": "ninja",
+"images": [
+"6291103651136.webp",
+"6291103651136-1.webp",
+"6291103651136-2.webp"
+]
+},
+{
+"sku": "JRN00006620",
+"barcode": "4711769145982",
+"cat": 63,
+"ar": "أوبو جبيرة للكعب مطاطي مقاس كبير جدا",
+"en": "Oppo Ankle Brace 2204 Xl",
+"price": 34.95,
+"special": 27.95,
+"src": "ninja",
+"ninja_id": "5-19386122",
+"img_src": "ninja",
+"images": [
+"4711769145982.webp",
+"4711769145982-1.webp",
+"4711769145982-2.webp"
+]
+},
+{
+"sku": "JRN00006621",
+"barcode": "4719863691053",
+"cat": 63,
+"ar": "أوبو دعامة للكاحل مطاطي مقاس وسط",
+"en": "Oppo Silicon Ankle 2001 M",
+"price": 39.95,
+"special": 31.95,
+"src": "ninja",
+"ninja_id": "5-19386132",
+"img_src": "ninja",
+"images": [
+"4719863691053.webp",
+"4719863691053-1.webp",
+"4719863691053-2.webp"
+]
+},
+{
+"sku": "JRN00006622",
+"barcode": "06975486451056",
+"cat": 63,
+"ar": "كين ميد فيس ماسك أزرق 50 حبة",
+"en": "Kinmed Face Mask Blue 50 PCS",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19393417",
+"img_src": "ninja",
+"images": [
+"06975486451056.webp",
+"06975486451056-1.webp",
+"06975486451056-2.webp"
+]
+},
+{
+"sku": "JRN00006623",
+"barcode": "6287037300004",
+"cat": 63,
+"ar": "ياشفين فيس ماسك أزرق 50 حبة",
+"en": "Yashfeen Face Mask Blue 50 PCS",
+"price": 13.95,
+"special": 10.72,
+"src": "ninja",
+"ninja_id": "5-19393419",
+"img_src": "ninja",
+"images": [
+"6287037300004.webp",
+"6287037300004-1.webp",
+"6287037300004-2.webp"
+]
+},
+{
+"sku": "JRN00006624",
+"barcode": "6286511000058",
+"cat": 63,
+"ar": "فوكس قربة ماء حاره مبطنه",
+"en": "Focus Hot Water Bottle With Cover",
+"price": 29.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19370585",
+"img_src": "ninja",
+"images": [
+"6286511000058.webp"
+]
+},
+{
+"sku": "JRN00006625",
+"barcode": "6225000060418",
+"cat": 63,
+"ar": "شاش مصرى 5 سم",
+"en": "Egypt Gauze 5 CM",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370593",
+"img_src": "ninja",
+"images": [
+"6225000060418.webp",
+"6225000060418-1.webp"
+]
+},
+{
+"sku": "JRN00006626",
+"barcode": "6012355756734",
+"cat": 63,
+"ar": "فرست ستيب فكس 9*10 5 حبه",
+"en": "First Step Fix 9*10 (5Pcs)",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370603",
+"img_src": "ninja",
+"images": [
+"6012355756734.webp",
+"6012355756734-1.webp"
+]
+},
+{
+"sku": "JRN00006627",
+"barcode": "6224000549466",
+"cat": 63,
+"ar": "فارما بلاست ضماد للجروح عادي",
+"en": "Pharmaplast Wound Dressing Plain",
+"price": 8.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13471546",
+"img_src": "ninja",
+"images": [
+"6224000549466.webp",
+"6224000549466-1.webp",
+"6224000549466-2.webp"
+]
+},
+{
+"sku": "JRN00006628",
+"barcode": "4710970380298",
+"cat": 63,
+"ar": "ريكسى كيركيس ثلج وسط",
+"en": "Rexi Care Ice/Hot Bag 9\"",
+"price": 40.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381000",
+"img_src": "ninja",
+"images": [
+"4710970380298.webp"
+]
+},
+{
+"sku": "JRN00006629",
+"barcode": "4710970380038",
+"cat": 63,
+"ar": "ريكسى كيركمادة حار وبارد مقاس كبير",
+"en": "Rexi Care Soft Cold/Hot Gel Pack (L)",
+"price": 48.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381002",
+"img_src": "ninja",
+"images": [
+"4710970380038.webp",
+"4710970380038-1.webp",
+"4710970380038-2.webp"
+]
+},
+{
+"sku": "JRN00006630",
+"barcode": "4710970382285",
+"cat": 63,
+"ar": "ريكسى كيرشرائط خافضة للحرارة",
+"en": "Rexi Care Cooling Gel Sheet",
+"price": 27.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381007",
+"img_src": "ninja",
+"images": [
+"4710970382285.webp",
+"4710970382285-1.webp",
+"4710970382285-2.webp"
+]
+},
+{
+"sku": "JRN00006631",
+"barcode": "6286511000126",
+"cat": 63,
+"ar": "فرست ستيب مسحة طبية 200 حبة",
+"en": "First Step Alcohol Pad 200 Pcs",
+"price": 12.0,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-14388075",
+"img_src": "ninja",
+"images": [
+"6286511000126.webp",
+"6286511000126-1.webp",
+"6286511000126-2.webp"
+]
+},
+{
+"sku": "JRN00006632",
+"barcode": "6223003735470",
+"cat": 63,
+"ar": "فارما بلاست ضماد للجروح لوقف النزيف",
+"en": "Pharmaplast Wound Dressing To Stop Bleeding",
+"price": 10.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13477002",
+"img_src": "ninja",
+"images": [
+"6223003735470.webp",
+"6223003735470-1.webp",
+"6223003735470-2.webp"
+]
+},
+{
+"sku": "JRN00006633",
+"barcode": "4211125275020",
+"cat": 63,
+"ar": "بيورر HK 48 وسادة حرارية ناعمة",
+"en": "Beurer HK48 Cozy Heated Cushion",
+"price": 458.95,
+"special": 300.0,
+"src": "ninja",
+"ninja_id": "5-19292802",
+"img_src": "ninja",
+"images": [
+"4211125275020.webp",
+"4211125275020-1.webp",
+"4211125275020-2.webp"
+]
+},
+{
+"sku": "JRN00006634",
+"barcode": "6223003734008",
+"cat": 63,
+"ar": "سمارت ثيرابي لاصق للاطفال متنوع 20 قطعة",
+"en": "Smarttherapy Plaster Kids Mix 20 pcs",
+"price": 6.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19406017",
+"img_src": "ninja",
+"images": [
+"6223003734008.webp"
+]
+},
+{
+"sku": "JRN00006635",
+"barcode": "6223003738976",
+"cat": 63,
+"ar": "سمارت ثيرابى بلاستر شريط لإغلاق الجروح 28 قطعة",
+"en": "Smarttherapy Wound Closure Strips 28 Pcs",
+"price": 11.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19406021",
+"img_src": "ninja",
+"images": [
+"6223003738976.webp"
+]
+},
+{
+"sku": "JRN00006636",
+"barcode": "6223003734633",
+"cat": 63,
+"ar": "سيلك بلاست شريط لاصق حرير 1.25سم في 4.55م 1 قطعة",
+"en": "Silkplast Silk Tape 1.25 cm x 4.55 M 1 Pcs",
+"price": 5.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19406024",
+"img_src": "ninja",
+"images": [
+"6223003734633.webp"
+]
+},
+{
+"sku": "JRN00006637",
+"barcode": "6225000060401",
+"cat": 63,
+"ar": "فوكس شاش 7.5 سم",
+"en": "Focus Gauze 7.5 Cm",
+"price": 5.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293312",
+"img_src": "ninja",
+"images": [
+"6225000060401.webp",
+"6225000060401-1.webp"
+]
+},
+{
+"sku": "JRN00006638",
+"barcode": "6012355756741",
+"cat": 63,
+"ar": "فرست ستيب فكس ضماد لاصق 9*15 سم 5 حبة",
+"en": "First Step Fix Med Dressing 9*15 5Pcs",
+"price": 17.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293329",
+"img_src": "ninja",
+"images": [
+"6012355756741.webp",
+"6012355756741-1.webp",
+"6012355756741-2.webp"
+]
+},
+{
+"sku": "JRN00006639",
+"barcode": "6955887327952",
+"cat": 63,
+"ar": "شانيل ميد شاش قطع 10 سم (4*4)",
+"en": "Channelmed Gauze Swap 4*4 (10 Cm)",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19389822",
+"img_src": "ninja",
+"images": [
+"6955887327952.webp",
+"6955887327952-1.webp"
+]
+},
+{
+"sku": "JRN00006640",
+"barcode": "6955887327716",
+"cat": 63,
+"ar": "شانيل ميد شاش قطع 5 سم (2*2)",
+"en": "Channelmed Gauze Swap 2*2 (5 Cm)",
+"price": 7.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19389824",
+"img_src": "ninja",
+"images": [
+"6955887327716.webp",
+"6955887327716-1.webp",
+"6955887327716-2.webp"
+]
+},
+{
+"sku": "JRN00006641",
+"barcode": "8058090009849",
+"cat": 63,
+"ar": "بيك ثيرمو جل مبتكر للحفاظ على الحرارة والبرودة مقاس 10 × 10",
+"en": "Pic Thermo Gel 10 Cm X 10 Cm Cold And Heat Gel 1 Pcs",
+"price": 33.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390750",
+"img_src": "ninja",
+"images": [
+"8058090009849.webp",
+"8058090009849-1.webp",
+"8058090009849-2.webp"
+]
+},
+{
+"sku": "JRN00006642",
+"barcode": "8058090009795",
+"cat": 63,
+"ar": "بيك ثيرمو جل مبتكر للحفاظ على الحرارة والبرودة مقاس 30 × 20",
+"en": "Pic Thermo Gel 30 X 20 Cm With Cover 1 Pcs",
+"price": 91.95,
+"special": 68.95,
+"src": "ninja",
+"ninja_id": "5-19390752",
+"img_src": "ninja",
+"images": [
+"8058090009795.webp",
+"8058090009795-1.webp",
+"8058090009795-2.webp"
+]
+},
+{
+"sku": "JRN00006643",
+"barcode": "4719863691695",
+"cat": 63,
+"ar": "أوبو حزام للبطن مقاس كبير جدا",
+"en": "Oppo Abdominal Binder 2060 Xl",
+"price": 117.95,
+"special": 82.95,
+"src": "ninja",
+"ninja_id": "5-19386118",
+"img_src": "ninja",
+"images": [
+"4719863691695.webp"
+]
+},
+{
+"sku": "JRN00006644",
+"barcode": "4719863691831",
+"cat": 63,
+"ar": "أوبو مثبت الفقرات القطنية والجذعية بأربطة متقاطعة حجم كبير",
+"en": "Oppo Sacro Lumber Support 2264 9 L",
+"price": 189.95,
+"special": 132.95,
+"src": "ninja",
+"ninja_id": "5-19386119",
+"img_src": "ninja",
+"images": [
+"4719863691831.webp",
+"4719863691831-1.webp",
+"4719863691831-2.webp"
+]
+},
+{
+"sku": "JRN00006645",
+"barcode": "4719863693934",
+"cat": 63,
+"ar": "أوبو جبيرة للمرفق حجم كبير",
+"en": "Oppo Elbow Brace 2280 L",
+"price": 29.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19386123",
+"img_src": "ninja",
+"images": [
+"4719863693934.webp",
+"4719863693934-1.webp",
+"4719863693934-2.webp"
+]
+},
+{
+"sku": "JRN00006646",
+"barcode": "4719863690261",
+"cat": 63,
+"ar": "أوبو دعامة للركبة 1022 مقاس وسط",
+"en": "Oppo Knee Support 1022 M",
+"price": 69.95,
+"special": 55.95,
+"src": "ninja",
+"ninja_id": "5-19386124",
+"img_src": "ninja",
+"images": [
+"4719863690261.webp",
+"4719863690261-1.webp",
+"4719863690261-2.webp"
+]
+},
+{
+"sku": "JRN00006647",
+"barcode": "4719863693071",
+"cat": 63,
+"ar": "أوبو دعامة لفقرات الرقبة لين مقاس كبير جدا",
+"en": "Oppo Cervical Collar 4091 Xl",
+"price": 59.95,
+"special": 47.95,
+"src": "ninja",
+"ninja_id": "5-19386127",
+"img_src": "ninja",
+"images": [
+"4719863693071.webp"
+]
+},
+{
+"sku": "JRN00006648",
+"barcode": "4719863691060",
+"cat": 63,
+"ar": "أوبو دعامة للكاحل سيليكون مقاس كبير",
+"en": "Oppo Silicon Ankle 2001 L",
+"price": 39.95,
+"special": 31.95,
+"src": "ninja",
+"ninja_id": "5-19386128",
+"img_src": "ninja",
+"images": [
+"4719863691060.webp",
+"4719863691060-1.webp",
+"4719863691060-2.webp"
+]
+},
+{
+"sku": "JRN00006649",
+"barcode": "4719863693958",
+"cat": 63,
+"ar": "أوبو جبيرة للكعب مطاطي مقاس وسط",
+"en": "Oppo Ankle Brace 2204 M",
+"price": 34.95,
+"special": 27.95,
+"src": "ninja",
+"ninja_id": "5-19386129",
+"img_src": "ninja",
+"images": [
+"4719863693958.webp",
+"4719863693958-1.webp",
+"4719863693958-2.webp"
+]
+},
+{
+"sku": "JRN00006650",
+"barcode": "4719863691312",
+"cat": 63,
+"ar": "أوبو دعامة للركبة 2022 مقاس كبير جدا",
+"en": "Oppo Knee Support 2022 Xl",
+"price": 49.95,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-19386114",
+"img_src": "ninja",
+"images": [
+"4719863691312.webp",
+"4719863691312-1.webp",
+"4719863691312-2.webp"
+]
+},
+{
+"sku": "JRN00006651",
+"barcode": "4719863691305",
+"cat": 63,
+"ar": "أوبو دعامة للركبة 2022 مقاس كبير",
+"en": "Oppo Knee Support 2022 L",
+"price": 49.95,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-19386117",
+"img_src": "ninja",
+"images": [
+"4719863691305.webp",
+"4719863691305-1.webp",
+"4719863691305-2.webp"
+]
+},
+{
+"sku": "JRN00006652",
+"barcode": "4719863690278",
+"cat": 63,
+"ar": "أوبو دعامة للركبة 1022 مقاس كبير",
+"en": "Oppo Knee Support 1022 L",
+"price": 69.95,
+"special": 55.95,
+"src": "ninja",
+"ninja_id": "5-19386120",
+"img_src": "ninja",
+"images": [
+"4719863690278.webp",
+"4719863690278-1.webp",
+"4719863690278-2.webp"
+]
+},
+{
+"sku": "JRN00006653",
+"barcode": "4015672110298",
+"cat": 64,
+"ar": "أومرون E3 انتنس مسكن للألم",
+"en": "Omron E3 Intense Pain Reliever",
+"price": 520.95,
+"special": 417.0,
+"src": "ninja",
+"ninja_id": "5-19386822",
+"img_src": "ninja",
+"images": [
+"4015672110298.webp",
+"4015672110298-1.webp",
+"4015672110298-2.webp"
+]
+},
+{
+"sku": "JRN00006654",
+"barcode": "6973864853874",
+"cat": 63,
+"ar": "مووف اون دعامة الظهر لتصحيح القوام مقاس كبير",
+"en": "Move On Sport Support Posture Size L",
+"price": 98.0,
+"special": 83.95,
+"src": "ninja",
+"ninja_id": "5-19398529",
+"img_src": "ninja",
+"images": [
+"6973864853874.webp",
+"6973864853874-1.webp",
+"6973864853874-2.webp"
+]
+},
+{
+"sku": "JRN00006655",
+"barcode": "6973864854024",
+"cat": 63,
+"ar": "مووف اون دعامة الخصر 05 مقاس كبير",
+"en": "Move On Sport Support Waist 05 Size L",
+"price": 138.0,
+"special": 110.0,
+"src": "ninja",
+"ninja_id": "5-19398542",
+"img_src": "ninja",
+"images": [
+"6973864854024.webp",
+"6973864854024-1.webp",
+"6973864854024-2.webp"
+]
+},
+{
+"sku": "JRN00006656",
+"barcode": "6973864854017",
+"cat": 63,
+"ar": "مووف اون دعامة الخصر 05 مقاس وسط",
+"en": "Move On Sport Support Waist 05 Size M",
+"price": 138.0,
+"special": 110.0,
+"src": "ninja",
+"ninja_id": "5-19398543",
+"img_src": "ninja",
+"images": [
+"6973864854017.webp",
+"6973864854017-1.webp",
+"6973864854017-2.webp"
+]
+},
+{
+"sku": "JRN00006657",
+"barcode": "6973864858497",
+"cat": 63,
+"ar": "مووف اون دعامة القوام 02 مقاس صغير",
+"en": "Move On Sport Support Posture 02 Size S",
+"price": 165.0,
+"special": 115.0,
+"src": "ninja",
+"ninja_id": "5-19398550",
+"img_src": "ninja",
+"images": [
+"6973864858497.webp",
+"6973864858497-1.webp",
+"6973864858497-2.webp"
+]
+},
+{
+"sku": "JRN00006658",
+"barcode": "6973864858527",
+"cat": 63,
+"ar": "مووف اون دعامة القوام 02 مقاس كبير جدا",
+"en": "Move On Sport Support Posture 02 Size XL",
+"price": 165.0,
+"special": 115.0,
+"src": "ninja",
+"ninja_id": "5-19398551",
+"img_src": "ninja",
+"images": [
+"6973864858527.webp",
+"6973864858527-1.webp",
+"6973864858527-2.webp"
+]
+},
+{
+"sku": "JRN00006659",
+"barcode": "6290874603269",
+"cat": 63,
+"ar": "فرست ستيب شاش لاصق 12 سم",
+"en": "First Step Adhesive Gauze 12 Cm",
+"price": 11.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370587",
+"img_src": "ninja",
+"images": [
+"6290874603269.webp",
+"6290874603269-1.webp"
+]
+},
+{
+"sku": "JRN00006660",
+"barcode": "6951248000168",
+"cat": 63,
+"ar": "فوكس مقعدة بواسير 16 انش",
+"en": "Focus Cushion 16 Inch",
+"price": 94.95,
+"special": 79.0,
+"src": "ninja",
+"ninja_id": "5-19370591",
+"img_src": "ninja",
+"images": [
+"6951248000168.webp"
+]
+},
+{
+"sku": "JRN00006661",
+"barcode": "8329121985044",
+"cat": 63,
+"ar": "فرست ستيب فكس 9*20 5 حبه",
+"en": "First Step Fix 9*20 (5Pcs)",
+"price": 17.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370594",
+"img_src": "ninja",
+"images": [
+"8329121985044.webp",
+"8329121985044-1.webp",
+"8329121985044-2.webp"
+]
+},
+{
+"sku": "JRN00006662",
+"barcode": "6290874603184",
+"cat": 63,
+"ar": "فرست ستيب شاش لاصق 4 سم",
+"en": "First Step Adhesive Gauze 4 Cm",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370595",
+"img_src": "ninja",
+"images": [
+"6290874603184.webp"
+]
+},
+{
+"sku": "JRN00006663",
+"barcode": "6286511000218",
+"cat": 63,
+"ar": "فوكس قربة ماء حاره عاديه",
+"en": "Focus Hot Water Bottle",
+"price": 19.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19370599",
+"img_src": "ninja",
+"images": [
+"6286511000218.webp"
+]
+},
+{
+"sku": "JRN00006664",
+"barcode": "6224000132286",
+"cat": 63,
+"ar": "فارما بلاست ضماد الجروح قطع دائري",
+"en": "Pharmaplast Wound Dressing Circular Cut",
+"price": 6.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13470210",
+"img_src": "ninja",
+"images": [
+"6224000132286.webp",
+"6224000132286-1.webp",
+"6224000132286-2.webp"
+]
+},
+{
+"sku": "JRN00006665",
+"barcode": "4710970380687",
+"cat": 63,
+"ar": "ريكسى كيركمادة حار وبارد كبيرة للظهر",
+"en": "Rexi Care Soft Cold/Hot Pack Compress Back Use",
+"price": 58.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381008",
+"img_src": "ninja",
+"images": [
+"4710970380687.webp",
+"4710970380687-1.webp",
+"4710970380687-2.webp"
+]
+},
+{
+"sku": "JRN00006666",
+"barcode": "6951248000175",
+"cat": 63,
+"ar": "فوكس مقعد بواسير 18 انش",
+"en": "Focus Cushion 18 Inch",
+"price": 93.0,
+"special": 79.0,
+"src": "ninja",
+"ninja_id": "5-7107840",
+"img_src": "ninja",
+"images": [
+"6951248000175.webp",
+"6951248000175-1.webp",
+"6951248000175-2.webp"
+]
+},
+{
+"sku": "JRN00006667",
+"barcode": "4211125600686",
+"cat": 64,
+"ar": "بيورر Ft 15 جهاز قياس الحرارة عن طريق الفم",
+"en": "Beurer FT15 Instant Thermometer",
+"price": 52.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292801",
+"img_src": "ninja",
+"images": [
+"4211125600686.webp",
+"4211125600686-1.webp",
+"4211125600686-2.webp"
+]
+},
+{
+"sku": "JRN00006668",
+"barcode": "4211125603915",
+"cat": 64,
+"ar": "بيورر IH 50 جهاز تبخير محمول",
+"en": "Beurer IH50 Portable Nebulizer",
+"price": 698.95,
+"special": 399.0,
+"src": "ninja",
+"ninja_id": "5-19292803",
+"img_src": "ninja",
+"images": [
+"4211125603915.webp",
+"4211125603915-1.webp",
+"4211125603915-2.webp"
+]
+},
+{
+"sku": "JRN00006669",
+"barcode": "5016003796319",
+"cat": 64,
+"ar": "كونتور كير جهاز قياس السكر بالدم",
+"en": "Contour Care Blood Glucose Monitor",
+"price": 120.0,
+"special": 69.0,
+"src": "ninja",
+"ninja_id": "5-19363612",
+"img_src": "ninja",
+"images": [
+"5016003796319.webp",
+"5016003796319-1.webp",
+"5016003796319-2.webp"
+]
+},
+{
+"sku": "JRN00006670",
+"barcode": "6970392218090",
+"cat": 64,
+"ar": "جو كير جهاز قياس حرارة رقمي طرف صلب سريع 10 ثوان",
+"en": "Go Care Digital Thermometer Rigid Tip Fast 10 Seconds",
+"price": 38.0,
+"special": 27.0,
+"src": "ninja",
+"ninja_id": "5-19397519",
+"img_src": "ninja",
+"images": [
+"6970392218090.webp"
+]
+},
+{
+"sku": "JRN00006671",
+"barcode": "6970392217680",
+"cat": 64,
+"ar": "جو كيرجهاز قياس حرارة كلاسيكي رقمي مرن سريع 10 ثوان",
+"en": "Go Care Classic Digital Thermometer Flexible Fast 10 Second",
+"price": 19.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397524",
+"img_src": "ninja",
+"images": [
+"6970392217680.webp",
+"6970392217680-1.webp",
+"6970392217680-2.webp"
+]
+},
+{
+"sku": "JRN00006672",
+"barcode": "4018674401500",
+"cat": 64,
+"ar": "جيراثيرم جهاز قياس للحرارة رقمي",
+"en": "Geratherm Digital Thermometer",
+"price": 29.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13464566",
+"img_src": "ninja",
+"images": [
+"4018674401500.webp",
+"4018674401500-1.webp",
+"4018674401500-2.webp"
+]
+},
+{
+"sku": "JRN00006673",
+"barcode": "4018674405140",
+"cat": 64,
+"ar": "جيراثيرم جيراثيرم جهاز قياس الضغط سمارت",
+"en": "Geratherm Smart Blood Pressure Machine",
+"price": 160.95,
+"special": 139.0,
+"src": "ninja",
+"ninja_id": "5-19376495",
+"img_src": "ninja",
+"images": [
+"4018674405140.webp",
+"4018674405140-1.webp",
+"4018674405140-2.webp"
+]
+},
+{
+"sku": "JRN00006674",
+"barcode": "4018674405034",
+"cat": 64,
+"ar": "جيراثيرم جهاز قياس ضغط الدم ديسكتوب",
+"en": "Geratherm Geratherm Desktop Blood Pressure Machine",
+"price": 230.95,
+"special": 199.0,
+"src": "ninja",
+"ninja_id": "5-19376498",
+"img_src": "ninja",
+"images": [
+"4018674405034.webp",
+"4018674405034-1.webp",
+"4018674405034-2.webp"
+]
+},
+{
+"sku": "JRN00006675",
+"barcode": "4717095031470",
+"cat": 64,
+"ar": "آي-كير اي كير- شرائح الاختبار 50 قطعة مغلفة",
+"en": "I-Care I Care Blood Glucose Test Strip With Box 50 pcs",
+"price": 85.0,
+"special": 68.2,
+"src": "ninja",
+"ninja_id": "5-19376503",
+"img_src": "ninja",
+"images": [
+"4717095031470.webp",
+"4717095031470-1.webp",
+"4717095031470-2.webp"
+]
+},
+{
+"sku": "JRN00006676",
+"barcode": "4211125657499",
+"cat": 64,
+"ar": "بيورر BM 27 جهاز قياس ضغط الدم",
+"en": "Beurer BM27 Blood Pressure Monitor",
+"price": 218.95,
+"special": 149.0,
+"src": "ninja",
+"ninja_id": "5-19292797",
+"img_src": "ninja",
+"images": [
+"4211125657499.webp",
+"4211125657499-1.webp",
+"4211125657499-2.webp"
+]
+},
+{
+"sku": "JRN00006677",
+"barcode": "4018674401555",
+"cat": 64,
+"ar": "جيراثيرم جهاز قياس الحرارة الرقمي السريع",
+"en": "Geratherm Digital Thermometer Rapid",
+"price": 30.0,
+"special": 25.5,
+"src": "ninja",
+"ninja_id": "5-19406014",
+"img_src": "ninja",
+"images": [
+"4018674401555.webp"
+]
+},
+{
+"sku": "JRN00006678",
+"barcode": "8058090004295",
+"cat": 64,
+"ar": "بيك فيدو فاميلي ترمو متر مرن لقياس الحرارة",
+"en": "Pic Vedo Family Digital Thermometers",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390746",
+"img_src": "ninja",
+"images": [
+"8058090004295.webp",
+"8058090004295-1.webp",
+"8058090004295-2.webp"
+]
+},
+{
+"sku": "JRN00006679",
+"barcode": "8058090004271",
+"cat": 64,
+"ar": "بيك فيدو كلير ترمو متر مرن لقياس الحرارة",
+"en": "Pic Vedo Clear Flexible Digital Thermometers",
+"price": 38.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390747",
+"img_src": "ninja",
+"images": [
+"8058090004271.webp",
+"8058090004271-1.webp",
+"8058090004271-2.webp"
+]
+},
+{
+"sku": "JRN00006680",
+"barcode": "8058090019541",
+"cat": 64,
+"ar": "بيك فيدو كولر ترمومتر لقياس الحرارة ألوان متعددة حبة واحدة",
+"en": "Pic Vedo Color Digital Thermometer Assorted Colors 1 Piece",
+"price": 31.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19390748",
+"img_src": "ninja",
+"images": [
+"8058090019541.webp",
+"8058090019541-1.webp",
+"8058090019541-2.webp"
+]
+},
+{
+"sku": "JRN00006681",
+"barcode": "4711148332521",
+"cat": 64,
+"ar": "بيناشيك شرائط اختبار مستوى الكوليسترول بالدم 10 شرائط",
+"en": "Benecheck BK-C2 Total Cholesterol Test strips 10/Box",
+"price": 120.0,
+"special": 84.0,
+"src": "ninja",
+"ninja_id": "5-19389182",
+"img_src": "ninja",
+"images": [
+"4711148332521.webp",
+"4711148332521-1.webp",
+"4711148332521-2.webp"
+]
+},
+{
+"sku": "JRN00006682",
+"barcode": "5016003681400",
+"cat": 64,
+"ar": "كونتور كير شرائط قياس السكر في الدم 50 قطعة",
+"en": "Contour Care Test Strips 50 Pcs",
+"price": 115.0,
+"special": 80.0,
+"src": "ninja",
+"ninja_id": "5-19363577",
+"img_src": "ninja",
+"images": [
+"5016003681400.webp",
+"5016003681400-1.webp",
+"5016003681400-2.webp"
+]
+},
+{
+"sku": "JRN00006683",
+"barcode": "5016003184604",
+"cat": 64,
+"ar": "كونتور تى اس شرائط قياس السكر في الدم 50 قطعة",
+"en": "Contour TS Test Strips 50 pcs",
+"price": 89.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363578",
+"img_src": "ninja",
+"images": [
+"5016003184604.webp",
+"5016003184604-1.webp",
+"5016003184604-2.webp"
+]
+},
+{
+"sku": "JRN00006684",
+"barcode": "4715139600200",
+"cat": 64,
+"ar": "NE100 روزماكس بيتسون نيبولايزر",
+"en": "Rossmax Pitosn Nebulizer Ne100",
+"price": 222.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363588",
+"img_src": "ninja",
+"images": [
+"4715139600200.webp",
+"4715139600200-1.webp",
+"4715139600200-2.webp"
+]
+},
+{
+"sku": "JRN00006685",
+"barcode": "7613427008837",
+"cat": 64,
+"ar": "وان تاتش فيريو رفليكت جهاز قياس السكر في الدم",
+"en": "One Touch Verio Reflect Blood Glucose Monitor",
+"price": 114.95,
+"special": 99.0,
+"src": "ninja",
+"ninja_id": "5-19363592",
+"img_src": "ninja",
+"images": [
+"7613427008837.webp",
+"7613427008837-1.webp",
+"7613427008837-2.webp"
+]
+},
+{
+"sku": "JRN00006686",
+"barcode": "4015672113602",
+"cat": 64,
+"ar": "اومرون ترمومتر رقمي ذكي كومباكت فليكس",
+"en": "Omron Compact Flex Temp Smart Digital Thermometer",
+"price": 58.95,
+"special": 49.95,
+"src": "ninja",
+"ninja_id": "5-19363594",
+"img_src": "ninja",
+"images": [
+"4015672113602.webp",
+"4015672113602-1.webp",
+"4015672113602-2.webp"
+]
+},
+{
+"sku": "JRN00006687",
+"barcode": "5016003729607",
+"cat": 64,
+"ar": "كونتور نيكست شرائط قياس السكر في الدم 50 قطعة",
+"en": "Contour Next Test Strips 50 pcs",
+"price": 115.0,
+"special": 99.0,
+"src": "ninja",
+"ninja_id": "5-19363598",
+"img_src": "ninja",
+"images": [
+"5016003729607.webp",
+"5016003729607-1.webp",
+"5016003729607-2.webp"
+]
+},
+{
+"sku": "JRN00006688",
+"barcode": "4015672113572",
+"cat": 64,
+"ar": "اومرون مقياس حرارة إيكو تمب رقمي وأساسي",
+"en": "Omron Eco Temp Basic Digital Thermometer",
+"price": 43.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363614",
+"img_src": "ninja",
+"images": [
+"4015672113572.webp",
+"4015672113572-1.webp",
+"4015672113572-2.webp"
+]
+},
+{
+"sku": "JRN00006689",
+"barcode": "4015630068272",
+"cat": 64,
+"ar": "اكيوتشيك انستانت شرائط تحليل سكر بالدم 50 قطعة",
+"en": "Accu-Chek Instant Blood Glucose Test Strips 50 pcs",
+"price": 95.0,
+"special": 88.37,
+"src": "ninja",
+"ninja_id": "5-19363591",
+"img_src": "ninja",
+"images": [
+"4015630068272.webp",
+"4015630068272-1.webp",
+"4015630068272-2.webp"
+]
+},
+{
+"sku": "JRN00006690",
+"barcode": "4015672107793",
+"cat": 64,
+"ar": "اومرون جنتل تيمب 520",
+"en": "Omron Gentle Temp 520",
+"price": 360.95,
+"special": 289.0,
+"src": "ninja",
+"ninja_id": "5-19386825",
+"img_src": "ninja",
+"images": [
+"4015672107793.webp",
+"4015672107793-1.webp",
+"4015672107793-2.webp"
+]
+},
+{
+"sku": "JRN00006691",
+"barcode": "5099390416879",
+"cat": 64,
+"ar": "ميديكير جهاز بخار كومبريسور في 1",
+"en": "Medicare V1 Compressor Nebuliser",
+"price": 518.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19364910",
+"img_src": "ninja",
+"images": [
+"5099390416879.webp",
+"5099390416879-1.webp",
+"5099390416879-2.webp"
+]
+},
+{
+"sku": "JRN00006692",
+"barcode": "6970392219608",
+"cat": 64,
+"ar": "جوكير جهاز قياس حرارة صغير رقمي جبهة ابيض سريع 1 ثانية",
+"en": "Go Care Mini Digital Thermometer Forehead White Fast 1 Second",
+"price": 75.0,
+"special": 60.0,
+"src": "ninja",
+"ninja_id": "5-19397521",
+"img_src": "ninja",
+"images": [
+"6970392219608.webp",
+"6970392219608-1.webp",
+"6970392219608-2.webp"
+]
+},
+{
+"sku": "JRN00006693",
+"barcode": "6970392219554",
+"cat": 64,
+"ar": "جو كيرجهاز مقياس حرارة الجبهة بالأشعة تحت الحمراء مستشعر قابل للتبديل",
+"en": "Go Care Infrared Forehead Thermometer Switchable Sensor",
+"price": 110.0,
+"special": 88.0,
+"src": "ninja",
+"ninja_id": "5-19397523",
+"img_src": "ninja",
+"images": [
+"6970392219554.webp",
+"6970392219554-1.webp",
+"6970392219554-2.webp"
+]
+},
+{
+"sku": "JRN00006694",
+"barcode": "4211125602949",
+"cat": 64,
+"ar": "IH 18 بيورر نيبولايزر بتقنية الهواء المضغوط",
+"en": "Beurer IH 18 Compressed Nebuliser",
+"price": 245.0,
+"special": 199.0,
+"src": "ninja",
+"ninja_id": "5-19287118",
+"img_src": "ninja",
+"images": [
+"4211125602949.webp",
+"4211125602949-1.webp",
+"4211125602949-2.webp"
+]
+},
+{
+"sku": "JRN00006695",
+"barcode": "8058090043447",
+"cat": 64,
+"ar": "بيك اير ايزي اون جهاز بخار محمول",
+"en": "Pic Air Easy On Wearable Mesh Nebulizer",
+"price": 749.95,
+"special": 499.0,
+"src": "ninja",
+"ninja_id": "5-19390738",
+"img_src": "ninja",
+"images": [
+"8058090043447.webp",
+"8058090043447-1.webp",
+"8058090043447-2.webp"
+]
+},
+{
+"sku": "JRN00006696",
+"barcode": "8058090027928",
+"cat": 64,
+"ar": "بيك لايت رابيد جهاز قياس ضغط الدم عن طريق الذراع",
+"en": "Pic Lite Rapid Blood Pressure Monitor Arm Type",
+"price": 349.95,
+"special": 230.0,
+"src": "ninja",
+"ninja_id": "5-19390742",
+"img_src": "ninja",
+"images": [
+"8058090027928.webp",
+"8058090027928-1.webp",
+"8058090027928-2.webp"
+]
+},
+{
+"sku": "JRN00006697",
+"barcode": "6970701961167",
+"cat": 64,
+"ar": "ايرسول شامبر حجرة إستنشاق كبار +5 سنوات",
+"en": "Aerosol Chamber Spacer Adult +5 Years",
+"price": 90.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293315",
+"img_src": "ninja",
+"images": [
+"6970701961167.webp",
+"6970701961167-1.webp",
+"6970701961167-2.webp"
+]
+},
+{
+"sku": "JRN00006698",
+"barcode": "6229020130892",
+"cat": 64,
+"ar": "هيلث سمارت جهاز نيبوليزر يورو فاميلى",
+"en": "Health smart Euro Family compressor Nebulizer",
+"price": 200.0,
+"special": 160.0,
+"src": "ninja",
+"ninja_id": "5-19379261",
+"img_src": "ninja",
+"images": [
+"6229020130892.webp",
+"6229020130892-1.webp",
+"6229020130892-2.webp"
+]
+},
+{
+"sku": "JRN00006699",
+"barcode": "764460727395",
+"cat": 64,
+"ar": "جرانزيا بيور جهاز استنشاق البخار",
+"en": "Granzia Pure Compressor Nebulizer",
+"price": 470.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19351833",
+"img_src": "ninja",
+"images": [
+"764460727395.webp",
+"764460727395-1.webp",
+"764460727395-2.webp"
+]
+},
+{
+"sku": "JRN00006700",
+"barcode": "6971522820404",
+"cat": 64,
+"ar": "جو كير جهاز ضغط ذراع زر واحد ذاكرة تلقائي GC-BP130",
+"en": "GO Care Upper Arm BP Monitor OneTouch Auto Memory GC-BP130",
+"price": 230.0,
+"special": 170.0,
+"src": "ninja",
+"ninja_id": "5-19380398",
+"img_src": "ninja",
+"images": [
+"6971522820404.webp",
+"6971522820404-1.webp",
+"6971522820404-2.webp"
+]
+},
+{
+"sku": "JRN00006701",
+"barcode": "6224007240281",
+"cat": 63,
+"ar": "تمبوكول لاصقات خافضه للحراره 4 حبات",
+"en": "Tempo-Cool Fever Cooling Sheet 4 Pcs",
+"price": 17.0,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19376496",
+"img_src": "ninja",
+"images": [
+"6224007240281.webp",
+"6224007240281-1.webp",
+"6224007240281-2.webp"
+]
+},
+{
+"sku": "JRN00006702",
+"barcode": "5000223439323",
+"cat": 63,
+"ar": "اوبسايت بخاخ سبراي 100 مل",
+"en": "Opsite wound spray 100 ml",
+"price": 71.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363610",
+"img_src": "ninja",
+"images": [
+"5000223439323.webp",
+"5000223439323-1.webp"
+]
+},
+{
+"sku": "JRN00006703",
+"barcode": "6037602205995",
+"cat": 63,
+"ar": "هيلث سمارت لصقة حرارة اطفال وكباردكتوركوول",
+"en": "Health smart Dr Cool temperature patch for children and adults",
+"price": 21.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19379273",
+"img_src": "ninja",
+"images": [
+"6037602205995.webp",
+"6037602205995-1.webp",
+"6037602205995-2.webp"
+]
+},
+{
+"sku": "JRN00006704",
+"barcode": "5050375036093",
+"cat": 63,
+"ar": "فرست ستيب خافض للحرارة كبار",
+"en": "First Step Cooling Gel Patch For Adult",
+"price": 30.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293319",
+"img_src": "ninja",
+"images": [
+"5050375036093.webp",
+"5050375036093-1.webp",
+"5050375036093-2.webp"
+]
+},
+{
+"sku": "JRN00006705",
+"barcode": "5050375036758",
+"cat": 63,
+"ar": "فرست ستيب لصقات خافض للحرارة أطفال",
+"en": "First Step Cooling Gel Patch For Children",
+"price": 19.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-7042307",
+"img_src": "ninja",
+"images": [
+"5050375036758.webp",
+"5050375036758-1.webp",
+"5050375036758-2.webp"
+]
+},
+{
+"sku": "JRN00006706",
+"barcode": "6288005207639",
+"cat": 62,
+"ar": "ستريب ويلز شوت مساعد للنوم 75 مل",
+"en": "Strepwells Night water shots 75 ml",
+"price": 16.0,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19366970",
+"img_src": "ninja",
+"images": [
+"6288005207639.webp",
+"6288005207639-1.webp",
+"6288005207639-2.webp"
+]
+},
+{
+"sku": "JRN00006707",
+"barcode": "6286709000310",
+"cat": 62,
+"ar": "جود نايت شراب الميلاتونين نكهة التوت الأزرق 75 مل",
+"en": "Good Night Melatonin Syrup Blueberry Flavor 75 ml",
+"price": 18.0,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19376504",
+"img_src": "ninja",
+"images": [
+"6286709000310.webp",
+"6286709000310-1.webp"
+]
+},
+{
+"sku": "JRN00006708",
+"barcode": "3800048220951",
+"cat": 65,
+"ar": "بوليرو منكهات مياه بطعم الكيوي 12 ظرف 3 جم",
+"en": "Bolero Advanced Hydration Kiwi 12 Sachet 3 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400274",
+"img_src": "ninja",
+"images": [
+"3800048220951.webp",
+"3800048220951-1.webp"
+]
+},
+{
+"sku": "JRN00006709",
+"barcode": "5056555206850",
+"cat": 65,
+"ar": "أبلايد نيوترشن بيف إكس بي بلاككرنت 1.8 كجم",
+"en": "Applied Nutrition Beef Xp Blackcurrant 1.8 kg",
+"price": 327.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370625",
+"img_src": "ninja",
+"images": [
+"5056555206850.webp",
+"5056555206850-1.webp",
+"5056555206850-2.webp"
+]
+},
+{
+"sku": "JRN00006710",
+"barcode": "5060811386545",
+"cat": 27,
+"ar": "جرانيد شيك بروتين شوكولاتة بالكراميل المملح 330 مل",
+"en": "Grenade Protein Shake Chocolate Salted Caramel 330 ml",
+"price": 17.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398499",
+"img_src": "ninja",
+"images": [
+"5060811386545.webp",
+"5060811386545-1.webp",
+"5060811386545-2.webp"
+]
+},
+{
+"sku": "JRN00006711",
+"barcode": "5060811386484",
+"cat": 27,
+"ar": "جرانيد شيك بروتين فادج براوني 330 مل",
+"en": "Grenade Protein Shake Fudge Brownie 330 ml",
+"price": 17.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398500",
+"img_src": "ninja",
+"images": [
+"5060811386484.webp",
+"5060811386484-1.webp",
+"5060811386484-2.webp"
+]
+},
+{
+"sku": "JRN00006712",
+"barcode": "5060811386507",
+"cat": 27,
+"ar": "جرانيد شيك بروتين شوكولاتة بيضاء 330 مل",
+"en": "Grenade Protein Shakes White Chocolate 330 ml",
+"price": 17.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398503",
+"img_src": "ninja",
+"images": [
+"5060811386507.webp"
+]
+},
+{
+"sku": "JRN00006713",
+"barcode": "810116126453",
+"cat": 27,
+"ar": "برايم مشروب ترطيب المصارعة العالمية 500 مل",
+"en": "Prime Hydration WWE 500 ml",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19403008",
+"img_src": "ninja",
+"images": [
+"810116126453.webp",
+"810116126453-1.webp"
+]
+},
+{
+"sku": "JRN00006714",
+"barcode": "842595121759",
+"cat": 24,
+"ar": "سي فور مشروب للطاقه فراوله بلست 500 مل",
+"en": "CELLUCOR C4 Energy Crb Strawberry blast 500 ml",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387451",
+"img_src": "ninja",
+"images": [
+"842595121759.webp",
+"842595121759-1.webp",
+"842595121759-2.webp"
+]
+},
+{
+"sku": "JRN00006715",
+"barcode": "8436547470150",
+"cat": 62,
+"ar": "فونت أكتيف ديابست مسحوق غذاء لمرضي السكر بالفانيلا 400 جم",
+"en": "FontActiv diaBest Vanilla 400 g",
+"price": 81.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292485",
+"img_src": "ninja",
+"images": [
+"8436547470150.webp",
+"8436547470150-1.webp",
+"8436547470150-2.webp"
+]
+},
+{
+"sku": "JRN00006716",
+"barcode": "8436547470174",
+"cat": 62,
+"ar": "فونت أكتيف كومبليت مسحوق غذاء متكامل 400 جم",
+"en": "FontActiv Complete Vanilla 400 g",
+"price": 66.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292504",
+"img_src": "ninja",
+"images": [
+"8436547470174.webp",
+"8436547470174-1.webp",
+"8436547470174-2.webp"
+]
+},
+{
+"sku": "JRN00006717",
+"barcode": "5999576921244",
+"cat": 65,
+"ar": "نانو كرياتين مونوهيدرات نكهة المانجو- فواكه الباشن 300 جم",
+"en": "Nano Creatine Monohydrate Mango Passion Fruit 300 g",
+"price": 94.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400243",
+"img_src": "ninja",
+"images": [
+"5999576921244.webp",
+"5999576921244-1.webp"
+]
+},
+{
+"sku": "JRN00006718",
+"barcode": "3800048222122",
+"cat": 65,
+"ar": "بوليرو منكهات مياه بطعم الشاي المثلج و الخوخ 12 ظرف 3 جم",
+"en": "Bolero Advanced Hydration Ice Tea Peach 12 Sachet 3 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400270",
+"img_src": "ninja",
+"images": [
+"3800048222122.webp"
+]
+},
+{
+"sku": "JRN00006719",
+"barcode": "3800048222030",
+"cat": 65,
+"ar": "بوليرو منكهات مياه بطعم الشاي المثلج و الليمون 12 ظرف 3 جم",
+"en": "Bolero Advanced Hydration Ice Tea Lemon 12 Sachet 3 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400271",
+"img_src": "ninja",
+"images": [
+"3800048222030.webp",
+"3800048222030-1.webp"
+]
+},
+{
+"sku": "JRN00006720",
+"barcode": "3800048221651",
+"cat": 65,
+"ar": "بوليرو منكهات مياه بطعم الكولا 12 ظرف 3 جم",
+"en": "Bolero Advanced Hydration Kola 12 Sachet 3 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400276",
+"img_src": "ninja",
+"images": [
+"3800048221651.webp",
+"3800048221651-1.webp",
+"3800048221651-2.webp"
+]
+},
+{
+"sku": "JRN00006721",
+"barcode": "3800048221101",
+"cat": 65,
+"ar": "بوليرو منكهات مياه بطعم المانجو 12 ظرف 3 جم",
+"en": "Bolero Advanced Hydration Mango 12 Sachet 3 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400263",
+"img_src": "ninja",
+"images": [
+"3800048221101.webp"
+]
+},
+{
+"sku": "JRN00006722",
+"barcode": "748927023008",
+"cat": 65,
+"ar": "اوبتيمم نيتوريشن سيرس ماس فانيلا 6 باوند",
+"en": "OPTIMUM-NUTRITION Serious Mass High Protein and High 6 lb Vanilla",
+"price": 223.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14121585",
+"img_src": "ninja",
+"images": [
+"748927023008.webp",
+"748927023008-1.webp",
+"748927023008-2.webp"
+]
+},
+{
+"sku": "JRN00006723",
+"barcode": "5056555204177",
+"cat": 65,
+"ar": "أبلايد نيوترشن بيف إكس بي بلو راسبيري 1.8 كجم",
+"en": "Applied Nutrition Beef Xp Blue Raspberry 1.8 kg",
+"price": 327.95,
+"special": 279.0,
+"src": "ninja",
+"ninja_id": "5-19370605",
+"img_src": "ninja",
+"images": [
+"5056555204177.webp",
+"5056555204177-1.webp",
+"5056555204177-2.webp"
+]
+},
+{
+"sku": "JRN00006724",
+"barcode": "5999576920131",
+"cat": 65,
+"ar": "نانو سوبس كولاجين جوس هايدرولايزد مانجو-باشن فروت فليفر 300 جم",
+"en": "Nano Supps Collagen Juice Hydrolyzed Mango-Passion Fruit Flavour 300 g",
+"price": 148.95,
+"special": 130.0,
+"src": "ninja",
+"ninja_id": "5-19370608",
+"img_src": "ninja",
+"images": [
+"5999576920131.webp",
+"5999576920131-1.webp",
+"5999576920131-2.webp"
+]
+},
+{
+"sku": "JRN00006725",
+"barcode": "5056555205631",
+"cat": 65,
+"ar": "أبلايد نيوترشن بيف إكس بي كولا 1.8 كجم",
+"en": "Applied Nutrition Beef XP Cola 1.8 kg",
+"price": 327.95,
+"special": 279.0,
+"src": "ninja",
+"ninja_id": "5-19370609",
+"img_src": "ninja",
+"images": [
+"5056555205631.webp",
+"5056555205631-1.webp",
+"5056555205631-2.webp"
+]
+},
+{
+"sku": "JRN00006726",
+"barcode": "737190002032",
+"cat": 65,
+"ar": "إي إف إكس كاربولين نيوترال دون نكهة 4.4 باوند",
+"en": "Efx Karbolyn Neutral Unflavored 4.4 lb",
+"price": 284.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370613",
+"img_src": "ninja",
+"images": [
+"737190002032.webp",
+"737190002032-1.webp",
+"737190002032-2.webp"
+]
+},
+{
+"sku": "JRN00006727",
+"barcode": "737190002599",
+"cat": 65,
+"ar": "إي إف إكس كاربولين كيوي ستروبيري 4.4 باوند",
+"en": "Efx Karbolyn Kiwi Strawberry 4.4 lb",
+"price": 284.95,
+"special": 240.0,
+"src": "ninja",
+"ninja_id": "5-19370622",
+"img_src": "ninja",
+"images": [
+"737190002599.webp",
+"737190002599-1.webp",
+"737190002599-2.webp"
+]
+},
+{
+"sku": "JRN00006728",
+"barcode": "5056555204870",
+"cat": 24,
+"ar": "أبليد نيوتريشن مشروب ABE قبل التمرين بلو لاجون 330 مل",
+"en": "Applied Nutrition ABE Pre Workout Drink Blue Lagoon 330 ml",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19394421",
+"img_src": "ninja",
+"images": [
+"5056555204870.webp",
+"5056555204870-1.webp",
+"5056555204870-2.webp"
+]
+},
+{
+"sku": "JRN00006729",
+"barcode": "5032085009789",
+"cat": 65,
+"ar": "هايب كرياتين 300 جم",
+"en": "Hype Creatine 300 g",
+"price": 115.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398489",
+"img_src": "ninja",
+"images": [
+"5032085009789.webp",
+"5032085009789-1.webp",
+"5032085009789-2.webp"
+]
+},
+{
+"sku": "JRN00006730",
+"barcode": "5060811386521",
+"cat": 27,
+"ar": "جرانيد شيك بروتين فراولة وكريمة 330 مل",
+"en": "Grenade Protein Shakes Strawberries And Cream 330 ml",
+"price": 17.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398502",
+"img_src": "ninja",
+"images": [
+"5060811386521.webp",
+"5060811386521-1.webp",
+"5060811386521-2.webp"
+]
+},
+{
+"sku": "JRN00006731",
+"barcode": "5032085011263",
+"cat": 65,
+"ar": "هايب هيدرو بيف بنكهة الفواكه الاستوائية 900 جم",
+"en": "Hype Hydro Beef Tropical 900 g",
+"price": 175.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398487",
+"img_src": "ninja",
+"images": [
+"5032085011263.webp"
+]
+},
+{
+"sku": "JRN00006732",
+"barcode": "4001860147825",
+"cat": 24,
+"ar": "بودي بيلدر مشروب بوب اب بنكهة التفاح 330 مل",
+"en": "Body Builder P-Up Apple Drink 330 ml",
+"price": 5.0,
+"special": 3.14,
+"src": "ninja",
+"ninja_id": "5-19392284",
+"img_src": "ninja",
+"images": [
+"4001860147825.webp",
+"4001860147825-1.webp",
+"4001860147825-2.webp"
+]
+},
+{
+"sku": "JRN00006733",
+"barcode": "5060686530814",
+"cat": 65,
+"ar": "بيسيكس كومبليت 10 فواكة وتوت 405 جم",
+"en": "Basics Complete 10 Fruits & Berries 405 g",
+"price": 141.5,
+"special": 129.0,
+"src": "ninja",
+"ninja_id": "5-19368773",
+"img_src": "ninja",
+"images": [
+"5060686530814.webp",
+"5060686530814-1.webp",
+"5060686530814-2.webp"
+]
+},
+{
+"sku": "JRN00006734",
+"barcode": "810516036246",
+"cat": 65,
+"ar": "بي بي اي ون مور ريب 50 حصه 500 جم",
+"en": "BPI BBI One More Rib 50 Servings 500 g",
+"price": 130.0,
+"special": 99.0,
+"src": "ninja",
+"ninja_id": "5-19368785",
+"img_src": "ninja",
+"images": [
+"810516036246.webp",
+"810516036246-1.webp"
+]
+},
+{
+"sku": "JRN00006735",
+"barcode": "5999576920124",
+"cat": 65,
+"ar": "نانو سوبس كولاجين جوس هايدرولايزد بلو راز فليفر 300 جم",
+"en": "Nano Supps Collagen Juice Hydrolyzed Blue Razz Flavour 300 g",
+"price": 148.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370621",
+"img_src": "ninja",
+"images": [
+"5999576920124.webp",
+"5999576920124-1.webp",
+"5999576920124-2.webp"
+]
+},
+{
+"sku": "JRN00006736",
+"barcode": "5999576921237",
+"cat": 65,
+"ar": "نانو كرياتين مونوهيدرات نكهة التوت الأزرق 300 جم",
+"en": "Nano Creatine Monohydrate Blue Raspberry 300 g",
+"price": 94.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400242",
+"img_src": "ninja",
+"images": [
+"5999576921237.webp",
+"5999576921237-1.webp"
+]
+},
+{
+"sku": "JRN00006737",
+"barcode": "5999576920629",
+"cat": 65,
+"ar": "نانو نيكست جين قبل التمرين سي اف ار نكهة الكاندي بلاست 400 جم",
+"en": "Nano Next Gen Pre-Workout CFR Sour Candy Blast 400 g",
+"price": 130.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400245",
+"img_src": "ninja",
+"images": [
+"5999576920629.webp"
+]
+},
+{
+"sku": "JRN00006738",
+"barcode": "5999576920605",
+"cat": 65,
+"ar": "نانو نيكست جين قبل التمرين سي اف ار نكهة البطيخ 400 جم",
+"en": "Nano Next Gen Pre Workout CFR Icy Watermelon 400 g",
+"price": 130.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400246",
+"img_src": "ninja",
+"images": [
+"5999576920605.webp"
+]
+},
+{
+"sku": "JRN00006739",
+"barcode": "5999576920636",
+"cat": 65,
+"ar": "نانو نيكست جين قبل التمرين سي اف ار نكهة العنب 400 جم",
+"en": "Nano Next Gen Pre-Workout CFR Wicked Grape 400 g",
+"price": 130.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400247",
+"img_src": "ninja",
+"images": [
+"5999576920636.webp",
+"5999576920636-1.webp",
+"5999576920636-2.webp"
+]
+},
+{
+"sku": "JRN00006740",
+"barcode": "5999576920612",
+"cat": 65,
+"ar": "نانو نيكست جين قبل التمرين سي اف ار نكهة الآيس كريم 400 جم",
+"en": "Nano Next Gen Pre-Workout CFR Rocket Popsicle 400 g",
+"price": 130.95,
+"special": 120.0,
+"src": "ninja",
+"ninja_id": "5-19400248",
+"img_src": "ninja",
+"images": [
+"5999576920612.webp"
+]
+},
+{
+"sku": "JRN00006741",
+"barcode": "3800048220562",
+"cat": 65,
+"ar": "بوليرو منكهات مياه بطعم الكرزوالكولا 12 ظرف 3 جم",
+"en": "Bolero Advanced Hydration Cherry Kola 12 Sachet 3 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400267",
+"img_src": "ninja",
+"images": [
+"3800048220562.webp"
+]
+},
+{
+"sku": "JRN00006742",
+"barcode": "3800048221521",
+"cat": 65,
+"ar": "بوليرو منكهات مياه بطعم البطيخ 12 ظرف 3 جم",
+"en": "Bolero Advanced Hydration Watermelon 12 Sachet 3 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400268",
+"img_src": "ninja",
+"images": [
+"3800048221521.webp",
+"3800048221521-1.webp",
+"3800048221521-2.webp"
+]
+},
+{
+"sku": "JRN00006743",
+"barcode": "3800048222788",
+"cat": 65,
+"ar": "بوليرو منكهات مياه بطعم الليموناده 12 ظرف 3 جم",
+"en": "Bolero Advanced Hydration Lemonada 12 Sachet 3 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400273",
+"img_src": "ninja",
+"images": [
+"3800048222788.webp",
+"3800048222788-1.webp"
+]
+},
+{
+"sku": "JRN00006744",
+"barcode": "5999576920582",
+"cat": 65,
+"ar": "نانو هيدرو امينو بنكهة الآيس كريم 390 جم",
+"en": "Nano Hydro Amino Rocket Ice Pop 390 g",
+"price": 113.95,
+"special": 99.0,
+"src": "ninja",
+"ninja_id": "5-19400252",
+"img_src": "ninja",
+"images": [
+"5999576920582.webp"
+]
+},
+{
+"sku": "JRN00006745",
+"barcode": "5060686530524",
+"cat": 65,
+"ar": "بيسيكس ال كرناتين بنكهة البطيخ 480 مل",
+"en": "Basix L-Carnitine Watermelon 64 Servings 480 ml",
+"price": 145.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14087945",
+"img_src": "ninja",
+"images": [
+"5060686530524.webp",
+"5060686530524-1.webp",
+"5060686530524-2.webp"
+]
+},
+{
+"sku": "JRN00006746",
+"barcode": "5060686530036",
+"cat": 65,
+"ar": "بيسيكس واي بروتين شوكولاته 5 باوند",
+"en": "Basix Whey Protein Chocolate Chunk 5 lb",
+"price": 362.0,
+"special": 326.89,
+"src": "ninja",
+"ninja_id": "5-14091146",
+"img_src": "ninja",
+"images": [
+"5060686530036.webp",
+"5060686530036-1.webp",
+"5060686530036-2.webp"
+]
+},
+{
+"sku": "JRN00006747",
+"barcode": "5060686530982",
+"cat": 65,
+"ar": "بيسيكس اكستريم بمب بالتوت الأزرق 315 جم",
+"en": "Basix Xtreme Pump Blue Razz Rush 315 g",
+"price": 144.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14094097",
+"img_src": "ninja",
+"images": [
+"5060686530982.webp",
+"5060686530982-1.webp",
+"5060686530982-2.webp"
+]
+},
+{
+"sku": "JRN00006748",
+"barcode": "748927064919",
+"cat": 65,
+"ar": "اوبتيمم نيتوريشن واي جولد نكهة الشوكولاته 5 باوند",
+"en": "OPTIMUM-NUTRITION Gold Standard Whey Protein Powder Double Rich Chocolate 5 lb",
+"price": 521.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14119104",
+"img_src": "ninja",
+"images": [
+"748927064919.webp",
+"748927064919-1.webp",
+"748927064919-2.webp"
+]
+},
+{
+"sku": "JRN00006749",
+"barcode": "857430002896",
+"cat": 62,
+"ar": "دريم ووتر سليب علكة مع البكتين 2 مجم نكهة التوت 6 قطع",
+"en": "Dream Water Sleep Gummies with Pectin 2mg Snoozeberry 6 PCS",
+"price": 25.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19394986",
+"img_src": "ninja",
+"images": [
+"857430002896.webp",
+"857430002896-1.webp",
+"857430002896-2.webp"
+]
+},
+{
+"sku": "JRN00006750",
+"barcode": "857430002056",
+"cat": 62,
+"ar": "دريم واتر شوت مساعد للنوم 74 مل",
+"en": "Dream Water Sleep Aid Shots 74 ml",
+"price": 16.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19366846",
+"img_src": "ninja",
+"images": [
+"857430002056.webp",
+"857430002056-1.webp",
+"857430002056-2.webp"
+]
+},
+{
+"sku": "JRN00006751",
+"barcode": "6285074004688",
+"cat": 62,
+"ar": "ريدوكسون فيتامين سي 1000 مجم 15 قرص فوار",
+"en": "Redoxon Vitamin C 1000 Mg 15 Effervescent Tablets",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7222309",
+"img_src": "ninja",
+"images": [
+"6285074004688.webp",
+"6285074004688-1.webp",
+"6285074004688-2.webp"
+]
+},
+{
+"sku": "JRN00006752",
+"barcode": "4002860346119",
+"cat": 62,
+"ar": "لابيرفا فيتامين سي كومبليكس بلس زنك 20 قرص فوّار بنكهة البرتقال",
+"en": "Laperva Vitamin C Complex Plus Zinc 20 Effervescent Tablets Orange",
+"price": 23.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392293",
+"img_src": "ninja",
+"images": [
+"4002860346119.webp",
+"4002860346119-1.webp"
+]
+},
+{
+"sku": "JRN00006753",
+"barcode": "795044248333",
+"cat": 62,
+"ar": "بونتيكال فوار 20 قرص",
+"en": "Bonti Cal 20 Efferves Tablets",
+"price": 49.95,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-19369984",
+"img_src": "ninja",
+"images": [
+"795044248333.webp",
+"795044248333-1.webp",
+"795044248333-2.webp"
+]
+},
+{
+"sku": "JRN00006754",
+"barcode": "6285105000184",
+"cat": 62,
+"ar": "كالسي 600 30 قرص",
+"en": "Calcy 600 mg 30 Tablets",
+"price": 20.3,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19378645",
+"img_src": "ninja",
+"images": [
+"6285105000184.webp"
+]
+},
+{
+"sku": "JRN00006755",
+"barcode": "602024193845",
+"cat": 62,
+"ar": "سوبرا 120 كبسولة",
+"en": "Supra 120 Capsules",
+"price": 201.6,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19378523",
+"img_src": "ninja",
+"images": [
+"602024193845.webp",
+"602024193845-1.webp",
+"602024193845-2.webp"
+]
+},
+{
+"sku": "JRN00006756",
+"barcode": "748515537726",
+"cat": 62,
+"ar": "فيرولايت حديد 60 كبسولة",
+"en": "Ferrolight Iron 60 Capsules",
+"price": 112.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369979",
+"img_src": "ninja",
+"images": [
+"748515537726.webp",
+"748515537726-1.webp",
+"748515537726-2.webp"
+]
+},
+{
+"sku": "JRN00006757",
+"barcode": "5415062001493",
+"cat": 62,
+"ar": "سنترم مع لوتين للكبار 30 قرص",
+"en": "Centrum With Lutein 30 Tab",
+"price": 20.4,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13376808",
+"img_src": "ninja",
+"images": [
+"5415062001493.webp",
+"5415062001493-1.webp",
+"5415062001493-2.webp"
+]
+},
+{
+"sku": "JRN00006758",
+"barcode": "5021265231119",
+"cat": 62,
+"ar": "فيتابيوتكس فيروجلوبين شراب 200 مل",
+"en": "Vitabiotics Feroglobin Syrup 200 ml",
+"price": 20.4,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13378149",
+"img_src": "ninja",
+"images": [
+"5021265231119.webp",
+"5021265231119-1.webp",
+"5021265231119-2.webp"
+]
+},
+{
+"sku": "JRN00006759",
+"barcode": "06285128002424",
+"cat": 62,
+"ar": "جي بي فيراتول 100 مجم 60 كبسولة",
+"en": "Jp Veratol 100 Mg 60 Capsules",
+"price": 211.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13381240",
+"img_src": "ninja",
+"images": [
+"06285128002424.webp",
+"06285128002424-1.webp",
+"06285128002424-2.webp"
+]
+},
+{
+"sku": "JRN00006760",
+"barcode": "06285128002028",
+"cat": 62,
+"ar": "جي بي فيتامين د 3 1000 وحدة 60 كبسولة",
+"en": "Jp Vitamin D3 1000 Iu 60 Capsules",
+"price": 33.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13381746",
+"img_src": "ninja",
+"images": [
+"06285128002028.webp",
+"06285128002028-1.webp",
+"06285128002028-2.webp"
+]
+},
+{
+"sku": "JRN00006761",
+"barcode": "8410885081520",
+"cat": 62,
+"ar": "مارنيز فيروبين 250 مل شراب",
+"en": "Marnys Ferrobine 250 ml Syrup",
+"price": 20.7,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19347750",
+"img_src": "ninja",
+"images": [
+"8410885081520.webp",
+"8410885081520-1.webp",
+"8410885081520-2.webp"
+]
+},
+{
+"sku": "JRN00006762",
+"barcode": "06285128002516",
+"cat": 62,
+"ar": "ايفروز 500 مجم 60 كبسولة",
+"en": "Everose 500 mg 60 Capsules",
+"price": 57.7,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19351033",
+"img_src": "ninja",
+"images": [
+"06285128002516.webp",
+"06285128002516-1.webp",
+"06285128002516-2.webp"
+]
+},
+{
+"sku": "JRN00006763",
+"barcode": "064642079084",
+"cat": 62,
+"ar": "جاميسون فيتامين د 3 1000 وحدة 100 قرص",
+"en": "Jamieson Vitamin D3 1000 Iu 100 Tablets",
+"price": 55.0,
+"special": 46.95,
+"src": "ninja",
+"ninja_id": "5-19347888",
+"img_src": "ninja",
+"images": [
+"064642079084.webp",
+"064642079084-1.webp",
+"064642079084-2.webp"
+]
+},
+{
+"sku": "JRN00006764",
+"barcode": "748515537382",
+"cat": 62,
+"ar": "ميلاتوبيد نقط مع الميلاتونين 30 مل",
+"en": "Melatobed Oral Drops Melatonine 30 ml",
+"price": 96.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369999",
+"img_src": "ninja",
+"images": [
+"748515537382.webp",
+"748515537382-1.webp",
+"748515537382-2.webp"
+]
+},
+{
+"sku": "JRN00006765",
+"barcode": "8410885079961",
+"cat": 62,
+"ar": "مارنيز رويال جونيور شراب 125 مل",
+"en": "Marnys Royal Junior With Vitamins Syrup 125 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13383731",
+"img_src": "ninja",
+"images": [
+"8410885079961.webp",
+"8410885079961-1.webp",
+"8410885079961-2.webp"
+]
+},
+{
+"sku": "JRN00006766",
+"barcode": "064642077493",
+"cat": 62,
+"ar": "جاميسون ميلاتونين 3 ملجم 100 قرص تحت اللسان",
+"en": "Jamieson Melatonin 3 mg 100 Sublingual Tablets",
+"price": 171.0,
+"special": 140.0,
+"src": "ninja",
+"ninja_id": "5-19347692",
+"img_src": "ninja",
+"images": [
+"064642077493.webp",
+"064642077493-1.webp",
+"064642077493-2.webp"
+]
+},
+{
+"sku": "JRN00006767",
+"barcode": "5060748883308",
+"cat": 62,
+"ar": "جاميزنج فيتامين D3 وK2 للأطفال قطرات 15 مل",
+"en": "Gumazing D3 and K2 Drops 15 ml",
+"price": 86.25,
+"special": 59.95,
+"src": "ninja",
+"ninja_id": "5-19397532",
+"img_src": "ninja",
+"images": [
+"5060748883308.webp"
+]
+},
+{
+"sku": "JRN00006768",
+"barcode": "037182669954",
+"cat": 62,
+"ar": "فيمي بيوتيك لتعزيز المناعة للنساء 20 كيس",
+"en": "Femi Biotic Immunity For Women's 20 Sachets",
+"price": 138.95,
+"special": 99.0,
+"src": "ninja",
+"ninja_id": "5-19369977",
+"img_src": "ninja",
+"images": [
+"037182669954.webp",
+"037182669954-1.webp",
+"037182669954-2.webp"
+]
+},
+{
+"sku": "JRN00006769",
+"barcode": "8410885080165",
+"cat": 62,
+"ar": "مارنيز مار فيتويل زيت زهرة الربيع المسائية للنساء 60 كبسولة",
+"en": "Marnys Mar Vit Oil Evening Primrose Oil For Women 60 Capsules",
+"price": 58.0,
+"special": 40.95,
+"src": "ninja",
+"ninja_id": "5-19347706",
+"img_src": "ninja",
+"images": [
+"8410885080165.webp",
+"8410885080165-1.webp",
+"8410885080165-2.webp"
+]
+},
+{
+"sku": "JRN00006770",
+"barcode": "748515537566",
+"cat": 62,
+"ar": "جالودكس لدعم صحة الجلد والشعر 60 قرص قابلة للمضغ",
+"en": "Jalowdex Skin And Hair Health 60 Chewable Tablets",
+"price": 185.95,
+"special": 120.95,
+"src": "ninja",
+"ninja_id": "5-19369972",
+"img_src": "ninja",
+"images": [
+"748515537566.webp",
+"748515537566-1.webp",
+"748515537566-2.webp"
+]
+},
+{
+"sku": "JRN00006771",
+"barcode": "795044248135",
+"cat": 62,
+"ar": "أوميجا لايت 30 كبسولة",
+"en": "Omega Light 30 Capsules",
+"price": 95.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369990",
+"img_src": "ninja",
+"images": [
+"795044248135.webp",
+"795044248135-1.webp",
+"795044248135-2.webp"
+]
+},
+{
+"sku": "JRN00006772",
+"barcode": "6285343001554",
+"cat": 62,
+"ar": "شوكولاتة الحديد بلس الفوليك 30 قطعة",
+"en": "Iron Chocalate Plus Folic Acid 30 Tablets",
+"price": 91.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369996",
+"img_src": "ninja",
+"images": [
+"6285343001554.webp",
+"6285343001554-1.webp",
+"6285343001554-2.webp"
+]
+},
+{
+"sku": "JRN00006773",
+"barcode": "037182669930",
+"cat": 62,
+"ar": "يورولايت بيوتيك 14 كيس",
+"en": "Urolite Biotic 14 Sachet",
+"price": 161.95,
+"special": 100.0,
+"src": "ninja",
+"ninja_id": "5-19370006",
+"img_src": "ninja",
+"images": [
+"037182669930.webp",
+"037182669930-1.webp",
+"037182669930-2.webp"
+]
+},
+{
+"sku": "JRN00006774",
+"barcode": "795044248906",
+"cat": 62,
+"ar": "ارجيتون شراب 100 مل",
+"en": "Argitone Syrup 100 ml",
+"price": 150.0,
+"special": 97.95,
+"src": "ninja",
+"ninja_id": "5-19369982",
+"img_src": "ninja",
+"images": [
+"795044248906.webp",
+"795044248906-1.webp",
+"795044248906-2.webp"
+]
+},
+{
+"sku": "JRN00006775",
+"barcode": "795044248937",
+"cat": 62,
+"ar": "ارجيرويال شوتس 1 حبه",
+"en": "Argiroyal Shots 1 Bottle",
+"price": 22.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19369991",
+"img_src": "ninja",
+"images": [
+"795044248937.webp",
+"795044248937-1.webp"
+]
+},
+{
+"sku": "JRN00006776",
+"barcode": "748515537375",
+"cat": 62,
+"ar": "فيتافيرين سبراي للفم 30 مل",
+"en": "Vita Ferrin Oral Spray 30 ml",
+"price": 130.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370001",
+"img_src": "ninja",
+"images": [
+"748515537375.webp",
+"748515537375-1.webp",
+"748515537375-2.webp"
+]
+},
+{
+"sku": "JRN00006777",
+"barcode": "795044248920",
+"cat": 62,
+"ar": "شيتو اراكس 60 كبسولة",
+"en": "Chito Arax 60 Capsules",
+"price": 235.0,
+"special": 140.0,
+"src": "ninja",
+"ninja_id": "5-19369975",
+"img_src": "ninja",
+"images": [
+"795044248920.webp",
+"795044248920-1.webp",
+"795044248920-2.webp"
+]
+},
+{
+"sku": "JRN00006778",
+"barcode": "3578830122775",
+"cat": 62,
+"ar": "أركوفارما تراي جلستاب 30 كبسولة",
+"en": "Arkopharma Triglistab 30 Caps",
+"price": 96.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376916",
+"img_src": "ninja",
+"images": [
+"3578830122775.webp",
+"3578830122775-1.webp",
+"3578830122775-2.webp"
+]
+},
+{
+"sku": "JRN00006779",
+"barcode": "8680512631149",
+"cat": 62,
+"ar": "نوتراكسين مسحوق كولاجين مع فيتامين ج وحمض الهيالورونيك",
+"en": "Nutraxin Collagen with vit c and hyaluronic Powdwer 300 g",
+"price": 280.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376919",
+"img_src": "ninja",
+"images": [
+"8680512631149.webp",
+"8680512631149-1.webp",
+"8680512631149-2.webp"
+]
+},
+{
+"sku": "JRN00006780",
+"barcode": "8690088031809",
+"cat": 62,
+"ar": "نفيس فارما رويا جين 30 قرص",
+"en": "Nafees Pharma Roya Gin 30 Tablets",
+"price": 80.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376926",
+"img_src": "ninja",
+"images": [
+"8690088031809.webp",
+"8690088031809-1.webp",
+"8690088031809-2.webp"
+]
+},
+{
+"sku": "JRN00006781",
+"barcode": "8680512629870",
+"cat": 62,
+"ar": "نوتراكسين العكبر والقسط الهندي والزنك بطعم النعناع 30 مل بخاخ",
+"en": "Nutraxin Costus Root and zinc with mint Spray 30 ml",
+"price": 72.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376934",
+"img_src": "ninja",
+"images": [
+"8680512629870.webp",
+"8680512629870-1.webp",
+"8680512629870-2.webp"
+]
+},
+{
+"sku": "JRN00006782",
+"barcode": "000113466717",
+"cat": 62,
+"ar": "بيرفكت لايف بريبيو ام 14 مغلف",
+"en": "Perfect Life Prebio M 14 Sachets",
+"price": 80.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376941",
+"img_src": "ninja",
+"images": [
+"000113466717.webp",
+"000113466717-1.webp",
+"000113466717-2.webp"
+]
+},
+{
+"sku": "JRN00006783",
+"barcode": "8680512602682",
+"cat": 62,
+"ar": "نوتراكسين فيتامين ج و ثمر الورد و مركب بيوفلافونويد الحمضيات 28 قرص للمضغ",
+"en": "Nutraxin Vitamin C 28 Chewable Tablets",
+"price": 45.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376945",
+"img_src": "ninja",
+"images": [
+"8680512602682.webp",
+"8680512602682-1.webp",
+"8680512602682-2.webp"
+]
+},
+{
+"sku": "JRN00006784",
+"barcode": "3578830123628",
+"cat": 62,
+"ar": "أركوفارما فوركابيل 180 كبسولة",
+"en": "Arkopharma Forcapil 180 Capsule",
+"price": 173.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19379434",
+"img_src": "ninja",
+"images": [
+"3578830123628.webp",
+"3578830123628-1.webp",
+"3578830123628-2.webp"
+]
+},
+{
+"sku": "JRN00006785",
+"barcode": "8410885086297",
+"cat": 62,
+"ar": "مارنيز جينسنج 1000 مجم 30 كبسولة",
+"en": "Marnys Ginseng 1000 mg 30 Capsule",
+"price": 90.0,
+"special": 62.95,
+"src": "ninja",
+"ninja_id": "5-19378587",
+"img_src": "ninja",
+"images": [
+"8410885086297.webp",
+"8410885086297-1.webp",
+"8410885086297-2.webp"
+]
+},
+{
+"sku": "JRN00006786",
+"barcode": "6286049000155",
+"cat": 62,
+"ar": "بريوهير 30 كبسولة",
+"en": "Priohair 30 Capsule",
+"price": 149.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19378496",
+"img_src": "ninja",
+"images": [
+"6286049000155.webp",
+"6286049000155-1.webp",
+"6286049000155-2.webp"
+]
+},
+{
+"sku": "JRN00006787",
+"barcode": "06285128021265",
+"cat": 62,
+"ar": "جي بي ماكا 500 مجم 50 كبسولة",
+"en": "Jp Maca 500 Mg 50 Capsule",
+"price": 120.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19378553",
+"img_src": "ninja",
+"images": [
+"06285128021265.webp",
+"06285128021265-1.webp",
+"06285128021265-2.webp"
+]
+},
+{
+"sku": "JRN00006788",
+"barcode": "06285128016452",
+"cat": 62,
+"ar": "جي بي بروسميتو 30 كبسولة",
+"en": "JP Prosmetto 30 Capsule",
+"price": 99.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19378605",
+"img_src": "ninja",
+"images": [
+"06285128016452.webp",
+"06285128016452-1.webp",
+"06285128016452-2.webp"
+]
+},
+{
+"sku": "JRN00006789",
+"barcode": "8410885084095",
+"cat": 62,
+"ar": "مارنيز ال-كارنيتين 2000 مجم 20 قارورة",
+"en": "Marnys Liquid L-Carnitine 2000 mg 20 Vial",
+"price": 280.0,
+"special": 195.95,
+"src": "ninja",
+"ninja_id": "5-19378514",
+"img_src": "ninja",
+"images": [
+"8410885084095.webp",
+"8410885084095-1.webp",
+"8410885084095-2.webp"
+]
+},
+{
+"sku": "JRN00006790",
+"barcode": "6224011817219",
+"cat": 62,
+"ar": "ايفا جينوفيل أدفانس 30 كيس",
+"en": "Eva Genuphil Advance 30 Sachets",
+"price": 289.57,
+"special": 199.0,
+"src": "ninja",
+"ninja_id": "5-19378520",
+"img_src": "ninja",
+"images": [
+"6224011817219.webp",
+"6224011817219-1.webp",
+"6224011817219-2.webp"
+]
+},
+{
+"sku": "JRN00006791",
+"barcode": "8424409926136",
+"cat": 62,
+"ar": "رويال 5000 20قارورة 10 مل",
+"en": "Royal 5000 10 ml 20 Bottles",
+"price": 280.95,
+"special": 169.0,
+"src": "ninja",
+"ninja_id": "5-19378524",
+"img_src": "ninja",
+"images": [
+"8424409926136.webp",
+"8424409926136-1.webp",
+"8424409926136-2.webp"
+]
+},
+{
+"sku": "JRN00006792",
+"barcode": "06285128006262",
+"cat": 62,
+"ar": "جي بي جلافولين 100 جم 60 كبسولة",
+"en": "JP Glavolean 100Mg 60 Capsule",
+"price": 189.0,
+"special": 170.0,
+"src": "ninja",
+"ninja_id": "5-19378532",
+"img_src": "ninja",
+"images": [
+"06285128006262.webp",
+"06285128006262-1.webp",
+"06285128006262-2.webp"
+]
+},
+{
+"sku": "JRN00006793",
+"barcode": "8410885081650",
+"cat": 62,
+"ar": "مارنيز رويال جيلي 5000 مجم 20 قارورة",
+"en": "Marnys Royal Jelly 5000 mg 20 Vial",
+"price": 280.0,
+"special": 195.95,
+"src": "ninja",
+"ninja_id": "5-19378538",
+"img_src": "ninja",
+"images": [
+"8410885081650.webp",
+"8410885081650-1.webp",
+"8410885081650-2.webp"
+]
+},
+{
+"sku": "JRN00006794",
+"barcode": "4001860146514",
+"cat": 62,
+"ar": "بيو بروتيكشن مالتي فيتامين نباتية 30 كبسولة",
+"en": "Bio Protection Multivitamin 30 Veggie Capsules",
+"price": 37.95,
+"special": 8.73,
+"src": "ninja",
+"ninja_id": "5-19392281",
+"img_src": "ninja",
+"images": [
+"4001860146514.webp",
+"4001860146514-1.webp"
+]
+},
+{
+"sku": "JRN00006795",
+"barcode": "6281880185078",
+"cat": 62,
+"ar": "إمباور نيوتريشن أوميجا 3 2000 ملغ 60 كبسولة هلامية",
+"en": "Empower Nutrition Omega 3 2000 Mg 60 Softgels",
+"price": 118.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392287",
+"img_src": "ninja",
+"images": [
+"6281880185078.webp",
+"6281880185078-1.webp",
+"6281880185078-2.webp"
+]
+},
+{
+"sku": "JRN00006796",
+"barcode": "5060748883971",
+"cat": 62,
+"ar": "جاميزنج فيتامينات متعددة وبروبيوتيك للأطفال 60 قطعة",
+"en": "Gumazing Multivitamin and Probiotic 60 Gummies",
+"price": 178.25,
+"special": 115.0,
+"src": "ninja",
+"ninja_id": "5-19397530",
+"img_src": "ninja",
+"images": [
+"5060748883971.webp"
+]
+},
+{
+"sku": "JRN00006797",
+"barcode": "5060748883988",
+"cat": 62,
+"ar": "جاميزنج الدربيري للمناعة للاطفال 60 قطعة",
+"en": "Gumazing Elderberry Immunity For Kids 60 Gummies",
+"price": 143.75,
+"special": 99.0,
+"src": "ninja",
+"ninja_id": "5-19397534",
+"img_src": "ninja",
+"images": [
+"5060748883988.webp"
+]
+},
+{
+"sku": "JRN00006798",
+"barcode": "5060748883964",
+"cat": 62,
+"ar": "جاميزنج فيتامين متعددة وأوميجا 3 للاطفال 60 قطعة",
+"en": "Gumazing Multivitamin and Omega For Kids 60 Gummies",
+"price": 178.25,
+"special": 115.0,
+"src": "ninja",
+"ninja_id": "5-19397535",
+"img_src": "ninja",
+"images": [
+"5060748883964.webp"
+]
+},
+{
+"sku": "JRN00006799",
+"barcode": "6939964032199",
+"cat": 62,
+"ar": "إيلمينت خل التفاح مكمل غذائي 60 قطعة",
+"en": "Element Apple Cider Vinegar 60 Gummies",
+"price": 145.0,
+"special": 101.95,
+"src": "ninja",
+"ninja_id": "5-19369693",
+"img_src": "ninja",
+"images": [
+"6939964032199.webp",
+"6939964032199-1.webp",
+"6939964032199-2.webp"
+]
+},
+{
+"sku": "JRN00006800",
+"barcode": "748515537443",
+"cat": 62,
+"ar": "يوتيكان بلس 20 قرص فوّار",
+"en": "Utycan Plus 20 eff Tablets",
+"price": 94.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369969",
+"img_src": "ninja",
+"images": [
+"748515537443.webp",
+"748515537443-1.webp",
+"748515537443-2.webp"
+]
+},
+{
+"sku": "JRN00006801",
+"barcode": "748515537351",
+"cat": 62,
+"ar": "نور القمر فيجورويال 30 كبسولة",
+"en": "Noor Alqamr Viga Royll 30 Capsules",
+"price": 240.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369971",
+"img_src": "ninja",
+"images": [
+"748515537351.webp",
+"748515537351-1.webp",
+"748515537351-2.webp"
+]
+},
+{
+"sku": "JRN00006802",
+"barcode": "795044248579",
+"cat": 62,
+"ar": "كارتابون بودرة الكولاجين 15 كيس",
+"en": "Cartabon Collagen Powder 15 Sachets",
+"price": 225.0,
+"special": 169.0,
+"src": "ninja",
+"ninja_id": "5-19369980",
+"img_src": "ninja",
+"images": [
+"795044248579.webp",
+"795044248579-1.webp",
+"795044248579-2.webp"
+]
+},
+{
+"sku": "JRN00006803",
+"barcode": "748515537344",
+"cat": 62,
+"ar": "جلوكاجون بودر 30 كيس",
+"en": "Glucajone Powder 30 Sachets",
+"price": 145.0,
+"special": 98.0,
+"src": "ninja",
+"ninja_id": "5-19369983",
+"img_src": "ninja",
+"images": [
+"748515537344.webp",
+"748515537344-1.webp",
+"748515537344-2.webp"
+]
+},
+{
+"sku": "JRN00006804",
+"barcode": "795044248111",
+"cat": 62,
+"ar": "فيمى بيوتيك لتعزيز مناعة النساء 10 أكياس",
+"en": "Femi Biotic Women's Immunity 10 Sachets",
+"price": 79.95,
+"special": 51.95,
+"src": "ninja",
+"ninja_id": "5-19369989",
+"img_src": "ninja",
+"images": [
+"795044248111.webp",
+"795044248111-1.webp",
+"795044248111-2.webp"
+]
+},
+{
+"sku": "JRN00006805",
+"barcode": "795044248210",
+"cat": 62,
+"ar": "ارجسبارت 60 قرص",
+"en": "Argispart 60 Tablets",
+"price": 219.95,
+"special": 165.0,
+"src": "ninja",
+"ninja_id": "5-19369992",
+"img_src": "ninja",
+"images": [
+"795044248210.webp",
+"795044248210-1.webp",
+"795044248210-2.webp"
+]
+},
+{
+"sku": "JRN00006806",
+"barcode": "6285343001165",
+"cat": 62,
+"ar": "بوندكس لصحة العظام 60 قرص",
+"en": "Bondex Bone Health 60 Chewable Tablets",
+"price": 115.95,
+"special": 70.0,
+"src": "ninja",
+"ninja_id": "5-19370002",
+"img_src": "ninja",
+"images": [
+"6285343001165.webp",
+"6285343001165-1.webp",
+"6285343001165-2.webp"
+]
+},
+{
+"sku": "JRN00006807",
+"barcode": "748515537672",
+"cat": 62,
+"ar": "بونوفليكس إكسترا 60 قرص مضغ",
+"en": "Bonoflex Extra 60 Chewable Tablets",
+"price": 180.95,
+"special": 100.0,
+"src": "ninja",
+"ninja_id": "5-19370003",
+"img_src": "ninja",
+"images": [
+"748515537672.webp",
+"748515537672-1.webp",
+"748515537672-2.webp"
+]
+},
+{
+"sku": "JRN00006808",
+"barcode": "795044248388",
+"cat": 62,
+"ar": "اراكس كوميند 30 كبسولة",
+"en": "Araxcomind 30 Capsules",
+"price": 180.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370004",
+"img_src": "ninja",
+"images": [
+"795044248388.webp",
+"795044248388-1.webp",
+"795044248388-2.webp"
+]
+},
+{
+"sku": "JRN00006809",
+"barcode": "037182669916",
+"cat": 62,
+"ar": "برو لايت بيوتيك لتعزيز الهضم - 14 كيس",
+"en": "Prolite Biotic for Digestion 14 Sachets",
+"price": 138.95,
+"special": 100.0,
+"src": "ninja",
+"ninja_id": "5-19370005",
+"img_src": "ninja",
+"images": [
+"037182669916.webp",
+"037182669916-1.webp",
+"037182669916-2.webp"
+]
+},
+{
+"sku": "JRN00006810",
+"barcode": "748515537290",
+"cat": 62,
+"ar": "كو لايت كو إنزيم Q10 100 ملغ - 60 كبسولة",
+"en": "Co Light Co Enzyme Q10 100 mg 60 Capsules",
+"price": 240.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370008",
+"img_src": "ninja",
+"images": [
+"748515537290.webp",
+"748515537290-1.webp",
+"748515537290-2.webp"
+]
+},
+{
+"sku": "JRN00006811",
+"barcode": "748515537542",
+"cat": 62,
+"ar": "جلوتي لصحة الجلد 60 قرص مضغ",
+"en": "Gluty Skin Health 60 Chewable Tablets",
+"price": 330.95,
+"special": 170.0,
+"src": "ninja",
+"ninja_id": "5-19370009",
+"img_src": "ninja",
+"images": [
+"748515537542.webp",
+"748515537542-1.webp",
+"748515537542-2.webp"
+]
+},
+{
+"sku": "JRN00006812",
+"barcode": "748515537436",
+"cat": 62,
+"ar": "فيتانور سي 1000 مجم أقراص فوارة",
+"en": "Vita noor C 1000 mg 20 eff.tab",
+"price": 35.0,
+"special": 22.95,
+"src": "ninja",
+"ninja_id": "5-19370011",
+"img_src": "ninja",
+"images": [
+"748515537436.webp",
+"748515537436-1.webp",
+"748515537436-2.webp"
+]
+},
+{
+"sku": "JRN00006813",
+"barcode": "8690088031519",
+"cat": 62,
+"ar": "نفيس فارما فايتمين سي و فايتمين د وزنك 20 قرص",
+"en": "Nafees Pharma Vitamin C and D and Zinc 20 Tablets",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376912",
+"img_src": "ninja",
+"images": [
+"8690088031519.webp",
+"8690088031519-1.webp"
+]
+},
+{
+"sku": "JRN00006814",
+"barcode": "8682960479854",
+"cat": 62,
+"ar": "نفيس فارما البيلسان الأسود وفيتامين سي والزنك 20 قرص فوار",
+"en": "Nafees Pharma Sambucus and Vitamin C and Zinc 20 Tablets",
+"price": 57.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376925",
+"img_src": "ninja",
+"images": [
+"8682960479854.webp",
+"8682960479854-1.webp"
+]
+},
+{
+"sku": "JRN00006815",
+"barcode": "8690088031830",
+"cat": 62,
+"ar": "نفيس فارما ميجا اوميجا 3 و 6 و 9 60 كبسولة جيلاتينية",
+"en": "Nafees Pharma Mega Omega 3&6&9 60 Caps",
+"price": 145.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376927",
+"img_src": "ninja",
+"images": [
+"8690088031830.webp",
+"8690088031830-1.webp",
+"8690088031830-2.webp"
+]
+},
+{
+"sku": "JRN00006816",
+"barcode": "8690088031526",
+"cat": 62,
+"ar": "نفيس فارما سيترات المغنيسيوم 20 قرص",
+"en": "Nafees Pharma Magnesium Citrate 20 Tablets",
+"price": 40.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376932",
+"img_src": "ninja",
+"images": [
+"8690088031526.webp",
+"8690088031526-1.webp"
+]
+},
+{
+"sku": "JRN00006817",
+"barcode": "8690088033155",
+"cat": 62,
+"ar": "نفيس فارما اوميجا 3 1000مجم 60 كبسولة جيلاتينية",
+"en": "Nafees Pharma Omega 3 1000 mg 60 Capsule",
+"price": 129.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376935",
+"img_src": "ninja",
+"images": [
+"8690088033155.webp",
+"8690088033155-1.webp",
+"8690088033155-2.webp"
+]
+},
+{
+"sku": "JRN00006818",
+"barcode": "6288005207882",
+"cat": 62,
+"ar": "فالوراكس مكمل غذائي شراب 60 مل",
+"en": "Valorx Dietary Supplement Drink 60 ml",
+"price": 23.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19372815",
+"img_src": "ninja",
+"images": [
+"6288005207882.webp",
+"6288005207882-1.webp",
+"6288005207882-2.webp"
+]
+},
+{
+"sku": "JRN00006819",
+"barcode": "8410885088970",
+"cat": 62,
+"ar": "كولاموف 14 قارورة",
+"en": "CollaMouv 14 Bottle",
+"price": 322.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371925",
+"img_src": "ninja",
+"images": [
+"8410885088970.webp",
+"8410885088970-1.webp"
+]
+},
+{
+"sku": "JRN00006820",
+"barcode": "8410885088994",
+"cat": 62,
+"ar": "نيو رويال كيو 20 قارورة",
+"en": "New Royale Q 20 bottles",
+"price": 219.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371922",
+"img_src": "ninja",
+"images": [
+"8410885088994.webp",
+"8410885088994-1.webp"
+]
+},
+{
+"sku": "JRN00006821",
+"barcode": "838306001588",
+"cat": 62,
+"ar": "امريكان لاب أسيتيل ل كارنيتين 60 كبسولة",
+"en": "American lab acetyl l carnitine 60 caps",
+"price": 285.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6133270",
+"img_src": "ninja",
+"images": [
+"838306001588.webp",
+"838306001588-1.webp",
+"838306001588-2.webp"
+]
+},
+{
+"sku": "JRN00006822",
+"barcode": "06285128005364",
+"cat": 62,
+"ar": "جي بي فيتا سي زنك 60 كبسولة",
+"en": "Jp Vita C And Zinc 60 Capsule",
+"price": 33.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19378647",
+"img_src": "ninja",
+"images": [
+"06285128005364.webp",
+"06285128005364-1.webp",
+"06285128005364-2.webp"
+]
+},
+{
+"sku": "JRN00006823",
+"barcode": "3578830123550",
+"cat": 62,
+"ar": "اركوفارم فوركابيل مقوي للشعر و الاظافر 60 كبسولة",
+"en": "Arkopharma Forcapil Hair + Nail Tonic 60 Capsules",
+"price": 55.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19350836",
+"img_src": "ninja",
+"images": [
+"3578830123550.webp",
+"3578830123550-1.webp",
+"3578830123550-2.webp"
+]
+},
+{
+"sku": "JRN00006824",
+"barcode": "06285128006583",
+"cat": 62,
+"ar": "بريما فيتامين د 3 2000 وحدة 60 كبسولة هلامية",
+"en": "Prima D3 2000 IU 60 Softgel Capsules",
+"price": 33.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19347899",
+"img_src": "ninja",
+"images": [
+"06285128006583.webp",
+"06285128006583-1.webp",
+"06285128006583-2.webp"
+]
+},
+{
+"sku": "JRN00006825",
+"barcode": "06285128011723",
+"cat": 62,
+"ar": "جي بي اوميجا 3 567 مجم 60 كبسولة",
+"en": "Jp Omega 3 567 mg 60 Capsules",
+"price": 126.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19347887",
+"img_src": "ninja",
+"images": [
+"06285128011723.webp",
+"06285128011723-1.webp",
+"06285128011723-2.webp"
+]
+},
+{
+"sku": "JRN00006826",
+"barcode": "6251613000534",
+"cat": 62,
+"ar": "سنترم فضي مع لوتين للكبار 50+ 100 قرص",
+"en": "Centrum Silver With Lutein adult 50+100 Tab",
+"price": 55.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13377512",
+"img_src": "ninja",
+"images": [
+"6251613000534.webp",
+"6251613000534-1.webp",
+"6251613000534-2.webp"
+]
+},
+{
+"sku": "JRN00006827",
+"barcode": "6285128015714",
+"cat": 62,
+"ar": "جي بي اوميجا 3 1000 مجم 60 كبسولة",
+"en": "Jp Omega 3 1000 Mg Sg 60 Capsules",
+"price": 192.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13379487",
+"img_src": "ninja",
+"images": [
+"6285128015714.webp",
+"6285128015714-1.webp",
+"6285128015714-2.webp"
+]
+},
+{
+"sku": "JRN00006828",
+"barcode": "8410885075239",
+"cat": 62,
+"ar": "مارنيز رويال جيلي 1000 مجم 30 كبسولة",
+"en": "Marnys Royal Jelly 1000 Mg 30 Capsules",
+"price": 195.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13382569",
+"img_src": "ninja",
+"images": [
+"8410885075239.webp",
+"8410885075239-1.webp",
+"8410885075239-2.webp"
+]
+},
+{
+"sku": "JRN00006829",
+"barcode": "8445290609502",
+"cat": 62,
+"ar": "فيتال بروتين الكولاجين من مصدر بحري بدون نكهة 221 جم",
+"en": "Vital Proteins Marine Collagen Unflavored 221 g",
+"price": 237.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19344354",
+"img_src": "ninja",
+"images": [
+"8445290609502.webp",
+"8445290609502-1.webp",
+"8445290609502-2.webp"
+]
+},
+{
+"sku": "JRN00006830",
+"barcode": "6285074005609",
+"cat": 62,
+"ar": "ريدوكسون اقراص التركيبه الثلاثيه بطعم البرتقال عزز مناعتك 15 قرص فوار",
+"en": "Redoxon Immune complete 15 effervescent with orange flavour Tablet",
+"price": 38.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19385196",
+"img_src": "ninja",
+"images": [
+"6285074005609.webp",
+"6285074005609-1.webp",
+"6285074005609-2.webp"
+]
+},
+{
+"sku": "JRN00006831",
+"barcode": "3578830110468",
+"cat": 62,
+"ar": "أركوفارما كوبالين 45 كبسولة",
+"en": "Arkopharma Cupaline 45 Caps.",
+"price": 95.95,
+"special": 82.0,
+"src": "ninja",
+"ninja_id": "5-19380444",
+"img_src": "ninja",
+"images": [
+"3578830110468.webp",
+"3578830110468-1.webp",
+"3578830110468-2.webp"
+]
+},
+{
+"sku": "JRN00006832",
+"barcode": "064642092755",
+"cat": 62,
+"ar": "جاميسون فيتامين سي 1000 مجم 100 كبسولة",
+"en": "Jamieson Vitamin C 1000 Mg 100 Capsules",
+"price": 54.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381959",
+"img_src": "ninja",
+"images": [
+"064642092755.webp",
+"064642092755-1.webp",
+"064642092755-2.webp"
+]
+},
+{
+"sku": "JRN00006833",
+"barcode": "06285128006279",
+"cat": 62,
+"ar": "جي بي جلافولين 300 جم 60 كبسولة",
+"en": "Jp Glavolean 300 mg 60 Capsule",
+"price": 489.0,
+"special": 440.0,
+"src": "ninja",
+"ninja_id": "5-19381962",
+"img_src": "ninja",
+"images": [
+"06285128006279.webp",
+"06285128006279-1.webp",
+"06285128006279-2.webp"
+]
+},
+{
+"sku": "JRN00006834",
+"barcode": "06285128014724",
+"cat": 62,
+"ar": "جي بي هيماديد 200 جم 120 قرص",
+"en": "Jp Hemadid 200 mg 120 Tablets",
+"price": 63.15,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381954",
+"img_src": "ninja",
+"images": [
+"06285128014724.webp",
+"06285128014724-1.webp",
+"06285128014724-2.webp"
+]
+},
+{
+"sku": "JRN00006835",
+"barcode": "8410885086471",
+"cat": 62,
+"ar": "مارنيز زيت السلمون أوميجا 3 فورت 1000 مجم 60 كبسولة",
+"en": "Marnys Salmon Oil Omega 3 Forte 1000 mg 60 Capsules",
+"price": 160.0,
+"special": 111.95,
+"src": "ninja",
+"ninja_id": "5-19347912",
+"img_src": "ninja",
+"images": [
+"8410885086471.webp",
+"8410885086471-1.webp",
+"8410885086471-2.webp"
+]
+},
+{
+"sku": "JRN00006836",
+"barcode": "06285128011884",
+"cat": 62,
+"ar": "جي بي نمر رويال 1000 ملجم 30 كبسولة",
+"en": "JP Nemr Royal 1000 mg 30 Capsules",
+"price": 189.98,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19350959",
+"img_src": "ninja",
+"images": [
+"06285128011884.webp",
+"06285128011884-1.webp",
+"06285128011884-2.webp"
+]
+},
+{
+"sku": "JRN00006837",
+"barcode": "6281200000470",
+"cat": 62,
+"ar": "جي بي كو-كيو 10 100 مجم 30 كبسولة",
+"en": "Co-Q10 100 mg 30 Capsules",
+"price": 112.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19350783",
+"img_src": "ninja",
+"images": [
+"6281200000470.webp",
+"6281200000470-1.webp",
+"6281200000470-2.webp"
+]
+},
+{
+"sku": "JRN00006838",
+"barcode": "8410885077394",
+"cat": 62,
+"ar": "مارنيز بروبوليس 1000 مجم 30 كبسولة",
+"en": "Marnys Propolis 1000 mg 30 Capsules",
+"price": 130.0,
+"special": 90.95,
+"src": "ninja",
+"ninja_id": "5-19347966",
+"img_src": "ninja",
+"images": [
+"8410885077394.webp",
+"8410885077394-1.webp",
+"8410885077394-2.webp"
+]
+},
+{
+"sku": "JRN00006839",
+"barcode": "064642073945",
+"cat": 62,
+"ar": "جاميسون كروميوم مخلبي 200 مايكروغرام 100 قرص",
+"en": "Jamieson Chelated Chromium 200 mcg 100 Tablets",
+"price": 55.0,
+"special": 43.95,
+"src": "ninja",
+"ninja_id": "5-19347658",
+"img_src": "ninja",
+"images": [
+"064642073945.webp",
+"064642073945-1.webp"
+]
+},
+{
+"sku": "JRN00006840",
+"barcode": "064642079336",
+"cat": 62,
+"ar": "جاميسون كيو 10 يوبيكينون 250 مجم 30 كبسولة هلامية",
+"en": "Jamieson Q10 Ubiquinone 250 mg 30 Softgels Tablets",
+"price": 195.0,
+"special": 156.0,
+"src": "ninja",
+"ninja_id": "5-19347694",
+"img_src": "ninja",
+"images": [
+"064642079336.webp",
+"064642079336-1.webp",
+"064642079336-2.webp"
+]
+},
+{
+"sku": "JRN00006841",
+"barcode": "064642073969",
+"cat": 62,
+"ar": "جاميسون سيلينيوم 50 مكجم 100 قرص",
+"en": "Jamieson Selenium 50 mcg 100 Tablets",
+"price": 23.0,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19347720",
+"img_src": "ninja",
+"images": [
+"064642073969.webp",
+"064642073969-1.webp",
+"064642073969-2.webp"
+]
+},
+{
+"sku": "JRN00006842",
+"barcode": "064642079527",
+"cat": 62,
+"ar": "جاميسون اوميجا 3 كومبليت 600 مجم 80 كبسولة هلامية",
+"en": "Jamieson Omega 3 Complete 600 mg 80 Softgels Tablets",
+"price": 182.0,
+"special": 139.0,
+"src": "ninja",
+"ninja_id": "5-19347741",
+"img_src": "ninja",
+"images": [
+"064642079527.webp",
+"064642079527-1.webp",
+"064642079527-2.webp"
+]
+},
+{
+"sku": "JRN00006843",
+"barcode": "064642079077",
+"cat": 62,
+"ar": "جاميسون كالسيوم + فيتامين د 3 1000 وحدة 90 قرص",
+"en": "Jamieson Calcium 500 Mg + Vitamin D3 1000 Iu 90 Tablets",
+"price": 49.5,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-19347813",
+"img_src": "ninja",
+"images": [
+"064642079077.webp",
+"064642079077-1.webp",
+"064642079077-2.webp"
+]
+},
+{
+"sku": "JRN00006844",
+"barcode": "064642073983",
+"cat": 62,
+"ar": "جاميسون زنك 10 مجم 100 قرص",
+"en": "Jamieson Zinc 10 mg 100 Tablets",
+"price": 55.0,
+"special": 46.95,
+"src": "ninja",
+"ninja_id": "5-19347822",
+"img_src": "ninja",
+"images": [
+"064642073983.webp",
+"064642073983-1.webp",
+"064642073983-2.webp"
+]
+},
+{
+"sku": "JRN00006845",
+"barcode": "064642091802",
+"cat": 62,
+"ar": "جاميسون التوت البري 60 كبسولة",
+"en": "Jamieson Cranberry 60 Capsules",
+"price": 129.0,
+"special": 99.0,
+"src": "ninja",
+"ninja_id": "5-19347841",
+"img_src": "ninja",
+"images": [
+"064642091802.webp",
+"064642091802-1.webp",
+"064642091802-2.webp"
+]
+},
+{
+"sku": "JRN00006846",
+"barcode": "064642073914",
+"cat": 62,
+"ar": "جاميسون زيت كبد سمك القد 100 كبسولة هلامية",
+"en": "Jamieson Cod Liver Oil 100 Softgels Tablets",
+"price": 96.15,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19347843",
+"img_src": "ninja",
+"images": [
+"064642073914.webp",
+"064642073914-1.webp",
+"064642073914-2.webp"
+]
+},
+{
+"sku": "JRN00006847",
+"barcode": "064642077233",
+"cat": 62,
+"ar": "جاميسون فلوشيلد ايشنيسيا 1000 مجم 20 كبسولة هلامية",
+"en": "Jamieson Flushield 1000 mg 20 Softgels Tablets",
+"price": 98.0,
+"special": 78.95,
+"src": "ninja",
+"ninja_id": "5-19347881",
+"img_src": "ninja",
+"images": [
+"064642077233.webp",
+"064642077233-1.webp"
+]
+},
+{
+"sku": "JRN00006848",
+"barcode": "064642077295",
+"cat": 62,
+"ar": "جاميسون زيت السلمون البري 90 كبسولة هلامية",
+"en": "Jamieson Wild Salmon Oil 90 Softgels Tablets",
+"price": 142.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19347905",
+"img_src": "ninja",
+"images": [
+"064642077295.webp",
+"064642077295-1.webp"
+]
+},
+{
+"sku": "JRN00006849",
+"barcode": "6285128015578",
+"cat": 62,
+"ar": "جي بي كرانبيري 60 كبسوله",
+"en": "Jp Cranberry 60 Capsules",
+"price": 93.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19347771",
+"img_src": "ninja",
+"images": [
+"6285128015578.webp",
+"6285128015578-1.webp",
+"6285128015578-2.webp"
+]
+},
+{
+"sku": "JRN00006850",
+"barcode": "6281200000456",
+"cat": 62,
+"ar": "جي بي فارما اوميجا 3 - 567 مجم 30 كبسولة",
+"en": "Jp Omega 3 - 567 Mg 30 Capsules",
+"price": 69.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13383952",
+"img_src": "ninja",
+"images": [
+"6281200000456.webp",
+"6281200000456-1.webp",
+"6281200000456-2.webp"
+]
+},
+{
+"sku": "JRN00006851",
+"barcode": "5023652136267",
+"cat": 62,
+"ar": "مارشينز فيتامينات نقط بنكهة البرتقال 50 مل",
+"en": "Martians Multivitamin Drops Orange Flavor 50 ml",
+"price": 45.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369687",
+"img_src": "ninja",
+"images": [
+"5023652136267.webp",
+"5023652136267-1.webp",
+"5023652136267-2.webp"
+]
+},
+{
+"sku": "JRN00006852",
+"barcode": "795044248166",
+"cat": 62,
+"ar": "موفاسيد يحتوي على حمض ألفا ليبويك 600 ملغ 30 كبسولة",
+"en": "Movacid Alpha Lipoic Acid 600 Mg 30 Capsules",
+"price": 150.95,
+"special": 130.0,
+"src": "ninja",
+"ninja_id": "5-19369986",
+"img_src": "ninja",
+"images": [
+"795044248166.webp",
+"795044248166-1.webp",
+"795044248166-2.webp"
+]
+},
+{
+"sku": "JRN00006853",
+"barcode": "795044248234",
+"cat": 62,
+"ar": "أوميجور بلس بنكهة المانجو والخوخ 150 مل",
+"en": "Omegore Plus Mango Peach Flavour 150 ml",
+"price": 104.95,
+"special": 75.0,
+"src": "ninja",
+"ninja_id": "5-19369997",
+"img_src": "ninja",
+"images": [
+"795044248234.webp",
+"795044248234-1.webp",
+"795044248234-2.webp"
+]
+},
+{
+"sku": "JRN00006854",
+"barcode": "835776000882",
+"cat": 62,
+"ar": "مستر تومي مكمل غذائي للأطفال يحتوي على أوميجا 3 و دي اتش ايه 60 قطعة",
+"en": "Mr.Tumee Food Supplements Omega 3 and DHA for Kids 60 Gummies",
+"price": 135.0,
+"special": 94.95,
+"src": "ninja",
+"ninja_id": "5-19311015",
+"img_src": "ninja",
+"images": [
+"835776000882.webp",
+"835776000882-1.webp",
+"835776000882-2.webp"
+]
+},
+{
+"sku": "JRN00006855",
+"barcode": "835776000035",
+"cat": 62,
+"ar": "مستر تومي مكمل غذائي للأطفال يحتوي على فيتامينات ومعادن متعددة 60 قطعة",
+"en": "Mr.Tumee Food Supplements Multivitamine and Mineral for Kids 60 Gummies",
+"price": 95.0,
+"special": 66.95,
+"src": "ninja",
+"ninja_id": "5-19311016",
+"img_src": "ninja",
+"images": [
+"835776000035.webp",
+"835776000035-1.webp",
+"835776000035-2.webp"
+]
+},
+{
+"sku": "JRN00006856",
+"barcode": "835776000158",
+"cat": 62,
+"ar": "مستر تومي مكمل غذائي للأطفال يحتوي على كالسيوم و فيتامين د 60 قطعة",
+"en": "Mr.Tumee Calcium and Vitamin D for Kids 60 Gummies",
+"price": 85.0,
+"special": 59.95,
+"src": "ninja",
+"ninja_id": "5-19311018",
+"img_src": "ninja",
+"images": [
+"835776000158.webp",
+"835776000158-1.webp",
+"835776000158-2.webp"
+]
+},
+{
+"sku": "JRN00006857",
+"barcode": "9327155008240",
+"cat": 62,
+"ar": "مذرنيست اشواجندا 500 مجم 60 جاميز",
+"en": "Mothernest Ashwagandha 500 mg 60 Gummies",
+"price": 149.5,
+"special": 129.0,
+"src": "ninja",
+"ninja_id": "5-19410969",
+"img_src": "ninja",
+"images": [
+"9327155008240.webp"
+]
+},
+{
+"sku": "JRN00006858",
+"barcode": "795044248159",
+"cat": 62,
+"ar": "موفاسيد ألفا ليبويك 400 ملغ 60 كبسولة",
+"en": "Movacid Alpha Lipoic Acid 400 Mg 60 Capsules",
+"price": 170.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369987",
+"img_src": "ninja",
+"images": [
+"795044248159.webp",
+"795044248159-1.webp",
+"795044248159-2.webp"
+]
+},
+{
+"sku": "JRN00006859",
+"barcode": "6224009868032",
+"cat": 62,
+"ar": "ليبو-أراكس 600 30 قرص مضغ",
+"en": "Lipo-Arax 600 30 Chewable Tablet",
+"price": 150.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370007",
+"img_src": "ninja",
+"images": [
+"6224009868032.webp",
+"6224009868032-1.webp",
+"6224009868032-2.webp"
+]
+},
+{
+"sku": "JRN00006860",
+"barcode": "6939964032670",
+"cat": 62,
+"ar": "إيلمينت اشواكالم جاميز مكمل غذائي بنكهة التوت البري والتوت الازرق 60 قطعة",
+"en": "Element Ashwagandha Gummies Cranberry and Blueberry Flavored 60 Gummies",
+"price": 160.0,
+"special": 111.95,
+"src": "ninja",
+"ninja_id": "5-19371863",
+"img_src": "ninja",
+"images": [
+"6939964032670.webp",
+"6939964032670-1.webp",
+"6939964032670-2.webp"
+]
+},
+{
+"sku": "JRN00006861",
+"barcode": "8680512627364",
+"cat": 62,
+"ar": "نوتراكسين فيتامين ب 12 60 قرص تحت اللسان",
+"en": "Nutraxin Vitamin B12 60 sublingual Tabs",
+"price": 63.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376933",
+"img_src": "ninja",
+"images": [
+"8680512627364.webp",
+"8680512627364-1.webp",
+"8680512627364-2.webp"
+]
+},
+{
+"sku": "JRN00006862",
+"barcode": "8682960479922",
+"cat": 62,
+"ar": "نفيس فارما حلوى فيتامينات متعددة للأطفال 60 حبه",
+"en": "Nafees Pharma Multivitamin Kids 60 Gummies",
+"price": 120.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376938",
+"img_src": "ninja",
+"images": [
+"8682960479922.webp",
+"8682960479922-1.webp",
+"8682960479922-2.webp"
+]
+},
+{
+"sku": "JRN00006863",
+"barcode": "3578830116316",
+"cat": 62,
+"ar": "أركوفارما أركوريلاكس للنوم 30 قطعة",
+"en": "Arkopharma Arkorelax Sleep 30 Gummies",
+"price": 120.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376942",
+"img_src": "ninja",
+"images": [
+"3578830116316.webp",
+"3578830116316-1.webp",
+"3578830116316-2.webp"
+]
+},
+{
+"sku": "JRN00006864",
+"barcode": "8690088031540",
+"cat": 62,
+"ar": "نفيس فارما مع أرجنين و زيت السمك (أوميقا 3) و فيتامينات متعددة شراب للأطفال 150 مل",
+"en": "Nafees Pharma Omega 3 with arginin and multivitamins Kids Syrup 150 ml",
+"price": 90.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376944",
+"img_src": "ninja",
+"images": [
+"8690088031540.webp",
+"8690088031540-1.webp",
+"8690088031540-2.webp"
+]
+},
+{
+"sku": "JRN00006865",
+"barcode": "064642073952",
+"cat": 62,
+"ar": "جاميسون ريلاكس فورمولا 30 كبسولة",
+"en": "Jamieson Relaxing Herbal Formula 30 Caps",
+"price": 136.0,
+"special": 116.0,
+"src": "ninja",
+"ninja_id": "5-19378497",
+"img_src": "ninja",
+"images": [
+"064642073952.webp",
+"064642073952-1.webp",
+"064642073952-2.webp"
+]
+},
+{
+"sku": "JRN00006866",
+"barcode": "5060748880048",
+"cat": 62,
+"ar": "جاميزنج فيتامينات متعددة للأطفال 60 قطعة",
+"en": "Gumazing Multivitamin For Kids 60 Gummies",
+"price": 135.0,
+"special": 95.0,
+"src": "ninja",
+"ninja_id": "5-19379367",
+"img_src": "ninja",
+"images": [
+"5060748880048.webp",
+"5060748880048-1.webp",
+"5060748880048-2.webp"
+]
+},
+{
+"sku": "JRN00006867",
+"barcode": "5060748880055",
+"cat": 62,
+"ar": "جاميزنج أوميجا 3 للأطفال 60 قطعة",
+"en": "Gumazing Omega 3 For Kids 60 Gummies",
+"price": 135.0,
+"special": 95.0,
+"src": "ninja",
+"ninja_id": "5-19379368",
+"img_src": "ninja",
+"images": [
+"5060748880055.webp",
+"5060748880055-1.webp",
+"5060748880055-2.webp"
+]
+},
+{
+"sku": "JRN00006868",
+"barcode": "5060748880062",
+"cat": 62,
+"ar": "جاميزنج فيتامين سي و زنك للأطفال 60 قطعة",
+"en": "Gumazing Vitamin C and Zinc for Kids 60 Gummies",
+"price": 114.0,
+"special": 80.0,
+"src": "ninja",
+"ninja_id": "5-19379369",
+"img_src": "ninja",
+"images": [
+"5060748880062.webp",
+"5060748880062-1.webp",
+"5060748880062-2.webp"
+]
+},
+{
+"sku": "JRN00006869",
+"barcode": "5060748880031",
+"cat": 62,
+"ar": "جاميزنج كالسيوم و فيتامين د 3 للأطفال 60 قطعة",
+"en": "Gumazing Calcium and Vitamin 3 for Kids 60 Gummies",
+"price": 127.95,
+"special": 90.0,
+"src": "ninja",
+"ninja_id": "5-19379370",
+"img_src": "ninja",
+"images": [
+"5060748880031.webp",
+"5060748880031-1.webp",
+"5060748880031-2.webp"
+]
+},
+{
+"sku": "JRN00006870",
+"barcode": "6939964024187",
+"cat": 62,
+"ar": "إيلمينت هابي فيتامينات متعددة للأطفال 90 قطعة",
+"en": "Element Happy Multivitamins for Kids 90 Gummies",
+"price": 115.0,
+"special": 80.95,
+"src": "ninja",
+"ninja_id": "5-19289023",
+"img_src": "ninja",
+"images": [
+"6939964024187.webp",
+"6939964024187-1.webp",
+"6939964024187-2.webp"
+]
+},
+{
+"sku": "JRN00006871",
+"barcode": "721688166368",
+"cat": 62,
+"ar": "دريم بيوتي بالكولاجين و الملاتونين يساعد على النوم ويدعم صحة الشعر و البشرة 75 مل",
+"en": "Dream Beauty with Collagen and Melatonin Support Sleep Hair and Skin 75 ml",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396696",
+"img_src": "ninja",
+"images": [
+"721688166368.webp",
+"721688166368-1.webp",
+"721688166368-2.webp"
+]
+},
+{
+"sku": "JRN00006872",
+"barcode": "5060748883001",
+"cat": 62,
+"ar": "جاميزنج مجموعة تقوية فيتامين C و زنك و أوميغا 3 مع لعبة 120 قطعة",
+"en": "Gumazing Booster Pack Vitamin C and Zinc + Omega 3 with Plush Toy 120 Gummies",
+"price": 230.0,
+"special": 138.0,
+"src": "ninja",
+"ninja_id": "5-19397525",
+"img_src": "ninja",
+"images": [
+"5060748883001.webp",
+"5060748883001-1.webp"
+]
+},
+{
+"sku": "JRN00006873",
+"barcode": "5060748880192",
+"cat": 62,
+"ar": "جاميزنج مجموعة أساسية كالسيوم وفيتامين D3 و مالتي فيتامين مع لعبة 120 قطعة",
+"en": "Gumazing Essential Combo Pack Calcium and Vitamin D3 + Multivitamin with Plush Toy 120 Gummies",
+"price": 230.0,
+"special": 138.0,
+"src": "ninja",
+"ninja_id": "5-19397526",
+"img_src": "ninja",
+"images": [
+"5060748880192.webp",
+"5060748880192-1.webp",
+"5060748880192-2.webp"
+]
+},
+{
+"sku": "JRN00006874",
+"barcode": "5060748880208",
+"cat": 62,
+"ar": "جاميزنج مجموعة نباتية كالسيوم وفيتامين D3 و فيتامين C وزنك و مالتي فيتامين مع لعبة 180 قطعة",
+"en": "Gumazing Veg Pack Calcium and Vitamin D3 and Vitamin C and Zinc and Multivitamin with Plush Toy 180 Gummies",
+"price": 345.0,
+"special": 241.95,
+"src": "ninja",
+"ninja_id": "5-19397527",
+"img_src": "ninja",
+"images": [
+"5060748880208.webp"
+]
+},
+{
+"sku": "JRN00006875",
+"barcode": "5060748880406",
+"cat": 62,
+"ar": "جاميزنج مجموعة تقوية المناعة فيتامين C و زنك و مالتي فيتامين وأوميغا 3 مع لعبة 180 قطعة",
+"en": "Gumazing Immunity Pack Vitamin C & Zinc and Multivitamin and Omega 3 with Plush Toy 180 Gummies",
+"price": 345.0,
+"special": 241.95,
+"src": "ninja",
+"ninja_id": "5-19397528",
+"img_src": "ninja",
+"images": [
+"5060748880406.webp",
+"5060748880406-1.webp",
+"5060748880406-2.webp"
+]
+},
+{
+"sku": "JRN00006876",
+"barcode": "5060748880215",
+"cat": 62,
+"ar": "جاميزنج كومبو عائلي كالسيوم وفيتامين D3 و فيتامين C و زنك و مالتي فيتامين و أوميغا 3 مع لعبة 240 قطعة",
+"en": "Gumazing Family Pack Calcium and Vitamin D3 and Vitamin C and Zinc and Multivitamin and Omega3 with Plush Toy 240 Gummies",
+"price": 460.0,
+"special": 321.95,
+"src": "ninja",
+"ninja_id": "5-19397529",
+"img_src": "ninja",
+"images": [
+"5060748880215.webp",
+"5060748880215-1.webp"
+]
+},
+{
+"sku": "JRN00006877",
+"barcode": "5060748883995",
+"cat": 62,
+"ar": "جاميزنج كالسيوم و فيتامين D3 وK2 للأطفال 60 قطعة",
+"en": "Gumazing Calcium and D3 and K2 Gummies 60 Gummies",
+"price": 178.25,
+"special": 115.0,
+"src": "ninja",
+"ninja_id": "5-19397531",
+"img_src": "ninja",
+"images": [
+"5060748883995.webp"
+]
+},
+{
+"sku": "JRN00006878",
+"barcode": "6285343001547",
+"cat": 62,
+"ar": "موم شوكولاتة بلس مع الكالسيوم وفيتامين د 30 قطعة",
+"en": "Mom Chocolate Plus With Calcium and Vit D 30 Tablets",
+"price": 91.95,
+"special": 63.95,
+"src": "ninja",
+"ninja_id": "5-19370012",
+"img_src": "ninja",
+"images": [
+"6285343001547.webp",
+"6285343001547-1.webp",
+"6285343001547-2.webp"
+]
+},
+{
+"sku": "JRN00006879",
+"barcode": "6939964026242",
+"cat": 62,
+"ar": "إيلمينت بيوتين للشعر والاظافر 60 قطعة",
+"en": "Element Biotin Gummies for Hair and Nail 60 Gummies",
+"price": 150.0,
+"special": 104.95,
+"src": "ninja",
+"ninja_id": "5-19289021",
+"img_src": "ninja",
+"images": [
+"6939964026242.webp",
+"6939964026242-1.webp",
+"6939964026242-2.webp"
+]
+},
+{
+"sku": "JRN00006880",
+"barcode": "037182670059",
+"cat": 62,
+"ar": "موم شوكولاتة إكسترا 30 قطعة",
+"en": "Mom Chocolate Extra 30 Tablets",
+"price": 79.0,
+"special": 63.95,
+"src": "ninja",
+"ninja_id": "5-19369967",
+"img_src": "ninja",
+"images": [
+"037182670059.webp",
+"037182670059-1.webp",
+"037182670059-2.webp"
+]
+},
+{
+"sku": "JRN00006881",
+"barcode": "6939964032687",
+"cat": 62,
+"ar": "إيلمينت جلو كولاجين 60 قطعه",
+"en": "Element Glow Collagen 60 Gummies",
+"price": 175.0,
+"special": 122.95,
+"src": "ninja",
+"ninja_id": "5-19371864",
+"img_src": "ninja",
+"images": [
+"6939964032687.webp",
+"6939964032687-1.webp",
+"6939964032687-2.webp"
+]
+},
+{
+"sku": "JRN00006882",
+"barcode": "785249791079",
+"cat": 62,
+"ar": "بيو سيستين 120 قرص للمضغ",
+"en": "Biocystine 120 Chewable Tablets",
+"price": 211.97,
+"special": 170.0,
+"src": "ninja",
+"ninja_id": "5-19378535",
+"img_src": "ninja",
+"images": [
+"785249791079.webp",
+"785249791079-1.webp",
+"785249791079-2.webp"
+]
+},
+{
+"sku": "JRN00006883",
+"barcode": "4029444123324",
+"cat": 62,
+"ar": "ديلي بوو مكمل غذائي فيتامينات متعددة مع زنك ويود بنكهة التفاح الأخضر 90 قطعة",
+"en": "Deleboo Multivitamin Beans Zinc and Iodine Green Apple Flavor 90 Gummies",
+"price": 115.0,
+"special": 57.95,
+"src": "ninja",
+"ninja_id": "5-19317555",
+"img_src": "ninja",
+"images": [
+"4029444123324.webp",
+"4029444123324-1.webp",
+"4029444123324-2.webp"
+]
+},
+{
+"sku": "JRN00006884",
+"barcode": "064642073921",
+"cat": 62,
+"ar": "جاميسون زيت زهرة الربيع المسائية 90 كبسولة هلامية",
+"en": "Jamieson Evening Primrose Oil 500 mg 90 Softgels Tablets",
+"price": 86.55,
+"special": 69.95,
+"src": "ninja",
+"ninja_id": "5-19347891",
+"img_src": "ninja",
+"images": [
+"064642073921.webp",
+"064642073921-1.webp",
+"064642073921-2.webp"
+]
+}
+]

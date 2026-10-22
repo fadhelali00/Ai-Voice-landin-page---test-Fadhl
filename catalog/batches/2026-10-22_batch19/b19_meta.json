@@ -1,0 +1,4607 @@
+[
+{
+"sku": "JRN00008200",
+"barcode": "6290400003914",
+"cat": 16,
+"ar": "وايت هارفست شوفان حبوب كاملة برطمان 800 جم",
+"en": "White Harvest Whole Grain Oats Jar 800 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397274",
+"img_src": "ninja",
+"images": [
+"6290400003914.webp",
+"6290400003914-1.webp",
+"6290400003914-2.webp"
+]
+},
+{
+"sku": "JRN00008201",
+"barcode": "7613034389138",
+"cat": 16,
+"ar": "تشيريوس حبوب الفطور بالعسل 375 جم",
+"en": "Cheerios Honey Breakfast Cereal 375 g",
+"price": 42.95,
+"special": 34.95,
+"src": "ninja",
+"ninja_id": "5-1069",
+"img_src": "ninja",
+"images": [
+"7613034389138.webp",
+"7613034389138-1.webp",
+"7613034389138-2.webp"
+]
+},
+{
+"sku": "JRN00008202",
+"barcode": "6290400003907",
+"cat": 16,
+"ar": "وايت هارفست شوفان 400 جم",
+"en": "White Harvest Oats 400 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397273",
+"img_src": "ninja",
+"images": [
+"6290400003907.webp",
+"6290400003907-1.webp",
+"6290400003907-2.webp"
+]
+},
+{
+"sku": "JRN00008203",
+"barcode": "6281041228415",
+"cat": 17,
+"ar": "حلواني مربى الفراولة 400 جم",
+"en": "Halwani Strawberry Jam 400 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4699",
+"img_src": "ninja",
+"images": [
+"6281041228415.webp",
+"6281041228415-1.webp",
+"6281041228415-2.webp"
+]
+},
+{
+"sku": "JRN00008204",
+"barcode": "5900020045348",
+"cat": 16,
+"ar": "فيتنس كرانشي شوفان جرانولا مع كورن فليكس 300 جم",
+"en": "Fitness Crunchy Oats Granola with Cornflakes 300 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19313671",
+"img_src": "ninja",
+"images": [
+"5900020045348.webp",
+"5900020045348-1.webp",
+"5900020045348-2.webp"
+]
+},
+{
+"sku": "JRN00008205",
+"barcode": "6281014110129",
+"cat": 17,
+"ar": "قودي زبدة الفول السوداني خشنة 510 جم",
+"en": "Goody Chunky Peanut Butter 510 g",
+"price": 23.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-14286761",
+"img_src": "ninja",
+"images": [
+"6281014110129.webp",
+"6281014110129-1.webp",
+"6281014110129-2.webp"
+]
+},
+{
+"sku": "JRN00008206",
+"barcode": "6281014110020",
+"cat": 17,
+"ar": "قودي زبدة الفول السوداني ناعمة 510 جم",
+"en": "Goody Creamy Peanut Butter 510 g",
+"price": 22.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-14286845",
+"img_src": "ninja",
+"images": [
+"6281014110020.webp",
+"6281014110020-1.webp",
+"6281014110020-2.webp"
+]
+},
+{
+"sku": "JRN00008207",
+"barcode": "80177173",
+"cat": 17,
+"ar": "نوتيلا شوكولاتة بالبندق قابلة للدهن 350 جم",
+"en": "Nutella Chocolate With Hazelnut Spread 350 g",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19331200",
+"img_src": "ninja",
+"images": [
+"80177173.webp",
+"80177173-1.webp",
+"80177173-2.webp"
+]
+},
+{
+"sku": "JRN00008208",
+"barcode": "6281041022211",
+"cat": 17,
+"ar": "النخله حلاوه طحينية بدون سكر 250 جم",
+"en": "Al-Nakhlah Halawa Sugar free 250 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19332999",
+"img_src": "ninja",
+"images": [
+"6281041022211.webp",
+"6281041022211-1.webp"
+]
+},
+{
+"sku": "JRN00008209",
+"barcode": "5053827184687",
+"cat": 16,
+"ar": "كيلوقز كورن فليكس رقائق ابو ديك 450 جم",
+"en": "Kelloggs Corn Flakes 450 g",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19399374",
+"img_src": "ninja",
+"images": [
+"5053827184687.webp",
+"5053827184687-1.webp"
+]
+},
+{
+"sku": "JRN00008210",
+"barcode": "6281055000298",
+"cat": 16,
+"ar": "هناء حبوب كاملة شوفان 450 جم",
+"en": "Hanaa Whole Traditional Oats 450 g",
+"price": 12.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-11443611",
+"img_src": "ninja",
+"images": [
+"6281055000298.webp",
+"6281055000298-1.webp",
+"6281055000298-2.webp"
+]
+},
+{
+"sku": "JRN00008211",
+"barcode": "717273508644",
+"cat": 17,
+"ar": "أمريكان جاردن زبدة الفول السوداني خشنة 454 جم",
+"en": "American Garden Chunky Peanut Butter 454 g",
+"price": 22.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19318370",
+"img_src": "ninja",
+"images": [
+"717273508644.webp",
+"717273508644-1.webp",
+"717273508644-2.webp"
+]
+},
+{
+"sku": "JRN00008212",
+"barcode": "6281073310102",
+"cat": 19,
+"ar": "ساري عسل طبيعي 500 جم",
+"en": "Sary Natural Honey 500 g",
+"price": 28.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19373978",
+"img_src": "ninja",
+"images": [
+"6281073310102.webp",
+"6281073310102-1.webp"
+]
+},
+{
+"sku": "JRN00008213",
+"barcode": "6281073211065",
+"cat": 19,
+"ar": "الشفاء عسل أزهار طبيعي ضغاط 250 جم",
+"en": "Alshifa Natural Floral Honey Squeezer 250 g",
+"price": 25.95,
+"special": 22.95,
+"src": "ninja",
+"ninja_id": "5-19356847",
+"img_src": "ninja",
+"images": [
+"6281073211065.webp",
+"6281073211065-1.webp"
+]
+},
+{
+"sku": "JRN00008214",
+"barcode": "4023300850102",
+"cat": 19,
+"ar": "لانجنيز عسل نحل طبيعي 250 جم",
+"en": "Langnese Bee Honey Natural 250 g",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1480",
+"img_src": "ninja",
+"images": [
+"4023300850102.webp",
+"4023300850102-1.webp",
+"4023300850102-2.webp"
+]
+},
+{
+"sku": "JRN00008215",
+"barcode": "8410076600448",
+"cat": 16,
+"ar": "ناتشر فالي جرانولا مقرمشه مع الشوفان والتوت البري نباتي 5 حبات 42 جم",
+"en": "Nature Valley Crunchy Granola Bars Oats & Berries Vegan 5 pcs 42 g",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-440222",
+"img_src": "ninja",
+"images": [
+"8410076600448.webp",
+"8410076600448-1.webp"
+]
+},
+{
+"sku": "JRN00008216",
+"barcode": "80135876",
+"cat": 17,
+"ar": "نوتيلا شوكولاتة بالبندق قابلة للدهن 400 جم",
+"en": "Nutella Chocolate With Hazelnut Spread 400 g",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11436886",
+"img_src": "ninja",
+"images": [
+"80135876.webp",
+"80135876-1.webp",
+"80135876-2.webp"
+]
+},
+{
+"sku": "JRN00008217",
+"barcode": "6281073210181",
+"cat": 19,
+"ar": "الشفاء عسل أزهار طبيعي 500 جم",
+"en": "Alshifa Natural Floral Honey 500 g",
+"price": 43.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-279",
+"img_src": "ninja",
+"images": [
+"6281073210181.webp",
+"6281073210181-1.webp"
+]
+},
+{
+"sku": "JRN00008218",
+"barcode": "3387390339499",
+"cat": 16,
+"ar": "فيتنس رقائق الفطور الأصلي 375 جم",
+"en": "Fitness Original Breakfast Cereal 375 g",
+"price": 37.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1024",
+"img_src": "ninja",
+"images": [
+"3387390339499.webp",
+"3387390339499-1.webp",
+"3387390339499-2.webp"
+]
+},
+{
+"sku": "JRN00008219",
+"barcode": "6281041217013",
+"cat": 17,
+"ar": "حلواني مربي فراوله بدون سكر 400 جم",
+"en": "Halwani Strawberry No Sugar Added Jam 400 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287907",
+"img_src": "ninja",
+"images": [
+"6281041217013.webp",
+"6281041217013-1.webp",
+"6281041217013-2.webp"
+]
+},
+{
+"sku": "JRN00008220",
+"barcode": "4820221690097",
+"cat": 16,
+"ar": "هابي فليكس كرات الكاكاو 250 جم",
+"en": "Happy Flakes Cocoa Balls 250 g",
+"price": 24.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19344392",
+"img_src": "ninja",
+"images": [
+"4820221690097.webp",
+"4820221690097-1.webp",
+"4820221690097-2.webp"
+]
+},
+{
+"sku": "JRN00008221",
+"barcode": "5900020021281",
+"cat": 16,
+"ar": "كونتري كورن فليكس رقائق الذرة 1000 جم",
+"en": "Country Corn Flakes Cereal 1000 g",
+"price": 44.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-31403",
+"img_src": "ninja",
+"images": [
+"5900020021281.webp"
+]
+},
+{
+"sku": "JRN00008222",
+"barcode": "80051657",
+"cat": 17,
+"ar": "نوتيلا كريمة الشوكولاتة والبندق 30 جم",
+"en": "Nutella Chocolate and Hazelnut Spread 30 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11436305",
+"img_src": "ninja",
+"images": [
+"80051657.webp",
+"80051657-1.webp",
+"80051657-2.webp"
+]
+},
+{
+"sku": "JRN00008223",
+"barcode": "4003994112427",
+"cat": 16,
+"ar": "كيلوقز كورن فليكس 750 جم",
+"en": "Kellogg's Corn Flakes 750 g",
+"price": 40.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-19288637",
+"img_src": "ninja",
+"images": [
+"4003994112427.webp",
+"4003994112427-1.webp",
+"4003994112427-2.webp"
+]
+},
+{
+"sku": "JRN00008224",
+"barcode": "851087000014",
+"cat": 17,
+"ar": "بينت بتر اند كو زبدة الفول السوداني الناعمة 454 جم",
+"en": "Peanut Butter & Co Smooth Operator Peanut Butter 454 g",
+"price": 29.95,
+"special": 21.95,
+"src": "ninja",
+"ninja_id": "5-3555734",
+"img_src": "ninja",
+"images": [
+"851087000014.webp",
+"851087000014-1.webp",
+"851087000014-2.webp"
+]
+},
+{
+"sku": "JRN00008225",
+"barcode": "6287005012823",
+"cat": 19,
+"ar": "كالينا عسل طبيعي 120 جم",
+"en": "Kalina Natural Honey 120 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19304454",
+"img_src": "ninja",
+"images": [
+"6287005012823.webp",
+"6287005012823-1.webp",
+"6287005012823-2.webp"
+]
+},
+{
+"sku": "JRN00008226",
+"barcode": "8445291773042",
+"cat": 16,
+"ar": "فيتنس رقائق الفطور جرانولا بالعسل و الشوفان 350 جم",
+"en": "Fitness Breakfast Cereal Granola With Honey & Oats 350 g",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-34055",
+"img_src": "ninja",
+"images": [
+"8445291773042.webp",
+"8445291773042-1.webp",
+"8445291773042-2.webp"
+]
+},
+{
+"sku": "JRN00008227",
+"barcode": "6281004256332",
+"cat": 17,
+"ar": "يمامة كريمة الكاكاو والبندق قابلة للدهن 360 جم",
+"en": "Yamama Hazelnut and Cocoa Spread 360 g",
+"price": 24.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19332028",
+"img_src": "ninja",
+"images": [
+"6281004256332.webp",
+"6281004256332-1.webp",
+"6281004256332-2.webp"
+]
+},
+{
+"sku": "JRN00008228",
+"barcode": "3033710061983",
+"cat": 16,
+"ar": "شوكابيك الحبوب الكاملة بالشوكولاتة 375 جم",
+"en": "Chocopic Whole Grain Chocolate Chips 375 g",
+"price": 35.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-14013794",
+"img_src": "ninja",
+"images": [
+"3033710061983.webp"
+]
+},
+{
+"sku": "JRN00008229",
+"barcode": "5059319024028",
+"cat": 16,
+"ar": "كيلوقز كوكو بوبس جامبوز 330 جم",
+"en": "Kellogg's Coco Pops Jumbos 330 g",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290855",
+"img_src": "ninja",
+"images": [
+"5059319024028.webp",
+"5059319024028-1.webp",
+"5059319024028-2.webp"
+]
+},
+{
+"sku": "JRN00008230",
+"barcode": "6281000192023",
+"cat": 16,
+"ar": "نولما جرانولا سوبرفود 400 جم",
+"en": "Nolma Superfood Granola Vegan 400 g",
+"price": 36.95,
+"special": 34.95,
+"src": "ninja",
+"ninja_id": "5-19356950",
+"img_src": "ninja",
+"images": [
+"6281000192023.webp",
+"6281000192023-1.webp"
+]
+},
+{
+"sku": "JRN00008231",
+"barcode": "6281063460992",
+"cat": 17,
+"ar": "أورينت جاردنز زبدة فول سوداني ناعمة 227 جم",
+"en": "Orient gardens peanut butter creamy 227 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19319110",
+"img_src": "ninja",
+"images": [
+"6281063460992.webp",
+"6281063460992-1.webp",
+"6281063460992-2.webp"
+]
+},
+{
+"sku": "JRN00008232",
+"barcode": "80176800",
+"cat": 17,
+"ar": "نوتيلا شوكولاتة بالبندق قابلة للدهن 750 جم",
+"en": "Nutella Chocolate With Hazelnut Spread 750 g",
+"price": 39.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11439982",
+"img_src": "ninja",
+"images": [
+"80176800.webp",
+"80176800-1.webp",
+"80176800-2.webp"
+]
+},
+{
+"sku": "JRN00008233",
+"barcode": "5059319026763",
+"cat": 16,
+"ar": "كيلوقز كوكو بوبس الأصلية 480 جم",
+"en": "Kellogg's Coco Pops Original 480 g",
+"price": 45.95,
+"special": 34.95,
+"src": "ninja",
+"ninja_id": "5-19290851",
+"img_src": "ninja",
+"images": [
+"5059319026763.webp",
+"5059319026763-1.webp",
+"5059319026763-2.webp"
+]
+},
+{
+"sku": "JRN00008234",
+"barcode": "6287022200395",
+"cat": 19,
+"ar": "جرين فارمز عسل طبيعي عبوة ضاغطة 300 جم",
+"en": "Green Farms Natural Honey Squeezable 300 g",
+"price": 29.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19293467",
+"img_src": "ninja",
+"images": [
+"6287022200395.webp",
+"6287022200395-1.webp",
+"6287022200395-2.webp"
+]
+},
+{
+"sku": "JRN00008235",
+"barcode": "717273508620",
+"cat": 17,
+"ar": "أمريكان جاردن زبدة الفول السوداني ناعمة 454 جم",
+"en": "American Garden Creamy Peanut Butter 454 g",
+"price": 22.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19318368",
+"img_src": "ninja",
+"images": [
+"717273508620.webp",
+"717273508620-1.webp",
+"717273508620-2.webp"
+]
+},
+{
+"sku": "JRN00008236",
+"barcode": "851087000021",
+"cat": 17,
+"ar": "بينت بتر اند كو زبدة الفول السوداني الخشنة 454 جم",
+"en": "Peanut Butter & Co Crunch Time Peanut Butter 454 g",
+"price": 29.95,
+"special": 21.95,
+"src": "ninja",
+"ninja_id": "5-3555886",
+"img_src": "ninja",
+"images": [
+"851087000021.webp",
+"851087000021-1.webp",
+"851087000021-2.webp"
+]
+},
+{
+"sku": "JRN00008237",
+"barcode": "6281055065778",
+"cat": 16,
+"ar": "هناء حبوب كاملة شوفان 900 جم",
+"en": "Hanaa Whole Traditional Oats 900 g",
+"price": 19.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-11443019",
+"img_src": "ninja",
+"images": [
+"6281055065778.webp",
+"6281055065778-1.webp",
+"6281055065778-2.webp"
+]
+},
+{
+"sku": "JRN00008238",
+"barcode": "3388600000215",
+"cat": 17,
+"ar": "سان دالفور مربى التوت الاسود 284 جم",
+"en": "St. Dalfour Black Raspberry 284 g",
+"price": 31.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-12661658",
+"img_src": "ninja",
+"images": [
+"3388600000215.webp",
+"3388600000215-1.webp",
+"3388600000215-2.webp"
+]
+},
+{
+"sku": "JRN00008239",
+"barcode": "3492390009362",
+"cat": 17,
+"ar": "سان دلفور مربى توت و رمان 284 جم",
+"en": "St. Dalfour Raspberry and Pomegranate 284 g",
+"price": 31.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-12661977",
+"img_src": "ninja",
+"images": [
+"3492390009362.webp",
+"3492390009362-1.webp",
+"3492390009362-2.webp"
+]
+},
+{
+"sku": "JRN00008240",
+"barcode": "6223000059739",
+"cat": 19,
+"ar": "جوود فود دبس التمر 390 جم",
+"en": "Good Food Dates Molasses 390 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19386644",
+"img_src": "ninja",
+"images": [
+"6223000059739.webp",
+"6223000059739-1.webp",
+"6223000059739-2.webp"
+]
+},
+{
+"sku": "JRN00008241",
+"barcode": "6281014110013",
+"cat": 17,
+"ar": "قودي زبدة الفول السوداني ناعمة 340 جم",
+"en": "Goody Creamy Peanut Butter 340 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-237",
+"img_src": "ninja",
+"images": [
+"6281014110013.webp"
+]
+},
+{
+"sku": "JRN00008242",
+"barcode": "6281063633389",
+"cat": 17,
+"ar": "بيب زبدة الفول السوداني الناعمة 227 جم",
+"en": "Peep Creamy Peanut Butter 227 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19344334",
+"img_src": "ninja",
+"images": [
+"6281063633389.webp",
+"6281063633389-1.webp",
+"6281063633389-2.webp"
+]
+},
+{
+"sku": "JRN00008243",
+"barcode": "5900020031006",
+"cat": 16,
+"ar": "كونتري كورن فليكس رقائق الذرة 700 جم",
+"en": "Country Corn Flakes Cereal 700 g",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-31304",
+"img_src": "ninja",
+"images": [
+"5900020031006.webp",
+"5900020031006-1.webp",
+"5900020031006-2.webp"
+]
+},
+{
+"sku": "JRN00008244",
+"barcode": "5900020038777",
+"cat": 16,
+"ar": "نسكويك حبوب إفطار حروف 325 جم",
+"en": "Nesquik Breakfast Cereal Alphabet 325 g",
+"price": 29.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-8900",
+"img_src": "ninja",
+"images": [
+"5900020038777.webp",
+"5900020038777-1.webp",
+"5900020038777-2.webp"
+]
+},
+{
+"sku": "JRN00008245",
+"barcode": "8445290723987",
+"cat": 16,
+"ar": "كيت كات رقائق فطور 330 جم",
+"en": "Kit Kat Cereal 330 g",
+"price": 35.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19203739",
+"img_src": "ninja",
+"images": [
+"8445290723987.webp",
+"8445290723987-1.webp",
+"8445290723987-2.webp"
+]
+},
+{
+"sku": "JRN00008246",
+"barcode": "8445290430724",
+"cat": 16,
+"ar": "نسكويك كرات الحبوب بالشوكولاتة 330 جم",
+"en": "Nesquik Chocolate Cereal Balls 330 g",
+"price": 34.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-12784068",
+"img_src": "ninja",
+"images": [
+"8445290430724.webp",
+"8445290430724-1.webp",
+"8445290430724-2.webp"
+]
+},
+{
+"sku": "JRN00008247",
+"barcode": "3492390011808",
+"cat": 17,
+"ar": "سان دلفور مربى التوت والعنب البري 284 جم",
+"en": "St. Dalfour Cranberry with Blueberry 284 g",
+"price": 31.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-12661998",
+"img_src": "ninja",
+"images": [
+"3492390011808.webp",
+"3492390011808-1.webp",
+"3492390011808-2.webp"
+]
+},
+{
+"sku": "JRN00008248",
+"barcode": "6281000192092",
+"cat": 16,
+"ar": "نولما جرانولا سوبرفود 40 جم 6 أكياس",
+"en": "Nolma Granola Superfood Vegan 6 Packs 40 g",
+"price": 34.95,
+"special": 30.95,
+"src": "ninja",
+"ninja_id": "5-19356947",
+"img_src": "ninja",
+"images": [
+"6281000192092.webp",
+"6281000192092-1.webp"
+]
+},
+{
+"sku": "JRN00008249",
+"barcode": "6223000050859",
+"cat": 17,
+"ar": "مراسي مربي التوت الأحمر 340 جم",
+"en": "Marassi Raspberry Jam 340 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19386636",
+"img_src": "ninja",
+"images": [
+"6223000050859.webp",
+"6223000050859-1.webp",
+"6223000050859-2.webp"
+]
+},
+{
+"sku": "JRN00008250",
+"barcode": "009800860036",
+"cat": 17,
+"ar": "نوتيلا كريمة الكاكاو مع الفول السوداني 371 جم",
+"en": "Nutella Chocolate With Peanut Butter Spread 371 g",
+"price": 46.95,
+"special": 27.95,
+"src": "ninja",
+"ninja_id": "5-19416972",
+"img_src": "ninja",
+"images": [
+"009800860036.webp"
+]
+},
+{
+"sku": "JRN00008251",
+"barcode": "4008713712698",
+"cat": 16,
+"ar": "بوبنز شوكو بوبس 375 جم",
+"en": "Poppins Choco Pops 375 g",
+"price": 25.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19288656",
+"img_src": "ninja",
+"images": [
+"4008713712698.webp",
+"4008713712698-1.webp",
+"4008713712698-2.webp"
+]
+},
+{
+"sku": "JRN00008252",
+"barcode": "6281055002001",
+"cat": 16,
+"ar": "هناء شوفان جرانولا نوتى ديلايت 350 جم",
+"en": "Hanaa Oats Granola Nutty Delight 350 g",
+"price": 29.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-4727931",
+"img_src": "ninja",
+"images": [
+"6281055002001.webp",
+"6281055002001-1.webp"
+]
+},
+{
+"sku": "JRN00008253",
+"barcode": "3045320517873",
+"cat": 17,
+"ar": "بون مامان مربى الكراميل 380 جم",
+"en": "Bonne Maman Caramel Jam 380 g",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-693456",
+"img_src": "ninja",
+"images": [
+"3045320517873.webp",
+"3045320517873-1.webp"
+]
+},
+{
+"sku": "JRN00008254",
+"barcode": "5410126116953",
+"cat": 17,
+"ar": "لوتس بسكوف بسكويت قابل للدهن ناعم 400 جم",
+"en": "Lotus Biscoff Spread Smooth 400 g",
+"price": 39.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-2019789",
+"img_src": "ninja",
+"images": [
+"5410126116953.webp",
+"5410126116953-1.webp",
+"5410126116953-2.webp"
+]
+},
+{
+"sku": "JRN00008255",
+"barcode": "4820221690110",
+"cat": 16,
+"ar": "هابي فليكس رقائق الكاكاو 280 جم",
+"en": "Happy Flakes Cocoa Flakes 280 g",
+"price": 24.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19344394",
+"img_src": "ninja",
+"images": [
+"4820221690110.webp",
+"4820221690110-1.webp",
+"4820221690110-2.webp"
+]
+},
+{
+"sku": "JRN00008256",
+"barcode": "4820221690820",
+"cat": 16,
+"ar": "هابي فليكس جرانولا الفواكه 375 جم",
+"en": "Happy Flakes Fruits Granola 375 g",
+"price": 24.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19344395",
+"img_src": "ninja",
+"images": [
+"4820221690820.webp",
+"4820221690820-1.webp",
+"4820221690820-2.webp"
+]
+},
+{
+"sku": "JRN00008257",
+"barcode": "6287005013288",
+"cat": 17,
+"ar": "يلوفا كريمة فستق 200 جم",
+"en": "Yalova Pistachio Cream 200 g",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19304457",
+"img_src": "ninja",
+"images": [
+"6287005013288.webp",
+"6287005013288-1.webp",
+"6287005013288-2.webp"
+]
+},
+{
+"sku": "JRN00008258",
+"barcode": "6281041005511",
+"cat": 17,
+"ar": "النخله حلاوة طحينية 250 جم",
+"en": "Al Nakhla Halawa 250 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4693",
+"img_src": "ninja",
+"images": [
+"6281041005511.webp",
+"6281041005511-1.webp",
+"6281041005511-2.webp"
+]
+},
+{
+"sku": "JRN00008259",
+"barcode": "7613287248831",
+"cat": 16,
+"ar": "نسكويك كرات الحبوب بالشوكولاتة 950 جم",
+"en": "Nesquik Breakfast Cereal Chocolate 950 g",
+"price": 54.95,
+"special": 49.95,
+"src": "ninja",
+"ninja_id": "5-10109",
+"img_src": "ninja",
+"images": [
+"7613287248831.webp",
+"7613287248831-1.webp",
+"7613287248831-2.webp"
+]
+},
+{
+"sku": "JRN00008260",
+"barcode": "6287011310982",
+"cat": 17,
+"ar": "الجميل حلاوة طحينية سادة 500 جم",
+"en": "Al Jameel Halawa Tahina Plain 500 g",
+"price": 25.95,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-19293562",
+"img_src": "ninja",
+"images": [
+"6287011310982.webp",
+"6287011310982-1.webp"
+]
+},
+{
+"sku": "JRN00008261",
+"barcode": "9300677002446",
+"cat": 19,
+"ar": "كابيلانو عسل عصار عضوي 340 جم",
+"en": "Capilano Honey Squeezer Organic 340 g",
+"price": 39.95,
+"special": 27.95,
+"src": "ninja",
+"ninja_id": "5-19286875",
+"img_src": "ninja",
+"images": [
+"9300677002446.webp",
+"9300677002446-1.webp",
+"9300677002446-2.webp"
+]
+},
+{
+"sku": "JRN00008262",
+"barcode": "6223016320632",
+"cat": 17,
+"ar": "فالو كريمة الكاكاو بنكهة البندق مع كرافت كراميل 925 جم",
+"en": "Valu Hazelnut Cocoa Spread with Kraft Caramel 925 g",
+"price": 44.95,
+"special": 22.95,
+"src": "ninja",
+"ninja_id": "5-19398931",
+"img_src": "ninja",
+"images": [
+"6223016320632.webp",
+"6223016320632-1.webp"
+]
+},
+{
+"sku": "JRN00008263",
+"barcode": "6281102021108",
+"cat": 19,
+"ar": "المنصب عسل طبيعي بكت 8 حبة 20 جم",
+"en": "Almanseb Natural Honey packet 8Pcs 20 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19372639",
+"img_src": "ninja",
+"images": [
+"6281102021108.webp",
+"6281102021108-1.webp",
+"6281102021108-2.webp"
+]
+},
+{
+"sku": "JRN00008264",
+"barcode": "6281073310287",
+"cat": 19,
+"ar": "ساري عسل طبيعي ضغاط 400 جم",
+"en": "Sary Natural Honey 400 g",
+"price": 26.95,
+"special": 20.95,
+"src": "ninja",
+"ninja_id": "5-19373968",
+"img_src": "ninja",
+"images": [
+"6281073310287.webp",
+"6281073310287-1.webp",
+"6281073310287-2.webp"
+]
+},
+{
+"sku": "JRN00008265",
+"barcode": "6281055001981",
+"cat": 16,
+"ar": "هناء شوفان جرانولا توتي فروتي 350 جم",
+"en": "Hanaa Oats Granola Tutti Fruity 350 g",
+"price": 29.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-4726674",
+"img_src": "ninja",
+"images": [
+"6281055001981.webp",
+"6281055001981-1.webp"
+]
+},
+{
+"sku": "JRN00008266",
+"barcode": "6281055001998",
+"cat": 16,
+"ar": "هناء جرانولا فيري بيري 350 جم",
+"en": "Hanaa Granola Very Berry 350 g",
+"price": 29.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-4728527",
+"img_src": "ninja",
+"images": [
+"6281055001998.webp",
+"6281055001998-1.webp",
+"6281055001998-2.webp"
+]
+},
+{
+"sku": "JRN00008267",
+"barcode": "6281041229610",
+"cat": 17,
+"ar": "حلواني مربي الفواكه المشكله 400 جم",
+"en": "Halwani Mixed Fruit Jam 400 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287905",
+"img_src": "ninja",
+"images": [
+"6281041229610.webp",
+"6281041229610-1.webp",
+"6281041229610-2.webp"
+]
+},
+{
+"sku": "JRN00008268",
+"barcode": "6281041004415",
+"cat": 17,
+"ar": "النخله حلاوه ساده 1 كجم",
+"en": "Al-Nakhla Plain Halawa 1 kg",
+"price": 44.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-19287912",
+"img_src": "ninja",
+"images": [
+"6281041004415.webp",
+"6281041004415-1.webp",
+"6281041004415-2.webp"
+]
+},
+{
+"sku": "JRN00008269",
+"barcode": "5900020030924",
+"cat": 16,
+"ar": "كونتري رقائق فطور الذرة 375 جم",
+"en": "Country Corn Flakes Cereal 375 g",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1054",
+"img_src": "ninja",
+"images": [
+"5900020030924.webp",
+"5900020030924-1.webp",
+"5900020030924-2.webp"
+]
+},
+{
+"sku": "JRN00008270",
+"barcode": "6287005012847",
+"cat": 19,
+"ar": "كالينا عسل طبيعي 500 جم",
+"en": "Kalina Natural Honey 500 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19304459",
+"img_src": "ninja",
+"images": [
+"6287005012847.webp",
+"6287005012847-1.webp",
+"6287005012847-2.webp"
+]
+},
+{
+"sku": "JRN00008271",
+"barcode": "617950410034",
+"cat": 17,
+"ar": "العلالي مربى الفراولة 400 جم",
+"en": "Alalali Strawberry Jam 400 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6638680",
+"img_src": "ninja",
+"images": [
+"617950410034.webp",
+"617950410034-1.webp",
+"617950410034-2.webp"
+]
+},
+{
+"sku": "JRN00008272",
+"barcode": "9421015062837",
+"cat": 19,
+"ar": "1839 مانوكا عسل النيوزيلندي 15+ يو ام اف 250 جم",
+"en": "1839 Manuka Honey Premium Umf 15+ Mgo 514+ 250 g",
+"price": 343.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19331794",
+"img_src": "ninja",
+"images": [
+"9421015062837.webp",
+"9421015062837-1.webp",
+"9421015062837-2.webp"
+]
+},
+{
+"sku": "JRN00008273",
+"barcode": "6281102021016",
+"cat": 19,
+"ar": "الصفي عسل سدر 500 جم",
+"en": "Alsaffi Sedr Honey 500 g",
+"price": 41.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19356039",
+"img_src": "ninja",
+"images": [
+"6281102021016.webp",
+"6281102021016-1.webp",
+"6281102021016-2.webp"
+]
+},
+{
+"sku": "JRN00008274",
+"barcode": "6281102021740",
+"cat": 19,
+"ar": "الصفي عسل سدر 250 جم",
+"en": "Alsaffi Sedr Honey 250 g",
+"price": 23.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19356041",
+"img_src": "ninja",
+"images": [
+"6281102021740.webp",
+"6281102021740-1.webp",
+"6281102021740-2.webp"
+]
+},
+{
+"sku": "JRN00008275",
+"barcode": "6281102020965",
+"cat": 19,
+"ar": "الصفي عسل طبيعي 500 جم",
+"en": "Alsaffi Natural Honey 500 g",
+"price": 23.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19356042",
+"img_src": "ninja",
+"images": [
+"6281102020965.webp",
+"6281102020965-1.webp",
+"6281102020965-2.webp"
+]
+},
+{
+"sku": "JRN00008276",
+"barcode": "6281004256233",
+"cat": 17,
+"ar": "يمامة حلاوة طحينية قابلة للدهن 360 جم",
+"en": "Yamama Tahina Spread 360 g",
+"price": 24.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19332027",
+"img_src": "ninja",
+"images": [
+"6281004256233.webp",
+"6281004256233-1.webp",
+"6281004256233-2.webp"
+]
+},
+{
+"sku": "JRN00008277",
+"barcode": "6287004091379",
+"cat": 16,
+"ar": "اسكدورو رقائق شوفان كبيرة عضوية وخالية من الجلوتين 1 كجم",
+"en": "Escadoro Jumbo Oat Flakes-Organic and Gluten Free 1 kg",
+"price": 39.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19375539",
+"img_src": "ninja",
+"images": [
+"6287004091379.webp",
+"6287004091379-1.webp",
+"6287004091379-2.webp"
+]
+},
+{
+"sku": "JRN00008278",
+"barcode": "6287011311194",
+"cat": 17,
+"ar": "الجميل حلاوة طحينية بالفستق 250 جم",
+"en": "Al Jameel Halawa Tahina Pistachio 250 g",
+"price": 16.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19293561",
+"img_src": "ninja",
+"images": [
+"6287011311194.webp",
+"6287011311194-1.webp",
+"6287011311194-2.webp"
+]
+},
+{
+"sku": "JRN00008279",
+"barcode": "6287011310999",
+"cat": 17,
+"ar": "الجميل حلاوة طحينية سادة 250 جم",
+"en": "Al Jameel Halawa Tahina Plain 250 g",
+"price": 14.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19293565",
+"img_src": "ninja",
+"images": [
+"6287011310999.webp",
+"6287011310999-1.webp",
+"6287011310999-2.webp"
+]
+},
+{
+"sku": "JRN00008280",
+"barcode": "6281000192030",
+"cat": 16,
+"ar": "نولما جرانولا خالية من الحبوب 400 جم",
+"en": "Nolma Grain-Free Granola Vegan 400 g",
+"price": 42.95,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-19356949",
+"img_src": "ninja",
+"images": [
+"6281000192030.webp",
+"6281000192030-1.webp",
+"6281000192030-2.webp"
+]
+},
+{
+"sku": "JRN00008281",
+"barcode": "6281000192016",
+"cat": 16,
+"ar": "نولما جرانولا بالتمر والفستق 400 جم",
+"en": "Nolma Granola with Dates and Pistachios Vegan 400 g",
+"price": 42.95,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-19356953",
+"img_src": "ninja",
+"images": [
+"6281000192016.webp",
+"6281000192016-1.webp",
+"6281000192016-2.webp"
+]
+},
+{
+"sku": "JRN00008282",
+"barcode": "9300677008677",
+"cat": 19,
+"ar": "كابيلانو عسل 220 جم",
+"en": "Capilano Honey Twist & Squeeze 220 g",
+"price": 26.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19286878",
+"img_src": "ninja",
+"images": [
+"9300677008677.webp",
+"9300677008677-1.webp",
+"9300677008677-2.webp"
+]
+},
+{
+"sku": "JRN00008283",
+"barcode": "6223016320656",
+"cat": 17,
+"ar": "فالو حلاوة سادة بنكهة كرافت كراميل 925 جم",
+"en": "Valu Plain Halawa with Kraft Caramel 925 g",
+"price": 25.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-19398929",
+"img_src": "ninja",
+"images": [
+"6223016320656.webp",
+"6223016320656-1.webp"
+]
+},
+{
+"sku": "JRN00008284",
+"barcode": "6223016320694",
+"cat": 17,
+"ar": "فالو عسل اسود بنكهة كرافت كراميل 750 جم",
+"en": "Valu Molasses with Kraft Caramel 750 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398932",
+"img_src": "ninja",
+"images": [
+"6223016320694.webp",
+"6223016320694-1.webp"
+]
+},
+{
+"sku": "JRN00008285",
+"barcode": "6281073210143",
+"cat": 19,
+"ar": "الشفاء عسل أزهار طبيعي 250 جم",
+"en": "Alshifa Natural Floral Honey 250 g",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-278",
+"img_src": "ninja",
+"images": [
+"6281073210143.webp",
+"6281073210143-1.webp",
+"6281073210143-2.webp"
+]
+},
+{
+"sku": "JRN00008286",
+"barcode": "6224009478347",
+"cat": 19,
+"ar": "مراسي عسل الحبة السوداء 500 جم",
+"en": "Marassi Black Seed Honey 500 g",
+"price": 59.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400109",
+"img_src": "ninja",
+"images": [
+"6224009478347.webp",
+"6224009478347-1.webp"
+]
+},
+{
+"sku": "JRN00008287",
+"barcode": "6281091006902",
+"cat": 17,
+"ar": "أورلاندا كريمة البندق مع الكاكاو 400 جم",
+"en": "Orlanda Hazelnut Spread 400 g",
+"price": 22.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19373815",
+"img_src": "ninja",
+"images": [
+"6281091006902.webp"
+]
+},
+{
+"sku": "JRN00008288",
+"barcode": "4023300867100",
+"cat": 19,
+"ar": "لانجنيز عسل الغابة السوداء 250 جم",
+"en": "Langnese Honey Black Forest 250 g",
+"price": 64.95,
+"special": 46.95,
+"src": "ninja",
+"ninja_id": "5-3094",
+"img_src": "ninja",
+"images": [
+"4023300867100.webp",
+"4023300867100-1.webp",
+"4023300867100-2.webp"
+]
+},
+{
+"sku": "JRN00008289",
+"barcode": "709993311154",
+"cat": 19,
+"ar": "أرض الطبيعة خلطة عسل بغذاء الملكات العضوي 250 جم",
+"en": "Natureland Honey Blend with Royal Jelly Organic 250 g",
+"price": 79.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-974649",
+"img_src": "ninja",
+"images": [
+"709993311154.webp",
+"709993311154-1.webp"
+]
+},
+{
+"sku": "JRN00008290",
+"barcode": "709993308093",
+"cat": 16,
+"ar": "أرض الطبيعة موسلي المكسرات عضوي 500 جم",
+"en": "Natureland Nut Muesli Organic 500 g",
+"price": 38.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7949",
+"img_src": "ninja",
+"images": [
+"709993308093.webp",
+"709993308093-1.webp",
+"709993308093-2.webp"
+]
+},
+{
+"sku": "JRN00008291",
+"barcode": "709993308154",
+"cat": 16,
+"ar": "أرض الطبيعة شوفان مقرمش عضوي 375 جم",
+"en": "Natureland Oat Crunchy Granola Organic 375 g",
+"price": 28.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7951",
+"img_src": "ninja",
+"images": [
+"709993308154.webp",
+"709993308154-1.webp",
+"709993308154-2.webp"
+]
+},
+{
+"sku": "JRN00008292",
+"barcode": "7612100025017",
+"cat": 17,
+"ar": "اوفومالتين كريمة الشوكلاتة المقرمشة قابلة للدهن 380 جم",
+"en": "Ovomaltine Crunchy Cream 380 g",
+"price": 38.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-2024674",
+"img_src": "ninja",
+"images": [
+"7612100025017.webp",
+"7612100025017-1.webp",
+"7612100025017-2.webp"
+]
+},
+{
+"sku": "JRN00008293",
+"barcode": "851087000052",
+"cat": 17,
+"ar": "بينت بتر اند كو زبدة الفول السوداني بالشوكولاتة البيضاء 454 جم",
+"en": "Peanut Butter & Co White Chocolate Wonderful Peanut Butter 454 g",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3555878",
+"img_src": "ninja",
+"images": [
+"851087000052.webp",
+"851087000052-1.webp",
+"851087000052-2.webp"
+]
+},
+{
+"sku": "JRN00008294",
+"barcode": "6281041229016",
+"cat": 17,
+"ar": "حلواني مربي التين 400 جم",
+"en": "Halwani Fig Jam 400 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287906",
+"img_src": "ninja",
+"images": [
+"6281041229016.webp",
+"6281041229016-1.webp",
+"6281041229016-2.webp"
+]
+},
+{
+"sku": "JRN00008295",
+"barcode": "6281041231118",
+"cat": 17,
+"ar": "حلواني مربي قطع الفراوله 400 جم",
+"en": "Halwani Strawberry Jam Preserve 400 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287898",
+"img_src": "ninja",
+"images": [
+"6281041231118.webp",
+"6281041231118-1.webp",
+"6281041231118-2.webp"
+]
+},
+{
+"sku": "JRN00008296",
+"barcode": "8445291773066",
+"cat": 16,
+"ar": "فيتنس جرانولا مع بذور القرع وحبوب الإفطار بالتوت البري 350 جم",
+"en": "Fitness Granola With Pumpkin Seeds And Cranberries Breakfast Cereal 350 g",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1029",
+"img_src": "ninja",
+"images": [
+"8445291773066.webp",
+"8445291773066-1.webp"
+]
+},
+{
+"sku": "JRN00008297",
+"barcode": "9421015062431",
+"cat": 19,
+"ar": "1839 مانوكا عسل النيوزيلندي 40 ام جي او 250 جم",
+"en": "1839 Manuka Honey Mgo 40 250 g",
+"price": 170.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19331793",
+"img_src": "ninja",
+"images": [
+"9421015062431.webp",
+"9421015062431-1.webp",
+"9421015062431-2.webp"
+]
+},
+{
+"sku": "JRN00008298",
+"barcode": "6281014002738",
+"cat": 16,
+"ar": "ويلو شوفان بزبدة الفول السوداني والموز 200 جم",
+"en": "Wello Super Oats Peanut Butter & Banana 200 g",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19338761",
+"img_src": "ninja",
+"images": [
+"6281014002738.webp"
+]
+},
+{
+"sku": "JRN00008299",
+"barcode": "9421015062813",
+"cat": 19,
+"ar": "1839 مانوكا عسل النيوزيلندي 10+ يو ام اف 250 جم",
+"en": "1839 Manuka Honey Umf +10 Mgo 263+ 250 g",
+"price": 226.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19331797",
+"img_src": "ninja",
+"images": [
+"9421015062813.webp",
+"9421015062813-1.webp",
+"9421015062813-2.webp"
+]
+},
+{
+"sku": "JRN00008300",
+"barcode": "9421015060406",
+"cat": 19,
+"ar": "1839 مانوكا عسل النيوزيلندي 20+ يو ام اف 250 جم",
+"en": "1839 Manuka Honey Premium Umf 20+ Mgo 829+ 250 g",
+"price": 459.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19331806",
+"img_src": "ninja",
+"images": [
+"9421015060406.webp",
+"9421015060406-1.webp",
+"9421015060406-2.webp"
+]
+},
+{
+"sku": "JRN00008301",
+"barcode": "709993309090",
+"cat": 17,
+"ar": "أرض الطبيعة كريمة البندق بالشوكولاته عضوية 250 جم",
+"en": "Natureland Hazelnut Chocolate Spread Organic 250 g",
+"price": 69.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7927",
+"img_src": "ninja",
+"images": [
+"709993309090.webp",
+"709993309090-1.webp",
+"709993309090-2.webp"
+]
+},
+{
+"sku": "JRN00008302",
+"barcode": "6281102021610",
+"cat": 19,
+"ar": "دريم هاوس عسل طبيعي مع الشمع 500 جم",
+"en": "Dream House Natural Honey With Comb 500 g",
+"price": 38.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19356033",
+"img_src": "ninja",
+"images": [
+"6281102021610.webp",
+"6281102021610-1.webp",
+"6281102021610-2.webp"
+]
+},
+{
+"sku": "JRN00008303",
+"barcode": "6281102020026",
+"cat": 19,
+"ar": "المنصب عسل سدر 500 جم",
+"en": "Almanseb Sedr Honey 500 g",
+"price": 89.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19356035",
+"img_src": "ninja",
+"images": [
+"6281102020026.webp",
+"6281102020026-1.webp",
+"6281102020026-2.webp"
+]
+},
+{
+"sku": "JRN00008304",
+"barcode": "6281102021092",
+"cat": 19,
+"ar": "المنصب عسل سدر 8 حبة 20 جم",
+"en": "Almanseb Sedr Honey 8 pcs 20 g",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19356037",
+"img_src": "ninja",
+"images": [
+"6281102021092.webp",
+"6281102021092-1.webp",
+"6281102021092-2.webp"
+]
+},
+{
+"sku": "JRN00008305",
+"barcode": "6287004380756",
+"cat": 19,
+"ar": "أطياب البوادي تمر سكري رطب 500 جم",
+"en": "Atyab Albwady Rutab Dates Sukkari 500 g",
+"price": 13.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12238762",
+"img_src": "ninja",
+"images": [
+"6287004380756.webp",
+"6287004380756-1.webp",
+"6287004380756-2.webp"
+]
+},
+{
+"sku": "JRN00008306",
+"barcode": "6287005840129",
+"cat": 19,
+"ar": "تمارا تمر سكري رطب 500 جم",
+"en": "Tamara Dates Sukkari Rutab 500 g",
+"price": 13.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-12883040",
+"img_src": "ninja",
+"images": [
+"6287005840129.webp",
+"6287005840129-1.webp"
+]
+},
+{
+"sku": "JRN00008307",
+"barcode": "6285413000258",
+"cat": 19,
+"ar": "نبتتي تمر أم كبار فاخر 200 جم",
+"en": "Nabtati Dates Umkubar Premium 200 g",
+"price": 14.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19307367",
+"img_src": "ninja",
+"images": [
+"6285413000258.webp",
+"6285413000258-1.webp",
+"6285413000258-2.webp"
+]
+},
+{
+"sku": "JRN00008308",
+"barcode": "6287010990857",
+"cat": 19,
+"ar": "لين تمر صفاوي 110 جم",
+"en": "Leen Dates Safawi 110 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291506",
+"img_src": "ninja",
+"images": [
+"6287010990857.webp",
+"6287010990857-1.webp",
+"6287010990857-2.webp"
+]
+},
+{
+"sku": "JRN00008309",
+"barcode": "6287004380138",
+"cat": 19,
+"ar": "أطياب البوادي تمر سكري القصيم فاخر 1 كجم",
+"en": "Atyab Albwady Dates Qassim Sukkari Deluxe 1 kg",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12228489",
+"img_src": "ninja",
+"images": [
+"6287004380138.webp",
+"6287004380138-1.webp"
+]
+},
+{
+"sku": "JRN00008310",
+"barcode": "6287010990840",
+"cat": 19,
+"ar": "لين تمر عجوة 110 جم",
+"en": "Leen Dates Ajwa 110 g",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291496",
+"img_src": "ninja",
+"images": [
+"6287010990840.webp",
+"6287010990840-1.webp",
+"6287010990840-2.webp"
+]
+},
+{
+"sku": "JRN00008311",
+"barcode": "6287010990871",
+"cat": 19,
+"ar": "لين تمر خضري 110 جم",
+"en": "Leen Dates Khudri 110 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291505",
+"img_src": "ninja",
+"images": [
+"6287010990871.webp",
+"6287010990871-1.webp",
+"6287010990871-2.webp"
+]
+},
+{
+"sku": "JRN00008312",
+"barcode": "6287010990895",
+"cat": 19,
+"ar": "لين تمر سكري 110 جم",
+"en": "Leen Dates Sukkari 110 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291507",
+"img_src": "ninja",
+"images": [
+"6287010990895.webp",
+"6287010990895-1.webp",
+"6287010990895-2.webp"
+]
+},
+{
+"sku": "JRN00008313",
+"barcode": "6287010990406",
+"cat": 19,
+"ar": "لين تمر جولدن مكس 150 جم",
+"en": "Leen Dates Golden Mix 150 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291498",
+"img_src": "ninja",
+"images": [
+"6287010990406.webp",
+"6287010990406-1.webp",
+"6287010990406-2.webp"
+]
+},
+{
+"sku": "JRN00008314",
+"barcode": "6287010990970",
+"cat": 19,
+"ar": "لين تمر سكري مكنوز 1 كجم",
+"en": "Leen Dates Sukkari Vacuum 1 kg",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291502",
+"img_src": "ninja",
+"images": [
+"6287010990970.webp",
+"6287010990970-1.webp",
+"6287010990970-2.webp"
+]
+},
+{
+"sku": "JRN00008315",
+"barcode": "6285413000265",
+"cat": 19,
+"ar": "نبتتي تمر سكري مكنوز فاخر 1 كجم",
+"en": "Nabtati Sukkari Vacuum Deluxe 1 kg",
+"price": 20.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19307370",
+"img_src": "ninja",
+"images": [
+"6285413000265.webp",
+"6285413000265-1.webp",
+"6285413000265-2.webp"
+]
+},
+{
+"sku": "JRN00008316",
+"barcode": "6287005840075",
+"cat": 19,
+"ar": "تمارا تمر صقعي علبة 400 جم",
+"en": "Tamara Dates Sagai Box 400 g",
+"price": 21.95,
+"special": 17.5,
+"src": "ninja",
+"ninja_id": "5-12886094",
+"img_src": "ninja",
+"images": [
+"6287005840075.webp",
+"6287005840075-1.webp",
+"6287005840075-2.webp"
+]
+},
+{
+"sku": "JRN00008317",
+"barcode": "6287001210919",
+"cat": 19,
+"ar": "هتيل قطع تمر 330 جم",
+"en": "Hateel Chopped Dates 330 g",
+"price": 21.0,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-19401005",
+"img_src": "ninja",
+"images": [
+"6287001210919.webp",
+"6287001210919-1.webp"
+]
+},
+{
+"sku": "JRN00008318",
+"barcode": "6287005840952",
+"cat": 19,
+"ar": "تمارا تمر صفاوي علبة 400 جم",
+"en": "Tamara Dates Safawi Box 400 g",
+"price": 21.95,
+"special": 17.5,
+"src": "ninja",
+"ninja_id": "5-12887159",
+"img_src": "ninja",
+"images": [
+"6287005840952.webp",
+"6287005840952-1.webp",
+"6287005840952-2.webp"
+]
+},
+{
+"sku": "JRN00008319",
+"barcode": "6287004380732",
+"cat": 19,
+"ar": "أطياب البوادي تمر خلاص الخرج فاخر 500 جم",
+"en": "Atyab Albwady Khalas Alkharj Deluxe 500 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19359710",
+"img_src": "ninja",
+"images": [
+"6287004380732.webp",
+"6287004380732-1.webp",
+"6287004380732-2.webp"
+]
+},
+{
+"sku": "JRN00008320",
+"barcode": "6285413000197",
+"cat": 19,
+"ar": "نبتتي تمر ونانة مكنوز محشي باللوز 500 جم",
+"en": "Nabtati Dates Wanana Vacuum Stuffed Almond 500 g",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19307368",
+"img_src": "ninja",
+"images": [
+"6285413000197.webp",
+"6285413000197-1.webp"
+]
+},
+{
+"sku": "JRN00008321",
+"barcode": "6287005840563",
+"cat": 19,
+"ar": "تمارا عجينة تمر 1 كجم",
+"en": "Tamara Dates Paste 1 kg",
+"price": 13.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-12885185",
+"img_src": "ninja",
+"images": [
+"6287005840563.webp"
+]
+},
+{
+"sku": "JRN00008322",
+"barcode": "6287052120083",
+"cat": 19,
+"ar": "هتيل قطع تمر خلاص 150 جم",
+"en": "Hateel Chopped Dates Khalas 150 g",
+"price": 9.0,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19401002",
+"img_src": "ninja",
+"images": [
+"6287052120083.webp",
+"6287052120083-1.webp",
+"6287052120083-2.webp"
+]
+},
+{
+"sku": "JRN00008323",
+"barcode": "6281106251051",
+"cat": 19,
+"ar": "سيافا تمر صفاوي 400 جم",
+"en": "Siafa Dates Safawi 400 g",
+"price": 21.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363714",
+"img_src": "ninja",
+"images": [
+"6281106251051.webp"
+]
+},
+{
+"sku": "JRN00008324",
+"barcode": "6281106251020",
+"cat": 19,
+"ar": "سيافا تمر مبروم 400 جم",
+"en": "Siafa Dates Mabroom 400 g",
+"price": 28.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363715",
+"img_src": "ninja",
+"images": [
+"6281106251020.webp",
+"6281106251020-1.webp",
+"6281106251020-2.webp"
+]
+},
+{
+"sku": "JRN00008325",
+"barcode": "6281106254601",
+"cat": 19,
+"ar": "سيافا تمر محشو باللوتس 100 جم",
+"en": "Siafa Dates Filled Lotus 100 g",
+"price": 12.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426497",
+"img_src": "ninja",
+"images": [
+"6281106254601.webp"
+]
+},
+{
+"sku": "JRN00008326",
+"barcode": "6281106254588",
+"cat": 19,
+"ar": "سيافا تمر محشو بقشر البرتقال 100 جم",
+"en": "Siafa Dates Filled Orange Peel 100 g",
+"price": 12.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426498",
+"img_src": "ninja",
+"images": [
+"6281106254588.webp"
+]
+},
+{
+"sku": "JRN00008327",
+"barcode": "6281106250382",
+"cat": 19,
+"ar": "سيافا تمر محشو باللوز وشوكولاتة الحليب 100 جم",
+"en": "Siafa Dates Filled Almond Milk Chocolate 100 g",
+"price": 12.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426500",
+"img_src": "ninja",
+"images": [
+"6281106250382.webp"
+]
+},
+{
+"sku": "JRN00008328",
+"barcode": "6281106250351",
+"cat": 19,
+"ar": "سيافا تمر محشو بجوز الهند 100 جم",
+"en": "Siafa Dates Filled Coconut 100 g",
+"price": 12.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426501",
+"img_src": "ninja",
+"images": [
+"6281106250351.webp"
+]
+},
+{
+"sku": "JRN00008329",
+"barcode": "6281106250399",
+"cat": 19,
+"ar": "سيافا تمر محشو بالورد 100 جم",
+"en": "Siafa Dates Filled Rose 100 g",
+"price": 12.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426502",
+"img_src": "ninja",
+"images": [
+"6281106250399.webp"
+]
+},
+{
+"sku": "JRN00008330",
+"barcode": "6287004380220",
+"cat": 19,
+"ar": "أطياب البوادي دبس تمر 390 جم",
+"en": "Atyab Albwady Dates Molasses 390 g",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12239609",
+"img_src": "ninja",
+"images": [
+"6287004380220.webp",
+"6287004380220-1.webp",
+"6287004380220-2.webp"
+]
+},
+{
+"sku": "JRN00008331",
+"barcode": "6287005840723",
+"cat": 19,
+"ar": "تمارا دبس تمر 340 جم",
+"en": "Tamara Dates Molasses 340 g",
+"price": 12.95,
+"special": 9.75,
+"src": "ninja",
+"ninja_id": "5-12885525",
+"img_src": "ninja",
+"images": [
+"6287005840723.webp",
+"6287005840723-1.webp",
+"6287005840723-2.webp"
+]
+},
+{
+"sku": "JRN00008332",
+"barcode": "6287052120021",
+"cat": 19,
+"ar": "هتيل بودرة تمر 500 جم",
+"en": "Hateel Date Powder 500 g",
+"price": 18.0,
+"special": 16.25,
+"src": "ninja",
+"ninja_id": "5-19401003",
+"img_src": "ninja",
+"images": [
+"6287052120021.webp",
+"6287052120021-1.webp",
+"6287052120021-2.webp"
+]
+},
+{
+"sku": "JRN00008333",
+"barcode": "6287001210131",
+"cat": 19,
+"ar": "هتيل تمر فله 500 جم",
+"en": "Hateel Dates Loose 500 g",
+"price": 14.0,
+"special": 12.75,
+"src": "ninja",
+"ninja_id": "5-19401006",
+"img_src": "ninja",
+"images": [
+"6287001210131.webp",
+"6287001210131-1.webp",
+"6287001210131-2.webp"
+]
+},
+{
+"sku": "JRN00008334",
+"barcode": "6287005840532",
+"cat": 19,
+"ar": "تمارا تمر خلاص ذهبي 1 كجم",
+"en": "Tamara Dates Khalas Golden 1 kg",
+"price": 23.25,
+"special": 17.5,
+"src": "ninja",
+"ninja_id": "5-19374672",
+"img_src": "ninja",
+"images": [
+"6287005840532.webp",
+"6287005840532-1.webp"
+]
+},
+{
+"sku": "JRN00008335",
+"barcode": "6287005840068",
+"cat": 19,
+"ar": "تمارا تمر صقعي 800 جم",
+"en": "Tamara Dates Sagai 800 g",
+"price": 37.95,
+"special": 26.5,
+"src": "ninja",
+"ninja_id": "5-19374673",
+"img_src": "ninja",
+"images": [
+"6287005840068.webp",
+"6287005840068-1.webp",
+"6287005840068-2.webp"
+]
+},
+{
+"sku": "JRN00008336",
+"barcode": "6287005840112",
+"cat": 19,
+"ar": "تمارا تمر خضري 800 جم",
+"en": "Tamara Dates Khudri 800 g",
+"price": 32.0,
+"special": 22.5,
+"src": "ninja",
+"ninja_id": "5-19374674",
+"img_src": "ninja",
+"images": [
+"6287005840112.webp",
+"6287005840112-1.webp",
+"6287005840112-2.webp"
+]
+},
+{
+"sku": "JRN00008337",
+"barcode": "6287005840389",
+"cat": 19,
+"ar": "تمارا تمر سكري مكنوز مميز 1 كجم",
+"en": "Tamara Dates Sukkari Vacuum Premium 1 kg",
+"price": 23.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374676",
+"img_src": "ninja",
+"images": [
+"6287005840389.webp"
+]
+},
+{
+"sku": "JRN00008338",
+"barcode": "6287005840945",
+"cat": 19,
+"ar": "تمارا تمر صفاوي 800 جم",
+"en": "Tamara Dates Safawi 800 g",
+"price": 37.95,
+"special": 28.5,
+"src": "ninja",
+"ninja_id": "5-19374677",
+"img_src": "ninja",
+"images": [
+"6287005840945.webp",
+"6287005840945-1.webp"
+]
+},
+{
+"sku": "JRN00008339",
+"barcode": "6287005840013",
+"cat": 19,
+"ar": "تمارا تمر عجوة المدينة 800 جم",
+"en": "Tamara Dates Ajwa Madina 800 g",
+"price": 113.5,
+"special": 79.5,
+"src": "ninja",
+"ninja_id": "5-19374678",
+"img_src": "ninja",
+"images": [
+"6287005840013.webp",
+"6287005840013-1.webp",
+"6287005840013-2.webp"
+]
+},
+{
+"sku": "JRN00008340",
+"barcode": "6287004380176",
+"cat": 19,
+"ar": "أطياب البوادي تمر خلاص الأشقر مكنوز 1 كجم",
+"en": "Atyab Albwady Dates Khalas Alashqar Vacuum 1 kg",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293190",
+"img_src": "ninja",
+"images": [
+"6287004380176.webp",
+"6287004380176-1.webp",
+"6287004380176-2.webp"
+]
+},
+{
+"sku": "JRN00008341",
+"barcode": "6281106251099",
+"cat": 19,
+"ar": "سيافا تمر صقعي بالعسل واللوز والسمسم 400 جم",
+"en": "Siafa Dates Sagai Honey Almond & Sesame 400 g",
+"price": 26.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363717",
+"img_src": "ninja",
+"images": [
+"6281106251099.webp",
+"6281106251099-1.webp"
+]
+},
+{
+"sku": "JRN00008342",
+"barcode": "6281106251044",
+"cat": 19,
+"ar": "سيافا تمر عجوة المدينة 400 جم",
+"en": "Siafa Dates Ajwa 400 g",
+"price": 54.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363718",
+"img_src": "ninja",
+"images": [
+"6281106251044.webp",
+"6281106251044-1.webp",
+"6281106251044-2.webp"
+]
+},
+{
+"sku": "JRN00008343",
+"barcode": "6281106250443",
+"cat": 19,
+"ar": "سيافا تمر خضري 800 جم",
+"en": "Siafa Dates Khudri 800 g",
+"price": 27.75,
+"special": 24.5,
+"src": "ninja",
+"ninja_id": "5-19363723",
+"img_src": "ninja",
+"images": [
+"6281106250443.webp",
+"6281106250443-1.webp",
+"6281106250443-2.webp"
+]
+},
+{
+"sku": "JRN00008344",
+"barcode": "6281106250467",
+"cat": 19,
+"ar": "سيافا تمر عجوة المدينة 800 جم",
+"en": "Siafa Dates Ajwa 800 g",
+"price": 101.5,
+"special": 94.75,
+"src": "ninja",
+"ninja_id": "5-19363729",
+"img_src": "ninja",
+"images": [
+"6281106250467.webp",
+"6281106250467-1.webp",
+"6281106250467-2.webp"
+]
+},
+{
+"sku": "JRN00008345",
+"barcode": "6281106257244",
+"cat": 19,
+"ar": "سيافا تمر مجدول 400 جم",
+"en": "Siafa Dates Medjool 400 g",
+"price": 42.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363719",
+"img_src": "ninja",
+"images": [
+"6281106257244.webp"
+]
+},
+{
+"sku": "JRN00008346",
+"barcode": "6281106250450",
+"cat": 19,
+"ar": "سيافا تمر مبروم 800 جم",
+"en": "Siafa Dates Mabroom 800 g",
+"price": 54.25,
+"special": 49.95,
+"src": "ninja",
+"ninja_id": "5-19363732",
+"img_src": "ninja",
+"images": [
+"6281106250450.webp",
+"6281106250450-1.webp",
+"6281106250450-2.webp"
+]
+},
+{
+"sku": "JRN00008347",
+"barcode": "6287004380763",
+"cat": 19,
+"ar": "أطياب البوادي تمر خلاص الأشقر درجة أولى 500 جم",
+"en": "Atyab Albwady Khalas Alashqar First Class 500 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19359708",
+"img_src": "ninja",
+"images": [
+"6287004380763.webp",
+"6287004380763-1.webp"
+]
+},
+{
+"sku": "JRN00008348",
+"barcode": "6287004380534",
+"cat": 19,
+"ar": "أطياب البوادي تمر نبتة علي 1 كجم",
+"en": "Atyab Albwady Nabtat Ali Dates 1 kg",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397856",
+"img_src": "ninja",
+"images": [
+"6287004380534.webp",
+"6287004380534-1.webp"
+]
+},
+{
+"sku": "JRN00008349",
+"barcode": "6287058470106",
+"cat": 19,
+"ar": "تمر صقعي عضوي 500 جم",
+"en": "Tamr Dates Sagai Organic 500 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19422815",
+"img_src": "ninja",
+"images": [
+"6287058470106.webp"
+]
+},
+{
+"sku": "JRN00008350",
+"barcode": "6287058470120",
+"cat": 19,
+"ar": "تمر مجدول عضوي 500 جم",
+"en": "Tamr Dates Medjool Organic 500 g",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19422817",
+"img_src": "ninja",
+"images": [
+"6287058470120.webp"
+]
+},
+{
+"sku": "JRN00008351",
+"barcode": "6287004380886",
+"cat": 19,
+"ar": "أطياب البوادي تمر خلاص البوادي باللوز 250 جم",
+"en": "Atyab Albwady Dates Khalas With Almonds 250 g",
+"price": 15.95,
+"special": 13.5,
+"src": "ninja",
+"ninja_id": "5-19327269",
+"img_src": "ninja",
+"images": [
+"6287004380886.webp",
+"6287004380886-1.webp",
+"6287004380886-2.webp"
+]
+},
+{
+"sku": "JRN00008352",
+"barcode": "6287004381333",
+"cat": 19,
+"ar": "أطياب البوادي تمر سكري فله 3 كجم",
+"en": "Atyab Albwady Dates Sukkari 3 kg",
+"price": 87.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294858",
+"img_src": "ninja",
+"images": [
+"6287004381333.webp",
+"6287004381333-1.webp",
+"6287004381333-2.webp"
+]
+},
+{
+"sku": "JRN00008353",
+"barcode": "6287004380152",
+"cat": 19,
+"ar": "أطياب البوادي تمر خلاص الخرج فاخر 1 كجم",
+"en": "Atyab Albwady Dates Khalas Alkharj Deluxe 1 kg",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12234367",
+"img_src": "ninja",
+"images": [
+"6287004380152.webp",
+"6287004380152-1.webp",
+"6287004380152-2.webp"
+]
+},
+{
+"sku": "JRN00008354",
+"barcode": "6287004380114",
+"cat": 19,
+"ar": "أطياب البوادي تمر خلاص القصيم فاخر 1 كجم",
+"en": "Atyab Albwady Dates Khalas Alqassim Deluxe 1 kg",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12237711",
+"img_src": "ninja",
+"images": [
+"6287004380114.webp",
+"6287004380114-1.webp",
+"6287004380114-2.webp"
+]
+},
+{
+"sku": "JRN00008355",
+"barcode": "6291108636244",
+"cat": 19,
+"ar": "جمارة تمر محشي أنواع مختلفة 375 جم",
+"en": "Jomara Filled Dates Assorted 375 g",
+"price": 51.5,
+"special": 43.75,
+"src": "ninja",
+"ninja_id": "5-19307376",
+"img_src": "ninja",
+"images": [
+"6291108636244.webp",
+"6291108636244-1.webp",
+"6291108636244-2.webp"
+]
+},
+{
+"sku": "JRN00008356",
+"barcode": "6291107388892",
+"cat": 19,
+"ar": "جمارة تمر صقعي عضوي 400 جم",
+"en": "Jomara Dates Sagai Organic 400 g",
+"price": 23.0,
+"special": 18.5,
+"src": "ninja",
+"ninja_id": "5-19307384",
+"img_src": "ninja",
+"images": [
+"6291107388892.webp",
+"6291107388892-1.webp",
+"6291107388892-2.webp"
+]
+},
+{
+"sku": "JRN00008357",
+"barcode": "6287005840020",
+"cat": 19,
+"ar": "تمارا تمر عجوة المدينة علبة 400 جم",
+"en": "Tamara Dates Ajwa Madina Box 400 g",
+"price": 55.95,
+"special": 44.75,
+"src": "ninja",
+"ninja_id": "5-12886853",
+"img_src": "ninja",
+"images": [
+"6287005840020.webp",
+"6287005840020-1.webp",
+"6287005840020-2.webp"
+]
+},
+{
+"sku": "JRN00008358",
+"barcode": "6287005840341",
+"cat": 19,
+"ar": "تمارا تمر خلاص ذهبي مكنوز 500 جم",
+"en": "Tamara Dates Khalas Golden Vacuum 500 g",
+"price": 11.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-12887487",
+"img_src": "ninja",
+"images": [
+"6287005840341.webp",
+"6287005840341-1.webp",
+"6287005840341-2.webp"
+]
+},
+{
+"sku": "JRN00008359",
+"barcode": "6287005840464",
+"cat": 19,
+"ar": "تمارا تمر سكري مكنوز 500 جم",
+"en": "Tamara Dates Sukkari Vacuum 500 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12887753",
+"img_src": "ninja",
+"images": [
+"6287005840464.webp",
+"6287005840464-1.webp"
+]
+},
+{
+"sku": "JRN00008360",
+"barcode": "6285768000071",
+"cat": 10,
+"ar": "صفوة الجوف زيت زيتون بكر قطفة أولى 1 لتر",
+"en": "Safwat Aljawf Virgin Olive Oil 1 L",
+"price": 79.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19308249",
+"img_src": "ninja",
+"images": [
+"6285768000071.webp",
+"6285768000071-1.webp",
+"6285768000071-2.webp"
+]
+},
+{
+"sku": "JRN00008361",
+"barcode": "6287011315420",
+"cat": 10,
+"ar": "الجميل زيت زيتون بكر ممتاز اسباني 1 لتر",
+"en": "Aljameel Spanish Olive Oil Extra Virgin 1 L",
+"price": 75.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293558",
+"img_src": "ninja",
+"images": [
+"6287011315420.webp",
+"6287011315420-1.webp",
+"6287011315420-2.webp"
+]
+},
+{
+"sku": "JRN00008362",
+"barcode": "6285768000088",
+"cat": 10,
+"ar": "صفوة الجوف زيت زيتون بكر قطفة أولى 2 لتر",
+"en": "Safwat Aljawf Virgin Olive Oil 2 L",
+"price": 149.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19308244",
+"img_src": "ninja",
+"images": [
+"6285768000088.webp",
+"6285768000088-1.webp",
+"6285768000088-2.webp"
+]
+},
+{
+"sku": "JRN00008363",
+"barcode": "6291003308291",
+"cat": 10,
+"ar": "صني زيت نباتي مخلوط للقلي 2 حبة 1.5 لتر",
+"en": "Sunny Blended Frying Vegetable oil 2 pcs 1.5 L",
+"price": 41.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-19369849",
+"img_src": "ninja",
+"images": [
+"6291003308291.webp",
+"6291003308291-1.webp"
+]
+},
+{
+"sku": "JRN00008364",
+"barcode": "6281011701894",
+"cat": 10,
+"ar": "عافية زيت دوار الشمس 2.9 لتر",
+"en": "Afia Pure Sunflower Oil 2.9 L",
+"price": 54.95,
+"special": 48.95,
+"src": "ninja",
+"ninja_id": "5-13694675",
+"img_src": "ninja",
+"images": [
+"6281011701894.webp"
+]
+},
+{
+"sku": "JRN00008365",
+"barcode": "6291003304316",
+"cat": 10,
+"ar": "نور زيت دوار الشمس مجموعة 2 حبة 1.5 لتر",
+"en": "Noor Sunflower Oil Pack 2 pcs 1.5 L",
+"price": 49.95,
+"special": 37.95,
+"src": "ninja",
+"ninja_id": "5-19291350",
+"img_src": "ninja",
+"images": [
+"6291003304316.webp",
+"6291003304316-1.webp",
+"6291003304316-2.webp"
+]
+},
+{
+"sku": "JRN00008366",
+"barcode": "6281011702129",
+"cat": 10,
+"ar": "العربي خليط زيت للقلي 2 حبة 1.5 لتر",
+"en": "Al-Arabi Blend Oil 2 pcs 1.5 L",
+"price": 49.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293710",
+"img_src": "ninja",
+"images": [
+"6281011702129.webp",
+"6281011702129-1.webp",
+"6281011702129-2.webp"
+]
+},
+{
+"sku": "JRN00008367",
+"barcode": "5285000390039",
+"cat": 18,
+"ar": "اندومي نودلز شعيرية مقلية كرتون 40 حبة 80 جم",
+"en": "Indomie Noodle Fried Noodle Carton 40 pcs 80 g",
+"price": 55.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7233420",
+"img_src": "ninja",
+"images": [
+"5285000390039.webp",
+"5285000390039-1.webp",
+"5285000390039-2.webp"
+]
+},
+{
+"sku": "JRN00008368",
+"barcode": "6291003303760",
+"cat": 10,
+"ar": "صني زيت مجموعة 2 حبة 1.5 لتر",
+"en": "Sunny Blended Oil Pack 2 pcs 1.5 L",
+"price": 38.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19291348",
+"img_src": "ninja",
+"images": [
+"6291003303760.webp"
+]
+},
+{
+"sku": "JRN00008369",
+"barcode": "6291003304330",
+"cat": 10,
+"ar": "نور زيت دوار الشمس 2 حبة 1.5 لتر و 500 مل مجانا",
+"en": "Noor Sunflower Oil 2 pcs 1.5 L and 500 ml Free",
+"price": 55.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294252",
+"img_src": "ninja",
+"images": [
+"6291003304330.webp",
+"6291003304330-1.webp"
+]
+},
+{
+"sku": "JRN00008370",
+"barcode": "5285000390046",
+"cat": 18,
+"ar": "اندومي نودلز بنكهة الدجاج الخاصة كرتون 40 حبة 75 جم",
+"en": "Indomie Noodle Special Chicken Flavour Carton 40 pcs 75 g",
+"price": 59.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7229622",
+"img_src": "ninja",
+"images": [
+"5285000390046.webp",
+"5285000390046-1.webp"
+]
+},
+{
+"sku": "JRN00008371",
+"barcode": "6287011312979",
+"cat": 17,
+"ar": "الجميل حلاوة طحينية سادة 1 كجم",
+"en": "Al Jameel Halawa Tahina Plain Pail 1 kg",
+"price": 42.95,
+"special": 32.95,
+"src": "ninja",
+"ninja_id": "5-19293557",
+"img_src": "ninja",
+"images": [
+"6287011312979.webp",
+"6287011312979-1.webp",
+"6287011312979-2.webp"
+]
+},
+{
+"sku": "JRN00008372",
+"barcode": "6281055703946",
+"cat": 10,
+"ar": "نخلتين زيت نباتي عرض عبوة 2 حبة 1.5 لتر",
+"en": "Nakhlatain Vegetable Oil Promo Pack 2 pcs 1.5 L",
+"price": 54.95,
+"special": 34.95,
+"src": "ninja",
+"ninja_id": "5-10998143",
+"img_src": "ninja",
+"images": [
+"6281055703946.webp",
+"6281055703946-1.webp"
+]
+},
+{
+"sku": "JRN00008373",
+"barcode": "5285000390022",
+"cat": 18,
+"ar": "اندومي نودلز بنكهة كاري الدجاج كرتون 40 حبة 75 جم",
+"en": "Indomie Noodle Chicken Curry Flavour Carton 40 pcs 75 g",
+"price": 59.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7232120",
+"img_src": "ninja",
+"images": [
+"5285000390022.webp",
+"5285000390022-1.webp",
+"5285000390022-2.webp"
+]
+},
+{
+"sku": "JRN00008374",
+"barcode": "5285000391012",
+"cat": 18,
+"ar": "اندومي شعيرية سريعة التحضير شعيرية مقلية 10 حبة 80 جم",
+"en": "Indomie Instant Noodles Fried Noodles 10 pcs 80 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370170",
+"img_src": "ninja",
+"images": [
+"5285000391012.webp",
+"5285000391012-1.webp",
+"5285000391012-2.webp"
+]
+},
+{
+"sku": "JRN00008375",
+"barcode": "6287041920045",
+"cat": 18,
+"ar": "اندومي نودلز كاسات بنكهة الدجاج 80 جم",
+"en": "Indomie Cup Noodle Chicken Flavour 80 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388297",
+"img_src": "ninja",
+"images": [
+"6287041920045.webp",
+"6287041920045-1.webp",
+"6287041920045-2.webp"
+]
+},
+{
+"sku": "JRN00008376",
+"barcode": "6287041920083",
+"cat": 18,
+"ar": "اندومي نودلز كاسات بنكهة الخضار 82 جم",
+"en": "Indomie Cup Noodle Vegetable Flavour 82 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388300",
+"img_src": "ninja",
+"images": [
+"6287041920083.webp",
+"6287041920083-1.webp",
+"6287041920083-2.webp"
+]
+},
+{
+"sku": "JRN00008377",
+"barcode": "6287041920069",
+"cat": 18,
+"ar": "اندومي نودلز كاسات بنكهة كاري 82 جم",
+"en": "Indomie Cup Noodle Curry Flavour 82 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388298",
+"img_src": "ninja",
+"images": [
+"6287041920069.webp",
+"6287041920069-1.webp",
+"6287041920069-2.webp"
+]
+},
+{
+"sku": "JRN00008378",
+"barcode": "8994963002268",
+"cat": 18,
+"ar": "اندومي شعيرية مقلية حارة 5 حبة 83 جم",
+"en": "Indomie Spicy Fried Noodles 5 pcs 83 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368609",
+"img_src": "ninja",
+"images": [
+"8994963002268.webp",
+"8994963002268-1.webp",
+"8994963002268-2.webp"
+]
+},
+{
+"sku": "JRN00008379",
+"barcode": "5285000391043",
+"cat": 18,
+"ar": "اندومي شعيرية سريعة التحضير نكهة خضار 10 حبة 75 جم",
+"en": "Indomie Instant Noodle Vegetable Flavour 10 pcs 75 g",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370169",
+"img_src": "ninja",
+"images": [
+"5285000391043.webp",
+"5285000391043-1.webp",
+"5285000391043-2.webp"
+]
+},
+{
+"sku": "JRN00008380",
+"barcode": "6281073152603",
+"cat": 18,
+"ar": "السنبلة شعيرية سريعة التحضير نكهة الخضار 5 حبة 70 جم",
+"en": "Sunbulah Instant Noodles Vegetables Flavor 5 pcs 70 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19338925",
+"img_src": "ninja",
+"images": [
+"6281073152603.webp",
+"6281073152603-1.webp",
+"6281073152603-2.webp"
+]
+},
+{
+"sku": "JRN00008381",
+"barcode": "5285000390992",
+"cat": 18,
+"ar": "اندومي شعيرية سريعة التحضير نكهة دجاج بلدي 10 حبة 70 جم",
+"en": "Indomie Instant Noodle Baladi Chicken Flavour 10 pcs 70 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370166",
+"img_src": "ninja",
+"images": [
+"5285000390992.webp",
+"5285000390992-1.webp",
+"5285000390992-2.webp"
+]
+},
+{
+"sku": "JRN00008382",
+"barcode": "5285000396079",
+"cat": 18,
+"ar": "اندومي شعيرية مقلية بنكهة الفلفل الأخضر مجموعة 5 حبات 80 جم",
+"en": "Indomie Fried Noodle Green Chili Flavor Pack 5 pcs 80 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7236633",
+"img_src": "ninja",
+"images": [
+"5285000396079.webp",
+"5285000396079-1.webp",
+"5285000396079-2.webp"
+]
+},
+{
+"sku": "JRN00008383",
+"barcode": "6287021390073",
+"cat": 10,
+"ar": "جوفال زيت زيتون بكر قطفة اولى عضوي 250 مل",
+"en": "Jofal Organic Olive Oil 250 ml",
+"price": 19.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19362858",
+"img_src": "ninja",
+"images": [
+"6287021390073.webp",
+"6287021390073-1.webp"
+]
+},
+{
+"sku": "JRN00008384",
+"barcode": "6285768000057",
+"cat": 10,
+"ar": "صفوة الجوف زيت زيتون بكر قطفة أولى 250 مل",
+"en": "Safwat Aljawf Virgin Olive Oil 250 ml",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19308261",
+"img_src": "ninja",
+"images": [
+"6285768000057.webp",
+"6285768000057-1.webp",
+"6285768000057-2.webp"
+]
+},
+{
+"sku": "JRN00008385",
+"barcode": "6281057100477",
+"cat": 10,
+"ar": "نادك زيت زيتون عضوي 500 مل",
+"en": "Nadec Olive Oil Organic Extra Virgin 500 ml",
+"price": 34.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-7860",
+"img_src": "ninja",
+"images": [
+"6281057100477.webp",
+"6281057100477-1.webp",
+"6281057100477-2.webp"
+]
+},
+{
+"sku": "JRN00008386",
+"barcode": "6294017107232",
+"cat": 18,
+"ar": "ماجي شوربة كريمة المشروم 68 جم",
+"en": "Maggi Cream Of Mushroom Soup 68 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12780090",
+"img_src": "ninja",
+"images": [
+"6294017107232.webp",
+"6294017107232-1.webp"
+]
+},
+{
+"sku": "JRN00008387",
+"barcode": "5285004915573",
+"cat": 10,
+"ar": "بيتوتي زيت الزيتون مكرر و زيت زيتون بكر 250 مل",
+"en": "Baytouti Pomace Olive Oil 250 ml",
+"price": 17.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19307110",
+"img_src": "ninja",
+"images": [
+"5285004915573.webp",
+"5285004915573-1.webp",
+"5285004915573-2.webp"
+]
+},
+{
+"sku": "JRN00008388",
+"barcode": "6294003588076",
+"cat": 18,
+"ar": "ماجي خلطة البشاميل 80 جم",
+"en": "Maggi Bechamel Mix 80 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-30005",
+"img_src": "hs",
+"images": [
+"6294003588076.webp",
+"6294003588076-1.webp"
+]
+},
+{
+"sku": "JRN00008389",
+"barcode": "6281055703908",
+"cat": 10,
+"ar": "نخلتين زيت نباتي 1.5 لتر",
+"en": "Nakhlatain Vegetable Oil 1.5 L",
+"price": 26.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-4794427",
+"img_src": "ninja",
+"images": [
+"6281055703908.webp",
+"6281055703908-1.webp",
+"6281055703908-2.webp"
+]
+},
+{
+"sku": "JRN00008390",
+"barcode": "8428483100017",
+"cat": 10,
+"ar": "الوزير زيت زيتون 500 مل",
+"en": "Al Wazir Olive Oil 500 ml",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-426",
+"img_src": "ninja",
+"images": [
+"8428483100017.webp",
+"8428483100017-1.webp",
+"8428483100017-2.webp"
+]
+},
+{
+"sku": "JRN00008391",
+"barcode": "6281011701863",
+"cat": 10,
+"ar": "عافية زيت الذرة الصافي 1.5 لتر",
+"en": "Afia Corn Oil Pure 1.5 L",
+"price": 32.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-8135",
+"img_src": "ninja",
+"images": [
+"6281011701863.webp"
+]
+},
+{
+"sku": "JRN00008392",
+"barcode": "6281007024471",
+"cat": 10,
+"ar": "المراعي سمن زبدة نقي 400 جم",
+"en": "Almarai Ghee Butter 400 g",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1286",
+"img_src": "ninja",
+"images": [
+"6281007024471.webp",
+"6281007024471-1.webp",
+"6281007024471-2.webp"
+]
+},
+{
+"sku": "JRN00008393",
+"barcode": "6294017117026",
+"cat": 18,
+"ar": "ماجي شوربة خضار الربيع 59 جم",
+"en": "Maggi Soup Spring Season 59 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19356940",
+"img_src": "ninja",
+"images": [
+"6294017117026.webp",
+"6294017117026-1.webp",
+"6294017117026-2.webp"
+]
+},
+{
+"sku": "JRN00008394",
+"barcode": "6281011701351",
+"cat": 10,
+"ar": "نخيل زيت خليط الزيوت 1.5 لتر",
+"en": "Nakheel Blended Oil 1.5 L",
+"price": 19.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-4473640",
+"img_src": "ninja",
+"images": [
+"6281011701351.webp",
+"6281011701351-1.webp"
+]
+},
+{
+"sku": "JRN00008395",
+"barcode": "6281011701467",
+"cat": 10,
+"ar": "العربي زيت للقلي 1.5 لتر",
+"en": "Al Arabi Frying Oil 1.5 L",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4813",
+"img_src": "ninja",
+"images": [
+"6281011701467.webp",
+"6281011701467-1.webp",
+"6281011701467-2.webp"
+]
+},
+{
+"sku": "JRN00008396",
+"barcode": "6287021390028",
+"cat": 10,
+"ar": "جوفال زيت زيتون بكر قطفة اولى عضوي 1 لتر",
+"en": "Jofal Organic Olive Oil 1 L",
+"price": 71.95,
+"special": 46.95,
+"src": "ninja",
+"ninja_id": "5-19362860",
+"img_src": "ninja",
+"images": [
+"6287021390028.webp",
+"6287021390028-1.webp",
+"6287021390028-2.webp"
+]
+},
+{
+"sku": "JRN00008397",
+"barcode": "6281009003009",
+"cat": 10,
+"ar": "فارم سمن نقي 400 جم",
+"en": "Farm Pure Ghee 400 g",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19357457",
+"img_src": "ninja",
+"images": [
+"6281009003009.webp",
+"6281009003009-1.webp",
+"6281009003009-2.webp"
+]
+},
+{
+"sku": "JRN00008398",
+"barcode": "6281011701870",
+"cat": 10,
+"ar": "عافية زيت دوار الشمس 1.5 لتر",
+"en": "Afia Sunflower Oil 1.5 L",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4811",
+"img_src": "ninja",
+"images": [
+"6281011701870.webp"
+]
+},
+{
+"sku": "JRN00008399",
+"barcode": "6291003304255",
+"cat": 10,
+"ar": "حياة زيت نباتي 1.5 لتر",
+"en": "Hayat Vegetable Oil 1.5 L",
+"price": 21.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19369844",
+"img_src": "ninja",
+"images": [
+"6291003304255.webp",
+"6291003304255-1.webp"
+]
+},
+{
+"sku": "JRN00008400",
+"barcode": "6294003588014",
+"cat": 18,
+"ar": "ماجي خلطة شاورما الدجاج في الفرن 40 جم",
+"en": "Maggi Mix Chicken Shawarma In Oven 40 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294654",
+"img_src": "ninja",
+"images": [
+"6294003588014.webp",
+"6294003588014-1.webp",
+"6294003588014-2.webp"
+]
+},
+{
+"sku": "JRN00008401",
+"barcode": "6281100044031",
+"cat": 10,
+"ar": "الجوف زيت زيتون عضوي بكر ممتاز 500 مل",
+"en": "Al Jouf Organic Extra Virgin Olive Oil 500 ml",
+"price": 39.95,
+"special": 34.95,
+"src": "ninja",
+"ninja_id": "5-19407102",
+"img_src": "ninja",
+"images": [
+"6281100044031.webp",
+"6281100044031-1.webp",
+"6281100044031-2.webp"
+]
+},
+{
+"sku": "JRN00008402",
+"barcode": "6294017137109",
+"cat": 18,
+"ar": "ماجي خلطة الفاهيتا المكسيكية للقلاية الهوائية 65 جم",
+"en": "Maggi Mexican Fajita Mix for Air Fryer 65 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19389721",
+"img_src": "ninja",
+"images": [
+"6294017137109.webp",
+"6294017137109-1.webp",
+"6294017137109-2.webp"
+]
+},
+{
+"sku": "JRN00008403",
+"barcode": "6287021390196",
+"cat": 10,
+"ar": "جوفال زيت زيتون بكر قطفة اولى عضوي 500 مل",
+"en": "Jofal Organic Olive Oil 500 ml",
+"price": 39.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-19362862",
+"img_src": "ninja",
+"images": [
+"6287021390196.webp",
+"6287021390196-1.webp"
+]
+},
+{
+"sku": "JRN00008404",
+"barcode": "6281091008630",
+"cat": 10,
+"ar": "الكرسي الذهبي سمن نقي 800 مل",
+"en": "Golden Chair Pure Butter Ghee 800 ml",
+"price": 59.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349965",
+"img_src": "ninja",
+"images": [
+"6281091008630.webp"
+]
+},
+{
+"sku": "JRN00008405",
+"barcode": "6281057001248",
+"cat": 10,
+"ar": "نادك زيت زيتون بكر عضوي ممتاز 250 مل",
+"en": "Nadec Oil Olive Organic 250 ml",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5789",
+"img_src": "ninja",
+"images": [
+"6281057001248.webp",
+"6281057001248-1.webp",
+"6281057001248-2.webp"
+]
+},
+{
+"sku": "JRN00008406",
+"barcode": "6281100043997",
+"cat": 10,
+"ar": "الجوف زيت زيتون عضوي بكر ممتاز 1 لتر",
+"en": "Al Jouf Organic Extra Virgin Olive Oil 1 L",
+"price": 79.95,
+"special": 59.95,
+"src": "ninja",
+"ninja_id": "5-19407104",
+"img_src": "ninja",
+"images": [
+"6281100043997.webp",
+"6281100043997-1.webp",
+"6281100043997-2.webp"
+]
+},
+{
+"sku": "JRN00008407",
+"barcode": "709993321191",
+"cat": 10,
+"ar": "أرض الطبيعة سمن بلدي عضوي 500 جم",
+"en": "Natureland Ghee Organic 500 g",
+"price": 119.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7943",
+"img_src": "ninja",
+"images": [
+"709993321191.webp",
+"709993321191-1.webp",
+"709993321191-2.webp"
+]
+},
+{
+"sku": "JRN00008408",
+"barcode": "709993314025",
+"cat": 18,
+"ar": "أرض الطبيعة خلاصة شوربة الخضار 125 جم",
+"en": "Natureland Vegetable Broth Extract 125 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7911",
+"img_src": "ninja",
+"images": [
+"709993314025.webp",
+"709993314025-1.webp",
+"709993314025-2.webp"
+]
+},
+{
+"sku": "JRN00008409",
+"barcode": "709993314049",
+"cat": 18,
+"ar": "أرض الطبيعة مكعبات مرقة الخضار غير مملحة عضوي نباتي 66 جم",
+"en": "Natureland Vegetable Broth Cubes Unsalted Organic Vegan 66 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7915",
+"img_src": "ninja",
+"images": [
+"709993314049.webp",
+"709993314049-1.webp",
+"709993314049-2.webp"
+]
+},
+{
+"sku": "JRN00008410",
+"barcode": "5285004917140",
+"cat": 10,
+"ar": "بيتوتي زيت زيتون بكر ممتاز 250 مل",
+"en": "Baytouti Extra Virgin Olive Oil 250 ml",
+"price": 27.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19307112",
+"img_src": "ninja",
+"images": [
+"5285004917140.webp",
+"5285004917140-1.webp",
+"5285004917140-2.webp"
+]
+},
+{
+"sku": "JRN00008411",
+"barcode": "6287015741607",
+"cat": 18,
+"ar": "إسناد خليط دجاج بالزبدة 200 جم",
+"en": "Esnad Butter Chicken Mix 200 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14405733",
+"img_src": "ninja",
+"images": [
+"6287015741607.webp",
+"6287015741607-1.webp",
+"6287015741607-2.webp"
+]
+},
+{
+"sku": "JRN00008412",
+"barcode": "709993318092",
+"cat": 17,
+"ar": "أرض الطبيعة مربى توت مشكل عضوي 200 جم",
+"en": "Natureland Jam Mixed Berries Organic 200 g",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7957",
+"img_src": "ninja",
+"images": [
+"709993318092.webp",
+"709993318092-1.webp",
+"709993318092-2.webp"
+]
+},
+{
+"sku": "JRN00008413",
+"barcode": "709993318108",
+"cat": 17,
+"ar": "أرض الطبيعة مربى فراولة عضوي 200 جم",
+"en": "Natureland Jam Strawberry Organic 200 g",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7966",
+"img_src": "ninja",
+"images": [
+"709993318108.webp",
+"709993318108-1.webp",
+"709993318108-2.webp"
+]
+},
+{
+"sku": "JRN00008414",
+"barcode": "709993307058",
+"cat": 17,
+"ar": "أرض الطبيعة رهش عضوي 75 جم",
+"en": "Natureland Rahash Organic 75 g",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-984356",
+"img_src": "ninja",
+"images": [
+"709993307058.webp",
+"709993307058-1.webp",
+"709993307058-2.webp"
+]
+},
+{
+"sku": "JRN00008415",
+"barcode": "6287015740938",
+"cat": 18,
+"ar": "اسناد شوربة الدجاج بالشعيرية 80 جم",
+"en": "Esnad Chicken Noodles Soup 80 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369416",
+"img_src": "ninja",
+"images": [
+"6287015740938.webp"
+]
+},
+{
+"sku": "JRN00008416",
+"barcode": "6281102021788",
+"cat": 17,
+"ar": "دريم هاوس مربى فراولة 380 جم",
+"en": "Dream House Strawberry Jam 380 g",
+"price": 14.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19359318",
+"img_src": "ninja",
+"images": [
+"6281102021788.webp",
+"6281102021788-1.webp",
+"6281102021788-2.webp"
+]
+},
+{
+"sku": "JRN00008417",
+"barcode": "6281073211102",
+"cat": 19,
+"ar": "الشفاء عسل طبيعي ضغاط 400 جم",
+"en": "Alshifa Natural Honey Sqz 400 g",
+"price": 45.95,
+"special": 34.95,
+"src": "ninja",
+"ninja_id": "5-19390720",
+"img_src": "ninja",
+"images": [
+"6281073211102.webp",
+"6281073211102-1.webp",
+"6281073211102-2.webp"
+]
+},
+{
+"sku": "JRN00008418",
+"barcode": "6281041004712",
+"cat": 17,
+"ar": "حلواني النخلة حلاوة طحينية سادة 500 جم",
+"en": "Halwani Al Nakhla Halawa Tahina Plain 500 g",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4695",
+"img_src": "ninja",
+"images": [
+"6281041004712.webp",
+"6281041004712-1.webp",
+"6281041004712-2.webp"
+]
+},
+{
+"sku": "JRN00008419",
+"barcode": "6281041228118",
+"cat": 17,
+"ar": "حلواني مربى المشمش 400 جم",
+"en": "Halwani Apricot Jam 400 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4701",
+"img_src": "ninja",
+"images": [
+"6281041228118.webp",
+"6281041228118-1.webp",
+"6281041228118-2.webp"
+]
+},
+{
+"sku": "JRN00008420",
+"barcode": "6288004001160",
+"cat": 17,
+"ar": "ميلاف كريمة زبدة بالتمر بدون سكر مضاف 370 جم",
+"en": "Milaf Date Butter Spread No sugar added 370 g",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390728",
+"img_src": "ninja",
+"images": [
+"6288004001160.webp",
+"6288004001160-1.webp",
+"6288004001160-2.webp"
+]
+},
+{
+"sku": "JRN00008421",
+"barcode": "6288004002570",
+"cat": 17,
+"ar": "ميلاف كريمة شوكولاتة بالتمر والبندق بدون سكر مضاف 180 جم",
+"en": "Milaf Date Chocolate Hazelnut Spread No sugar added 180 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390729",
+"img_src": "ninja",
+"images": [
+"6288004002570.webp",
+"6288004002570-1.webp"
+]
+},
+{
+"sku": "JRN00008422",
+"barcode": "6287024860979",
+"cat": 17,
+"ar": "طيبا طحينة 500 جم",
+"en": "Taiba Tahina 500 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348864",
+"img_src": "ninja",
+"images": [
+"6287024860979.webp",
+"6287024860979-1.webp",
+"6287024860979-2.webp"
+]
+},
+{
+"sku": "JRN00008423",
+"barcode": "6281102021795",
+"cat": 19,
+"ar": "الصفي عسل طبيعي ضغاط 500 جم",
+"en": "Alsaffi Natural Honey Squeeze 500 g",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19385638",
+"img_src": "ninja",
+"images": [
+"6281102021795.webp",
+"6281102021795-1.webp"
+]
+},
+{
+"sku": "JRN00008424",
+"barcode": "6281041217112",
+"cat": 17,
+"ar": "حلواني مربي مشمش من غير سكر 400 جم",
+"en": "Halwani Sugar Free Apricot Jam 400 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19332998",
+"img_src": "ninja",
+"images": [
+"6281041217112.webp",
+"6281041217112-1.webp"
+]
+},
+{
+"sku": "JRN00008425",
+"barcode": "80751151",
+"cat": 17,
+"ar": "نوتيلا كريمة البندق مع الكاكاو 15 جم",
+"en": "Nutella Hazelnut Spread with Cocoa 15 g",
+"price": 1.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390675",
+"img_src": "ninja",
+"images": [
+"80751151.webp",
+"80751151-1.webp"
+]
+},
+{
+"sku": "JRN00008426",
+"barcode": "6281106251075",
+"cat": 19,
+"ar": "سيافا تمر سكري 400 جم",
+"en": "Siafa Sukkary Dates 400 g",
+"price": 28.95,
+"special": 18.23,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281106251075.webp",
+"6281106251075-1.webp",
+"6281106251075-2.webp"
+]
+},
+{
+"sku": "JRN00008427",
+"barcode": "6281106256827",
+"cat": 19,
+"ar": "عرجون تمور مغطاة بالشوكولاتة البنية باللوز 125 جم",
+"en": "Arjoon Milk Chocolate Coated Dates with Almond 125 g",
+"price": 8.28,
+"special": 6.87,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281106256827.webp",
+"6281106256827-1.webp",
+"6281106256827-2.webp"
+]
+},
+{
+"sku": "JRN00008428",
+"barcode": "6281106252546",
+"cat": 19,
+"ar": "سيافا معمول أساور بالسمسم 200 جم",
+"en": "Siafa Ma'amoul Asawer Dates with Sesame 200 g",
+"price": 11,
+"special": 9.24,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281106252546.webp",
+"6281106252546-1.webp",
+"6281106252546-2.webp"
+]
+},
+{
+"sku": "JRN00008429",
+"barcode": "5745000657322",
+"cat": 19,
+"ar": "تورديتس تمر بنكهه البسكويت طبيعية 100 جم",
+"en": "True Dates Cookie Dough Flavoured Dates 100 g",
+"price": 14.95,
+"special": 7.47,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5745000657322.webp",
+"5745000657322-1.webp",
+"5745000657322-2.webp"
+]
+},
+{
+"sku": "JRN00008430",
+"barcode": "6281106257312",
+"cat": 19,
+"ar": "عرجون تمور شوكولاتة بالكاجو 200 جم",
+"en": "Arjoon Chocolate Dates with Cashew 200 g",
+"price": 9,
+"special": 6.93,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281106257312.webp",
+"6281106257312-1.webp"
+]
+},
+{
+"sku": "JRN00008431",
+"barcode": "6281106256841",
+"cat": 19,
+"ar": "عرجون تمور مغطاة بالشوكولاتة البيضاء باللوز 125 جم",
+"en": "Arjoon White Chocolate Coated Dates with Almond 125 g",
+"price": 8.28,
+"special": 6.87,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281106256841.webp",
+"6281106256841-1.webp",
+"6281106256841-2.webp"
+]
+},
+{
+"sku": "JRN00008432",
+"barcode": "5000183501108",
+"cat": 17,
+"ar": "كادبوري شوكولاته قابلة للدهن 400 جم",
+"en": "Cadbury Milk Chocolate Spread 400 g",
+"price": 33.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5000183501108.webp",
+"5000183501108-1.webp",
+"5000183501108-2.webp"
+]
+},
+{
+"sku": "JRN00008433",
+"barcode": "5060391621401",
+"cat": 17,
+"ar": "كادبوري كراميل سبريد 400 جم",
+"en": "Cadbury Caramel Spread 400 g",
+"price": 34,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060391621401.webp",
+"5060391621401-1.webp",
+"5060391621401-2.webp"
+]
+},
+{
+"sku": "JRN00008434",
+"barcode": "4006424022389",
+"cat": 17,
+"ar": "ستيوت مربي المشمش بدون اضافة سكر 430 جم",
+"en": "Stute No Sugar Added Apricot Extra Jam 430 g",
+"price": 24.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"4006424022389.webp",
+"4006424022389-1.webp",
+"4006424022389-2.webp"
+]
+},
+{
+"sku": "JRN00008435",
+"barcode": "8801073411388",
+"cat": 18,
+"ar": "ساميانغ بولداك صلصة الدجاج الحار 200 مل",
+"en": "Samyang Buldak Hot Chicken Flavour Sauce 200 ml",
+"price": 19.75,
+"special": 15.8,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8801073411388.webp",
+"8801073411388-1.webp"
+]
+},
+{
+"sku": "JRN00008436",
+"barcode": "8445291829909",
+"cat": 16,
+"ar": "نستله فيتنس جرانولا بالتوت البري 600 جم",
+"en": "Nestle Fitness Granola Cranberries & Pumpkin Seeds 600 g",
+"price": 34.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8445291829909.webp",
+"8445291829909-1.webp"
+]
+},
+{
+"sku": "JRN00008437",
+"barcode": "5900020043504",
+"cat": 16,
+"ar": "نستله للياقة ألياف حبوب بالعسل 310 جم",
+"en": "Nestle Fitness Fiber Honey Flavour 310 g",
+"price": 29.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5900020043504.webp",
+"5900020043504-1.webp"
+]
+},
+{
+"sku": "JRN00008438",
+"barcode": "5059319024394",
+"cat": 16,
+"ar": "كيلوقز سبيشال كي رقائق القمح الأصلية 335 جم",
+"en": "Kellogg's Special K Original Wheat Cereal 335 g",
+"price": 39.95,
+"special": 31.96,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5059319024394.webp",
+"5059319024394-1.webp",
+"5059319024394-2.webp"
+]
+},
+{
+"sku": "JRN00008439",
+"barcode": "8445292341868",
+"cat": 16,
+"ar": "نستله فتنس عسل و لوز 355 جم",
+"en": "Nestle Fitness Honey And Almonds 355 g",
+"price": 37.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8445292341868.webp",
+"8445292341868-1.webp"
+]
+},
+{
+"sku": "JRN00008440",
+"barcode": "8445291829947",
+"cat": 16,
+"ar": "نستله حبوب غرانولا بالكينوا واللوز والشوكولاتة 600 جم",
+"en": "Nestle Fitness Granola Quinoa, Almond & Chocolate 600 g",
+"price": 34.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8445291829947.webp",
+"8445291829947-1.webp",
+"8445291829947-2.webp"
+]
+},
+{
+"sku": "JRN00008441",
+"barcode": "5010477365774",
+"cat": 16,
+"ar": "جوردانز كونتري حبوب مقرمشة بالفراولة 400 جم",
+"en": "Jordans Country Crisp Strawberries 400 g",
+"price": 25,
+"special": 15,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5010477365774.webp"
+]
+},
+{
+"sku": "JRN00008442",
+"barcode": "5010477365170",
+"cat": 16,
+"ar": "جوردانز جرانولا مع العسل 370 جم",
+"en": "Jordans Simply Granola With Honey 370 g",
+"price": 25,
+"special": 15,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5010477365170.webp",
+"5010477365170-1.webp",
+"5010477365170-2.webp"
+]
+},
+{
+"sku": "JRN00008443",
+"barcode": "7613287125675",
+"cat": 16,
+"ar": "نستله رقائق حبوب كاملة بطعم الشوكولاته 645 جم",
+"en": "Nestle Chocapic Cereal 645 g",
+"price": 49.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7613287125675.webp",
+"7613287125675-1.webp"
+]
+},
+{
+"sku": "JRN00008444",
+"barcode": "6291100343904",
+"cat": 16,
+"ar": "الجميل شوفان ابيض 400 جم",
+"en": "Al Jameel Quick Cooking White Oats 400 g",
+"price": 5.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6291100343904.webp",
+"6291100343904-1.webp",
+"6291100343904-2.webp"
+]
+},
+{
+"sku": "JRN00008445",
+"barcode": "051500255162",
+"cat": 17,
+"ar": "جف زبدة الفول السوداني الكريمية 454 جم",
+"en": "Jif Creamy Peanut Butter 454 g",
+"price": 18.25,
+"special": 13.68,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"051500255162.webp",
+"051500255162-1.webp",
+"051500255162-2.webp"
+]
+},
+{
+"sku": "JRN00008446",
+"barcode": "5060689760119",
+"cat": 17,
+"ar": "مستر شوكو شوكولاتة بالبندق قابلة للدهن 350 جم",
+"en": "Mr. Choco Hazelnut Chocolate Spread Less Sugar 350 g",
+"price": 30.95,
+"special": 26.3,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060689760119.webp",
+"5060689760119-1.webp",
+"5060689760119-2.webp"
+]
+},
+{
+"sku": "JRN00008447",
+"barcode": "851087000069",
+"cat": 17,
+"ar": "بينت بتر اند كو زبدة فول سوداني مع شوكولاتة 454 جم",
+"en": "Peanut Butter & Co Peanut Butter Dark Chocolate Dream 454 g",
+"price": 33.95,
+"special": 30.55,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"851087000069.webp",
+"851087000069-1.webp",
+"851087000069-2.webp"
+]
+},
+{
+"sku": "JRN00008448",
+"barcode": "6281014004114",
+"cat": 17,
+"ar": "قودي زبدة فول سوداني مع شوكولاتة داكنة 454 جم",
+"en": "Goody Natural Peanut Butter Dark Chocolate 454 g",
+"price": 27.5,
+"special": 21.72,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281014004114.webp",
+"6281014004114-1.webp"
+]
+},
+{
+"sku": "JRN00008449",
+"barcode": "6281014004107",
+"cat": 17,
+"ar": "قودي فول سوداني قابل للدهن بالقرفة 454 جم",
+"en": "Goody Peanut Butter Cinnamon Spread 454 g",
+"price": 21.95,
+"special": 17.56,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281014004107.webp",
+"6281014004107-1.webp"
+]
+},
+{
+"sku": "JRN00008450",
+"barcode": "6281014004145",
+"cat": 17,
+"ar": "قودي زبدة فول سوداني 454 جم",
+"en": "Goody Melty Peanut Butter Spread Original 454 g",
+"price": 27.5,
+"special": 21.72,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281014004145.webp"
+]
+},
+{
+"sku": "JRN00008451",
+"barcode": "6281020338937",
+"cat": 17,
+"ar": "لونا زبدة الفول السوداني الخشنة 340 جم",
+"en": "Luna Peanut Butter Crunchy 340 g",
+"price": 11.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281020338937.webp",
+"6281020338937-1.webp",
+"6281020338937-2.webp"
+]
+},
+{
+"sku": "JRN00008452",
+"barcode": "6281014110112",
+"cat": 17,
+"ar": "قودي زبدة الفول السوداني الخشنة 340 جم",
+"en": "Goody Chunky Peanut Butter 340 g",
+"price": 15.75,
+"special": 13.07,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281014110112.webp",
+"6281014110112-1.webp",
+"6281014110112-2.webp"
+]
+},
+{
+"sku": "JRN00008453",
+"barcode": "6281041000097",
+"cat": 17,
+"ar": "حلواني اخوان حلاوة طحينية بالفستق 360 جم",
+"en": "Halwani Brothers Semsema Halawa Spread Pistachio 360 g",
+"price": 29.4,
+"special": 21.16,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281041000097.webp",
+"6281041000097-1.webp",
+"6281041000097-2.webp"
+]
+},
+{
+"sku": "JRN00008454",
+"barcode": "6281063881285",
+"cat": 17,
+"ar": "فرشلي زبدة الفول السوداني كريمة 340 جم",
+"en": "Freshly Creamy Peanut Butter 340 g",
+"price": 15.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281063881285.webp",
+"6281063881285-1.webp",
+"6281063881285-2.webp"
+]
+},
+{
+"sku": "JRN00008455",
+"barcode": "851087000250",
+"cat": 17,
+"ar": "بينت بتر اند كو زبدة الفول السوداني بالعسل 454 جم",
+"en": "Peanut Butter & Co The Bee's Knees Honey Peanut Butter 454 g",
+"price": 37.6,
+"special": 33.84,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"851087000250.webp",
+"851087000250-1.webp",
+"851087000250-2.webp"
+]
+},
+{
+"sku": "JRN00008456",
+"barcode": "6281041000110",
+"cat": 17,
+"ar": "حلواني سمسمة حلاوة سبريد بالتوت البري 360 جم",
+"en": "Halwani Semsema Halawa Spread Cranberry 360 g",
+"price": 29.4,
+"special": 21.16,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281041000110.webp",
+"6281041000110-1.webp",
+"6281041000110-2.webp"
+]
+},
+{
+"sku": "JRN00008457",
+"barcode": "3045320015799",
+"cat": 17,
+"ar": "بون مامان مربى المشمش 370 جم",
+"en": "Bonne maman Apricot Jam 370 g",
+"price": 26.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"3045320015799.webp",
+"3045320015799-1.webp"
+]
+},
+{
+"sku": "JRN00008458",
+"barcode": "617950510260",
+"cat": 17,
+"ar": "العلالي مربى توت لايت 340 جم",
+"en": "Alali Light Raspberry Jam 340 g",
+"price": 15.4,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"617950510260.webp",
+"617950510260-1.webp",
+"617950510260-2.webp"
+]
+},
+{
+"sku": "JRN00008459",
+"barcode": "617950379027",
+"cat": 17,
+"ar": "العلالي مربى الفراولة 2×400 جم",
+"en": "Alali Strawberry Jam Family Pack 2 x 400 g",
+"price": 24.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"617950379027.webp",
+"617950379027-1.webp",
+"617950379027-2.webp"
+]
+},
+{
+"sku": "JRN00008460",
+"barcode": "6281102020767",
+"cat": 19,
+"ar": "دريم هاوس عسل السدر 500 جم",
+"en": "Dream House Sedr Honey 500 g",
+"price": 49.95,
+"special": 24.97,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281102020767.webp",
+"6281102020767-1.webp",
+"6281102020767-2.webp"
+]
+},
+{
+"sku": "JRN00008461",
+"barcode": "6281073210549",
+"cat": 19,
+"ar": "الشفاء عسل الغابة السوداء 250 جم",
+"en": "Al Shifa Black Forest Honey 250 g",
+"price": 55.95,
+"special": 38.6,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281073210549.webp",
+"6281073210549-1.webp",
+"6281073210549-2.webp"
+]
+},
+{
+"sku": "JRN00008462",
+"barcode": "4023300867209",
+"cat": 19,
+"ar": "لانجنيز عسل الغابة السوداء 500 جم",
+"en": "Langnese Black Forest Honey 500 g",
+"price": 120,
+"special": 106.8,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"4023300867209.webp",
+"4023300867209-1.webp",
+"4023300867209-2.webp"
+]
+},
+{
+"sku": "JRN00008463",
+"barcode": "6281007056106",
+"cat": 19,
+"ar": "المراعي عسل الزهور البرية الطبيعي 250 جم",
+"en": "Almarai Natural Wild Flowers Honey 250 g",
+"price": 23.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281007056106.webp",
+"6281007056106-1.webp",
+"6281007056106-2.webp"
+]
+},
+{
+"sku": "JRN00008464",
+"barcode": "6281007056120",
+"cat": 19,
+"ar": "المراعي عسل الزهور البرية الطبيعي 500 جم",
+"en": "Almarai Natural Wild Flowers Honey 500 g",
+"price": 38.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281007056120.webp",
+"6281007056120-1.webp",
+"6281007056120-2.webp"
+]
+},
+{
+"sku": "JRN00008465",
+"barcode": "6281007056144",
+"cat": 19,
+"ar": "المراعي عسل الزهور البرية الطبيعي 950 جم",
+"en": "Almarai Natural Wild Flowers Honey 950 g",
+"price": 72.25,
+"special": 54.91,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281007056144.webp",
+"6281007056144-1.webp",
+"6281007056144-2.webp"
+]
+},
+{
+"sku": "JRN00008466",
+"barcode": "6281102020033",
+"cat": 19,
+"ar": "المنصب عسل سدر 1 كجم",
+"en": "Al Manseb Sedr Honey 1 kg",
+"price": 150,
+"special": 105,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281102020033.webp",
+"6281102020033-1.webp",
+"6281102020033-2.webp"
+]
+},
+{
+"sku": "JRN00008467",
+"barcode": "6281102020682",
+"cat": 19,
+"ar": "المنصب عسل طبيعي 1 كجم",
+"en": "Almanseb Natural Honey 1 kg",
+"price": 67.4,
+"special": 53.92,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281102020682.webp",
+"6281102020682-1.webp",
+"6281102020682-2.webp"
+]
+},
+{
+"sku": "JRN00008468",
+"barcode": "8690998112520",
+"cat": 19,
+"ar": "بالبارماك عسل صنوبر 460 جم",
+"en": "Balparmak Pine Forest Honey 460 g",
+"price": 74.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8690998112520.webp",
+"8690998112520-1.webp",
+"8690998112520-2.webp"
+]
+},
+{
+"sku": "JRN00008469",
+"barcode": "6287042130801",
+"cat": 17,
+"ar": "فيكتوريا حلاوة طحينية بالفستق 500 جم",
+"en": "Victoria Halawa Tahina with Pistachio 500 g",
+"price": 24.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6287042130801.webp",
+"6287042130801-1.webp",
+"6287042130801-2.webp"
+]
+},
+{
+"sku": "JRN00008470",
+"barcode": "6281011639203",
+"cat": 10,
+"ar": "عافية زيت زيتون بكر ممتاز عضوي 1 لتر",
+"en": "Afia Organic Extra Virgin Olive Oil 1 L",
+"price": 80.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281011639203.webp"
+]
+},
+{
+"sku": "JRN00008471",
+"barcode": "6281007033114",
+"cat": 10,
+"ar": "المراعي زيت زيتون بكر ممتاز 500 مل",
+"en": "Almarai Extra Virgin Olive Oil 500 ml",
+"price": 37,
+"special": 30.71,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281007033114.webp",
+"6281007033114-1.webp",
+"6281007033114-2.webp"
+]
+},
+{
+"sku": "JRN00008472",
+"barcode": "8428483100086",
+"cat": 10,
+"ar": "الوزير زيت زيتون بكر ممتاز عصرة اولى على البارد 500 مل",
+"en": "Al Wazir Extra Virgin Olive Oil First Cold Press 500 ml",
+"price": 42,
+"special": 27.3,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8428483100086.webp",
+"8428483100086-1.webp"
+]
+},
+{
+"sku": "JRN00008473",
+"barcode": "6281063100522",
+"cat": 10,
+"ar": "فرشلي زيت زيتون البكر عصرة اولى 90 مل",
+"en": "Freshly Extra Virgin Olive Oil 90 ml",
+"price": 14,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281063100522.webp",
+"6281063100522-1.webp",
+"6281063100522-2.webp"
+]
+},
+{
+"sku": "JRN00008474",
+"barcode": "6215000145116",
+"cat": 10,
+"ar": "السوسن زيت زيتون بكر 500 مل",
+"en": "Al Sawsan Virgin Olive Oil 500 ml",
+"price": 35,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6215000145116.webp",
+"6215000145116-1.webp",
+"6215000145116-2.webp"
+]
+},
+{
+"sku": "JRN00008475",
+"barcode": "5285004917157",
+"cat": 10,
+"ar": "بيتوتي زيت زيتون بكر ممتاز 500 مل",
+"en": "Baytouti Extra Virgin Olive Oil 500 ml",
+"price": 39.5,
+"special": 33.57,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5285004917157.webp",
+"5285004917157-1.webp",
+"5285004917157-2.webp"
+]
+},
+{
+"sku": "JRN00008476",
+"barcode": "5060391621449",
+"cat": 17,
+"ar": "كادبوري كرانشي بايتس سبريد 400 جم",
+"en": "Cadbury Crunchie Spread 400 g",
+"price": 34,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060391621449.webp",
+"5060391621449-1.webp",
+"5060391621449-2.webp"
+]
+}
+]

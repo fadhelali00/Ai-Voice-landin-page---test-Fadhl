@@ -1,0 +1,191 @@
+tile_id,source,source_id,name,price,special_price,status,reason,candidate_barcode
+66,ninja,5-19363573,تينا حفائض لكبار السن سليب 8 نقط ماكسي بريميوم كبيرة الحجم بحزام خصر وسط 30 قطعة,157.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+66,ninja,5-19286624,لايفري حفائض للبالغين شريط لاصق حجم كبير 24 قطعة,99.95,87.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+66,ninja,5-19287887,فاين كير حفائض لكبار السن كيلوت مقاس كبير خصر 100 - 140 سم 14 قطعة,89.0,76.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+66,ninja,5-19341481,فاين كير حفاضات كبار السن مقاس كبير جدا 14 حفائض,89.0,76.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+66,ninja,5-19363580,تينا حفائض لكبار السن سليب سوبر حجم كبير جدا 32 قطعة,295.0,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+66,ninja,5-19286623,لايفري حفائض للبالغين شريط لاصق حجم وسط 30 قطعة,99.95,87.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+66,ninja,5-19286625,لايفري حفائض للبالغين شريط لاصق حجم كبير جدا 18 قطعة,99.95,87.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+66,ninja,5-19313597,سانيتا إليغنس حفاضات البالغين كبير 18 حفاض,70.95,59.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: سانيتا إليغنس حفاضات البالغين كبير 18قطعة),
+66,ninja,5-19313615,سانيتا إليغنس حفاضات البالغين وسط 22 حفاض,70.95,59.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+66,ninja,5-19295204,فاين كير حفاضات كبار السن مقاس صغير ١٨ قطعة,69.0,59.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+66,ninja,5-19344098,عصا مشي خشبية,12.95,,HOLD,Barcode 6920548080881 fails the check digit or is an internal (2-prefixed) code,6920548080881
+66,ninja,5-19341475,"فاين كير حفاضات كبار السن كلوت كبير جدا 14 قطعة
+",99.0,85.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+66,ninja,5-19341479,فاين كير حفاضات كبار السن مقاس كبير 30 حفائض,153.0,130.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19393420,ياشفين فيس ماسك أسود 50 حبة,13.95,10.72,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19425745,ماجيكا كير كمامات سوداء مغلفة 50 حبة,29.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19406015,سمارت ثيرابى غطاء للعين للأطفال 20 قطعة,12.0,,DEFERRED,"Name says Smarttherapy, but the pack image shows the CURE-AID brand; verify on the pack",6223003731472
+63,ninja,5-19406016,سمارت ثيرابي ضمادات معقمة للعين للكبار 20 قطعة,12.0,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19389826,شانيل ميد سرنجات صيني 3 مل مع إبرة 1 × 23G بوصة,1.0,,HOLD,Pharmacy medical supply (needles / syringes / lancets / ostomy / douche): needs a pharmacy licence decision,6955887302447
+63,ninja,5-19390755,بيك قربة ماء ساخن مع غطاء 1حبة,78.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19415068,ايزوبروبيل الكحول 70% محلول 220 مل,23.0,19.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19398522,مووف اون قفاز دعم رياضي مقاس كبير جدا جدا,32.0,28.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19398530,مووف اون دعامة الظهر لتصحيح القوام مقاس وسط,98.0,83.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-7017859,فرست ستيب حافظة دواء,15.0,11.95,DEFERRED,Ninja barcode 6392778555740 has GS1 prefix 639 (unassigned); does not fit First Step (6290874); verify on the pack,6392778555740
+63,ninja,5-19406023,سمارت ثيرابي لاصق للاطفال متنوع 50 قطعة,10.0,,HOLD,Barcode 6223003732623 fails the check digit or is an internal (2-prefixed) code,6223003732623
+63,ninja,5-19293323,فرست ستيب شاش لاصق 6 سم,6.0,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19389825,شانيل ميد سرنجة تيوبركلين صيني 1 مل أحادية الاستخدام مع إبرة 5/8 × 25 بوصة,1.0,,HOLD,Pharmacy medical supply (needles / syringes / lancets / ostomy / douche): needs a pharmacy licence decision,6955887304809
+63,ninja,5-19390754,بيك قربة ماء ساخن بدون غطاء 1حبة,57.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19363607,كونفاتك لاصق 183910,84.95,,HOLD,Pharmacy medical supply (needles / syringes / lancets / ostomy / douche): needs a pharmacy licence decision,768455100019
+63,ninja,5-19363609,كونفاتيك اكتيف لايف اكياس مفاغرة قابلة للتجفيف 10 قطع,137.95,,HOLD,Pharmacy medical supply (needles / syringes / lancets / ostomy / douche): needs a pharmacy licence decision,768455101610
+63,ninja,5-19411729,فوتورو دعامة الركبة رياضي مقاس حر,72.0,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19398533,مووف اون دعامة الخصر 02 مقاس وسط,100.0,79.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19398535,مووف اون دعامة الخصر 02  المقاس كبير جدا,100.0,79.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19398536,مووف اون دعامة الخصر 02 مقاس كبير جدا جدا,100.0,79.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19398538,مووف اون دعامة الخصر 04  مقاس وسط,175.0,123.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19398540,مووف اون دعامة الخصر 04 مقاس كبير جدا,175.0,123.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19398541,مووف اون دعامة الخصر 04 مقاس كبير جدا جدا,175.0,123.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19398545,مووف اون دعامة الخصر 05 مقاس كبير جدا ,138.0,110.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19398546,مووف اون دعامة الخصر 05 مقاس كبير جدا جدا,138.0,110.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19398547,مووف اون وسادة الظهر الحرارية حارة وباردة,85.0,59.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19398548,مووف اون دعامة القوام 02  مقاس كبير,165.0,115.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19398549,مووف اون دعامة القوام 02  مقاس  وسط,165.0,115.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19323189,هيلث ماكس سرنجة فم أطفال 10 مل,2.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+63,ninja,5-19380999,ريكسى كيردش مهبلي,32.0,,HOLD,Pharmacy medical supply (needles / syringes / lancets / ostomy / douche): needs a pharmacy licence decision,4710970380397
+64,ninja,5-19363584,اومرون جهاز قياس ضغط الدم ام 6 كومفورت,430.0,360.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19318854,براون ثيرموسكان عدسة لجهاز قياس الحراره 40 حبة,45.0,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19318848,براون 6525 جهاز قياس الحرارة من الاذن لعمر7+ ,399.0,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19376491,آي-كير  اي كير جهاز التنفس نيبولايزر,160.95,130.0,HOLD,Barcode 6281568896702 fails the check digit or is an internal (2-prefixed) code,6281568896702
+64,ninja,5-19390744,بيك ماكسي رابيد جهاز قياس ضغط الدم عن طريق الذراع,694.95,430.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19390745,بيك ثيرمو دياري ترمو متر لقياس الحرارة من خلال الرأس,319.95,200.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19390781,بيك جهاز بخار ميس بيبي,494.95,399.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19392236,ويكسانا جهاز البخار بدون أسلاك,388.0,229.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19363603,اكواتشك بيرفورما شرائط قياس السكر في الدم 50 قطعة,69.95,49.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19386378,بيك انسوبن إبر قلم انسولين 6 مل 32 G,84.0,,HOLD,Pharmacy medical supply (needles / syringes / lancets / ostomy / douche): needs a pharmacy licence decision,8058090004707
+64,ninja,5-19386821,اومرون ميكرو اير يو 100,599.95,481.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19386829,أومرون إيفولف الكل في واحد جهاز ضغط,999.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19364911,ميديكير جهاز قياس ضغط الدم اي 7,482.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19364912,ميديكير جهاز قياس ضغط الدم اي 1,313.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19397484,ميديماكس جهاز استنشاق بضاغط  مع قناع استنشاق,220.0,150.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19397485,ميديماكس جهاز استنشاق شبكي محمول إير ام 130,250.0,175.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19390735,بيك ادفانسيد انسيوبين إبرأقلام انسولين ايطالى 33*4 مم  100 قطعة,119.95,99.0,HOLD,Pharmacy medical supply (needles / syringes / lancets / ostomy / douche): needs a pharmacy licence decision,8058090016403
+64,ninja,5-19390736,بيك ادفانسيد انسيوبين إبر أقلام انسولين ايطالى 34*3.5 مم 100 قطعة,124.95,99.0,HOLD,Pharmacy medical supply (needles / syringes / lancets / ostomy / douche): needs a pharmacy licence decision,8058090025900
+64,ninja,5-19390737,بيك ادفانسيد انسيوبين إبر أقلام انسولين ايطالى 33*4 مم  25 قطعة 4X,139.95,99.0,HOLD,Pharmacy medical supply (needles / syringes / lancets / ostomy / douche): needs a pharmacy licence decision,
+64,ninja,5-19390739,بيك اير كيوب جهاز بخار,374.95,230.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19390740,بيك كابي جهاز بخار للأطفال,474.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19390741,بيك كلير رابيد جهاز قياس ضغط الدم عن طريق الذراع,394.95,290.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19390743,بيك لايت رابيد جهاز قياس ضغط الدم عن طريق المعصم ,279.95,200.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19350386,وان تاتش ديليكا بلس إبر معقمة للشك 100 إبرة,90.0,69.95,HOLD,Pharmacy medical supply (needles / syringes / lancets / ostomy / douche): needs a pharmacy licence decision,4580505780158
+64,ninja,5-19409126,ون تاتش سيليكت بلس شرائط اختبار لقياس السكر 50 شريط,103.0,80.0,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+64,ninja,5-19318851, براون 3030 جهاز قياس الحرارة من الاذن ,249.0,200.65,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19321013,بانادول اكتيفاست 20 قرص,9.15,,HOLD,OTC medicine: needs a pharmacy licence decision,06285096000804
+NEW:الصحة:أدوية بدون وصفة,ninja,5-13312449,بانادول اكسترا 24 قرص,8.0,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19362912,أو أر أس قرص للترطيب قابل للذوبان بنكهة الليمون 24 حبة,41.95,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19362913,أو أر أس قرص للترطيب قابل للذوبان بنكهة فراولة 24 حبة,41.95,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19286792,فيفادول اكسترا مسكن وخافض للحرارة 20 قرص,5.8,,HOLD,OTC medicine: needs a pharmacy licence decision,6281086010921
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19286793,فيفادول شراب مسكن وخافض للحرارة 145 مل,13.35,,HOLD,OTC medicine: needs a pharmacy licence decision,06281086010938
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19362909,أو أر أس قرص للترطيب قابل للذوبان بنكهة برتقال 20 حبة,43.95,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19286784,ادول 500 مجم 24 قرص,5.05,,HOLD,OTC medicine: needs a pharmacy licence decision,6291100080069
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19307024,سالونباس لصقات باردة لتخفيف الألم 5 قطع,33.0,,HOLD,OTC medicine: needs a pharmacy licence decision,4987188522004
+NEW:الصحة:أدوية بدون وصفة,ninja,5-18489253,ميبو مرهم 15جم,45.0,,HOLD,OTC medicine: needs a pharmacy licence decision,006291100082
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19286821,ستربسلز بالعسل والليمون 24 قرص ,37.95,,HOLD,OTC medicine: needs a pharmacy licence decision,5000167019377
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19369970,نور كالم 30 مللي نقط,59.95,,HOLD,OTC medicine: needs a pharmacy licence decision,795044248791
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19378583,ارتيلاك ادفانس نقط عين 0.2% 30 حبة,74.0,,HOLD,OTC medicine: needs a pharmacy licence decision,4030571004066
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19392550,فيكس فابوراب مرهم 50 جم,17.5,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19392551,فيكس فابوراب مرهم 100 جم,27.5,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19392552,فيكس دهان للاطفال 50 جم,24.95,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19392553,فيكس استنشاق 1 مل,14.95,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19392554,فيكس استحلاب  ليمون ونعناع بدون سكر40 جم 20 حبة,12.0,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19392558,فيكس فیرست دیفنس بخاخ للأنف 15 مل,49.95,,HOLD,OTC medicine: needs a pharmacy licence decision,
+63,ninja,5-19413047,فرسكوباد كمادات جل 4 حبات,39.0,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19376697,فيكس فابودروبس منثول مع الليمون والعسل 16 قرص,30.5,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19331101,سودوكريم كريم 125 جم,41.8,,HOLD,OTC medicine: needs a pharmacy licence decision,5011025044004
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19325447,راديان ايس جيل 150 مل,84.95,,HOLD,OTC medicine: needs a pharmacy licence decision,6430030150057
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19323186,هيلث ماكس زيت خروع اصلي 60 مل,12.0,,HOLD,OTC medicine: needs a pharmacy licence decision,6224008024378
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19350759,بانادريكس 500 مجم 24 قرص,5.05,,HOLD,OTC medicine: needs a pharmacy licence decision,06285085001003
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19331105,أفالون فارا محلول 50 مل,48.95,39.95,HOLD,OTC medicine: needs a pharmacy licence decision,6285095004438
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19320954,بانادول اكستند 24 قرص,15.75,,HOLD,OTC medicine: needs a pharmacy licence decision,6285097001367
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19379267,مووف اون بخاخ حار 200 مل,65.95,54.95,HOLD,OTC medicine: needs a pharmacy licence decision,8809328357320
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19394415,ماكس اكتيف كريم للعضلات 50 جم,49.95,39.95,HOLD,OTC medicine: needs a pharmacy licence decision,6285268006238
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19369978,زيمولايت 10 كيس,39.95,,HOLD,OTC medicine: needs a pharmacy licence decision,037182670110
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19378680,دانتى بيبى جل تسنين الاطفال,42.95,,HOLD,OTC medicine: needs a pharmacy licence decision,8809328359676
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19376690,ستريب ويلز ليمون و عسل حلوي استحلاب بالمنتول مع فيتامين سي ٢٤ حبه,29.95,24.95,HOLD,OTC medicine: needs a pharmacy licence decision,6221039005130
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19379258,مووف أون عبوة ترويجية 1 علبة مووف بخاخ حار 200 مل + 1 علبة مووف بخاخ فريز 200 مل مجانا,68.95,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19379262,مووف أون عبوة ترويجية 2 علبة كريم حار 100 جم + 1 علبة مووف كريم العناية بمناطق الاحتكاك 100 جم مجانا,78.95,,HOLD,OTC medicine: needs a pharmacy licence decision,8809868140994
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19379268,مووف اون ادفانس كريم سم النحل 100 جم,79.95,,HOLD,OTC medicine: needs a pharmacy licence decision,8809328352257
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19378593,ثيالوز ديو جل قطرة للعين 30*0.4جم,85.0,,HOLD,OTC medicine: needs a pharmacy licence decision,3662042005268
+63,ninja,5-19363590,اوبسايت سبراى 240 مل,96.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19286822,ستربسلز اكسترا بالكشمش 36 قرص,50.0,,HOLD,OTC medicine: needs a pharmacy licence decision,5000158106802
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19286825,ستربسلز ليمون خالى من السكر 16 قرص ,30.5,,HOLD,OTC medicine: needs a pharmacy licence decision,5000167023978
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19376480,‫افالون اكتيف كريم  قوة اضافية 100مل‬‏,48.95,36.95,HOLD,OTC medicine: needs a pharmacy licence decision,6285095010545
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19376695,فيكس فابوراب سهل الاستعمال 35 جم,35.0,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19376696,فيكس بنكهة الكرزالبري 40 جم 20 حبه,12.95,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19325470,سيبتوفورت ليمون مطهر للفم و الحلق 2 ملجم,41.95,,HOLD,OTC medicine: needs a pharmacy licence decision,8596024008433
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19350647,هايلو - جل 2 جم / 10 مل,69.0,,HOLD,OTC medicine: needs a pharmacy licence decision,4031626710789
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19347816,سيستان الترا يو دى قطره للعين 0.7 مل 30 حبة,47.8,,HOLD,OTC medicine: needs a pharmacy licence decision,5413895042218
+63,ninja,5-19411057,تمبوكول لاصقات خافضه للحراره للرضع 4 حبات,17.0,14.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19317588,نيوجل +UV جل السيليكون SPF30 لعلاج الندبات 15 جم ,280.0,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19317590,نيوجل لعلاج اثار الندبات و الحروق 15 جم,238.0,,HOLD,OTC medicine: needs a pharmacy licence decision,816465020022
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19394416,ماكس اكتيف كريم للعضلات 100 جم,64.95,45.95,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19379275,موف اون لاصقه حارة قطعة واحدة,11.95,,HOLD,OTC medicine: needs a pharmacy licence decision,8806438005332
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19331069,موف أون كريم 100 جم,39.0,,HOLD,OTC medicine: needs a pharmacy licence decision,8809328358549
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19331089,افلون أكتيف كولد سبراي 118 مل,66.0,49.95,HOLD,OTC medicine: needs a pharmacy licence decision,6285095009600
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19354567,موف اون كريم 250 جم لتخفيف ألام العضلات والمفاصل,62.0,,HOLD,OTC medicine: needs a pharmacy licence decision,8809328355265
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19373964,دزرت نيكوتين آيس راش قوي 10 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",6287041680390
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19384439,دزرت نيكوتين آيس راش متوسط 7 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19409051,دزرت نيكوتين آيس راش خفيف 4 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19373958,دزرت نيكوتين بيربل مست متوسط 6 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",6287041680093
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19373957,دزرت نيكوتين سي سايد فروست قوي 10 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",6287041680383
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19373948,دزرت نيكوتين هايلاند بيريز قوي 10 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",6287041680215
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19373961,دزرت نيكوتين بيربل مست خفيف 3 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",6287041680345
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19373954,دزرت نيكوتين هايلاند بيريز متوسط 6 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",6287041680055
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19373949,دزرت نيكوتين منت فيوجن متوسط 6 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",6287041680253
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19373956,دزرت نيكوتين سمرة قوي 10 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",6287041680338
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19373959,دزرت نيكوتين بنّة قوي 10 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",6287041680000
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19373953,دزرت نيكوتين عنقود قوي 10 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",6287041680611
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19424849,دزرت نيكوتين شيلي مانجو 10 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",6287041681113
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19373951,دزرت نيكوتين إدجي منت متوسط 6 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",6287041680017
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19373950,دزرت نيكوتين جاردن منت متوسط 6 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",6287041680376
+NEW:الصحة:أدوية بدون وصفة,ninja,5-19424850,دزرت نيكوتين شيلي مانجو 6 مجم 20 ظرف,15.0,,HOLD,"Nicotine pouch (DZRT): tobacco product, not a health product; needs an age-restriction / licence decision",
+24,ninja,5-19416625,سي فور بنكهة بابل قم بدون سكر 500 مل,17.95,14.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+65,ninja,5-19368779,بيسيكس واي بروتين كراميل 5 باوند,362.0,327.63,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+65,ninja,5-19370611,نانو سوبس كرياتين مونوهايدريت بدون نكهة 300 جم,97.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+27,ninja,5-19403007,برايم مشروب ترطيب كي ساي نايت مير 500 مل,17.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+65,ninja,5-19400251,نانو هيدرو امينو بنكهة التفاح الأخضر الحامض 390 جم,113.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+65,ninja,5-14089533,بيسيكس توتال جينر شيكولاته 15 باوند ,328.0,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19351856,دريم ديب مع الميلاتونين مساعد النوم 75 مل ,18.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19331095,جي بي ميلاتونين 5 جم 60 قرص,99.0,85.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19378669,جي بي بيبي تويست D3 400 وحدة 100 كبسولة,30.0,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19376917,نوتراكسين البيلسان الأسود و مستخلص الكركديه و فيامين ج و فيتامين د و الزنك 30 كيس,68.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19376946,بيرفكت لايف بريبيو تي 14 مغلف,80.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19379445,فيتان فارما زهرة الربيع المسائية 1000 مجم 60 كبسولة,85.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19414524,نيوتري ويف مالتي فيتا للرجال 60 كبسولة,120.75,84.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19416657,سانتوكير فيتامين سي 1000ملغ فوار بنكهة البرتقال 20 قرص,18.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19415273,ان كيو أشواجنور 60 كبسولة,120.0,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19290353,فيتان اوميجا فيت 3-6-9 60 حبة,180.0,,HOLD,Barcode 204000611376 fails the check digit or is an internal (2-prefixed) code,204000611376
+62,ninja,5-19401286,إيلمينت يوري كران كرانبيري دي-مانوز والبروبيوتيك بطعم التوت البري 60 قطعة,194.35,135.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19401287,إيلمينت جلوكو شيب جاميز حلوى الجلوكومنان بطعم الفراولة 42 قطعة,205.85,143.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-3933455,مستر فايتمن فايتمن سي 1000 جم 20 قرص,24.9,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19408817,نيوتري ويل مكمل غذائي أبل لايت جاميز بخل تفاح 60 جاميز,179.0,124.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19381957,مارنيز اوميغاكود زيت كبد سمك القد 60 كبسولة ,85.0,59.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19331409,جي ان اتش عالي الحديد مع الفيتامينات 10 جم 60 قطعة,98.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19369682,مارشينز  إميون آكتيف فيتامين سي أقراص مضغ 160 ملغ بنكهة الكرز60 حبه,58.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19369684,مارشينز قطرات الحديد للأطفال 50 مل,40.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19369685,مارشينز بودر فيتامين سي للأطفال 90 غرام,45.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19369690,لونستيل  بخاخ الميلاتونين، بنكهة النعناع 200 بخه 20 مل,96.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19311017,مستر تومي مكمل غذائي للأطفال يحتوي على فيتامين سي 60 قطعة,90.0,62.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19376920,نفيس فارما سليب شوت مشروب 71مل,20.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+62,ninja,5-19398176,هيدرالايت بنكهة برتقال 10 أكياس,59.0,,HOLD,OTC medicine: needs a pharmacy licence decision (Hydralyte oral rehydration salts),9317039001047
+62,ninja,5-19408816,نيوتري ويل مكمل غذائي بيوتي بلوم جاميز بيوتين بنكهة التوت البري 60 جاميز,179.0,124.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+66,hs,5a8ce426-1220-4152-ab4b-019d87614d89,سانيتا إليغنس حفاضات البالغين كبير 18قطعة,73.5,62.47,HOLD,"Same product as Ninja 5-19313597, which is on HOLD (see its row)",
+66,hs,140855f4-b2c2-4291-ba3e-7b006c8724af,فاين كير قماش معقم فائق النعومة 20قطعة,50,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+65,hs,d9f53b95-74b0-49d4-966d-9f5f8954c746,بروسابس هايد نايت مير بلاك آند بلو بيري ليمونيد 399جرام,120,108,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+65,hs,c594f7ea-8c17-4369-b70c-294ba0d84d40,بروسابس هايد نايت مير بلود بيري 399جرام,120,108,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+65,hs,22e82c93-731b-43ec-abf1-dd67a16002fa,جي إن إكس ذا ريبر بلو راز 150جرام,129,109.65,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+65,hs,ebd6d894-c151-4976-a365-f1e20d3eb435,بروسابس إل-كارنيتين 3000 ليكويد شوتس بيري 473جرام,139,118.15,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+NEW:الصحة:أدوية بدون وصفة,hs,006306a7-69ec-4b95-8ced-93b5881c7790,بنادول باراسيتامول 500 ملغ 24قرص,5.8,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,hs,55e599de-3d13-40cc-97b1-b5afb9982417,بندول أكتيفاست 500مجم 20قرص,9.15,,HOLD,"Same product as Ninja 5-19321013, which is on HOLD (see its row)",
+NEW:الصحة:أدوية بدون وصفة,hs,22c644e0-14b8-454a-bcfe-365dc5a9950e,فيكس دهان للأطفال 50جرام,22.95,18.36,HOLD,"Same product as Ninja 5-19392552, which is on HOLD (see its row)",
+NEW:الصحة:أدوية بدون وصفة,hs,40a7c2e8-8130-4377-9e9e-d926437e85c6,فيكس أقراص استحلاب للزور بالبرتقال والنعناع 16قطعة,30.5,22.87,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,hs,61240ca1-6718-446c-8786-14f4b3be17da,فيكس قطرات استحلاب العسل والليمون 36قرصا,33.95,30.55,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,hs,6274ce9d-8586-4c89-ae0c-510ccbe92612,هانسابلاست مارفل أفينجرز لصقة جروح للأطفال 20قطعة,18,14.94,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+NEW:الصحة:أدوية بدون وصفة,hs,95c4a646-0c74-4657-8f91-191ceaeac5fb,سيبتوفورت أقراص الزنجبيل والعسل والليمون 24قطعة,40.95,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,hs,daea2102-5dc8-4e8d-853e-65e4402024b4,لونستيل ميلاتونين ديو للنوم لا يسبب التعود 15كبسولة,111.25,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+NEW:الصحة:أدوية بدون وصفة,hs,509dd33f-0634-4e1d-b6a4-a82e78df0015,راديان جل رول 75مل,67.95,57.75,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,hs,55a511b8-af4a-45bc-a8a4-95517963b748,سيبتوفورت أقراص نعناع 24قطعة,45.95,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,hs,001c3b45-92b5-4796-b5b6-3ddfa8d3af48,سيبتوفورت أقراص العسل والليمون 24قطعة,49.95,,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,hs,6f418403-3ab5-4473-9fec-94d6df0ca33e,راديان كريم مساج 100جرام,52.95,45,HOLD,OTC medicine: needs a pharmacy licence decision,
+NEW:الصحة:أدوية بدون وصفة,hs,be13bb02-772d-46d9-aec6-bebfee58c650,نيفورى بلسم النوم والاسترخاء 30جرام,40.25,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+NEW:الصحة:أدوية بدون وصفة,hs,0642d524-0e1f-43b1-94da-4666602abb2e,سيبتوفورت ليمون 24 قطعة,50.49,,HOLD,OTC medicine: needs a pharmacy licence decision,
+63,hs,78ea6996-3afa-4fbf-b0af-2568da71a062,كلاست بالنعناع 28.8ج,40,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
