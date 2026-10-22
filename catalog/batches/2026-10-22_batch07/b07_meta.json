@@ -1,0 +1,3408 @@
+[
+{
+"sku": "JRN00001800",
+"barcode": "8691707140117",
+"cat": 30,
+"ar": "أوزمو هوكسي بوكسي بسكوت شوكولاتة بالحليب 36 جم",
+"en": "Ozmo Hoxi Poxi Biscuits Milk Chocolate 36 g",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290186",
+"img_src": "ninja",
+"images": [
+"8691707140117.webp",
+"8691707140117-1.webp"
+]
+},
+{
+"sku": "JRN00001801",
+"barcode": "8000500359358",
+"cat": 30,
+"ar": "نوتيلا بسكويت 41.4 جم",
+"en": "Nutella Biscuit 41.4 g",
+"price": 3.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368523",
+"img_src": "ninja",
+"images": [
+"8000500359358.webp",
+"8000500359358-1.webp"
+]
+},
+{
+"sku": "JRN00001802",
+"barcode": "5352101007699",
+"cat": 30,
+"ar": "فوستر كلارك دايجستف 80 جم",
+"en": "Foster Clark Digestive Bag 80 g",
+"price": 4.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19416978",
+"img_src": "ninja",
+"images": [
+"5352101007699.webp"
+]
+},
+{
+"sku": "JRN00001803",
+"barcode": "5000396008784",
+"cat": 30,
+"ar": "مكفتيز دايجستف بسكويت القمح لايت 250 جم",
+"en": "McVitie's Digestive Wheat Biscuits Light 250 g",
+"price": 12.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-792",
+"img_src": "ninja",
+"images": [
+"5000396008784.webp",
+"5000396008784-1.webp",
+"5000396008784-2.webp"
+]
+},
+{
+"sku": "JRN00001804",
+"barcode": "6281016901725",
+"cat": 30,
+"ar": "ميموريز كوكيز بالتمر 100 جم",
+"en": "Memories Date Cookies 100 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1370",
+"img_src": "ninja",
+"images": [
+"6281016901725.webp"
+]
+},
+{
+"sku": "JRN00001805",
+"barcode": "8699141157104",
+"cat": 30,
+"ar": "أوزمو هوبو بسكوت شوكولاتة بالحليب 40 جم",
+"en": "Ozmo Hoppo Biscuits Milk Chocolate 40 g",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290178",
+"img_src": "ninja",
+"images": [
+"8699141157104.webp",
+"8699141157104-1.webp"
+]
+},
+{
+"sku": "JRN00001806",
+"barcode": "6281016905044",
+"cat": 30,
+"ar": "ميموريز كوكيز بالفراولة 100 جم",
+"en": "Memories Strawberry Cookies 100 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1371",
+"img_src": "ninja",
+"images": [
+"6281016905044.webp",
+"6281016905044-1.webp"
+]
+},
+{
+"sku": "JRN00001807",
+"barcode": "4017100283260",
+"cat": 30,
+"ar": "بالسن بيك اب! 5 حبات 140 جم",
+"en": "Bahlsen Pick Up! 5 pcs Choco 140 g",
+"price": 18.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290695",
+"img_src": "ninja",
+"images": [
+"4017100283260.webp",
+"4017100283260-1.webp",
+"4017100283260-2.webp"
+]
+},
+{
+"sku": "JRN00001808",
+"barcode": "7622201765279",
+"cat": 30,
+"ar": "اوريو بسكويت الأصلي علبة 12 حبة 36.8 جم",
+"en": "Oreo Original Biscuit Box 12 pcs 36.8 g",
+"price": 13.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-18944839",
+"img_src": "ninja",
+"images": [
+"7622201765279.webp",
+"7622201765279-1.webp"
+]
+},
+{
+"sku": "JRN00001809",
+"barcode": "5000396014877",
+"cat": 30,
+"ar": "مكفتيز دايجستف بسكويت القمح مع الشوكولاتة الداكنة 200 جم",
+"en": "McVitie's Digestive wheat Biscuits with Dark Chocolate 200 g",
+"price": 18.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-786",
+"img_src": "ninja",
+"images": [
+"5000396014877.webp",
+"5000396014877-1.webp",
+"5000396014877-2.webp"
+]
+},
+{
+"sku": "JRN00001810",
+"barcode": "4017100373114",
+"cat": 30,
+"ar": "بالسن ليبنز ميني بسكويت بالشوكولاته 100 جم",
+"en": "Bahlsen Leibniz Minis Biscuits Chocolate 100 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1027735",
+"img_src": "ninja",
+"images": [
+"4017100373114.webp",
+"4017100373114-1.webp"
+]
+},
+{
+"sku": "JRN00001811",
+"barcode": "6291003010347",
+"cat": 30,
+"ar": "تيفاني دلايتس كوكيز بالشوكولاتة مع رقائق الشكولاته 90 جم",
+"en": "Tiffany Delights ChocoChips Cookies Chocolate 90 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381992",
+"img_src": "ninja",
+"images": [
+"6291003010347.webp",
+"6291003010347-1.webp"
+]
+},
+{
+"sku": "JRN00001812",
+"barcode": "4017100284526",
+"cat": 30,
+"ar": "بالسين بيك اب سولتيد كارميل 28 جم",
+"en": "Bahlsen Pick Up! Salted Caramel 28 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19365240",
+"img_src": "ninja",
+"images": [
+"4017100284526.webp"
+]
+},
+{
+"sku": "JRN00001813",
+"barcode": "6281100350637",
+"cat": 30,
+"ar": "أولكر بسكويت شوكو ساندوتش محشو بالشوكولاته والبندق علبة 20 حبة 23.5 جم",
+"en": "Ulker Choco Sandwich Biscuits Filling Hazelnut Chocolate Cream Box 20 pcs 23.5 g",
+"price": 19.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-7247484",
+"img_src": "ninja",
+"images": [
+"6281100350637.webp",
+"6281100350637-1.webp"
+]
+},
+{
+"sku": "JRN00001814",
+"barcode": "7622201125752",
+"cat": 30,
+"ar": "ميلكا شوكولاتة كريمة مع البسكويت 100 جم",
+"en": "Milka Cream & Biscuit 100 g",
+"price": 12.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19421416",
+"img_src": "ninja",
+"images": [
+"7622201125752.webp",
+"7622201125752-1.webp"
+]
+},
+{
+"sku": "JRN00001815",
+"barcode": "8710502310010",
+"cat": 30,
+"ar": "ميربا كوكيز ميني شوكولاته 175 جم",
+"en": "Merba Cookies Minis Chocolate 175 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1030885",
+"img_src": "ninja",
+"images": [
+"8710502310010.webp",
+"8710502310010-1.webp"
+]
+},
+{
+"sku": "JRN00001816",
+"barcode": "6281100353539",
+"cat": 30,
+"ar": "أولكر بسكويت شاي علبة 12 حبة 70 جم",
+"en": "Ulker Tea Biscuit Box 12 pcs 70 g",
+"price": 15.5,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-7246575",
+"img_src": "ninja",
+"images": [
+"6281100353539.webp",
+"6281100353539-1.webp",
+"6281100353539-2.webp"
+]
+},
+{
+"sku": "JRN00001817",
+"barcode": "6281033213023",
+"cat": 30,
+"ar": "امريكانا بتر كوكيز 454 جم",
+"en": "Americana Butter Cookies 454 g",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19358128",
+"img_src": "ninja",
+"images": [
+"6281033213023.webp",
+"6281033213023-1.webp"
+]
+},
+{
+"sku": "JRN00001818",
+"barcode": "5352101007736",
+"cat": 30,
+"ar": "فوستر كلارك دايجستف 250 جم",
+"en": "Foster Clark Digestive 250 g",
+"price": 11.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19416979",
+"img_src": "ninja",
+"images": [
+"5352101007736.webp"
+]
+},
+{
+"sku": "JRN00001819",
+"barcode": "6285602019306",
+"cat": 30,
+"ar": "ديمه بليس كوكيز الشوكولاتة 85 جم",
+"en": "Deemah Bliss Cookies Double Chocolate 85 g",
+"price": 12.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-19410294",
+"img_src": "ninja",
+"images": [
+"6285602019306.webp",
+"6285602019306-1.webp"
+]
+},
+{
+"sku": "JRN00001820",
+"barcode": "8710502112911",
+"cat": 30,
+"ar": "ميربا كوكيز كينج شوكولاته 150 جم",
+"en": "Merba Cookies King Chocolate 150 g",
+"price": 17.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1030541",
+"img_src": "ninja",
+"images": [
+"8710502112911.webp",
+"8710502112911-1.webp"
+]
+},
+{
+"sku": "JRN00001821",
+"barcode": "6281016012209",
+"cat": 30,
+"ar": "ميموريز جوفت دايجستيف 250 جم",
+"en": "Memories gofit Digestive Biscuit 250 g",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293642",
+"img_src": "ninja",
+"images": [
+"6281016012209.webp"
+]
+},
+{
+"sku": "JRN00001822",
+"barcode": "6281100356790",
+"cat": 30,
+"ar": "أولكر بسكريم كاكاو علبة 12 حبة 36 جم",
+"en": "Ulker Biskrem Cocoa Box 12 pcs 36 g",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19291151",
+"img_src": "ninja",
+"images": [
+"6281100356790.webp",
+"6281100356790-1.webp"
+]
+},
+{
+"sku": "JRN00001823",
+"barcode": "50396238",
+"cat": 30,
+"ar": "مكفتيز دايجستف بسكويت القمح 250 جم",
+"en": "McVitie's Digestive Wheat Biscuits 250 g",
+"price": 10.5,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-790",
+"img_src": "ninja",
+"images": [
+"50396238.webp",
+"50396238-1.webp",
+"50396238-2.webp"
+]
+},
+{
+"sku": "JRN00001824",
+"barcode": "5000396008791",
+"cat": 30,
+"ar": "مكفتيز دايجستف بسكويت القمح لايت 400 جم",
+"en": "McVitie's Digestive Light 400 g",
+"price": 18.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-793",
+"img_src": "ninja",
+"images": [
+"5000396008791.webp",
+"5000396008791-1.webp"
+]
+},
+{
+"sku": "JRN00001825",
+"barcode": "4017100412615",
+"cat": 30,
+"ar": "بالسن بيك اب ميني بسكويت بالشوكولاته والحليب كيس 106 جم",
+"en": "Bahlsen Pick Up Minis Biscuit Choco & Milk Pack 106 g",
+"price": 17.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-7579",
+"img_src": "ninja",
+"images": [
+"4017100412615.webp",
+"4017100412615-1.webp"
+]
+},
+{
+"sku": "JRN00001826",
+"barcode": "3178530417241",
+"cat": 30,
+"ar": "سانت ميشيل بسكويت جاليت بالزبدة مع الشوكولاتة 121 جم",
+"en": "St Michel Chocolate galette butter biscuits 121 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426721",
+"img_src": "ninja",
+"images": [
+"3178530417241.webp",
+"3178530417241-1.webp"
+]
+},
+{
+"sku": "JRN00001827",
+"barcode": "3178530402278",
+"cat": 30,
+"ar": "سانت ميشيل بسكويت جراند جاليت بالكراميل والزبدة 150 جم",
+"en": "St Michel Grandes galettes Caramel butter biscuits 150 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426722",
+"img_src": "ninja",
+"images": [
+"3178530402278.webp",
+"3178530402278-1.webp"
+]
+},
+{
+"sku": "JRN00001828",
+"barcode": "3178530411478",
+"cat": 30,
+"ar": "سانت ميشيل بسكويت زبدة مع ملح البحر 150 جم",
+"en": "St Michel Butter Biscuit with sea salt 150 g",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426726",
+"img_src": "ninja",
+"images": [
+"3178530411478.webp",
+"3178530411478-1.webp"
+]
+},
+{
+"sku": "JRN00001829",
+"barcode": "7622201764630",
+"cat": 30,
+"ar": "اوريو بسكويت الأصلي علبة 24 حبة 36.8 جم",
+"en": "Oreo Original Biscuit Multipack 24 pcs 36.8 g",
+"price": 28.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-18945010",
+"img_src": "ninja",
+"images": [
+"7622201764630.webp",
+"7622201764630-1.webp"
+]
+},
+{
+"sku": "JRN00001830",
+"barcode": "6281016202129",
+"cat": 30,
+"ar": "تيشوب بسكويت أبو ولد بالقشطة 90 جم",
+"en": "Teashop Biscuit Abu Walad Cream 90 g",
+"price": 1.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1381",
+"img_src": "ninja",
+"images": [
+"6281016202129.webp"
+]
+},
+{
+"sku": "JRN00001831",
+"barcode": "6281016002583",
+"cat": 30,
+"ar": "تيشوب بسكويت كريمة الكاسترد علبة 24 × 25 جم",
+"en": "Teashop Biscuits Custard Cream Box 24 x 25 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7367698",
+"img_src": "ninja",
+"images": [
+"6281016002583.webp",
+"6281016002583-1.webp"
+]
+},
+{
+"sku": "JRN00001832",
+"barcode": "3178530407914",
+"cat": 30,
+"ar": "سانت ميشيل بسكويت زبدة بالشوكولاتة 150 جم",
+"en": "St Michel Chocolate butter Biscuit 150 g",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426727",
+"img_src": "ninja",
+"images": [
+"3178530407914.webp",
+"3178530407914-1.webp"
+]
+},
+{
+"sku": "JRN00001833",
+"barcode": "3178530409673",
+"cat": 30,
+"ar": "سانت ميشيل بف باستري بالزبدة والكراميل 100 جم",
+"en": "St Michel Caramel butter puff pastry 100 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426728",
+"img_src": "ninja",
+"images": [
+"3178530409673.webp",
+"3178530409673-1.webp"
+]
+},
+{
+"sku": "JRN00001834",
+"barcode": "5000396043655",
+"cat": 30,
+"ar": "مكفتيز دايجستف بسكويت القمح محشو فانيلا 100 جم",
+"en": "McVitie's Digestive wheat Biscuits Filled Vanilla 100 g",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-2410",
+"img_src": "ninja",
+"images": [
+"5000396043655.webp",
+"5000396043655-1.webp"
+]
+},
+{
+"sku": "JRN00001835",
+"barcode": "5901414201210",
+"cat": 30,
+"ar": "بالسن ليبنز زوو بسكويت بالنكهة الأصلية 100 جم",
+"en": "Bahlsen Leibniz Zoo Biscuit Original 100 g",
+"price": 14.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1028125",
+"img_src": "ninja",
+"images": [
+"5901414201210.webp",
+"5901414201210-1.webp"
+]
+},
+{
+"sku": "JRN00001836",
+"barcode": "6281016010625",
+"cat": 30,
+"ar": "تيشوب بسكويت ماري علبة 10 حبات+2مجانا 70 جم",
+"en": "Teashop Biscuit Marie Box 10 pcs+2 Free 70 g",
+"price": 15.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11342536",
+"img_src": "ninja",
+"images": [
+"6281016010625.webp",
+"6281016010625-1.webp",
+"6281016010625-2.webp"
+]
+},
+{
+"sku": "JRN00001837",
+"barcode": "8690526636344",
+"cat": 30,
+"ar": "إيتي هول دايجستف بسكوت بجوز الهند 100 جم",
+"en": "Eti Whola Digestive Biscuits Coconut 100 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404553",
+"img_src": "ninja",
+"images": [
+"8690526636344.webp",
+"8690526636344-1.webp"
+]
+},
+{
+"sku": "JRN00001838",
+"barcode": "6285602016466",
+"cat": 30,
+"ar": "ديمه بليس كوكيز الشوكولاتة الداكنة وجوزالبيكان 85 جم",
+"en": "Deemah Bliss Cookies Chocolate Pecan 85 g",
+"price": 12.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-19410292",
+"img_src": "ninja",
+"images": [
+"6285602016466.webp",
+"6285602016466-1.webp"
+]
+},
+{
+"sku": "JRN00001839",
+"barcode": "3023470020016",
+"cat": 30,
+"ar": "سانت ميشيل بسكويت شورتبريد فرنسي 150 جم",
+"en": "St Michel French shortbreads 150 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426724",
+"img_src": "ninja",
+"images": [
+"3023470020016.webp",
+"3023470020016-1.webp"
+]
+},
+{
+"sku": "JRN00001840",
+"barcode": "3023470001015",
+"cat": 30,
+"ar": "سانت ميشيل بسكويت زبدة رقيق 130 جم",
+"en": "St Michel Thin butter biscuits 130 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426725",
+"img_src": "ninja",
+"images": [
+"3023470001015.webp",
+"3023470001015-1.webp"
+]
+},
+{
+"sku": "JRN00001841",
+"barcode": "3178530424737",
+"cat": 30,
+"ar": "سانت ميشيل تشوكلت تارت 180 جم",
+"en": "St Michel Choco Tart 180 g",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426729",
+"img_src": "ninja",
+"images": [
+"3178530424737.webp",
+"3178530424737-1.webp"
+]
+},
+{
+"sku": "JRN00001842",
+"barcode": "7622201765224",
+"cat": 30,
+"ar": "اوريو كوكيز بالشوكولاته و الحليب علبة 12 حبة 36.8 جم",
+"en": "Oreo Milk & Chocolate Biscuit Multipack 12 pcs 36.8 g",
+"price": 15.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-18945048",
+"img_src": "ninja",
+"images": [
+"7622201765224.webp",
+"7622201765224-1.webp"
+]
+},
+{
+"sku": "JRN00001843",
+"barcode": "8690526082004",
+"cat": 30,
+"ar": "أي تي أي هولا بسكويت دايجستف 131 جم",
+"en": "ETI Whola Digestive Biscuits Classic 131 g",
+"price": 4.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19336877",
+"img_src": "ninja",
+"images": [
+"8690526082004.webp"
+]
+},
+{
+"sku": "JRN00001844",
+"barcode": "3178530418170",
+"cat": 30,
+"ar": "سانت ميشيل بسكويت بالزبدة النقية 180 جم",
+"en": "St Michel Pure Butter Biscuits 180 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426723",
+"img_src": "ninja",
+"images": [
+"3178530418170.webp",
+"3178530418170-1.webp"
+]
+},
+{
+"sku": "JRN00001845",
+"barcode": "6281016960333",
+"cat": 30,
+"ar": "تيشوب دايجستيف بسكويت نخالة علبة 8 حبات 100 جم",
+"en": "Teashop Biscuit Digestive Box 8 pcs 100 g",
+"price": 10.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-855951",
+"img_src": "ninja",
+"images": [
+"6281016960333.webp",
+"6281016960333-1.webp"
+]
+},
+{
+"sku": "JRN00001846",
+"barcode": "6281102740368",
+"cat": 30,
+"ar": "برونتو كوكيز شوكلاتة داكنة 4 حبات 40 جم",
+"en": "Pronto Cookies Dark 4 pcs 40 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294114",
+"img_src": "ninja",
+"images": [
+"6281102740368.webp",
+"6281102740368-1.webp"
+]
+},
+{
+"sku": "JRN00001847",
+"barcode": "6281102740061",
+"cat": 30,
+"ar": "برونتو كوكيز شوكو 4 حبات 40 جم",
+"en": "Pronto Cookies Choc 4 pcs 40 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294121",
+"img_src": "ninja",
+"images": [
+"6281102740061.webp",
+"6281102740061-1.webp"
+]
+},
+{
+"sku": "JRN00001848",
+"barcode": "776992932055",
+"cat": 30,
+"ar": "ديمه بسكويت التمر علبة 15 حبة 25 جم",
+"en": "Deemah Date Bar Box 15 pcs 25 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7252317",
+"img_src": "ninja",
+"images": [
+"776992932055.webp"
+]
+},
+{
+"sku": "JRN00001849",
+"barcode": "4017100284434",
+"cat": 30,
+"ar": "بالسن بيك اب! بسكويت بالكارميل المملح 5 حبات 140 جم",
+"en": "Bahlsen Pick Up! Biscuits Salted Caramel 5 pcs 140 g",
+"price": 18.75,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19360952",
+"img_src": "ninja",
+"images": [
+"4017100284434.webp"
+]
+},
+{
+"sku": "JRN00001850",
+"barcode": "5352101007712",
+"cat": 30,
+"ar": "فوستر كلارك دايجستف مغطى بشوكولاتة الحليب 250 جم",
+"en": "Foster Clark Digestive Milk Chocolate Coated 250 g",
+"price": 19.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19416981",
+"img_src": "ninja",
+"images": [
+"5352101007712.webp"
+]
+},
+{
+"sku": "JRN00001851",
+"barcode": "8996001301852",
+"cat": 30,
+"ar": "كوفي جوي بسكوت شاهي 18 حبه 39 جم",
+"en": "Coffee Joy Tea Biscuit 18 pcs 39 g",
+"price": 34.5,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-19398092",
+"img_src": "ninja",
+"images": [
+"8996001301852.webp",
+"8996001301852-1.webp"
+]
+},
+{
+"sku": "JRN00001852",
+"barcode": "6281102740122",
+"cat": 30,
+"ar": "برنتو كوكيز شوكو 12 حبة 40 جم",
+"en": "Pronto Cookies Choco 12 pcs 40 g",
+"price": 44.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294119",
+"img_src": "ninja",
+"images": [
+"6281102740122.webp",
+"6281102740122-1.webp"
+]
+},
+{
+"sku": "JRN00001853",
+"barcode": "6281016840529",
+"cat": 30,
+"ar": "تيشوب بسكويت نخالة 100 جم",
+"en": "Teashop Digestive 100 g",
+"price": 1.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1368",
+"img_src": "ninja",
+"images": [
+"6281016840529.webp",
+"6281016840529-1.webp"
+]
+},
+{
+"sku": "JRN00001854",
+"barcode": "8936036025637",
+"cat": 30,
+"ar": "أوريون بسكويت بالشوكولاتة بحشوة المارشميلو 6 حبات 180 جم",
+"en": "Orion Choco Pie With Marshmallow Filling 6 pcs 180 g",
+"price": 9.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-131707",
+"img_src": "ninja",
+"images": [
+"8936036025637.webp",
+"8936036025637-1.webp"
+]
+},
+{
+"sku": "JRN00001855",
+"barcode": "6281016650012",
+"cat": 30,
+"ar": "ميموريز كوكيز بقطع الشوكولاتة 20 حبة 11 جم",
+"en": "Memories Chocolate Chips Cookies 20 pcs 11 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387966",
+"img_src": "ninja",
+"images": [
+"6281016650012.webp",
+"6281016650012-1.webp",
+"6281016650012-2.webp"
+]
+},
+{
+"sku": "JRN00001856",
+"barcode": "6281033214112",
+"cat": 30,
+"ar": "امريكانا بتر كوكيز 12 × 44 جم",
+"en": "Americana Butter Cookies 12 x 44 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19358129",
+"img_src": "ninja",
+"images": [
+"6281033214112.webp",
+"6281033214112-1.webp"
+]
+},
+{
+"sku": "JRN00001857",
+"barcode": "4017100408878",
+"cat": 30,
+"ar": "بالسن بيك اب! ميني أوريجينال 233 جم",
+"en": "Bahlsen Pick Up! Minis Original 233 g",
+"price": 39.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19365242",
+"img_src": "ninja",
+"images": [
+"4017100408878.webp"
+]
+},
+{
+"sku": "JRN00001858",
+"barcode": "7622202294525",
+"cat": 30,
+"ar": "ميلكا لوتس بسكوف 90 جم",
+"en": "Milka LOTUS BISCOFF 90 g",
+"price": 12.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19421422",
+"img_src": "ninja",
+"images": [
+"7622202294525.webp",
+"7622202294525-1.webp"
+]
+},
+{
+"sku": "JRN00001859",
+"barcode": "5410126666038",
+"cat": 30,
+"ar": "لوتس بسكوف بسكويت الأصلي مجموعة 279 جم",
+"en": "Lotus Biscoff Biscuit Original Pack 279 g",
+"price": 21.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-2019952",
+"img_src": "ninja",
+"images": [
+"5410126666038.webp"
+]
+},
+{
+"sku": "JRN00001860",
+"barcode": "6281102740283",
+"cat": 30,
+"ar": "برنتو كوكيز ترابيل 12 حبة 40 جم",
+"en": "Pronto Cookies Triple 12 pcs 40 g",
+"price": 44.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294124",
+"img_src": "ninja",
+"images": [
+"6281102740283.webp",
+"6281102740283-1.webp"
+]
+},
+{
+"sku": "JRN00001861",
+"barcode": "6224011288859",
+"cat": 30,
+"ar": "اتس ا بوم بسكويت كرافت بالشوفان 12 حبة 20 جم",
+"en": "It's a Boom Kraft Oat Biscuits 12 pcs 20 g",
+"price": 16.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19390826",
+"img_src": "ninja",
+"images": [
+"6224011288859.webp",
+"6224011288859-1.webp"
+]
+},
+{
+"sku": "JRN00001862",
+"barcode": "6281016014555",
+"cat": 30,
+"ar": "أبو ولد بسكويت العائله 18 × 45 جم",
+"en": "Abu Walad Biscuit Family 18 pcs 45 g",
+"price": 10.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-856165",
+"img_src": "ninja",
+"images": [
+"6281016014555.webp",
+"6281016014555-1.webp"
+]
+},
+{
+"sku": "JRN00001863",
+"barcode": "6291003010675",
+"cat": 30,
+"ar": "تيفاني دلايتس كوكيز بالشوكولاتة مع رقائق الشكولاته عرض خاص 4 حبات 90 جم",
+"en": "Tiffany Delights ChocoChips Cookies Chocolate Special Offer 4 pcs 90 g",
+"price": 13.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19381998",
+"img_src": "ninja",
+"images": [
+"6291003010675.webp",
+"6291003010675-1.webp"
+]
+},
+{
+"sku": "JRN00001864",
+"barcode": "4017100210556",
+"cat": 30,
+"ar": "بالسن شوكو ليبنز بسكويت بالحليب 27.5 جم",
+"en": "Bahlsen Choc Leibniz Biscuit Milk 27.5 g",
+"price": 5.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1021001",
+"img_src": "ninja",
+"images": [
+"4017100210556.webp"
+]
+},
+{
+"sku": "JRN00001865",
+"barcode": "4017100290008",
+"cat": 30,
+"ar": "بالسن شوكو ليبنز بسكويت بشوكولاتة الحليب 125 جم",
+"en": "Bahlsen Choco Leibniz Milk 125 g",
+"price": 26.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3079",
+"img_src": "hs",
+"images": [
+"4017100290008.webp",
+"4017100290008-1.webp"
+]
+},
+{
+"sku": "JRN00001866",
+"barcode": "6281016900940",
+"cat": 30,
+"ar": "ميموريز بسكويت شاي 12 حبة 70 جم",
+"en": "Memories Tea Biscuits 12 pcs 70 g",
+"price": 16.75,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-7361390",
+"img_src": "ninja",
+"images": [
+"6281016900940.webp",
+"6281016900940-1.webp"
+]
+},
+{
+"sku": "JRN00001867",
+"barcode": "4017100407413",
+"cat": 30,
+"ar": "بالسن بيك اب! ميني أوريجينال كيس 106 جم",
+"en": "Bahlsen Pick Up! Minis Original 106 g",
+"price": 17.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-4239",
+"img_src": "ninja",
+"images": [
+"4017100407413.webp",
+"4017100407413-1.webp"
+]
+},
+{
+"sku": "JRN00001868",
+"barcode": "7622202827846",
+"cat": 30,
+"ar": "أوريو بسكوت شوكولاته بالفستق 12 حبة 34 جم",
+"en": "Oreo Chocolate Pistachio 12 pcs 34 g",
+"price": 39.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19416016",
+"img_src": "ninja",
+"images": [
+"7622202827846.webp",
+"7622202827846-1.webp"
+]
+},
+{
+"sku": "JRN00001869",
+"barcode": "776992932154",
+"cat": 30,
+"ar": "ديمه بسكويت التمر سوفتي علبة 15 حبة 21 جم",
+"en": "Deemah Softi Biscuit Date Roll Box 15 pcs 21 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7250707",
+"img_src": "ninja",
+"images": [
+"776992932154.webp"
+]
+},
+{
+"sku": "JRN00001870",
+"barcode": "6285602011959",
+"cat": 30,
+"ar": "ديمه بسكويت التين علبة 15 حبة 21 جم",
+"en": "Deemah Fig Bar Box 15 pcs 21 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7251467",
+"img_src": "ninja",
+"images": [
+"6285602011959.webp",
+"6285602011959-1.webp"
+]
+},
+{
+"sku": "JRN00001871",
+"barcode": "6281016130651",
+"cat": 30,
+"ar": "تيشوب ذكريات بسكويت بالتمر علبة 24 حبة 17 جم",
+"en": "Teashop Thikrayat Date Filled Bar Box 24 pcs 17 g",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7361726",
+"img_src": "ninja",
+"images": [
+"6281016130651.webp",
+"6281016130651-1.webp"
+]
+},
+{
+"sku": "JRN00001872",
+"barcode": "776992090632",
+"cat": 30,
+"ar": "ديمه بسكويت تمر السكري علبة 15 حبة 21 جم",
+"en": "Deemah Date Bar Sukari Box 15 pcs 21 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7251480",
+"img_src": "ninja",
+"images": [
+"776992090632.webp"
+]
+},
+{
+"sku": "JRN00001873",
+"barcode": "7622300590970",
+"cat": 30,
+"ar": "ميلكا شوكو بسكويت 150 جم",
+"en": "Milka Choco Biscuit 150 g",
+"price": 19.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19421425",
+"img_src": "ninja",
+"images": [
+"7622300590970.webp",
+"7622300590970-1.webp"
+]
+},
+{
+"sku": "JRN00001874",
+"barcode": "6281016100128",
+"cat": 30,
+"ar": "تيشوب بسكويت ماري 12 حبة 70 جم",
+"en": "Teashop Marie 12 pcs 70 g",
+"price": 18.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291767",
+"img_src": "ninja",
+"images": [
+"6281016100128.webp",
+"6281016100128-1.webp"
+]
+},
+{
+"sku": "JRN00001875",
+"barcode": "8690504081937",
+"cat": 30,
+"ar": "مكفتيز دايجستف ثينز بسكويت بنكهة كابتشينو 150 جم",
+"en": "McVitie's Digestive Thins Milk Chocolate with Cappuccino 150 g",
+"price": 17.75,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-2418",
+"img_src": "ninja",
+"images": [
+"8690504081937.webp",
+"8690504081937-1.webp"
+]
+},
+{
+"sku": "JRN00001876",
+"barcode": "6281102740276",
+"cat": 30,
+"ar": "برونتو كوكيز ترابيل 4 حبات 40 جم",
+"en": "Pronto Cookies Triple 4 pcs 40 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294126",
+"img_src": "ninja",
+"images": [
+"6281102740276.webp",
+"6281102740276-1.webp"
+]
+},
+{
+"sku": "JRN00001877",
+"barcode": "046214731552",
+"cat": 30,
+"ar": "ميربا كوكيز شوكولاته 225 جم",
+"en": "Merba Cookies Chocolate 225 g",
+"price": 21.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1031646",
+"img_src": "ninja",
+"images": [
+"046214731552.webp"
+]
+},
+{
+"sku": "JRN00001878",
+"barcode": "8710502179020",
+"cat": 30,
+"ar": "ميربا باتسري كوكيز تربل شوكولاته 200 جم",
+"en": "Merba Patisserie Triple Chocolate Cookies 200 g",
+"price": 26.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1031832",
+"img_src": "ninja",
+"images": [
+"8710502179020.webp",
+"8710502179020-1.webp"
+]
+},
+{
+"sku": "JRN00001879",
+"barcode": "6291003018688",
+"cat": 30,
+"ar": "تيفاني نوتي بايت نكهة البندق 8 حبات 72 جم",
+"en": "Tiffany Nutty Bite Chocolate & Hazelnut 8 pcs 72 g",
+"price": 17.5,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19382005",
+"img_src": "ninja",
+"images": [
+"6291003018688.webp"
+]
+},
+{
+"sku": "JRN00001880",
+"barcode": "6281102740375",
+"cat": 30,
+"ar": "برنتو كوكيز شوكلاتة داكنة 12 حبة 40 جم",
+"en": "Pronto Cookies Dark 12 pcs 40 g",
+"price": 44.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294115",
+"img_src": "ninja",
+"images": [
+"6281102740375.webp",
+"6281102740375-1.webp"
+]
+},
+{
+"sku": "JRN00001881",
+"barcode": "6281123055021",
+"cat": 31,
+"ar": "صباحو براوني بشرائح الشوكولاتة 300 جم",
+"en": "Sabahoo Chocolate Chips Brownie 300 g",
+"price": 15.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19304621",
+"img_src": "ninja",
+"images": [
+"6281123055021.webp",
+"6281123055021-1.webp"
+]
+},
+{
+"sku": "JRN00001882",
+"barcode": "7622202361074",
+"cat": 31,
+"ar": "لو كوكولين كيك بحشوة الشوكولاتة 165 جم",
+"en": "LU Coqueline Chocolate 165 g",
+"price": 20.5,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-193742",
+"img_src": "ninja",
+"images": [
+"7622202361074.webp"
+]
+},
+{
+"sku": "JRN00001883",
+"barcode": "6281004700026",
+"cat": 31,
+"ar": "غندور يمامة كيك فانيلا علبة 12 × 20 جم",
+"en": "Gandour Yamama Cake Vanilla Box 12 x 20 g",
+"price": 9.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-3429837",
+"img_src": "ninja",
+"images": [
+"6281004700026.webp",
+"6281004700026-1.webp"
+]
+},
+{
+"sku": "JRN00001884",
+"barcode": "776992059431",
+"cat": 31,
+"ar": "ديمه براوني كيك بالشوكولاته علبة 12 حبة 37 جم",
+"en": "Deemah Brownie Cake Chocolate Box 12 pcs 37 g",
+"price": 16.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7349129",
+"img_src": "ninja",
+"images": [
+"776992059431.webp"
+]
+},
+{
+"sku": "JRN00001885",
+"barcode": "7622202361104",
+"cat": 31,
+"ar": "لو كوكولين كيك بحشوة المشمش 165 جم",
+"en": "LU Coqueline Abricot 165 g",
+"price": 20.5,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-193655",
+"img_src": "ninja",
+"images": [
+"7622202361104.webp"
+]
+},
+{
+"sku": "JRN00001886",
+"barcode": "6285835000720",
+"cat": 31,
+"ar": "جالكسي كيك بالفانيليا مجموعة 5 حبات 27 جم",
+"en": "Galaxy Vanilla Cakes 5 pcs 27 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318360",
+"img_src": "ninja",
+"images": [
+"6285835000720.webp",
+"6285835000720-1.webp"
+]
+},
+{
+"sku": "JRN00001887",
+"barcode": "6291105692229",
+"cat": 31,
+"ar": "بيتي كروكر كيك العائلة ماربل 250 جم",
+"en": "Betty Crocker Family Cake Marble 250 g",
+"price": 17.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-400",
+"img_src": "ninja",
+"images": [
+"6291105692229.webp",
+"6291105692229-1.webp"
+]
+},
+{
+"sku": "JRN00001888",
+"barcode": "6281100357520",
+"cat": 31,
+"ar": "رنا ميرو كيك بالمرشميلو مغطاة بالشوكولاته علبة 24 × 23 جم",
+"en": "Rana Mero Cake with Marshmallow Covered By Chocolate Box 24 x 23 g",
+"price": 13.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-1107554",
+"img_src": "ninja",
+"images": [
+"6281100357520.webp",
+"6281100357520-1.webp"
+]
+},
+{
+"sku": "JRN00001889",
+"barcode": "776992042334",
+"cat": 31,
+"ar": "ديمه فانتازي كيك الشوكولاته علبة 12 حبة 40 جم",
+"en": "Deemah Fantasy Cake Chocolate Box 12 pcs 40 g",
+"price": 16.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7345627",
+"img_src": "ninja",
+"images": [
+"776992042334.webp"
+]
+},
+{
+"sku": "JRN00001890",
+"barcode": "6285835000782",
+"cat": 31,
+"ar": "جالكسي كيك بالكراميل مجموعة 5 حبات 27 جم",
+"en": "Galaxy Caramel Cakes 5 pcs 27 g",
+"price": 18.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318361",
+"img_src": "ninja",
+"images": [
+"6285835000782.webp",
+"6285835000782-1.webp"
+]
+},
+{
+"sku": "JRN00001891",
+"barcode": "6285602000519",
+"cat": 31,
+"ar": "ديمه مفن محشو بكريمة الشوكولاته علبة 12 حبة 27 جم",
+"en": "Deemah Double Chocolate Muffin Box 12 pcs 27 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7345988",
+"img_src": "ninja",
+"images": [
+"6285602000519.webp",
+"6285602000519-1.webp"
+]
+},
+{
+"sku": "JRN00001892",
+"barcode": "7622202361098",
+"cat": 31,
+"ar": "لو كوكولين كيك بحشوة الفراولة 165 جم",
+"en": "LU Coqueline Strawberry 165 g",
+"price": 20.5,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-193671",
+"img_src": "ninja",
+"images": [
+"7622202361098.webp"
+]
+},
+{
+"sku": "JRN00001893",
+"barcode": "6291105692243",
+"cat": 31,
+"ar": "بيتي كروكر كيك العائلة بنكهة الفانيليا 250 جم",
+"en": "Betty Crocker Family Cake Vanilla 250 g",
+"price": 17.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-401",
+"img_src": "ninja",
+"images": [
+"6291105692243.webp"
+]
+},
+{
+"sku": "JRN00001894",
+"barcode": "7622201722623",
+"cat": 31,
+"ar": "لو ساريتا كيكة الرخام 200 جم",
+"en": "LU Sarita Marble Cake 200 g",
+"price": 20.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-193903",
+"img_src": "ninja",
+"images": [
+"7622201722623.webp"
+]
+},
+{
+"sku": "JRN00001895",
+"barcode": "6291105692236",
+"cat": 31,
+"ar": "بيتي كروكر كيك العائلة بنكهة الشوكولاتة 250 جم",
+"en": "Betty Crocker Family Cake Chocolate 250 g",
+"price": 17.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-399",
+"img_src": "ninja",
+"images": [
+"6291105692236.webp",
+"6291105692236-1.webp"
+]
+},
+{
+"sku": "JRN00001896",
+"barcode": "8690526096827",
+"cat": 31,
+"ar": "اديكتو انتنس كيك شكولاتة مكثف 144 جم",
+"en": "Adicto Intense Cake Chocolate 144 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293698",
+"img_src": "ninja",
+"images": [
+"8690526096827.webp"
+]
+},
+{
+"sku": "JRN00001897",
+"barcode": "6285835000690",
+"cat": 31,
+"ar": "جالكسي كيك بالشوكولاته مجموعة 5 حبات 27 جم",
+"en": "Galaxy Choc Cakes 5 pcs 27 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318359",
+"img_src": "ninja",
+"images": [
+"6285835000690.webp",
+"6285835000690-1.webp"
+]
+},
+{
+"sku": "JRN00001898",
+"barcode": "7622300661106",
+"cat": 31,
+"ar": "بارني كيك بالشكولاته 30 جم",
+"en": "Barni Cake With Chocolate 30 g",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7689",
+"img_src": "ninja",
+"images": [
+"7622300661106.webp"
+]
+},
+{
+"sku": "JRN00001899",
+"barcode": "3178530412550",
+"cat": 31,
+"ar": "سانت ميشيل كيك مادلين صغيرة مع رقائق الشوكلاتة 75 جم",
+"en": "St Michel Mini Madeleines With Chocolate Chips 75 g",
+"price": 9.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19369302",
+"img_src": "ninja",
+"images": [
+"3178530412550.webp"
+]
+},
+{
+"sku": "JRN00001900",
+"barcode": "3178530408539",
+"cat": 31,
+"ar": "سانت ميشيل كيك مادلين صغيرة 85 جم",
+"en": "St Michel Cake Mini Madeleines 85 g",
+"price": 9.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19369303",
+"img_src": "ninja",
+"images": [
+"3178530408539.webp"
+]
+},
+{
+"sku": "JRN00001901",
+"barcode": "6281004705021",
+"cat": 31,
+"ar": "غندور يمامة كيك كاكاو وفانيلا علبة 12 × 20 جم",
+"en": "Gandour Yamama Cake Cocoa & Vanilla Box 12 x 20 g",
+"price": 9.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-3429803",
+"img_src": "ninja",
+"images": [
+"6281004705021.webp",
+"6281004705021-1.webp"
+]
+},
+{
+"sku": "JRN00001902",
+"barcode": "6281004122125",
+"cat": 31,
+"ar": "يمامة كيك العائلة ماربيل 230 جم",
+"en": "Yamama Family Cake Marble Cake 230 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349298",
+"img_src": "ninja",
+"images": [
+"6281004122125.webp",
+"6281004122125-1.webp",
+"6281004122125-2.webp"
+]
+},
+{
+"sku": "JRN00001903",
+"barcode": "6285602000328",
+"cat": 31,
+"ar": "ديمه كب كيك كريمة الشوكولاته علبة 12 حبة 27 جم",
+"en": "Deemah Cup Cake Chocolate Cream Box 12 pcs 27 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7348040",
+"img_src": "ninja",
+"images": [
+"6285602000328.webp",
+"6285602000328-1.webp"
+]
+},
+{
+"sku": "JRN00001904",
+"barcode": "6281033320103",
+"cat": 31,
+"ar": "امريكانا كيك العائلة فانيليا 220 جم",
+"en": "Americana Pound Cake Vanilla 220 g",
+"price": 19.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19386713",
+"img_src": "ninja",
+"images": [
+"6281033320103.webp",
+"6281033320103-1.webp"
+]
+},
+{
+"sku": "JRN00001905",
+"barcode": "3178530415735",
+"cat": 31,
+"ar": "سانت ميشيل مادلين 150 جم",
+"en": "St Michel Madeleines Individually Wrapped 150 g",
+"price": 17.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19391426",
+"img_src": "ninja",
+"images": [
+"3178530415735.webp",
+"3178530415735-1.webp"
+]
+},
+{
+"sku": "JRN00001906",
+"barcode": "6281004717024",
+"cat": 31,
+"ar": "غندور يمامة كيك بار دبل شوكولاتة 12 حبة 20 جم",
+"en": "Gandour Yamama Cake Bar Double Chocolate 12 pcs 20 g",
+"price": 9.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-3433736",
+"img_src": "ninja",
+"images": [
+"6281004717024.webp",
+"6281004717024-1.webp",
+"6281004717024-2.webp"
+]
+},
+{
+"sku": "JRN00001907",
+"barcode": "6281004132827",
+"cat": 31,
+"ar": "يمامة كيك العائلة بالشوكولاتة والماربيل 230 جم",
+"en": "Yamama Family Cake Choco Marble 230 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349295",
+"img_src": "ninja",
+"images": [
+"6281004132827.webp",
+"6281004132827-1.webp",
+"6281004132827-2.webp"
+]
+},
+{
+"sku": "JRN00001908",
+"barcode": "6222035255789",
+"cat": 31,
+"ar": "نوفي تورتا لايرز كيك شوكولاته 12 حبة 25 جم",
+"en": "Novy Torta Layers Cake Chocolate 12 pcs 25 g",
+"price": 11.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19402535",
+"img_src": "ninja",
+"images": [
+"6222035255789.webp",
+"6222035255789-1.webp"
+]
+},
+{
+"sku": "JRN00001909",
+"barcode": "6281033215522",
+"cat": 31,
+"ar": "امريكانا كيك سويس رول فانيلا محشو بكريمة الفانيلا 12 حبة 20 جم",
+"en": "Americana Cake Swiss Roll Vanilla Filled with Vanilla Cream 12 pcs 20 g",
+"price": 9.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19386710",
+"img_src": "ninja",
+"images": [
+"6281033215522.webp",
+"6281033215522-1.webp",
+"6281033215522-2.webp"
+]
+},
+{
+"sku": "JRN00001910",
+"barcode": "8699141058098",
+"cat": 31,
+"ar": "أوزمو كيك بالحليب والكاكاو وكريمة الشوكولاتة 30 جم",
+"en": "Ozmo Ogopogo 30 g",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290174",
+"img_src": "ninja",
+"images": [
+"8699141058098.webp",
+"8699141058098-1.webp"
+]
+},
+{
+"sku": "JRN00001911",
+"barcode": "6281033215546",
+"cat": 31,
+"ar": "امريكانا كيك سويس رول فانيلا محشو بكريمة الفراولة 12 حبة 20 جم",
+"en": "Americana Cake Swiss Roll Vanilla Filled with Strawberry Cream 12 pcs 20 g",
+"price": 9.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19386709",
+"img_src": "ninja",
+"images": [
+"6281033215546.webp",
+"6281033215546-1.webp"
+]
+},
+{
+"sku": "JRN00001912",
+"barcode": "6281033215515",
+"cat": 31,
+"ar": "امريكانا كيك سويس رول شوكولاتة محشو بكريمة الفانيلا 12 حبة 20 جم",
+"en": "Americana Cake Swiss Roll Chocolate Filled with Vanilla Cream 12 pcs 20 g",
+"price": 9.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19386707",
+"img_src": "ninja",
+"images": [
+"6281033215515.webp",
+"6281033215515-1.webp"
+]
+},
+{
+"sku": "JRN00001913",
+"barcode": "6281033038060",
+"cat": 31,
+"ar": "امريكانا كيك كنافة بار بالفستق 35 جم",
+"en": "Americana Cake Kunafa Bar with Pistachios 35 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19378705",
+"img_src": "ninja",
+"images": [
+"6281033038060.webp",
+"6281033038060-1.webp"
+]
+},
+{
+"sku": "JRN00001914",
+"barcode": "6222035256205",
+"cat": 31,
+"ar": "نوفي تورتا كيك ديلايتس بار 6 حبة 40 جم",
+"en": "Novy Torta Cake Delights Chocolate Bar 6 pcs 40 g",
+"price": 11.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19402540",
+"img_src": "ninja",
+"images": [
+"6222035256205.webp"
+]
+},
+{
+"sku": "JRN00001915",
+"barcode": "6222035255949",
+"cat": 31,
+"ar": "نوفي تورتا لايرز كيك شوكولاته بيضاء 12 حبة 25 جم",
+"en": "Novy Torta Layers Cake White Chocolate 12 pcs 25 g",
+"price": 11.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19402538",
+"img_src": "ninja",
+"images": [
+"6222035255949.webp",
+"6222035255949-1.webp"
+]
+},
+{
+"sku": "JRN00001916",
+"barcode": "6281033320127",
+"cat": 31,
+"ar": "امريكانا كيك العائلة بالشوكولاتة 220 جم",
+"en": "Americana Pound Cake Chocolate 220 g",
+"price": 19.5,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19386711",
+"img_src": "ninja",
+"images": [
+"6281033320127.webp",
+"6281033320127-1.webp",
+"6281033320127-2.webp"
+]
+},
+{
+"sku": "JRN00001917",
+"barcode": "6281004704024",
+"cat": 31,
+"ar": "غندور يمامة كيك عادي فراولة علبة 12 حبة 20 جم",
+"en": "Gandour Yamama Cake Strawberry Box 12 pcs 20 g",
+"price": 8.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-3430072",
+"img_src": "ninja",
+"images": [
+"6281004704024.webp",
+"6281004704024-1.webp"
+]
+},
+{
+"sku": "JRN00001918",
+"barcode": "6222035255802",
+"cat": 31,
+"ar": "نوفي تورتا لايرز كيك قهوة 12 حبة 25 جم",
+"en": "Novy Torta Layers Cake Coffee 12 pcs 25 g",
+"price": 11.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19402536",
+"img_src": "ninja",
+"images": [
+"6222035255802.webp",
+"6222035255802-1.webp"
+]
+},
+{
+"sku": "JRN00001919",
+"barcode": "5906372278588",
+"cat": 31,
+"ar": "دكتور جيرارد اصابع كيك بحشوة الفراولة والكريمة 170 جم",
+"en": "Dr Gerard Creamy Fingers Cake Strawberry Flavour 170 g",
+"price": 11.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19365463",
+"img_src": "ninja",
+"images": [
+"5906372278588.webp"
+]
+},
+{
+"sku": "JRN00001920",
+"barcode": "6281004122224",
+"cat": 31,
+"ar": "يمامة كيك العائلة بالفانيلا 230 جم",
+"en": "Yamama Family Cake Vanilla 230 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349296",
+"img_src": "ninja",
+"images": [
+"6281004122224.webp",
+"6281004122224-1.webp",
+"6281004122224-2.webp"
+]
+},
+{
+"sku": "JRN00001921",
+"barcode": "6221134010671",
+"cat": 31,
+"ar": "تويكس ويفر رولز 22.5 جم",
+"en": "Twix Wafer Rolls 22.5 g",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291654",
+"img_src": "ninja",
+"images": [
+"6221134010671.webp"
+]
+},
+{
+"sku": "JRN00001922",
+"barcode": "6281100721086",
+"cat": 31,
+"ar": "رنا ريكو ويفر بنكهة كريمة البندق علبة 18 × 17.6 جم",
+"en": "Rana Rico Wafer Hazelnut Cream Box 18 x 17.6 g",
+"price": 14.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-1103869",
+"img_src": "ninja",
+"images": [
+"6281100721086.webp"
+]
+},
+{
+"sku": "JRN00001923",
+"barcode": "6281100354253",
+"cat": 31,
+"ar": "أولكر ديلوكس ويفر بكريمة البندق علبة 12 حبة 40 جم",
+"en": "Ulker Deluxe Wafer Hazelnut Box 12 pcs 40 g",
+"price": 18.0,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-7250143",
+"img_src": "ninja",
+"images": [
+"6281100354253.webp",
+"6281100354253-1.webp"
+]
+},
+{
+"sku": "JRN00001924",
+"barcode": "6281100720164",
+"cat": 31,
+"ar": "رنا ريكو ويفر شوكولاتة 18 × 17.6 جم",
+"en": "Rana Rico Chocolate Wafer 18 x 17.6 g",
+"price": 13.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19291310",
+"img_src": "ninja",
+"images": [
+"6281100720164.webp"
+]
+},
+{
+"sku": "JRN00001925",
+"barcode": "6281100720966",
+"cat": 31,
+"ar": "رنا هايدي ويفر بنكهة كريمة البندق علبة 24 حبة 18 جم",
+"en": "Rana Heidi Wafer With Hazelnut Cream Box 24 pcs 18 g",
+"price": 14.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-1106546",
+"img_src": "ninja",
+"images": [
+"6281100720966.webp",
+"6281100720966-1.webp"
+]
+},
+{
+"sku": "JRN00001926",
+"barcode": "6281016901220",
+"cat": 31,
+"ar": "تيشوب رينجو لفائف ويفر محشية بكريمة البندق والشوكولاته علبة 12 × 16 جم",
+"en": "Teashop Ringo Wafer Rolls Filled Hazelnut & Chocolate Cream Box 12 x 16 g",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-7362885",
+"img_src": "ninja",
+"images": [
+"6281016901220.webp",
+"6281016901220-1.webp"
+]
+},
+{
+"sku": "JRN00001927",
+"barcode": "8000380184644",
+"cat": 31,
+"ar": "لواكر ويفر مينيز مشكلة 150 جم",
+"en": "Loacker Wafer Minis Mix 150 g",
+"price": 25.75,
+"special": 17.29,
+"src": "ninja",
+"ninja_id": "5-6848",
+"img_src": "ninja",
+"images": [
+"8000380184644.webp"
+]
+},
+{
+"sku": "JRN00001928",
+"barcode": "8000380152728",
+"cat": 31,
+"ar": "لواكر جاردينيا أصابع ويفر بالشوكولاتة 125 جم",
+"en": "Loacker Gardena Fingers Wafer Chocolate 125 g",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7002",
+"img_src": "ninja",
+"images": [
+"8000380152728.webp"
+]
+},
+{
+"sku": "JRN00001929",
+"barcode": "6281100720621",
+"cat": 31,
+"ar": "رنا فليك فلاك ويفر الاصابع بنكهة الشوكولاته و الحليب علبة 24 × 25.5 جم",
+"en": "Rana Flik Flak Wafer Fingers in Milk Chocolate Flavour Box 24 x 25.5 g",
+"price": 18.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-1101442",
+"img_src": "ninja",
+"images": [
+"6281100720621.webp",
+"6281100720621-1.webp",
+"6281100720621-2.webp"
+]
+},
+{
+"sku": "JRN00001930",
+"barcode": "6281016960265",
+"cat": 31,
+"ar": "تيشوب رينجو ويفر بالشوكولاته علبة 24 حبة 18 جم",
+"en": "Teashop Ringo Wafer Chocolate Box 24 pcs 18 g",
+"price": 15.25,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-11329565",
+"img_src": "ninja",
+"images": [
+"6281016960265.webp",
+"6281016960265-1.webp",
+"6281016960265-2.webp"
+]
+},
+{
+"sku": "JRN00001931",
+"barcode": "8000380194308",
+"cat": 31,
+"ar": "لواكر باتسري ويفر بكريمة البندق 99.6 جم",
+"en": "Loacker Pasticceria Wafer With Cream Hazelnut 99.6 g",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1017611",
+"img_src": "ninja",
+"images": [
+"8000380194308.webp",
+"8000380194308-1.webp"
+]
+},
+{
+"sku": "JRN00001932",
+"barcode": "6222024101080",
+"cat": 31,
+"ar": "أولكر كات كات تات ويفر بالبندق علبة 12 حبة 24 جم",
+"en": "Ulker Kat Kat Tat Wafer Hazelnut Box 12 pcs 24 g",
+"price": 12.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-7254946",
+"img_src": "ninja",
+"images": [
+"6222024101080.webp"
+]
+},
+{
+"sku": "JRN00001933",
+"barcode": "80854357",
+"cat": 31,
+"ar": "لواكر تورتينا ويفر تربل شوكولاته 21 جم",
+"en": "Loacker Tortina Wafer Triple Chocolate 21 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1014254",
+"img_src": "ninja",
+"images": [
+"80854357.webp",
+"80854357-1.webp"
+]
+},
+{
+"sku": "JRN00001934",
+"barcode": "6281100356134",
+"cat": 31,
+"ar": "ريكو ويفر مغطى شوكولاتة بالحليب 18 حبة 11.5 جم",
+"en": "Rico Wafer with Coated Milk Chocolate 18 pcs 11.5 g",
+"price": 14.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-19380803",
+"img_src": "ninja",
+"images": [
+"6281100356134.webp"
+]
+},
+{
+"sku": "JRN00001935",
+"barcode": "5907471416284",
+"cat": 31,
+"ar": "دكتور جيرارد لفائف الويفر بحشوة الكريمة 144 جم",
+"en": "Dr Gerard Wafer Rolls Cream Filled 144 g",
+"price": 9.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19365461",
+"img_src": "ninja",
+"images": [
+"5907471416284.webp"
+]
+},
+{
+"sku": "JRN00001936",
+"barcode": "6281100356165",
+"cat": 31,
+"ar": "أولكر شوكو ويفر 12 × 25 جم",
+"en": "Ulker Chocowafer 12 x 25 g",
+"price": 12.5,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-19365071",
+"img_src": "ninja",
+"images": [
+"6281100356165.webp",
+"6281100356165-1.webp"
+]
+},
+{
+"sku": "JRN00001937",
+"barcode": "5352101009044",
+"cat": 31,
+"ar": "فوستر كلارك ويفر بندق 45 جم",
+"en": "Foster Clark Wafer Hazelnut 45 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19416985",
+"img_src": "ninja",
+"images": [
+"5352101009044.webp"
+]
+},
+{
+"sku": "JRN00001938",
+"barcode": "5352101009013",
+"cat": 31,
+"ar": "فوستر كلارك ويفر فانيلا 45 جم",
+"en": "Foster Clark Wafer Vanilla 45 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19416984",
+"img_src": "ninja",
+"images": [
+"5352101009013.webp"
+]
+},
+{
+"sku": "JRN00001939",
+"barcode": "8000380004669",
+"cat": 31,
+"ar": "ساندويتش لواكر شوكولاتة 200 جم",
+"en": "Loacker Sandwich Chocolate 200 g",
+"price": 23.75,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-19293882",
+"img_src": "ninja",
+"images": [
+"8000380004669.webp",
+"8000380004669-1.webp"
+]
+},
+{
+"sku": "JRN00001940",
+"barcode": "6222035255703",
+"cat": 31,
+"ar": "نوفي ويفز ويفر محشو بكريمة الشوكولاتة مغطى بالشوكولاتة 6 حبة 40 جم",
+"en": "Novy Waves Wafer Chocolate Cream 6 pcs 40 g",
+"price": 11.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19402542",
+"img_src": "ninja",
+"images": [
+"6222035255703.webp",
+"6222035255703-1.webp"
+]
+},
+{
+"sku": "JRN00001941",
+"barcode": "6222035256069",
+"cat": 31,
+"ar": "نوفي ماجيك فينجرز ويفر محشو بكريمة الشوكولاتة 6 × 18 جم",
+"en": "Novy Magic Fingers Wafer Chocolate 6 x 18 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19402546",
+"img_src": "ninja",
+"images": [
+"6222035256069.webp",
+"6222035256069-1.webp",
+"6222035256069-2.webp"
+]
+},
+{
+"sku": "JRN00001942",
+"barcode": "5352101009020",
+"cat": 31,
+"ar": "فوستر كلارك ويفر شوكولاتة 45 جم",
+"en": "Foster Clark Wafer Chocolate 45 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19416982",
+"img_src": "ninja",
+"images": [
+"5352101009020.webp"
+]
+},
+{
+"sku": "JRN00001943",
+"barcode": "4017100216275",
+"cat": 31,
+"ar": "بالسين وافل مينيس ميلك مغطى بالشوكولاتة 130 جم",
+"en": "Bahlsen Wafer Minis with Covered Milk Chocolate 130 g",
+"price": 21.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19382552",
+"img_src": "ninja",
+"images": [
+"4017100216275.webp",
+"4017100216275-1.webp"
+]
+},
+{
+"sku": "JRN00001944",
+"barcode": "8000380005574",
+"cat": 31,
+"ar": "لواكر ساندويش ويفر حليب فانيلا 75 جم",
+"en": "Loacker Sandwich Wafer Milk Vanilla 75 g",
+"price": 9.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-967665",
+"img_src": "ninja",
+"images": [
+"8000380005574.webp"
+]
+},
+{
+"sku": "JRN00001945",
+"barcode": "6221134010619",
+"cat": 31,
+"ar": "سنيكرز ويفر 24 جم",
+"en": "Snickers Rolled Wafer 24 g",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19357250",
+"img_src": "ninja",
+"images": [
+"6221134010619.webp"
+]
+},
+{
+"sku": "JRN00001946",
+"barcode": "4017100217517",
+"cat": 31,
+"ar": "بالسن وافلتين لفائف بسكويت الويفر المقرمش بالحليب 21 جم",
+"en": "Bahlsen Waffletten Wafers Crunchy Roll Milk 21 g",
+"price": 5.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1020862",
+"img_src": "ninja",
+"images": [
+"4017100217517.webp"
+]
+},
+{
+"sku": "JRN00001947",
+"barcode": "6221134000108",
+"cat": 31,
+"ar": "جالكسي فلوتس إصبعين 22.5 جم",
+"en": "Galaxy Flutes 2 Fingers 22.5 g",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7736",
+"img_src": "ninja",
+"images": [
+"6221134000108.webp"
+]
+},
+{
+"sku": "JRN00001948",
+"barcode": "4823077621659",
+"cat": 31,
+"ar": "روشين ويفر برقائق البندق 72 جم",
+"en": "Roshen Wafers Hazelnut Wafers 72 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398086",
+"img_src": "ninja",
+"images": [
+"4823077621659.webp",
+"4823077621659-1.webp"
+]
+},
+{
+"sku": "JRN00001949",
+"barcode": "8690526018874",
+"cat": 31,
+"ar": "اي تي اي داريلو ويفر شوكولاتة بالحليب 50 جم",
+"en": "ETI Darelo Wafer Milk Chocolate 50 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19377008",
+"img_src": "ninja",
+"images": [
+"8690526018874.webp",
+"8690526018874-1.webp"
+]
+},
+{
+"sku": "JRN00001950",
+"barcode": "8000380005949",
+"cat": 31,
+"ar": "لواكر كوادراتيني ويفر بالفانيليا 125 جم",
+"en": "Loacker Quadratini Wafer With Vanilla 125 g",
+"price": 15.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1481",
+"img_src": "ninja",
+"images": [
+"8000380005949.webp",
+"8000380005949-1.webp"
+]
+},
+{
+"sku": "JRN00001951",
+"barcode": "8690526075556",
+"cat": 31,
+"ar": "أي تي اي داريلو ليل ويفر محشي بالشوكلاتة جورمت 50 جم",
+"en": "Eti Darelo Leil Gourmet 50 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293687",
+"img_src": "hs",
+"images": [
+"8690526075556.webp",
+"8690526075556-1.webp"
+]
+},
+{
+"sku": "JRN00001952",
+"barcode": "8690526005355",
+"cat": 31,
+"ar": "ويف اب ويفر بالبندق 40 جم",
+"en": "Eti Wafe Up Wafer With Hazelnut 40 g",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293676",
+"img_src": "ninja",
+"images": [
+"8690526005355.webp"
+]
+},
+{
+"sku": "JRN00001953",
+"barcode": "5201004021328",
+"cat": 31,
+"ar": "كابريس ويفر اصابع بحشوة الشوكولاتة 115 جم",
+"en": "Caprice Wafer Sticks With Chocolate 115 g",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7338",
+"img_src": "ninja",
+"images": [
+"5201004021328.webp",
+"5201004021328-1.webp"
+]
+},
+{
+"sku": "JRN00001954",
+"barcode": "8690526005621",
+"cat": 31,
+"ar": "ويف اب ويفر حليب 40 جم",
+"en": "Eti Wafe Up With Milk 40 g",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293666",
+"img_src": "ninja",
+"images": [
+"8690526005621.webp"
+]
+},
+{
+"sku": "JRN00001955",
+"barcode": "8690526025544",
+"cat": 31,
+"ar": "أتي داريلو ليل ويفر محشي بالشوكلاتة 112 جم",
+"en": "Eti Darelo Leil Gourmet Wafer Chocolate 112 g",
+"price": 15.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293675",
+"img_src": "ninja",
+"images": [
+"8690526025544.webp"
+]
+},
+{
+"sku": "JRN00001956",
+"barcode": "3178530424706",
+"cat": 31,
+"ar": "سانت ميشيل شوكو وافل 180 جم",
+"en": "St Michel Choco Waffle 180 g",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19426730",
+"img_src": "ninja",
+"images": [
+"3178530424706.webp",
+"3178530424706-1.webp"
+]
+},
+{
+"sku": "JRN00001957",
+"barcode": "80001027",
+"cat": 31,
+"ar": "لواكر تورتينا ويفر بالبندق 21 جم",
+"en": "Loacker Tortina Wafer With Hazelnut 21 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7590",
+"img_src": "ninja",
+"images": [
+"80001027.webp",
+"80001027-1.webp"
+]
+},
+{
+"sku": "JRN00001958",
+"barcode": "8000380153466",
+"cat": 31,
+"ar": "لواكر كلاسيك ويفر كاكاو 90 جم",
+"en": "Loacker Classic Cremkakao Wafer With Cocoa 90 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1012488",
+"img_src": "ninja",
+"images": [
+"8000380153466.webp"
+]
+},
+{
+"sku": "JRN00001959",
+"barcode": "5352101008986",
+"cat": 31,
+"ar": "فوستر كلارك ويفر فانيلا 125 جم",
+"en": "Foster Clark Wafer Vanilla 125 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19416986",
+"img_src": "ninja",
+"images": [
+"5352101008986.webp"
+]
+},
+{
+"sku": "JRN00001960",
+"barcode": "5352101009006",
+"cat": 31,
+"ar": "فوستر كلارك ويفر بندق 125 جم",
+"en": "Foster Clark Wafer Hazelnut 125 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19416987",
+"img_src": "ninja",
+"images": [
+"5352101009006.webp"
+]
+},
+{
+"sku": "JRN00001961",
+"barcode": "6222035256083",
+"cat": 31,
+"ar": "نوفي ماجيك فينجرز ويفر بكريمة الشوكولاتة 6 × 18 جم",
+"en": "Novy Magic Fingers Wafer Chocolate Cream 6 x 18 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19402544",
+"img_src": "ninja",
+"images": [
+"6222035256083.webp",
+"6222035256083-1.webp"
+]
+},
+{
+"sku": "JRN00001962",
+"barcode": "6222035255680",
+"cat": 31,
+"ar": "نوفي ماجيك فينجرز ويفر محشو بكريمة البندق مغطى بالشوكولاتة 6 × 18 جم",
+"en": "Novy Magic Fingers Wafer Chocolate & Hazelnut 6 x 18 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19402545",
+"img_src": "ninja",
+"images": [
+"6222035255680.webp",
+"6222035255680-1.webp"
+]
+},
+{
+"sku": "JRN00001963",
+"barcode": "8690526055640",
+"cat": 31,
+"ar": "ويف اب اكسترا ويفر بالبندق 29 جم",
+"en": "Eti Wafe Up Extra Wafer with Hazelnut 29 g",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293690",
+"img_src": "ninja",
+"images": [
+"8690526055640.webp"
+]
+},
+{
+"sku": "JRN00001964",
+"barcode": "80001461",
+"cat": 31,
+"ar": "لواكر جاردينيا ويفر بالشوكولاتة 38 جم",
+"en": "Loacker Gardena Wafer With Chocolate 38 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7008",
+"img_src": "ninja",
+"images": [
+"80001461.webp"
+]
+},
+{
+"sku": "JRN00001965",
+"barcode": "6281016904399",
+"cat": 31,
+"ar": "ميموريز جوي ويفر بكريمة الكاكاو 24 حبة 25 جم",
+"en": "Memories Joy Wafers Chocolate 24 pcs 25 g",
+"price": 33.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287022",
+"img_src": "ninja",
+"images": [
+"6281016904399.webp",
+"6281016904399-1.webp",
+"6281016904399-2.webp"
+]
+},
+{
+"sku": "JRN00001966",
+"barcode": "8690526005362",
+"cat": 31,
+"ar": "ويف اب ويفر بالكاكاو 40 جم",
+"en": "Eti Wafe Up Wafer With Cocoa 40 g",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293685",
+"img_src": "ninja",
+"images": [
+"8690526005362.webp"
+]
+},
+{
+"sku": "JRN00001967",
+"barcode": "8000380140565",
+"cat": 31,
+"ar": "لواكر كوادرتيني ويفر بالكابتشينو 110 جم",
+"en": "Loacker Quadratini Wafer With Cappuccino 110 g",
+"price": 15.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3081",
+"img_src": "ninja",
+"images": [
+"8000380140565.webp"
+]
+},
+{
+"sku": "JRN00001968",
+"barcode": "6222035255727",
+"cat": 31,
+"ar": "نوفي ويفز ويفر محشو بكريمة الفانيليا مغطى بالشوكولاتة البيضاء 6 حبة 40 جم",
+"en": "Novy Wafer Waves White Chocolate 6 pcs 40 g",
+"price": 11.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19402543",
+"img_src": "ninja",
+"images": [
+"6222035255727.webp",
+"6222035255727-1.webp"
+]
+},
+{
+"sku": "JRN00001969",
+"barcode": "5907471411081",
+"cat": 30,
+"ar": "دكتور جيرارد بسكويت بشوكولاتة الحليب بنكهة الفانيليا مغطاة بالشوكولاتة 150 جم",
+"en": "Dr Gerard Ringo Biscuit Vanilla Flavour with Chocolate Glaze 150 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19365428",
+"img_src": "ninja",
+"images": [
+"5907471411081.webp"
+]
+},
+{
+"sku": "JRN00001970",
+"barcode": "6222035256045",
+"cat": 31,
+"ar": "نوفي ويفر بليزو سوداني 6 حبة 35 جم",
+"en": "Novy Wafer Blazo Peanuts King Size 6 pcs 35 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19402541",
+"img_src": "ninja",
+"images": [
+"6222035256045.webp",
+"6222035256045-1.webp"
+]
+},
+{
+"sku": "JRN00001971",
+"barcode": "5352101008993",
+"cat": 31,
+"ar": "فوستر كلارك ويفر شوكولاتة 125 جم",
+"en": "Foster Clark Wafer Chocolate 125 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19416983",
+"img_src": "ninja",
+"images": [
+"5352101008993.webp"
+]
+},
+{
+"sku": "JRN00001972",
+"barcode": "5201004023360",
+"cat": 31,
+"ar": "كابريس ويفر بالشوكلاته 250 جم",
+"en": "Caprice Wafers Chocolate 250 g",
+"price": 27.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4783493",
+"img_src": "ninja",
+"images": [
+"5201004023360.webp"
+]
+},
+{
+"sku": "JRN00001973",
+"barcode": "8000380142460",
+"cat": 31,
+"ar": "لواكر كواردتيني ويفر بالشوكولاتة الداكنة 125 جم",
+"en": "Loacker Quadratini Wafer Dark Chocolate 125 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7419",
+"img_src": "ninja",
+"images": [
+"8000380142460.webp"
+]
+},
+{
+"sku": "JRN00001974",
+"barcode": "014100099970",
+"cat": 30,
+"ar": "ببريدج فارم ميلانو كوكيز بشوكولاتة الحليب 170 جم",
+"en": "Pepperidge Farm Milano Milk Chocolate Cookies 170 g",
+"price": 31,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"014100099970.webp",
+"014100099970-1.webp"
+]
+},
+{
+"sku": "JRN00001975",
+"barcode": "6221134002621",
+"cat": 31,
+"ar": "جالكسي فلوتس 4 أصابع 12 × 45 جم",
+"en": "Galaxy Flutes 4 Fingers 12 x 45 g",
+"price": 40.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6221134002621.webp",
+"6221134002621-1.webp"
+]
+},
+{
+"sku": "JRN00001976",
+"barcode": "6221134001464",
+"cat": 31,
+"ar": "جالكسي فلوتس إصبعين 36 × 22.5 جم",
+"en": "Galaxy Flutes 2 Fingers 36 x 22.5 g",
+"price": 76.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6221134001464.webp",
+"6221134001464-1.webp"
+]
+},
+{
+"sku": "JRN00001977",
+"barcode": "6221134002638",
+"cat": 31,
+"ar": "جالكسي فلوتس 4 أصابع 45 جم",
+"en": "Galaxy Flutes 4 Fingers 45 g",
+"price": 3.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6221134002638.webp",
+"6221134002638-1.webp"
+]
+},
+{
+"sku": "JRN00001978",
+"barcode": "8000500227848",
+"cat": 31,
+"ar": "نوتيلا بي ريدي ويفر محشو بالنوتيلا 6 × 22 جم",
+"en": "Nutella B-ready Wafer 6 x 22 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-8302",
+"img_src": "ninja",
+"images": [
+"8000500227848.webp"
+]
+},
+{
+"sku": "JRN00001979",
+"barcode": "6281105470149",
+"cat": 31,
+"ar": "أولكر ديلوكس ويفر بالشوكولاتة 12 × 40 جم",
+"en": "Ulker Deluxe Chocolate Wafer 12 x 40 g",
+"price": 18.5,
+"special": 15.72,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281105470149.webp",
+"6281105470149-1.webp"
+]
+},
+{
+"sku": "JRN00001980",
+"barcode": "80864059",
+"cat": 31,
+"ar": "لواكر جاردينا ويفر بزبدة الفول السوداني 38 جم",
+"en": "Loacker Gardena Peanut Butter Wafer 38 g",
+"price": 5.95,
+"special": 4.64,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"80864059.webp"
+]
+},
+{
+"sku": "JRN00001981",
+"barcode": "8000380003754",
+"cat": 31,
+"ar": "لواكر باتسري ويفر كابتشينو 100 جم",
+"en": "Loacker Patisserie Cappuccino 100 g",
+"price": 22.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8000380003754.webp"
+]
+},
+{
+"sku": "JRN00001982",
+"barcode": "80809265",
+"cat": 31,
+"ar": "لواكر تورتينا ويفر بزبدة الفول السوداني 21 جم",
+"en": "Loacker Tortina Peanut Butter 21 g",
+"price": 5.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"80809265.webp"
+]
+},
+{
+"sku": "JRN00001983",
+"barcode": "8000380205486",
+"cat": 31,
+"ar": "لواكر كوادراتيني ويفر بزبدة الفول السوداني 125 جم",
+"en": "Loacker Quadratini Peanut Butter 125 g",
+"price": 15.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8000380205486.webp"
+]
+},
+{
+"sku": "JRN00001984",
+"barcode": "8000380201396",
+"cat": 31,
+"ar": "لواكر تورتينا كراميل 126 جم",
+"en": "Loacker Tortina Caramel 126 g",
+"price": 31.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8000380201396.webp"
+]
+},
+{
+"sku": "JRN00001985",
+"barcode": "8000380201549",
+"cat": 31,
+"ar": "لواكر باتسري سناك بكريمة جوز الهند 126 جم",
+"en": "Loacker Patisserie Snack Coconut 126 g",
+"price": 31.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8000380201549.webp",
+"8000380201549-1.webp"
+]
+},
+{
+"sku": "JRN00001986",
+"barcode": "8000380207183",
+"cat": 31,
+"ar": "لواكر تورتينا بزبدة الفول السوداني 126 جم",
+"en": "Loacker Tortina Peanut Butter 126 g",
+"price": 31.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8000380207183.webp"
+]
+},
+{
+"sku": "JRN00001987",
+"barcode": "80001157",
+"cat": 31,
+"ar": "لواكر كلاسيك ويفر بزبدة الفول السوداني 45 جم",
+"en": "Loacker Classic Peanut Butter Wafer 45 g",
+"price": 5.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"80001157.webp"
+]
+},
+{
+"sku": "JRN00001988",
+"barcode": "8691066111612",
+"cat": 31,
+"ar": "تايم ويفر ماستر 400 جم",
+"en": "Time Wafer Master 400 g",
+"price": 27.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8691066111612.webp"
+]
+},
+{
+"sku": "JRN00001989",
+"barcode": "5201004020338",
+"cat": 31,
+"ar": "كابريس أعواد ويفر بالشوكولاتة 400 جم",
+"en": "Caprice Wafer Sticks Cocoa 400 g",
+"price": 34.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5201004020338.webp"
+]
+},
+{
+"sku": "JRN00001990",
+"barcode": "6223003801892",
+"cat": 30,
+"ar": "أولكر كات كات تات بكريمة الكاكاو 12 × 24 جم",
+"en": "Ulker Kat Kat Tat Cocoa Cream 12 x 24 g",
+"price": 12.95,
+"special": 11,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6223003801892.webp"
+]
+},
+{
+"sku": "JRN00001991",
+"barcode": "6281100353522",
+"cat": 30,
+"ar": "أولكر بسكويت الشاي 70 جم",
+"en": "Ulker Tea Biscuits 70 g",
+"price": 1.25,
+"special": 1.12,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281100353522.webp"
+]
+},
+{
+"sku": "JRN00001992",
+"barcode": "6222024102902",
+"cat": 30,
+"ar": "أولكر شوكو ساندويتش بايتس بكريمة الكاكاو والبندق 12 × 32 جم",
+"en": "Ulker Chocosandwich Bites Hazelnut Cocoa Cream 12 x 32 g",
+"price": 12.25,
+"special": 10.78,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6222024102902.webp",
+"6222024102902-1.webp"
+]
+},
+{
+"sku": "JRN00001993",
+"barcode": "8000500310397",
+"cat": 30,
+"ar": "نوتيلا بسكويت 166 جم",
+"en": "Nutella Biscuits Tube 166 g",
+"price": 14.95,
+"special": 13.45,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8000500310397.webp"
+]
+},
+{
+"sku": "JRN00001994",
+"barcode": "6281100353409",
+"cat": 30,
+"ar": "أولكر بسكويت الشاي 147 جم",
+"en": "Ulker Tea Biscuits 147 g",
+"price": 2.5,
+"special": 2.25,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281100353409.webp",
+"6281100353409-1.webp"
+]
+},
+{
+"sku": "JRN00001995",
+"barcode": "7622202313738",
+"cat": 30,
+"ar": "أوريو بكريمة الشوكولاتة والبندق 12 × 35.5 جم",
+"en": "Oreo Chocolate Hazelnut Creme 12 x 35.5 g",
+"price": 15.75,
+"special": 11.65,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7622202313738.webp",
+"7622202313738-1.webp"
+]
+},
+{
+"sku": "JRN00001996",
+"barcode": "7622202313745",
+"cat": 30,
+"ar": "أوريو بكريمة الشوكولاتة والبندق 35.5 جم",
+"en": "Oreo Chocolate Hazelnut Creme 35.5 g",
+"price": 1.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7622202313745.webp"
+]
+},
+{
+"sku": "JRN00001997",
+"barcode": "7622201764548",
+"cat": 30,
+"ar": "أوريو بكريمة الشوكولاتة 12 × 36.8 جم",
+"en": "Oreo Chocolate Creme 12 x 36.8 g",
+"price": 15.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7622201764548.webp",
+"7622201764548-1.webp"
+]
+},
+{
+"sku": "JRN00001998",
+"barcode": "6281105473072",
+"cat": 30,
+"ar": "أولكر بسكويت بالسمسم 12 × 58 جم",
+"en": "Ulker Sesame Biscuits 12 x 58 g",
+"price": 25.75,
+"special": 23.17,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281105473072.webp",
+"6281105473072-1.webp"
+]
+},
+{
+"sku": "JRN00001999",
+"barcode": "8690504081913",
+"cat": 30,
+"ar": "مكفتيز ثينز دايجستيف بشوكولاتة الحليب 150 جم",
+"en": "McVitie's Digestive Thins Milk Chocolate 150 g",
+"price": 16.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8690504081913.webp",
+"8690504081913-1.webp"
+]
+},
+{
+"sku": "JRN00002000",
+"barcode": "8000500310427",
+"cat": 30,
+"ar": "نوتيلا بسكويت 304 جم",
+"en": "Nutella Biscuits 304 g",
+"price": 18.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8000500310427.webp"
+]
+},
+{
+"sku": "JRN00002001",
+"barcode": "7622202313592",
+"cat": 30,
+"ar": "أوريو بكريمة الشوكولاتة الداكنة 12 × 35.5 جم",
+"en": "Oreo Dark Chocolate Creme 12 x 35.5 g",
+"price": 15.75,
+"special": 11.65,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7622202313592.webp"
+]
+},
+{
+"sku": "JRN00002002",
+"barcode": "7622202313608",
+"cat": 30,
+"ar": "أوريو بكريمة الشوكولاتة الداكنة 35.5 جم",
+"en": "Oreo Dark Chocolate Creme 35.5 g",
+"price": 1.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7622202313608.webp"
+]
+},
+{
+"sku": "JRN00002003",
+"barcode": "4017100283666",
+"cat": 30,
+"ar": "بالسن بيك اب! بسكويت بالشوكولاتة والحليب 5 × 28 جم",
+"en": "Bahlsen Pick Up! Choco & Milk 5 x 28 g",
+"price": 17.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"4017100283666.webp",
+"4017100283666-1.webp"
+]
+},
+{
+"sku": "JRN00002004",
+"barcode": "4017100406584",
+"cat": 30,
+"ar": "بالسن بيك اب! ميني بالشوكولاتة والحليب 233 جم",
+"en": "Bahlsen Pick Up! Minis Choco & Milk 233 g",
+"price": 37.25,
+"special": 24.21,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"4017100406584.webp",
+"4017100406584-1.webp"
+]
+},
+{
+"sku": "JRN00002005",
+"barcode": "5000396022315",
+"cat": 30,
+"ar": "مكفتيز هوب نوبز بسكويت الشوفان بالشوكولاتة 300 جم",
+"en": "McVitie's Hobnobs Milk Chocolate 300 g",
+"price": 20.95,
+"special": 18.85,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5000396022315.webp"
+]
+},
+{
+"sku": "JRN00002006",
+"barcode": "7622201764517",
+"cat": 30,
+"ar": "أوريو بكريمة الشوكولاتة عبوة عائلية 24 × 36.8 جم",
+"en": "Oreo Chocolate Creme Family Pack 24 x 36.8 g",
+"price": 28.25,
+"special": 22.6,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7622201764517.webp",
+"7622201764517-1.webp"
+]
+},
+{
+"sku": "JRN00002007",
+"barcode": "6281100304685",
+"cat": 30,
+"ar": "هاويك كراكر فل ساندويتش بزبدة الفول السوداني 115 جم",
+"en": "Haweek Cracker Full Sandwich Crackers Peanut Spread 115 g",
+"price": 7.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281100304685.webp",
+"6281100304685-1.webp"
+]
+},
+{
+"sku": "JRN00002008",
+"barcode": "8690526198804",
+"cat": 30,
+"ar": "إيتي هولا بسكويت ساندويش بكريمة الحليب والكاكاو 100 جم",
+"en": "Eti Whola Sandwich Biscuits Milk & Cocoa Cream 100 g",
+"price": 3.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8690526198804.webp"
+]
+},
+{
+"sku": "JRN00002009",
+"barcode": "6281100356967",
+"cat": 30,
+"ar": "أولكر بسكريم بالكراميل 12 × 36 جم",
+"en": "Ulker Biskrem Caramel 12 x 36 g",
+"price": 15.25,
+"special": 12.5,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281100356967.webp"
+]
+},
+{
+"sku": "JRN00002010",
+"barcode": "6291003005961",
+"cat": 30,
+"ar": "تيفاني ديلايتس كوكيز بالزبدة 40 جم",
+"en": "Tiffany Delights Butter Cookies 40 g",
+"price": 1.15,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6291003005961.webp"
+]
+},
+{
+"sku": "JRN00002011",
+"barcode": "8710502100864",
+"cat": 30,
+"ar": "ميربا كوكيز دبل شوكولاتة 200 جم",
+"en": "Merba Double Chocolate Cookies 200 g",
+"price": 23.95,
+"special": 17,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8710502100864.webp"
+]
+},
+{
+"sku": "JRN00002012",
+"barcode": "8710502470011",
+"cat": 30,
+"ar": "ميربا كوكيز نوجاتيلي بكريمة البندق 175 جم",
+"en": "Merba Nougatelli Cookies 175 g",
+"price": 19.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8710502470011.webp"
+]
+},
+{
+"sku": "JRN00002013",
+"barcode": "6291003006678",
+"cat": 30,
+"ar": "تيفاني ديلايتس كوكيز بالزبدة 405 جم",
+"en": "Tiffany Delights Premium Butter Cookies 405 g",
+"price": 18.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6291003006678.webp",
+"6291003006678-1.webp"
+]
+},
+{
+"sku": "JRN00002014",
+"barcode": "8710502007866",
+"cat": 30,
+"ar": "ميربا كوكيز الشوكولاتة الداكنة والبندق 200 جم",
+"en": "Merba Dark Chocolate & Hazelnut Cookies 200 g",
+"price": 23.95,
+"special": 17,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8710502007866.webp",
+"8710502007866-1.webp"
+]
+},
+{
+"sku": "JRN00002015",
+"barcode": "8690526062990",
+"cat": 30,
+"ar": "إيتي هولا كوكيز دايجستيف بالشوفان والفول السوداني والكاكاو 198 جم",
+"en": "Eti Whola Digestive Cookies Oat, Peanut & Cocoa 198 g",
+"price": 9.6,
+"special": 7.68,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8690526062990.webp"
+]
+},
+{
+"sku": "JRN00002016",
+"barcode": "8690526562735",
+"cat": 31,
+"ar": "إيتي بوب كيك مغطى بالكاكاو ومحشو بالموز 35 جم",
+"en": "Eti Popkek Cocoa Coated with Banana 35 g",
+"price": 1.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8690526562735.webp",
+"8690526562735-1.webp"
+]
+}
+]
