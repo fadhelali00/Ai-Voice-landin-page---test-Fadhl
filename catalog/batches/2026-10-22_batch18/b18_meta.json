@@ -1,0 +1,7781 @@
+[
+{
+"sku": "JRN00007600",
+"barcode": "6281020333239",
+"cat": 14,
+"ar": "لونا ذرة حلوة 340 جم",
+"en": "Luna sweet corn 340 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6031",
+"img_src": "ninja",
+"images": [
+"6281020333239.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007601",
+"barcode": "6281020173163",
+"cat": 14,
+"ar": "لونا فول مقشور بالفلفل 450 جم",
+"en": "Luna Foul Peeled With Chili 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6017",
+"img_src": "ninja",
+"images": [
+"6281020173163.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007602",
+"barcode": "032894010308",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فول مدمس سادة 450 جم",
+"en": "California Garden Foul Medammas 450 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5175848",
+"img_src": "ninja",
+"images": [
+"032894010308.webp",
+"032894010308-1.webp",
+"032894010308-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007603",
+"barcode": "6281020325630",
+"cat": 14,
+"ar": "لونا فول بالخلطة المصرية 450 جم",
+"en": "Luna Foul With Egyptian Recipe 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6013",
+"img_src": "ninja",
+"images": [
+"6281020325630.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007604",
+"barcode": "6281063882527",
+"cat": 14,
+"ar": "فرشلي ذره حب سهل الفتح 185 جم",
+"en": "Freshly sweet kernel corn 185 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19319082",
+"img_src": "ninja",
+"images": [
+"6281063882527.webp",
+"6281063882527-1.webp",
+"6281063882527-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007605",
+"barcode": "6281020174368",
+"cat": 14,
+"ar": "لونا فول خلطة سعودية 3 حبة 450 جم",
+"en": "Luna Foul Saudi Recipe 3 pcs 450 g",
+"price": 11.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19294008",
+"img_src": "ninja",
+"images": [
+"6281020174368.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007606",
+"barcode": "6281014305105",
+"cat": 14,
+"ar": "قودي زيتون أسود مقطع شرائح 240 جم",
+"en": "Goody Sliced Black Olive 240 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294035",
+"img_src": "ninja",
+"images": [
+"6281014305105.webp",
+"6281014305105-1.webp",
+"6281014305105-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007607",
+"barcode": "5202118101050",
+"cat": 14,
+"ar": "ايديال زيتون أسود يوناني 125 جم",
+"en": "Ideal Greek Black Olives 125 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1053985",
+"img_src": "ninja",
+"images": [
+"5202118101050.webp",
+"5202118101050-1.webp",
+"5202118101050-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007608",
+"barcode": "032894010940",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فول مدمس بالخلطة السعودية 450 جم",
+"en": "California Garden Fava Beans Saudi Recipe 450 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-196722",
+"img_src": "ninja",
+"images": [
+"032894010940.webp",
+"032894010940-1.webp",
+"032894010940-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007609",
+"barcode": "6281041291112",
+"cat": 14,
+"ar": "مختارات زيتون أخضر شرائح بالشطه 325 جم",
+"en": "Mukhtarat Green Olives Slide with Chili 325 g",
+"price": 20.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19287926",
+"img_src": "ninja",
+"images": [
+"6281041291112.webp",
+"6281041291112-1.webp",
+"6281041291112-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007610",
+"barcode": "032894041111",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فول مدمس بالخلطة المصرية 3 حبة 450 جم",
+"en": "California Garden Egyptian Recipe 3 pcs 450 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-16368813",
+"img_src": "ninja",
+"images": [
+"032894041111.webp",
+"032894041111-1.webp",
+"032894041111-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007611",
+"barcode": "8410522001034",
+"cat": 14,
+"ar": "كوبوليفا زيتون أخضر شرائح 114 جم",
+"en": "Coopoliva Green Olives Slices 114 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-456",
+"img_src": "ninja",
+"images": [
+"8410522001034.webp",
+"8410522001034-1.webp",
+"8410522001034-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007612",
+"barcode": "6210281471558",
+"cat": 14,
+"ar": "الراقي زيتون أسود شرائح 720 جم",
+"en": "AL Raky Olive Sliced Black 720 g",
+"price": 26.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19295103",
+"img_src": "ninja",
+"images": [
+"6210281471558.webp",
+"6210281471558-1.webp",
+"6210281471558-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007613",
+"barcode": "032894016546",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فول مدمس سعودي مقشر 450 جم",
+"en": "California Garden Saudi Fava Peeled 450 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-197769",
+"img_src": "ninja",
+"images": [
+"032894016546.webp",
+"032894016546-1.webp",
+"032894016546-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007614",
+"barcode": "032894041128",
+"cat": 14,
+"ar": "حدائق كالفورنيا فول مدمس خلطة الكشنة السعودي 3 حبات 450 جم",
+"en": "California Garden Saudi Recipe 3 pcs 450 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-16369750",
+"img_src": "ninja",
+"images": [
+"032894041128.webp",
+"032894041128-1.webp",
+"032894041128-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007615",
+"barcode": "6281100681748",
+"cat": 14,
+"ar": "الطائي حمص 540 جم",
+"en": "Altaie Homous 540 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19321684",
+"img_src": "ninja",
+"images": [
+"6281100681748.webp",
+"6281100681748-1.webp",
+"6281100681748-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007616",
+"barcode": "6281014305143",
+"cat": 14,
+"ar": "قودي زيتون أخضر محشي 240 جم",
+"en": "Goody Stuffed Green Olive 240 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294031",
+"img_src": "ninja",
+"images": [
+"6281014305143.webp",
+"6281014305143-1.webp",
+"6281014305143-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007617",
+"barcode": "6210281476706",
+"cat": 14,
+"ar": "الراقي زيتون أسود شرائح 370 جم",
+"en": "AL Raky Olive Sliced Black 370 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19295104",
+"img_src": "ninja",
+"images": [
+"6210281476706.webp",
+"6210281476706-1.webp",
+"6210281476706-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007618",
+"barcode": "6281020174382",
+"cat": 14,
+"ar": "لونا فول خلطة سرية 3 حبة 450 جم",
+"en": "Luna Foul Secret Recipe 3 pcs 450 g",
+"price": 11.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19294009",
+"img_src": "ninja",
+"images": [
+"6281020174382.webp",
+"6281020174382-1.webp",
+"6281020174382-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007619",
+"barcode": "6281014000994",
+"cat": 14,
+"ar": "قودي ذرة ذهبي محلى 150 جم",
+"en": "Goody Corn Golden Kernel 150 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294047",
+"img_src": "ninja",
+"images": [
+"6281014000994.webp",
+"6281014000994-1.webp",
+"6281014000994-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007620",
+"barcode": "032894010889",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فول مدمس مقشور بالخلطة السرية 450 جم",
+"en": "California Garden Peeled Foul Madames Recipe Secret 450 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-194990",
+"img_src": "ninja",
+"images": [
+"032894010889.webp",
+"032894010889-1.webp",
+"032894010889-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007621",
+"barcode": "5202118121058",
+"cat": 14,
+"ar": "ايديال زيتون أسود يوناني 250 جم",
+"en": "Ideal Greek Black Olives 250 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1054119",
+"img_src": "ninja",
+"images": [
+"5202118121058.webp",
+"5202118121058-1.webp",
+"5202118121058-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007622",
+"barcode": "6281020325531",
+"cat": 14,
+"ar": "لونا فول بالخلطة السعودية 450 جم",
+"en": "Luna foul With Saudi Recipe 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6011",
+"img_src": "ninja",
+"images": [
+"6281020325531.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007623",
+"barcode": "684500704875",
+"cat": 14,
+"ar": "حدائق كاليفورنيا حبة ذرة حلوة كاملة 400 جم",
+"en": "California Garden Whole Kernel Sweet Corn 400 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294956",
+"img_src": "ninja",
+"images": [
+"684500704875.webp",
+"684500704875-1.webp",
+"684500704875-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007624",
+"barcode": "032894041135",
+"cat": 14,
+"ar": "حدائق كالفورنيا فول مدمس مقشور بالفلفل الحار 3 حبة 450 جم",
+"en": "California Garden Peeled Med Chili 3 pcs 450 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-16369467",
+"img_src": "ninja",
+"images": [
+"032894041135.webp",
+"032894041135-1.webp",
+"032894041135-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007625",
+"barcode": "6210281101608",
+"cat": 14,
+"ar": "الراقي مخلل خيار 720 جم",
+"en": "AL Raky Cucumber Pickled 720 g",
+"price": 19.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19294976",
+"img_src": "ninja",
+"images": [
+"6210281101608.webp",
+"6210281101608-1.webp",
+"6210281101608-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007626",
+"barcode": "032894041142",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فول مدمس مقشور بالخلطة السرية 3 حبة 450 جم",
+"en": "California Garden Peeled Medammas 3 pcs 450 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-16368371",
+"img_src": "ninja",
+"images": [
+"032894041142.webp",
+"032894041142-1.webp",
+"032894041142-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007627",
+"barcode": "617950701453",
+"cat": 14,
+"ar": "العلالي بنجر شمندر مقطع 400 جم",
+"en": "Alalali Beets Diced 400 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6818346",
+"img_src": "ninja",
+"images": [
+"617950701453.webp",
+"617950701453-1.webp",
+"617950701453-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007628",
+"barcode": "6281014305112",
+"cat": 14,
+"ar": "قودي زيتون أخضر شرائح 240 جم",
+"en": "Goody Sliced Green Olive 240 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294039",
+"img_src": "ninja",
+"images": [
+"6281014305112.webp",
+"6281014305112-1.webp",
+"6281014305112-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007629",
+"barcode": "6281020174405",
+"cat": 14,
+"ar": "لونا فول خلطة مصرية 3 حبة 450 جم",
+"en": "Luna Foul Egypt Recipe 3 pcs 450 g",
+"price": 11.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19294007",
+"img_src": "ninja",
+"images": [
+"6281020174405.webp",
+"6281020174405-1.webp",
+"6281020174405-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007630",
+"barcode": "6281063999638",
+"cat": 14,
+"ar": "فرشلي ذره حب عبوة قيمة 3 حبة 185 جم",
+"en": "Freshly sweet kernel corn Value Pack 3 pcs 185 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19319080",
+"img_src": "ninja",
+"images": [
+"6281063999638.webp",
+"6281063999638-1.webp",
+"6281063999638-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007631",
+"barcode": "032894011152",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فول مدمس سادة مهروس 450 جم",
+"en": "California Garden Fava Beans Mashed Plain 450 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-194835",
+"img_src": "ninja",
+"images": [
+"032894011152.webp",
+"032894011152-1.webp",
+"032894011152-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007632",
+"barcode": "6281014134019",
+"cat": 14,
+"ar": "قودي حبوب ذرة ذهبية كاملة 340 جم",
+"en": "Goody Whole Kernel Golden Corn 340 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-226",
+"img_src": "ninja",
+"images": [
+"6281014134019.webp",
+"6281014134019-1.webp",
+"6281014134019-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007633",
+"barcode": "617950701460",
+"cat": 14,
+"ar": "العلالي ذرة حب حلوة 425 جم",
+"en": "Al Alali Whole Kernel Corn 425 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19288630",
+"img_src": "ninja",
+"images": [
+"617950701460.webp",
+"617950701460-1.webp",
+"617950701460-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007634",
+"barcode": "032894075116",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فول مدمس سادة عرض 4 حبة 450 جم",
+"en": "California Garden Foul Medammas offer 4 pcs 450 g",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5174350",
+"img_src": "ninja",
+"images": [
+"032894075116.webp",
+"032894075116-1.webp",
+"032894075116-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007635",
+"barcode": "032894010896",
+"cat": 14,
+"ar": "حدائق كليفورنيا فول مدمس مقشور بالفلفل الحار 450 جم",
+"en": "California Garden Peeled Fava Beans With Chilli 450 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-195066",
+"img_src": "ninja",
+"images": [
+"032894010896.webp",
+"032894010896-1.webp",
+"032894010896-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007636",
+"barcode": "032894010902",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فول لبناني 450 جم",
+"en": "California Garden Foul Lebanese 450 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-195224",
+"img_src": "ninja",
+"images": [
+"032894010902.webp",
+"032894010902-1.webp",
+"032894010902-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007637",
+"barcode": "032894075468",
+"cat": 14,
+"ar": "حدائق كاليفورنيا قطع تونا خفيفه بزيت الخضار 160 جم",
+"en": "California Garden Light Chunks Tuna in Vegetable Oil 160 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19331199",
+"img_src": "ninja",
+"images": [
+"032894075468.webp",
+"032894075468-1.webp",
+"032894075468-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007638",
+"barcode": "6281014800471",
+"cat": 14,
+"ar": "قودي تندرينا تونا ناعمة 185 جم",
+"en": "Goody Tenderina Soft Tuna 185 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7821",
+"img_src": "ninja",
+"images": [
+"6281014800471.webp",
+"6281014800471-1.webp",
+"6281014800471-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007639",
+"barcode": "6281100680055",
+"cat": 14,
+"ar": "الطائي طماطم مقشر 400 جم",
+"en": "Altaie Peeled Tomatoes 400 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19321686",
+"img_src": "ninja",
+"images": [
+"6281100680055.webp",
+"6281100680055-1.webp",
+"6281100680055-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007640",
+"barcode": "024000308270",
+"cat": 14,
+"ar": "دلمونتي فول مدمس وصفة مصرية 400 جم",
+"en": "Delmonte Foul Mudammas Egyptian Recipe 400 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397455",
+"img_src": "ninja",
+"images": [
+"024000308270.webp",
+"024000308270-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007641",
+"barcode": "6281014300001",
+"cat": 14,
+"ar": "تريفا تونة خفيفة بالزيت 80 جم",
+"en": "Treva Light Meat Tuna In Vegetable Oil 80 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14284940",
+"img_src": "ninja",
+"images": [
+"6281014300001.webp",
+"6281014300001-1.webp",
+"6281014300001-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007642",
+"barcode": "6281020174603",
+"cat": 14,
+"ar": "لونا فول مقشور بالفلفل 3 حبة 450 جم",
+"en": "Luna Peeled Foul With Chili 3 pcs 450 g",
+"price": 11.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19354973",
+"img_src": "ninja",
+"images": [
+"6281020174603.webp",
+"6281020174603-1.webp",
+"6281020174603-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007643",
+"barcode": "6281020172203",
+"cat": 14,
+"ar": "لونا فول بالطحينة 450 جم",
+"en": "Luna Foul With Tahina 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19354975",
+"img_src": "ninja",
+"images": [
+"6281020172203.webp",
+"6281020172203-1.webp",
+"6281020172203-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007644",
+"barcode": "6281014800419",
+"cat": 14,
+"ar": "قودي لحم تونا خفيف بزيت دوار الشمس 90 جم",
+"en": "Goody Tuna Light Meat In Oil 90 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-252",
+"img_src": "ninja",
+"images": [
+"6281014800419.webp",
+"6281014800419-1.webp",
+"6281014800419-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007645",
+"barcode": "6281020010819",
+"cat": 14,
+"ar": "لونا فاصوليا حمراء 380 جم",
+"en": "Luna red kidney beans 380 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6029",
+"img_src": "ninja",
+"images": [
+"6281020010819.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007646",
+"barcode": "6281020333130",
+"cat": 14,
+"ar": "لونا ذرة حبوب 185 جم",
+"en": "Luna Kernel Corn 185 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6033",
+"img_src": "ninja",
+"images": [
+"6281020333130.webp",
+"6281020333130-1.webp",
+"6281020333130-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007647",
+"barcode": "6281020174924",
+"cat": 14,
+"ar": "لونا فول مقشور الخلطة السعودية 450 جم",
+"en": "Luna Foul Peeled With Saudi Recipe 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19385304",
+"img_src": "ninja",
+"images": [
+"6281020174924.webp",
+"6281020174924-1.webp",
+"6281020174924-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007648",
+"barcode": "6281051007420",
+"cat": 14,
+"ar": "داري فاصوليا حمراء 400 جم",
+"en": "Dari Canned Red Beans Kidney 400 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-15557027",
+"img_src": "ninja",
+"images": [
+"6281051007420.webp",
+"6281051007420-1.webp",
+"6281051007420-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007649",
+"barcode": "6281014304290",
+"cat": 14,
+"ar": "قودي ورق عنب محشي سادة 295 جم",
+"en": "Goody Grape Leaves Plain Stuffed 295 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294032",
+"img_src": "ninja",
+"images": [
+"6281014304290.webp",
+"6281014304290-1.webp",
+"6281014304290-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007650",
+"barcode": "6281014300018",
+"cat": 14,
+"ar": "تريفا تونة خفيفة بالزيت 170 جم",
+"en": "Treva Light Meat Tuna In Vegetable Oil 170 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14284862",
+"img_src": "ninja",
+"images": [
+"6281014300018.webp",
+"6281014300018-1.webp",
+"6281014300018-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007651",
+"barcode": "6281014620208",
+"cat": 14,
+"ar": "قودي تندرينا تونا ناعمة في زيت دوار الشمس 80 جم",
+"en": "Goody Tenderina Soft Tuna In Sunflower Oil 80 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-8181",
+"img_src": "ninja",
+"images": [
+"6281014620208.webp",
+"6281014620208-1.webp",
+"6281014620208-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007652",
+"barcode": "6281014800426",
+"cat": 14,
+"ar": "قودي لحم تونا خفيف بزيت دوار الشمس 185 جم",
+"en": "Goody Tuna Light Meat In Oil 185 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-257",
+"img_src": "ninja",
+"images": [
+"6281014800426.webp",
+"6281014800426-1.webp",
+"6281014800426-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007653",
+"barcode": "6281063881551",
+"cat": 14,
+"ar": "فرشلي شرائح فلفل جلابينو اخضر 510 جم",
+"en": "Freshly Nacho Sliced Jalapeno Green 510 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19330462",
+"img_src": "ninja",
+"images": [
+"6281063881551.webp",
+"6281063881551-1.webp",
+"6281063881551-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007654",
+"barcode": "032894010278",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فاصوليا حمراء غامقة 400 جم",
+"en": "California Garden Red Kidney Beans Dark 400 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-197285",
+"img_src": "ninja",
+"images": [
+"032894010278.webp",
+"032894010278-1.webp",
+"032894010278-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007655",
+"barcode": "4902931110673",
+"cat": 14,
+"ar": "بوتان لحم تونا خفيف مع زيت زيتون 90 جم",
+"en": "Botan Tuna Light Meat In Olive Oil 90 g",
+"price": 6.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1052905",
+"img_src": "ninja",
+"images": [
+"4902931110673.webp",
+"4902931110673-1.webp",
+"4902931110673-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007656",
+"barcode": "6281014302333",
+"cat": 14,
+"ar": "قودي تونة تندرينا بالليمون والفلفل 80 جم",
+"en": "Goodytuna Tndrna Lemon & Pepper 80 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381053",
+"img_src": "ninja",
+"images": [
+"6281014302333.webp",
+"6281014302333-1.webp",
+"6281014302333-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007657",
+"barcode": "6281041292317",
+"cat": 14,
+"ar": "مختارات زيتون أخضر شرائح في محلول ملحي 240 جم",
+"en": "Mukhtarat Sliced Green Olives In Brine 240 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19357741",
+"img_src": "ninja",
+"images": [
+"6281041292317.webp",
+"6281041292317-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007658",
+"barcode": "6281063100140",
+"cat": 14,
+"ar": "بيب حمص 370 جم",
+"en": "Peep Chick Peas 370 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19344319",
+"img_src": "ninja",
+"images": [
+"6281063100140.webp",
+"6281063100140-1.webp",
+"6281063100140-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007659",
+"barcode": "617950144953",
+"cat": 14,
+"ar": "العلالي لحم تونا فاخر كبيرة 170 جم",
+"en": "Alalali Fancy Meat Tuna Large 170 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6821606",
+"img_src": "ninja",
+"images": [
+"617950144953.webp",
+"617950144953-1.webp",
+"617950144953-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007660",
+"barcode": "4902931110598",
+"cat": 14,
+"ar": "بوتان لحم تونا خفيف 185 جم",
+"en": "Botan Tuna Light Meat 185 g",
+"price": 9.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1051123",
+"img_src": "ninja",
+"images": [
+"4902931110598.webp",
+"4902931110598-1.webp",
+"4902931110598-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007661",
+"barcode": "6281091004953",
+"cat": 14,
+"ar": "تاندي مخلل خيار صغير 680 جم",
+"en": "Tandy Small Cucumber pickle 680 g",
+"price": 16.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19349960",
+"img_src": "ninja",
+"images": [
+"6281091004953.webp",
+"6281091004953-1.webp",
+"6281091004953-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007662",
+"barcode": "6281041292416",
+"cat": 14,
+"ar": "مختارات زيتون أخضر شرائح بالشطة في محلول ملحي 240 جم",
+"en": "Mukhtarat Sliced Green Olives With Chili In Brine 240 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19357747",
+"img_src": "ninja",
+"images": [
+"6281041292416.webp",
+"6281041292416-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007663",
+"barcode": "6281091002492",
+"cat": 14,
+"ar": "الكرسي الذهبي محشي ورق عنب محشي 400 جم",
+"en": "Golden Chair Grape Leaves Stuffed Can 400 g",
+"price": 13.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19373822",
+"img_src": "ninja",
+"images": [
+"6281091002492.webp",
+"6281091002492-1.webp",
+"6281091002492-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007664",
+"barcode": "8004030026018",
+"cat": 14,
+"ar": "ريو ماري سلطة الخضار مع التونة الخلطة المكسيكية 160 جم",
+"en": "Rio Mare Tuna With Vegetables Salad And Mexico 160 g",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4176287",
+"img_src": "ninja",
+"images": [
+"8004030026018.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007665",
+"barcode": "6281055704615",
+"cat": 14,
+"ar": "هناء لحم تونا خفيف 95 جم",
+"en": "Hanaa Light Meat Tuna 95 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4808791",
+"img_src": "ninja",
+"images": [
+"6281055704615.webp",
+"6281055704615-1.webp",
+"6281055704615-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007666",
+"barcode": "6281014303941",
+"cat": 14,
+"ar": "قودي تونة تندرينا بالهالبينو الحار 80 جم",
+"en": "Goody Tuna Tenderina Jalapeno 80 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381070",
+"img_src": "ninja",
+"images": [
+"6281014303941.webp",
+"6281014303941-1.webp",
+"6281014303941-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007667",
+"barcode": "6281100038085",
+"cat": 14,
+"ar": "رنا مخلل مشكل 660 جم",
+"en": "Rana Mix Pickle 660 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290269",
+"img_src": "ninja",
+"images": [
+"6281100038085.webp",
+"6281100038085-1.webp",
+"6281100038085-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007668",
+"barcode": "4902931110581",
+"cat": 14,
+"ar": "بوتان لحم تونا خفيف 90 جم",
+"en": "Botan Tuna Light Meat 90 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1051587",
+"img_src": "ninja",
+"images": [
+"4902931110581.webp",
+"4902931110581-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007669",
+"barcode": "736211763839",
+"cat": 14,
+"ar": "دلمونتي تونة بيضاء بزيت دوار الشمس 185 جم",
+"en": "Delmonte White Tuna in Sun Flower Oil 185 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397471",
+"img_src": "ninja",
+"images": [
+"736211763839.webp",
+"736211763839-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007670",
+"barcode": "736211763631",
+"cat": 14,
+"ar": "دلمونتي لايت تونة صلبة بزيت دوار الشمس 185 جم",
+"en": "Delmonte Light Tuna Solid in Sun Flower Oil 185 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397469",
+"img_src": "ninja",
+"images": [
+"736211763631.webp",
+"736211763631-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007671",
+"barcode": "6281101491421",
+"cat": 14,
+"ar": "الخير تونا تيرنا كلاسيك دوار الشمس 80 جم",
+"en": "Al khair Tuna Tierna sunflower classic 80 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327757",
+"img_src": "ninja",
+"images": [
+"6281101491421.webp",
+"6281101491421-1.webp",
+"6281101491421-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007672",
+"barcode": "8004030383531",
+"cat": 14,
+"ar": "ريوماري تونه بزيت الزيتون 4 حبه × 80 جم",
+"en": "Rio Mare Tuna Olive Oil 4 pcs × 80 g",
+"price": 44.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294274",
+"img_src": "ninja",
+"images": [
+"8004030383531.webp",
+"8004030383531-1.webp",
+"8004030383531-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007673",
+"barcode": "032894010339",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فاصوليا مطبوخة بصلصة الطماطم 420 جم",
+"en": "California Garden Baked Beans in Tomato Sauce 420 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-197560",
+"img_src": "ninja",
+"images": [
+"032894010339.webp",
+"032894010339-1.webp",
+"032894010339-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007674",
+"barcode": "6281020010710",
+"cat": 14,
+"ar": "لونا فاصوليا بالطماطم 380 جم",
+"en": "Luna Baked Beans With Tomato 380 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6025",
+"img_src": "ninja",
+"images": [
+"6281020010710.webp",
+"6281020010710-1.webp",
+"6281020010710-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007675",
+"barcode": "6281014622134",
+"cat": 14,
+"ar": "قودي تونا بالفلفل الحار 185 جم",
+"en": "Goody Light Meat Tuna With Chili 185 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-254",
+"img_src": "ninja",
+"images": [
+"6281014622134.webp",
+"6281014622134-1.webp",
+"6281014622134-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007676",
+"barcode": "6281014304252",
+"cat": 14,
+"ar": "قودي فطر مقطع شرائح 200 جم",
+"en": "Goody Mushrooms Pieces & Stems 200 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294041",
+"img_src": "ninja",
+"images": [
+"6281014304252.webp",
+"6281014304252-1.webp",
+"6281014304252-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007677",
+"barcode": "024000003649",
+"cat": 14,
+"ar": "دلمونتي شرائح أناناس في شراب 234 جم",
+"en": "Delmonte Pineapple Slices in Syrup 234 g",
+"price": 6.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397461",
+"img_src": "ninja",
+"images": [
+"024000003649.webp",
+"024000003649-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007678",
+"barcode": "5285001154029",
+"cat": 14,
+"ar": "ألوها تونا خفيفه بالزيت 100 جم",
+"en": "Aloha Light Meat Tuna In Oil 100 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-617093",
+"img_src": "ninja",
+"images": [
+"5285001154029.webp",
+"5285001154029-1.webp",
+"5285001154029-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007679",
+"barcode": "8852707102011",
+"cat": 14,
+"ar": "جيشا تونا لحم خفيف 90 جم",
+"en": "Geisha Tuna Light Meat Tuna 90 g",
+"price": 6.95,
+"special": 5.95,
+"src": "ninja",
+"ninja_id": "5-7858",
+"img_src": "ninja",
+"images": [
+"8852707102011.webp",
+"8852707102011-1.webp",
+"8852707102011-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007680",
+"barcode": "6281020040700",
+"cat": 14,
+"ar": "جرين فارمز لحم تونا خفيف 185 جم",
+"en": "Green Farms Light Meat Tuna 185 g",
+"price": 9.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287025",
+"img_src": "ninja",
+"images": [
+"6281020040700.webp",
+"6281020040700-1.webp",
+"6281020040700-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007681",
+"barcode": "6281014630108",
+"cat": 14,
+"ar": "قودي فطر مقطع شرائح 400 جم",
+"en": "Goody Mushrooms Pieces And Stems 400 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-222",
+"img_src": "ninja",
+"images": [
+"6281014630108.webp",
+"6281014630108-1.webp",
+"6281014630108-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007682",
+"barcode": "6281015002195",
+"cat": 14,
+"ar": "ريو ماري سلطة الخضار مع التونة بخلطة الذره 2 حبة * 160 جم +20% خصم",
+"en": "Rio Mare Tuna With Vegetables Salad And Corn 2 pcs 160 g + 20% off",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4125169",
+"img_src": "ninja",
+"images": [
+"6281015002195.webp",
+"6281015002195-1.webp",
+"6281015002195-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007683",
+"barcode": "6281039711011",
+"cat": 14,
+"ar": "السعودية حمص سادة 215 جم",
+"en": "Saudia Hummus Dip Plain 215 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294434",
+"img_src": "ninja",
+"images": [
+"6281039711011.webp",
+"6281039711011-1.webp",
+"6281039711011-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007684",
+"barcode": "6281039711110",
+"cat": 14,
+"ar": "السعودية حمص بالفلفل 215 جم",
+"en": "Saudia Hummus Dip Chili 215 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294435",
+"img_src": "ninja",
+"images": [
+"6281039711110.webp",
+"6281039711110-1.webp",
+"6281039711110-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007685",
+"barcode": "6281014301886",
+"cat": 14,
+"ar": "تريفا ورق عنب 960 جم",
+"en": "Treva Grape Leaves 960 g",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14282515",
+"img_src": "ninja",
+"images": [
+"6281014301886.webp",
+"6281014301886-1.webp",
+"6281014301886-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007686",
+"barcode": "8004030102033",
+"cat": 14,
+"ar": "ريو ماري تونه في زيت الزيتون مع عصير الليمون و الفلفل الاسود 3 حبه 65 جم",
+"en": "Rio Mare Tuna In Olive Oil With Lemon Juice And Black Pepper 3 pcs 65 g",
+"price": 37.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19343977",
+"img_src": "ninja",
+"images": [
+"8004030102033.webp",
+"8004030102033-1.webp",
+"8004030102033-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007687",
+"barcode": "6281063632108",
+"cat": 14,
+"ar": "فرشلي أناناس المقطعة المختارة 565 جم",
+"en": "Freshly Chopped Pineapple 565 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-736",
+"img_src": "ninja",
+"images": [
+"6281063632108.webp",
+"6281063632108-1.webp",
+"6281063632108-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007688",
+"barcode": "6281100681199",
+"cat": 14,
+"ar": "الطائي بازيلاء خضراء 400 جم",
+"en": "Altaie Green Peas 400 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392748",
+"img_src": "ninja",
+"images": [
+"6281100681199.webp",
+"6281100681199-1.webp",
+"6281100681199-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007689",
+"barcode": "024000130116",
+"cat": 14,
+"ar": "دلمونتي فاصوليا بيضاء 400 جم",
+"en": "Delmonte White Beans 400 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397451",
+"img_src": "ninja",
+"images": [
+"024000130116.webp",
+"024000130116-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007690",
+"barcode": "6281014131001",
+"cat": 14,
+"ar": "قودي فاصوليا حمراء 425 جم",
+"en": "Goody Red Kidney Beans 425 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-238",
+"img_src": "ninja",
+"images": [
+"6281014131001.webp",
+"6281014131001-1.webp",
+"6281014131001-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007691",
+"barcode": "6947753700020",
+"cat": 14,
+"ar": "السوسن ورق عنب محشي بالأرز 400 جم",
+"en": "Al Sawsan Stuffed Vine Leaves 400 g",
+"price": 13.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19381337",
+"img_src": "ninja",
+"images": [
+"6947753700020.webp",
+"6947753700020-1.webp",
+"6947753700020-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007692",
+"barcode": "6210281041799",
+"cat": 14,
+"ar": "الراقي مكدوس باذنجان بالخلطة الشامية الاصلية 650 جم",
+"en": "Al Raky Stuffed Eggplant in Oil Makdus 650 g",
+"price": 39.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-19307205",
+"img_src": "ninja",
+"images": [
+"6210281041799.webp",
+"6210281041799-1.webp",
+"6210281041799-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007693",
+"barcode": "6281063882435",
+"cat": 14,
+"ar": "فرشلي ورق عنب محشي 280 جم",
+"en": "Freshly Stuffed Grape Leaves 280 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-759",
+"img_src": "ninja",
+"images": [
+"6281063882435.webp",
+"6281063882435-1.webp",
+"6281063882435-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007694",
+"barcode": "6281100681366",
+"cat": 14,
+"ar": "الطائي فول مدمس حبة درجة أولي 400 جم",
+"en": "Altaie Foul Medames Premium Fava Beans 400 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392750",
+"img_src": "ninja",
+"images": [
+"6281100681366.webp",
+"6281100681366-1.webp",
+"6281100681366-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007695",
+"barcode": "6281014301862",
+"cat": 14,
+"ar": "قودي ورق عنب 960 جم",
+"en": "Goody Grape Leaves 960 g",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-249",
+"img_src": "ninja",
+"images": [
+"6281014301862.webp",
+"6281014301862-1.webp",
+"6281014301862-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007696",
+"barcode": "5285001070596",
+"cat": 14,
+"ar": "اسناد لحم تونة خفيف بالزيت الخفيف 165 جم",
+"en": "Esnad Tuna Regular In Vegetable Oil 165 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369408",
+"img_src": "ninja",
+"images": [
+"5285001070596.webp",
+"5285001070596-1.webp",
+"5285001070596-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007697",
+"barcode": "024000130123",
+"cat": 14,
+"ar": "دلمونتي فول مدمس 400 جم",
+"en": "Delmonte Foul Mudammas 400 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397449",
+"img_src": "ninja",
+"images": [
+"024000130123.webp",
+"024000130123-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007698",
+"barcode": "024000024675",
+"cat": 14,
+"ar": "دلمونتي كوكتيل فواكه في شراب 420 جم",
+"en": "Delmonte Fruit Cocktail in Syrup 420 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397457",
+"img_src": "ninja",
+"images": [
+"024000024675.webp",
+"024000024675-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007699",
+"barcode": "8852707110733",
+"cat": 14,
+"ar": "جيشا تونة بالفلفل الحار 170 جم",
+"en": "Geisha Tuna With Chili 170 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19422272",
+"img_src": "ninja",
+"images": [
+"8852707110733.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007700",
+"barcode": "8004030100817",
+"cat": 14,
+"ar": "ريو ماري تونه بزيت الزيتون 6 حبه 80 جم + 20% خصم",
+"en": "Rio Mare Tuna With Olive Oil 6 pcs 80 g + 20% Off",
+"price": 49.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4120164",
+"img_src": "ninja",
+"images": [
+"8004030100817.webp",
+"8004030100817-1.webp",
+"8004030100817-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007701",
+"barcode": "709993301025",
+"cat": 14,
+"ar": "أرض الطبيعة طماطم مهروسة عضوي 690 جم",
+"en": "Natureland Pureed Tomatoes Organic 690 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7895",
+"img_src": "ninja",
+"images": [
+"709993301025.webp",
+"709993301025-1.webp",
+"709993301025-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007702",
+"barcode": "6281100680956",
+"cat": 14,
+"ar": "الطائي لحم تونة خفيف في زيت دوار الشمس 90 جم",
+"en": "Altaie Light Tuna Meat In Sunflower Oil 90 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19335465",
+"img_src": "ninja",
+"images": [
+"6281100680956.webp",
+"6281100680956-1.webp",
+"6281100680956-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007703",
+"barcode": "6281051007383",
+"cat": 14,
+"ar": "داري فاصوليا بالطماطم 400 جم",
+"en": "Dari Canned Baked Beans Tomato Sauce 400 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-15557348",
+"img_src": "ninja",
+"images": [
+"6281051007383.webp",
+"6281051007383-1.webp",
+"6281051007383-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007704",
+"barcode": "6281020010918",
+"cat": 14,
+"ar": "لونا بازلاء خضراء 284 جم",
+"en": "Luna Green Peas 284 g",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6021",
+"img_src": "ninja",
+"images": [
+"6281020010918.webp",
+"6281020010918-1.webp",
+"6281020010918-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007705",
+"barcode": "617950143956",
+"cat": 14,
+"ar": "العلالي لحم تونا فاخر صغير 85 جم",
+"en": "Alalali Fancy Meat Tuna Small 85 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6821382",
+"img_src": "ninja",
+"images": [
+"617950143956.webp",
+"617950143956-1.webp",
+"617950143956-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007706",
+"barcode": "6281063632115",
+"cat": 14,
+"ar": "فريشلي شرائح أناناس طازجة مع شراب خفيف 565 جم",
+"en": "Freshly Sliced Pineapple In Light Syrup 565 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1237934",
+"img_src": "ninja",
+"images": [
+"6281063632115.webp",
+"6281063632115-1.webp",
+"6281063632115-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007707",
+"barcode": "6281020010215",
+"cat": 14,
+"ar": "لونا فول مدمس 450 جم",
+"en": "Luna Foul Medames 450 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19354971",
+"img_src": "ninja",
+"images": [
+"6281020010215.webp",
+"6281020010215-1.webp",
+"6281020010215-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007708",
+"barcode": "617950156031",
+"cat": 11,
+"ar": "العلالي فانيليا بودرة مجموعة 6 حبة 20/ 15 جم",
+"en": "Alalali Vanilla Powder Pack 6 pcs 20/15 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6921177",
+"img_src": "ninja",
+"images": [
+"617950156031.webp",
+"617950156031-1.webp",
+"617950156031-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007709",
+"barcode": "6281100200437",
+"cat": 9,
+"ar": "الوليمة أرز مزة بسمتي هندي 10 كجم",
+"en": "AlWalimah Indian Muzza Sella Basmati Rice 10 kg",
+"price": 99.95,
+"special": 88.95,
+"src": "ninja",
+"ninja_id": "5-19289214",
+"img_src": "ninja",
+"images": [
+"6281100200437.webp",
+"6281100200437-1.webp",
+"6281100200437-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007710",
+"barcode": "6281011411083",
+"cat": 11,
+"ar": "الأسرة سكر ناعم 5 كجم",
+"en": "Alosra Fine Sugar 5 kg",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10230620",
+"img_src": "ninja",
+"images": [
+"6281011411083.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007711",
+"barcode": "617950366355",
+"cat": 11,
+"ar": "العلالي كريم كراميل مجموعة 6 حبات 70 جم",
+"en": "Alalali Cream Caramel Pack 6 pcs 70 g",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6877460",
+"img_src": "ninja",
+"images": [
+"617950366355.webp",
+"617950366355-1.webp",
+"617950366355-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007712",
+"barcode": "6281011411021",
+"cat": 11,
+"ar": "الأسرة سكر أبيض ناعم 10 كجم",
+"en": "Alosra Sugar Fine White 10 kg",
+"price": 45.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4475647",
+"img_src": "ninja",
+"images": [
+"6281011411021.webp",
+"6281011411021-1.webp",
+"6281011411021-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007713",
+"barcode": "3280316007826",
+"cat": 106,
+"ar": "دو دجاج مجمد فرنسي 10 حبات 1000 جم",
+"en": "Doux Whole Chicken 10 pcs 1000 g",
+"price": 201.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-15547705",
+"img_src": "ninja",
+"images": [
+"3280316007826.webp",
+"3280316007826-1.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007714",
+"barcode": "17893000075730",
+"cat": 106,
+"ar": "ساديا دجاجة كاملة مجمدة 10 حبات 1100 جم",
+"en": "Sadia Whole Frozen Chicken 10 pcs 1100 g",
+"price": 198.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14378673",
+"img_src": "ninja",
+"images": [
+"17893000075730.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007715",
+"barcode": "6281020022409",
+"cat": 9,
+"ar": "أرز المها بنجابي هندى بسمتي 10 كجم",
+"en": "Almaha Punjabi Indian Basmati Rice 10 kg",
+"price": 113.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19416294",
+"img_src": "ninja",
+"images": [
+"6281020022409.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007716",
+"barcode": "6287019730249",
+"cat": 11,
+"ar": "البيت سكر ابيض ناعم 10 كجم",
+"en": "Albayt White Fine Sugar 10 kg",
+"price": 43.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369851",
+"img_src": "ninja",
+"images": [
+"6287019730249.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007717",
+"barcode": "8904498500528",
+"cat": 9,
+"ar": "بن منقاش أرز بسمتي عنبر ابيض فاخر 10 كجم",
+"en": "Bin minqash premium basmati rice 10 kg",
+"price": 79.95,
+"special": 57.95,
+"src": "ninja",
+"ninja_id": "5-19401169",
+"img_src": "ninja",
+"images": [
+"8904498500528.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007718",
+"barcode": "6281011421075",
+"cat": 11,
+"ar": "الأسرة سكر خشن 5 كجم",
+"en": "Alosra Sugar Coarse 5 kg",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4479125",
+"img_src": "ninja",
+"images": [
+"6281011421075.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007719",
+"barcode": "6281100680314",
+"cat": 9,
+"ar": "السفير أرز مزة 10 كجم",
+"en": "Alsafeer Sela Basmati Rice 10 kg",
+"price": 92.95,
+"special": 79.95,
+"src": "ninja",
+"ninja_id": "5-19321688",
+"img_src": "ninja",
+"images": [
+"6281100680314.webp",
+"6281100680314-1.webp",
+"6281100680314-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007720",
+"barcode": "7891515465520",
+"cat": 106,
+"ar": "ساديا صدور دجاج مجمدة أنصاف 450 جم",
+"en": "Sadia Chicken Breast Halfs 450 g",
+"price": 16.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-1735",
+"img_src": "ninja",
+"images": [
+"7891515465520.webp",
+"7891515465520-1.webp",
+"7891515465520-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007721",
+"barcode": "6281073150906",
+"cat": 15,
+"ar": "السنبلة بامية زيرو 400 جم",
+"en": "Sunbulah Okra Fine Zero 400 g",
+"price": 10.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-872",
+"img_src": "ninja",
+"images": [
+"6281073150906.webp",
+"6281073150906-1.webp",
+"6281073150906-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007722",
+"barcode": "6281073150869",
+"cat": 15,
+"ar": "السنبلة ملوخية مجمدة 400 جم",
+"en": "Sunbulah Molokhia Frozen 400 g",
+"price": 6.95,
+"special": 5.95,
+"src": "ninja",
+"ninja_id": "5-1174876",
+"img_src": "ninja",
+"images": [
+"6281073150869.webp",
+"6281073150869-1.webp",
+"6281073150869-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007723",
+"barcode": "6281073150067",
+"cat": 15,
+"ar": "السنبلة بازلاء خضراء مجمدة 400 جم",
+"en": "Sunbulah Garden Peas Frozen 400 g",
+"price": 8.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-869",
+"img_src": "ninja",
+"images": [
+"6281073150067.webp",
+"6281073150067-1.webp",
+"6281073150067-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007724",
+"barcode": "6281073132032",
+"cat": 15,
+"ar": "السنبلة دجاج ستربس 750 جم",
+"en": "Sunbulah Chicken Strips 750 g",
+"price": 35.5,
+"special": 23.31,
+"src": "ninja",
+"ninja_id": "5-19389880",
+"img_src": "ninja",
+"images": [
+"6281073132032.webp",
+"6281073132032-1.webp",
+"6281073132032-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007725",
+"barcode": "5033712451506",
+"cat": 15,
+"ar": "الكبير سمبوسة جبن الكيري مع الهالبينو 240 جم",
+"en": "Al kabeer Sambosa Kiri Cheese And Jalapeno 240 g",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398038",
+"img_src": "ninja",
+"images": [
+"5033712451506.webp",
+"5033712451506-1.webp",
+"5033712451506-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007726",
+"barcode": "6281051006843",
+"cat": 106,
+"ar": "داري صدور دجاج طريه 1 كجم",
+"en": "Dari Chicken Breast Tenderized 1 kg",
+"price": 29.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-15543224",
+"img_src": "ninja",
+"images": [
+"6281051006843.webp",
+"6281051006843-1.webp",
+"6281051006843-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007727",
+"barcode": "6287017970029",
+"cat": 15,
+"ar": "سولو عجينة سمبوسة بر 24 قطعة 360 جم",
+"en": "Solo Sambosa Dough Bur 24 pcs 360 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-876",
+"img_src": "ninja",
+"images": [
+"6287017970029.webp",
+"6287017970029-1.webp",
+"6287017970029-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007728",
+"barcode": "4001724029908",
+"cat": 15,
+"ar": "د. أوتكر بيتزا مارغريتا مجمدة 295 جم",
+"en": "Dr. Oetker Pizza Margherita Frozen 295 g",
+"price": 28.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1779",
+"img_src": "ninja",
+"images": [
+"4001724029908.webp",
+"4001724029908-1.webp",
+"4001724029908-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007729",
+"barcode": "6222000400459",
+"cat": 15,
+"ar": "مونتانا ملوخية مجمدة 400 جم",
+"en": "Montana Molokhia Frozen 400 g",
+"price": 6.25,
+"special": 5.35,
+"src": "ninja",
+"ninja_id": "5-437",
+"img_src": "ninja",
+"images": [
+"6222000400459.webp",
+"6222000400459-1.webp",
+"6222000400459-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007730",
+"barcode": "6281073151088",
+"cat": 15,
+"ar": "السنبلة بازلاء وجزر مجمدة 400 جم",
+"en": "Sunbulah Peas & Carrots Frozen 400 g",
+"price": 9.25,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-1174969",
+"img_src": "ninja",
+"images": [
+"6281073151088.webp",
+"6281073151088-1.webp",
+"6281073151088-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007731",
+"barcode": "6281073111860",
+"cat": 15,
+"ar": "السنبلة براتا بالبصل 400 جم",
+"en": "Sunbulah Paratha Onion 400 g",
+"price": 8.95,
+"special": 5.95,
+"src": "ninja",
+"ninja_id": "5-1173220",
+"img_src": "ninja",
+"images": [
+"6281073111860.webp",
+"6281073111860-1.webp",
+"6281073111860-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007732",
+"barcode": "6281073110900",
+"cat": 15,
+"ar": "السنبلة عجينة سبرنج رول 160 جم",
+"en": "Sunbulah Spring Roll Pastry 160 g",
+"price": 6.25,
+"special": 5.95,
+"src": "ninja",
+"ninja_id": "5-852",
+"img_src": "ninja",
+"images": [
+"6281073110900.webp",
+"6281073110900-1.webp",
+"6281073110900-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007733",
+"barcode": "6281073150180",
+"cat": 15,
+"ar": "السنبلة خضراوات مشكلة مجمدة 400 جم",
+"en": "Sunbulah Mixed Vegetable Frozen 400 g",
+"price": 8.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-871",
+"img_src": "ninja",
+"images": [
+"6281073150180.webp",
+"6281073150180-1.webp",
+"6281073150180-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007734",
+"barcode": "6281073110108",
+"cat": 15,
+"ar": "السنبلة عجينة بف باستري 400 جم",
+"en": "Sunbulah Puff Pastry Square 400 g",
+"price": 10.75,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-853",
+"img_src": "ninja",
+"images": [
+"6281073110108.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007735",
+"barcode": "6281073110467",
+"cat": 15,
+"ar": "السنبلة عجينة الكنافة 500 جم",
+"en": "Sunbulah Konafah Dough 500 g",
+"price": 12.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-881",
+"img_src": "ninja",
+"images": [
+"6281073110467.webp",
+"6281073110467-1.webp",
+"6281073110467-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007736",
+"barcode": "6281050114860",
+"cat": 15,
+"ar": "امريكانا ناجت دجاج 750 جم",
+"en": "Americana Chicken Nuggets 750 g",
+"price": 30.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-4271",
+"img_src": "ninja",
+"images": [
+"6281050114860.webp",
+"6281050114860-1.webp",
+"6281050114860-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007737",
+"barcode": "6281050114105",
+"cat": 15,
+"ar": "امريكانا ناجت الدجاج المرحة 400 جم",
+"en": "Americana Happy Chicken Nuggets 400 g",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291380",
+"img_src": "ninja",
+"images": [
+"6281050114105.webp",
+"6281050114105-1.webp",
+"6281050114105-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007738",
+"barcode": "6281050114938",
+"cat": 15,
+"ar": "امريكانا ستربس دجاج حار 750 جم",
+"en": "Americana Chicken Strips Hot 750 g",
+"price": 36.95,
+"special": 21.95,
+"src": "ninja",
+"ninja_id": "5-4187",
+"img_src": "ninja",
+"images": [
+"6281050114938.webp",
+"6281050114938-1.webp",
+"6281050114938-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007739",
+"barcode": "6281102685157",
+"cat": 15,
+"ar": "هرفي ناجت دجاج بالبقسماط 350 جم",
+"en": "Herfy Chicken Nuggets Breaded 350 g",
+"price": 18.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-17179305",
+"img_src": "ninja",
+"images": [
+"6281102685157.webp",
+"6281102685157-1.webp",
+"6281102685157-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007740",
+"barcode": "5033712451803",
+"cat": 15,
+"ar": "الكبير أصابع جبنة الموزاريلا 250 جم",
+"en": "Al Kabeer Mozzarella Cheese Sticks 250 g",
+"price": 27.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355076",
+"img_src": "ninja",
+"images": [
+"5033712451803.webp",
+"5033712451803-1.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007741",
+"barcode": "6281051099951",
+"cat": 106,
+"ar": "صدور دجاج طريه دو 1 كجم",
+"en": "Doux Chicken Breast Tenderized Doux 1 kg",
+"price": 29.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19290977",
+"img_src": "ninja",
+"images": [
+"6281051099951.webp",
+"6281051099951-1.webp",
+"6281051099951-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007742",
+"barcode": "6281073130588",
+"cat": 15,
+"ar": "السنبلة ناجت دجاج 400 جم",
+"en": "Sunbulah Chicken Nuggets 400 g",
+"price": 18.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-864",
+"img_src": "ninja",
+"images": [
+"6281073130588.webp",
+"6281073130588-1.webp",
+"6281073130588-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007743",
+"barcode": "6222000401449",
+"cat": 15,
+"ar": "مونتانا سبانخ مجمدة 400 جم",
+"en": "Montana Spinach Frozen 400 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-439",
+"img_src": "ninja",
+"images": [
+"6222000401449.webp",
+"6222000401449-1.webp",
+"6222000401449-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007744",
+"barcode": "4001724030300",
+"cat": 15,
+"ar": "د.أوتكر رستورانتي بيكولا مارغريتا بيتزا مجمدة علبة 270 جم",
+"en": "Dr.Oetker Ristorante Piccola Pizza Frozen Margherita Pack 270 g",
+"price": 27.95,
+"special": 21.49,
+"src": "ninja",
+"ninja_id": "5-19363245",
+"img_src": "ninja",
+"images": [
+"4001724030300.webp",
+"4001724030300-1.webp",
+"4001724030300-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007745",
+"barcode": "6287053560239",
+"cat": 15,
+"ar": "سنيورة ستربس الدجاج حار 750 جم",
+"en": "Siniora Frozen Chicken Strips Spicy 750 g",
+"price": 42.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19417316",
+"img_src": "ninja",
+"images": [
+"6287053560239.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007746",
+"barcode": "6253005380200",
+"cat": 106,
+"ar": "سنيورة لحم بقري مفروم 400 جم",
+"en": "Siniora Frozen Minced Beef Casing 400 g",
+"price": 12.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-19417336",
+"img_src": "ninja",
+"images": [
+"6253005380200.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007747",
+"barcode": "8710438040227",
+"cat": 15,
+"ar": "ماكين بطاطس تراديشن 750 جم",
+"en": "McCain Tradition Fries 750 g",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395440",
+"img_src": "ninja",
+"images": [
+"8710438040227.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007748",
+"barcode": "7894904256358",
+"cat": 15,
+"ar": "سيارا ناجت الدجاج 750 جم",
+"en": "Seara Chicken Nuggets 750 g",
+"price": 30.95,
+"special": 21.95,
+"src": "ninja",
+"ninja_id": "5-19290954",
+"img_src": "ninja",
+"images": [
+"7894904256358.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007749",
+"barcode": "7894904256396",
+"cat": 15,
+"ar": "سيارا ستريبس الدجاج 750 جم",
+"en": "Seara Chicken Strips 750 g",
+"price": 39.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290957",
+"img_src": "ninja",
+"images": [
+"7894904256396.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007750",
+"barcode": "6281051099975",
+"cat": 106,
+"ar": "صدور دجاج طريه دو 2 كجم",
+"en": "Doux Chicken Breast Tenderized Doux 2 kg",
+"price": 56.95,
+"special": 44.95,
+"src": "ninja",
+"ninja_id": "5-19290976",
+"img_src": "ninja",
+"images": [
+"6281051099975.webp",
+"6281051099975-1.webp",
+"6281051099975-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007751",
+"barcode": "6281050117021",
+"cat": 106,
+"ar": "امريكانا هوت دوج بقري 450 جم",
+"en": "Americana Beef Hot Dog 450 g",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291374",
+"img_src": "ninja",
+"images": [
+"6281050117021.webp",
+"6281050117021-1.webp",
+"6281050117021-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007752",
+"barcode": "8711571020329",
+"cat": 15,
+"ar": "لامب وستون بطاطس مجمدة تويستر 750 جم",
+"en": "Lambweston Potato Twisters Frozen 750 g",
+"price": 18.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-442",
+"img_src": "ninja",
+"images": [
+"8711571020329.webp",
+"8711571020329-1.webp",
+"8711571020329-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007753",
+"barcode": "3280310020074",
+"cat": 106,
+"ar": "دو دجاجة مجمدة كاملة 900 جم",
+"en": "Doux Whole Chicken Frozen 900 g",
+"price": 19.95,
+"special": 15.5,
+"src": "ninja",
+"ninja_id": "5-447",
+"img_src": "ninja",
+"images": [
+"3280310020074.webp",
+"3280310020074-1.webp",
+"3280310020074-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007754",
+"barcode": "5704025031159",
+"cat": 15,
+"ar": "ايمبورج بامية زيرو 400 جم",
+"en": "Emborg Okra Zero 400 g",
+"price": 11.25,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19327023",
+"img_src": "ninja",
+"images": [
+"5704025031159.webp",
+"5704025031159-1.webp",
+"5704025031159-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007755",
+"barcode": "6281073111785",
+"cat": 15,
+"ar": "السنبلة فطير مشلتت بوراتا 5 حبة 400 جم",
+"en": "Sunbulah Plain Paratha 5 pcs 400 g",
+"price": 7.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-851",
+"img_src": "ninja",
+"images": [
+"6281073111785.webp",
+"6281073111785-1.webp",
+"6281073111785-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007756",
+"barcode": "6281073150821",
+"cat": 15,
+"ar": "السنبلة فراولة مجمدة 800 جم",
+"en": "Sunbulah Strawberry Frozen 800 g",
+"price": 15.5,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-874",
+"img_src": "ninja",
+"images": [
+"6281073150821.webp",
+"6281073150821-1.webp",
+"6281073150821-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007757",
+"barcode": "6281051005884",
+"cat": 15,
+"ar": "داري ملوخيه 400 جم",
+"en": "Dari Molokhia 400 g",
+"price": 7.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-15560559",
+"img_src": "ninja",
+"images": [
+"6281051005884.webp",
+"6281051005884-1.webp",
+"6281051005884-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007758",
+"barcode": "6281051001701",
+"cat": 15,
+"ar": "داري بزاليا 400 جم",
+"en": "Dari Peas 400 g",
+"price": 7.95,
+"special": 6.95,
+"src": "ninja",
+"ninja_id": "5-15561862",
+"img_src": "ninja",
+"images": [
+"6281051001701.webp",
+"6281051001701-1.webp",
+"6281051001701-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007759",
+"barcode": "6281051007048",
+"cat": 15,
+"ar": "داري توت مشكل مع الفراولة 350 جم",
+"en": "Dari Very Berry Mix 350 g",
+"price": 23.95,
+"special": 19.67,
+"src": "ninja",
+"ninja_id": "5-15663860",
+"img_src": "ninja",
+"images": [
+"6281051007048.webp",
+"6281051007048-1.webp",
+"6281051007048-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007760",
+"barcode": "8710438047370",
+"cat": 15,
+"ar": "ماكين بطاطس مقطعة مستقيمة 2.5 كجم",
+"en": "McCain Straight Cut Potato 2.5 kg",
+"price": 46.95,
+"special": 33.95,
+"src": "ninja",
+"ninja_id": "5-12557126",
+"img_src": "ninja",
+"images": [
+"8710438047370.webp",
+"8710438047370-1.webp",
+"8710438047370-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007761",
+"barcode": "6281073130700",
+"cat": 15,
+"ar": "السنبلة ناجت الدجاج المرح 400 جم",
+"en": "Sunbulah Fun Chicken Nuggets 400 g",
+"price": 18.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-19389884",
+"img_src": "ninja",
+"images": [
+"6281073130700.webp",
+"6281073130700-1.webp",
+"6281073130700-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007762",
+"barcode": "6287053560178",
+"cat": 15,
+"ar": "سنيورة فيلية صدور الدجاج 750 جم",
+"en": "Siniora Frozen Chicken Breast Fillet 750 g",
+"price": 37.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19417314",
+"img_src": "ninja",
+"images": [
+"6287053560178.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007763",
+"barcode": "6287053560154",
+"cat": 15,
+"ar": "سنيورة كوردون بلو الدجاج 750 جم",
+"en": "Siniora Frozen Chicken Cordon Bleu 750 g",
+"price": 39.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19417320",
+"img_src": "ninja",
+"images": [
+"6287053560154.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007764",
+"barcode": "6287053560284",
+"cat": 15,
+"ar": "سنيورة كباب بقري 600 جم",
+"en": "Siniora Frozen Beef Kebab 600 g",
+"price": 25.95,
+"special": 22.95,
+"src": "ninja",
+"ninja_id": "5-19417335",
+"img_src": "ninja",
+"images": [
+"6287053560284.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007765",
+"barcode": "055773080940",
+"cat": 15,
+"ar": "ماكين بطاطس سوبر سبيرالز متبلة 1.5 كجم",
+"en": "McCain Super Spirals Seasoned 1.5 kg",
+"price": 48.0,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-19395443",
+"img_src": "ninja",
+"images": [
+"055773080940.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007766",
+"barcode": "7891515486532",
+"cat": 15,
+"ar": "ساديا بطاطس رفيعة 2.5 كجم",
+"en": "Sadia French Fries Regular 6 x 6 2.5 kg",
+"price": 29.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290373",
+"img_src": "ninja",
+"images": [
+"7891515486532.webp",
+"7891515486532-1.webp",
+"7891515486532-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007767",
+"barcode": "7894904256419",
+"cat": 15,
+"ar": "سيارا فيليه الدجاج 750 جم",
+"en": "Seara Chicken Fillet 750 g",
+"price": 41.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19290959",
+"img_src": "ninja",
+"images": [
+"7894904256419.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007768",
+"barcode": "6281073151064",
+"cat": 15,
+"ar": "السنبلة بطاطس مقليه 2.5 كجم",
+"en": "Sunbulah French Fries 10 mm 2.5 kg",
+"price": 31.5,
+"special": 18.1,
+"src": "ninja",
+"ninja_id": "5-19404221",
+"img_src": "ninja",
+"images": [
+"6281073151064.webp",
+"6281073151064-1.webp",
+"6281073151064-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007769",
+"barcode": "6222000401258",
+"cat": 15,
+"ar": "مونتانا خضار مشكلة مجمدة 400 جم",
+"en": "Montana Mixed Vegetable Frozen 400 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-436",
+"img_src": "ninja",
+"images": [
+"6222000401258.webp",
+"6222000401258-1.webp",
+"6222000401258-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007770",
+"barcode": "6281073151163",
+"cat": 15,
+"ar": "السنبلة سبانخ 400 جم",
+"en": "Sunbulah Spinach 400 g",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-873",
+"img_src": "ninja",
+"images": [
+"6281073151163.webp",
+"6281073151163-1.webp",
+"6281073151163-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007771",
+"barcode": "5033712150171",
+"cat": 15,
+"ar": "الكبير بطاطس اصابع 1000 جم",
+"en": "AL kabeer French Fries 1000 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294906",
+"img_src": "ninja",
+"images": [
+"5033712150171.webp",
+"5033712150171-1.webp",
+"5033712150171-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007772",
+"barcode": "6281050214744",
+"cat": 106,
+"ar": "امريكانا صدور دجاج طرية 1 كجم",
+"en": "Americana Tender Chicken Breast 1 kg",
+"price": 32.95,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-660328",
+"img_src": "ninja",
+"images": [
+"6281050214744.webp",
+"6281050214744-1.webp",
+"6281050214744-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007773",
+"barcode": "6281073151026",
+"cat": 15,
+"ar": "السنبلة بطاطس مجمدة 1 كجم",
+"en": "Sunbulah French Fries 1 kg",
+"price": 14.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-19320381",
+"img_src": "ninja",
+"images": [
+"6281073151026.webp",
+"6281073151026-1.webp",
+"6281073151026-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007774",
+"barcode": "8710438040265",
+"cat": 15,
+"ar": "ماكين بطاطس جولدن لونغز 750 جم",
+"en": "McCain Golden Longs Fries 750 g",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19333934",
+"img_src": "ninja",
+"images": [
+"8710438040265.webp",
+"8710438040265-1.webp",
+"8710438040265-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007775",
+"barcode": "5033712150522",
+"cat": 15,
+"ar": "الكبير فطيرة براتا 400 جم",
+"en": "AL kabeer paratha plain 400 g",
+"price": 7.95,
+"special": 7.37,
+"src": "ninja",
+"ninja_id": "5-19294913",
+"img_src": "ninja",
+"images": [
+"5033712150522.webp",
+"5033712150522-1.webp",
+"5033712150522-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007776",
+"barcode": "6281050831804",
+"cat": 15,
+"ar": "أمريكانا المقلاة الهوائية ستربس صدور الدجاج 700 جم",
+"en": "Americana Air Fryer chicken Breast Strips 700 g",
+"price": 42.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294507",
+"img_src": "ninja",
+"images": [
+"6281050831804.webp",
+"6281050831804-1.webp",
+"6281050831804-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007777",
+"barcode": "9501100600967",
+"cat": 15,
+"ar": "سويتز مربعات البف باستري 400 جم",
+"en": "Switz Puff Pastry Square 400 g",
+"price": 11.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19304466",
+"img_src": "ninja",
+"images": [
+"9501100600967.webp",
+"9501100600967-1.webp",
+"9501100600967-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007778",
+"barcode": "4001724819806",
+"cat": 15,
+"ar": "د. أوتكر بيتزا موزاريلا مجمدة 355 جم",
+"en": "Dr. Oetker Ristorante Frozen Mozzarella Pizza 355 g",
+"price": 28.95,
+"special": 22.26,
+"src": "ninja",
+"ninja_id": "5-1781",
+"img_src": "ninja",
+"images": [
+"4001724819806.webp",
+"4001724819806-1.webp",
+"4001724819806-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007779",
+"barcode": "8711571016841",
+"cat": 15,
+"ar": "لامب وستون بطاطس مجمدة الاصلية 2.5 كجم",
+"en": "Lamb Weston Frozen French Fries Original 2.5 kg",
+"price": 35.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-15666274",
+"img_src": "ninja",
+"images": [
+"8711571016841.webp",
+"8711571016841-1.webp",
+"8711571016841-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007780",
+"barcode": "6281051006812",
+"cat": 106,
+"ar": "داري صدور دجاج طريه 2 كجم",
+"en": "Dari Chicken Breast Tenderized 2 kg",
+"price": 56.95,
+"special": 44.95,
+"src": "ninja",
+"ninja_id": "5-15548423",
+"img_src": "ninja",
+"images": [
+"6281051006812.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007781",
+"barcode": "6281102685034",
+"cat": 106,
+"ar": "هرفي برجر دجاج بالبقسماط 672 جم",
+"en": "Herfy Chicken Burger Breaded 672 g",
+"price": 27.95,
+"special": 22.11,
+"src": "ninja",
+"ninja_id": "5-17178821",
+"img_src": "ninja",
+"images": [
+"6281102685034.webp",
+"6281102685034-1.webp",
+"6281102685034-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007782",
+"barcode": "6281102685041",
+"cat": 106,
+"ar": "هرفي برجر دجاج بالبقسماط 1344 جم",
+"en": "Herfy Chicken Burger Breaded 1344 g",
+"price": 47.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-17178896",
+"img_src": "ninja",
+"images": [
+"6281102685041.webp",
+"6281102685041-1.webp",
+"6281102685041-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007783",
+"barcode": "6281102685195",
+"cat": 15,
+"ar": "هرفي نواعم الدجاج بالبقسماط 350 جم",
+"en": "Herfy Chicken Tenders Breaded 350 g",
+"price": 22.5,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-17179371",
+"img_src": "ninja",
+"images": [
+"6281102685195.webp",
+"6281102685195-1.webp",
+"6281102685195-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007784",
+"barcode": "6281102685669",
+"cat": 106,
+"ar": "هرفي صدور دجاج 1 كجم",
+"en": "Herfy Tender Chicken Breast 1 kg",
+"price": 34.95,
+"special": 30.95,
+"src": "ninja",
+"ninja_id": "5-17179606",
+"img_src": "ninja",
+"images": [
+"6281102685669.webp",
+"6281102685669-1.webp",
+"6281102685669-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007785",
+"barcode": "6281102685621",
+"cat": 15,
+"ar": "هرفي استربس دجاج بالبقسماط 350 جم",
+"en": "Herfy Chicken Strips 350 g",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-17179745",
+"img_src": "ninja",
+"images": [
+"6281102685621.webp",
+"6281102685621-1.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007786",
+"barcode": "3280310020050",
+"cat": 106,
+"ar": "دو دجاج مجمد 800 جم",
+"en": "Doux Chicken Frozen 800 g",
+"price": 19.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7482",
+"img_src": "ninja",
+"images": [
+"3280310020050.webp",
+"3280310020050-1.webp",
+"3280310020050-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007787",
+"barcode": "5060728130118",
+"cat": 15,
+"ar": "اوسيا خليط الفواكه المجمد 400 جم",
+"en": "Osea Frozen Energy Mix 400 g",
+"price": 32.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292729",
+"img_src": "ninja",
+"images": [
+"5060728130118.webp",
+"5060728130118-1.webp",
+"5060728130118-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007788",
+"barcode": "6281101930364",
+"cat": 106,
+"ar": "فقيه دجاج كامل مجمد 10 حبات 1000 جم",
+"en": "Fakeih Carton Frozen Whole Chicken 10 pcs 1000 g",
+"price": 199.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19389926",
+"img_src": "ninja",
+"images": [
+"6281101930364.webp",
+"6281101930364-1.webp",
+"6281101930364-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007789",
+"barcode": "6287053560161",
+"cat": 15,
+"ar": "سنيورة اسكالوب صدر دجاج 750 جم",
+"en": "Siniora Frozen Chicken Breast Escalope 750 g",
+"price": 37.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19417312",
+"img_src": "ninja",
+"images": [
+"6287053560161.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007790",
+"barcode": "6287053560246",
+"cat": 15,
+"ar": "سنيورة ستربس الدجاج 750 جم",
+"en": "Siniora Frozen Chicken Strips Regular 750 g",
+"price": 42.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19417317",
+"img_src": "ninja",
+"images": [
+"6287053560246.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007791",
+"barcode": "6287053560208",
+"cat": 15,
+"ar": "سنيورة بوب كورن الدجاج 750 جم",
+"en": "Siniora Frozen Chicken Pop Corn 750 g",
+"price": 31.95,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-19417318",
+"img_src": "ninja",
+"images": [
+"6287053560208.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007792",
+"barcode": "6287053560192",
+"cat": 15,
+"ar": "سنيورة نجتس دجاج مقرمش 750 جم",
+"en": "Siniora Frozen Chicken Nuggets Crispy 750 g",
+"price": 31.95,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-19417319",
+"img_src": "ninja",
+"images": [
+"6287053560192.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007793",
+"barcode": "6291100860999",
+"cat": 106,
+"ar": "سنيورة برجر دجاج 1 كجم",
+"en": "Siniora Frozen Chicken Burger Unbreaded 1 kg",
+"price": 34.95,
+"special": 28.95,
+"src": "ninja",
+"ninja_id": "5-19417327",
+"img_src": "ninja",
+"images": [
+"6291100860999.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007794",
+"barcode": "6287053560215",
+"cat": 15,
+"ar": "سنيورة ناجتس دجاج مقرمش 400 جم",
+"en": "Siniora Frozen Chicken Nuggets Crispy 400 g",
+"price": 17.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19417331",
+"img_src": "ninja",
+"images": [
+"6287053560215.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007795",
+"barcode": "6287053560222",
+"cat": 15,
+"ar": "سنيورة ناجتس دجاج للاطفال 400 جم",
+"en": "Siniora Frozen Chicken Nuggets Zizo 400 g",
+"price": 17.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19417332",
+"img_src": "ninja",
+"images": [
+"6287053560222.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007796",
+"barcode": "6287053560338",
+"cat": 15,
+"ar": "سنيورة بوب كورن الدجاج 400 جم",
+"en": "Siniora Frozen Chicken Pop Corn 400 g",
+"price": 18.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19417333",
+"img_src": "ninja",
+"images": [
+"6287053560338.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007797",
+"barcode": "055773080032",
+"cat": 15,
+"ar": "ماكين بطاطس سوبر سبيرالز متبلة 750 جم",
+"en": "McCain Super Spirals Seasoned 750 g",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395444",
+"img_src": "ninja",
+"images": [
+"055773080032.webp",
+"055773080032-1.webp",
+"055773080032-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007798",
+"barcode": "5704025030909",
+"cat": 15,
+"ar": "ايمبورج توت أزرق مجمد 400 جم",
+"en": "Emborg Blueberries Frozen 400 g",
+"price": 30.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369455",
+"img_src": "ninja",
+"images": [
+"5704025030909.webp",
+"5704025030909-1.webp",
+"5704025030909-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007799",
+"barcode": "7893000085701",
+"cat": 106,
+"ar": "ساديا انصاف صدور دجاج طرية 2 كجم",
+"en": "Sadia Tender Breast 2 kg",
+"price": 55.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290374",
+"img_src": "ninja",
+"images": [
+"7893000085701.webp",
+"7893000085701-1.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007800",
+"barcode": "6291107376172",
+"cat": 106,
+"ar": "مايدا تندر دجاج 1 كجم",
+"en": "mayda chicken tender 1 kg",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290964",
+"img_src": "ninja",
+"images": [
+"6291107376172.webp",
+"6291107376172-1.webp",
+"6291107376172-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007801",
+"barcode": "6281050114280",
+"cat": 106,
+"ar": "امريكانا برجر الدجاج بدون بقسماط 24 حبة 1344 جم",
+"en": "Americana Chicken Burger Unbreaded 24 pcs 1344 g",
+"price": 38.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291383",
+"img_src": "ninja",
+"images": [
+"6281050114280.webp",
+"6281050114280-1.webp",
+"6281050114280-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007802",
+"barcode": "6281050113399",
+"cat": 106,
+"ar": "امريكانا برجر بقري كلاسيك 20 قطعة",
+"en": "Americana Beef Burger Classic 20 pcs",
+"price": 39.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291387",
+"img_src": "ninja",
+"images": [
+"6281050113399.webp",
+"6281050113399-1.webp",
+"6281050113399-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007803",
+"barcode": "6287032861258",
+"cat": 15,
+"ar": "ريفي بنت الصحن مجمدة 500 جم",
+"en": "Refee Frozen Girl Plate 500 g",
+"price": 38.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400076",
+"img_src": "ninja",
+"images": [
+"6287032861258.webp",
+"6287032861258-1.webp",
+"6287032861258-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007804",
+"barcode": "6287032860893",
+"cat": 15,
+"ar": "ريفي كنافة بحشوة القشطة مجمدة 150 جم",
+"en": "Refee Frozen Kunafa cream 150 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400079",
+"img_src": "ninja",
+"images": [
+"6287032860893.webp",
+"6287032860893-1.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007805",
+"barcode": "5704025031166",
+"cat": 15,
+"ar": "ايمبورج ملوخية مفروم 400 جم",
+"en": "Emborg Minced Molokhia 400 g",
+"price": 6.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327028",
+"img_src": "ninja",
+"images": [
+"5704025031166.webp",
+"5704025031166-1.webp",
+"5704025031166-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007806",
+"barcode": "5701215058422",
+"cat": 15,
+"ar": "ايمبورج سبانخ مقطعة 450 جم",
+"en": "Emborg Chopped Spinach 450 g",
+"price": 11.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327031",
+"img_src": "ninja",
+"images": [
+"5701215058422.webp",
+"5701215058422-1.webp",
+"5701215058422-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007807",
+"barcode": "5033712154629",
+"cat": 15,
+"ar": "الكبير ملبارية فطيرة براتا 400 جم",
+"en": "AL kabeer malabar paratha 400 g",
+"price": 9.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294908",
+"img_src": "ninja",
+"images": [
+"5033712154629.webp",
+"5033712154629-1.webp",
+"5033712154629-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007808",
+"barcode": "5033712463837",
+"cat": 15,
+"ar": "الكبير دجاج زنجر قطع ستريبس 750 جم",
+"en": "AL kabeer zing chicken strips 750 g",
+"price": 40.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294914",
+"img_src": "ninja",
+"images": [
+"5033712463837.webp",
+"5033712463837-1.webp",
+"5033712463837-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007809",
+"barcode": "5033712162334",
+"cat": 15,
+"ar": "الكبير قطع الدجاج 400 جم",
+"en": "AL kabeer Chicken Nuggets 400 g",
+"price": 18.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294884",
+"img_src": "ninja",
+"images": [
+"5033712162334.webp",
+"5033712162334-1.webp",
+"5033712162334-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007810",
+"barcode": "7891515551674",
+"cat": 15,
+"ar": "ساديا خضروات مشكلة مع ذرة مجمدة 450 جم",
+"en": "Sadia Mixed Vegetables With Corn Frozen 450 g",
+"price": 8.5,
+"special": 6.95,
+"src": "ninja",
+"ninja_id": "5-1757",
+"img_src": "ninja",
+"images": [
+"7891515551674.webp",
+"7891515551674-1.webp",
+"7891515551674-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007811",
+"barcode": "7891515486518",
+"cat": 15,
+"ar": "ساديا بطاطس مجمدة 1 كجم",
+"en": "Sadia Potato Fries Frozen 1 kg",
+"price": 13.5,
+"special": 11.56,
+"src": "ninja",
+"ninja_id": "5-1747",
+"img_src": "ninja",
+"images": [
+"7891515486518.webp",
+"7891515486518-1.webp",
+"7891515486518-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007812",
+"barcode": "7894904256365",
+"cat": 15,
+"ar": "سيارا بوب كورن الدجاج 350 جم",
+"en": "Seara Chicken Popcorn 350 g",
+"price": 18.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-1182883",
+"img_src": "ninja",
+"images": [
+"7894904256365.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007813",
+"barcode": "7894904256228",
+"cat": 15,
+"ar": "سيارا ناجت الدجاج 350 جم",
+"en": "Seara Chicken Nuggets 350 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1183236",
+"img_src": "ninja",
+"images": [
+"7894904256228.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007814",
+"barcode": "5033712160224",
+"cat": 106,
+"ar": "الكبير تندر دجاج صدور 1000 جم",
+"en": "AL kabeer tender chicken breast 1000 g",
+"price": 32.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19294896",
+"img_src": "ninja",
+"images": [
+"5033712160224.webp",
+"5033712160224-1.webp",
+"5033712160224-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007815",
+"barcode": "6281101430406",
+"cat": 15,
+"ar": "والمة كبه لحم 16 حبة",
+"en": "Wallmah Kubbe Meat 16 pcs",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19305849",
+"img_src": "ninja",
+"images": [
+"6281101430406.webp",
+"6281101430406-1.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007816",
+"barcode": "6281105681750",
+"cat": 15,
+"ar": "والمة سمبوسة بجبنة القشطة 16 حبة",
+"en": "Wallmah Sambousik Cream Cheese 16 pcs",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19305851",
+"img_src": "ninja",
+"images": [
+"6281105681750.webp",
+"6281105681750-1.webp",
+"6281105681750-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007817",
+"barcode": "6281102685867",
+"cat": 15,
+"ar": "هرفي ناتشوز الجبن 280 جم",
+"en": "Herfy Cheese Nachos 280 g",
+"price": 24.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19307414",
+"img_src": "ninja",
+"images": [
+"6281102685867.webp",
+"6281102685867-1.webp",
+"6281102685867-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007818",
+"barcode": "6281123038680",
+"cat": 15,
+"ar": "سويتز براتا 400 جم",
+"en": "Switz Paratha 400 g",
+"price": 8.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19304464",
+"img_src": "ninja",
+"images": [
+"6281123038680.webp",
+"6281123038680-1.webp",
+"6281123038680-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007819",
+"barcode": "6281101430079",
+"cat": 15,
+"ar": "والمة سولاف بالفراولة 450 جم",
+"en": "Wallmah Sweet Solaf Strawberry 450 g",
+"price": 15.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19309724",
+"img_src": "ninja",
+"images": [
+"6281101430079.webp",
+"6281101430079-1.webp",
+"6281101430079-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007820",
+"barcode": "6287008350533",
+"cat": 15,
+"ar": "ام القرى سمبوسة خضار مجمدة 25 حبة 500 جم",
+"en": "Um Alquraa Vegetable Sambosa Frozen 25 pcs 500 g",
+"price": 33.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348877",
+"img_src": "ninja",
+"images": [
+"6287008350533.webp",
+"6287008350533-1.webp",
+"6287008350533-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007821",
+"barcode": "6285536000838",
+"cat": 15,
+"ar": "جولدن براون كوكيز رقائق الشوكولاتة 6 قطع 90 جم",
+"en": "Golden Brown Chocolate Chip Cookies 6 pcs 90 g",
+"price": 28.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19339260",
+"img_src": "ninja",
+"images": [
+"6285536000838.webp",
+"6285536000838-1.webp",
+"6285536000838-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007822",
+"barcode": "6281051098862",
+"cat": 15,
+"ar": "داري باراتا سادة 400 جم",
+"en": "Dari Plain Paratha 400 g",
+"price": 7.95,
+"special": 7.06,
+"src": "ninja",
+"ninja_id": "5-15554754",
+"img_src": "ninja",
+"images": [
+"6281051098862.webp",
+"6281051098862-1.webp",
+"6281051098862-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007823",
+"barcode": "6281051001664",
+"cat": 15,
+"ar": "داري خضار مشكل 400 جم",
+"en": "Dari Mixed Vegetable 400 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-15564798",
+"img_src": "ninja",
+"images": [
+"6281051001664.webp",
+"6281051001664-1.webp",
+"6281051001664-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007824",
+"barcode": "6281051004146",
+"cat": 15,
+"ar": "داري فراولة 1 كجم",
+"en": "Dari Strawberry 1 kg",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-15663918",
+"img_src": "ninja",
+"images": [
+"6281051004146.webp",
+"6281051004146-1.webp",
+"6281051004146-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007825",
+"barcode": "6281050113207",
+"cat": 106,
+"ar": "امريكانا برجر بقري جامبو 10 حبة 1 كجم",
+"en": "Americana Beef Burger Jumbo 10 Pcs1 kg",
+"price": 39.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-658496",
+"img_src": "ninja",
+"images": [
+"6281050113207.webp",
+"6281050113207-1.webp",
+"6281050113207-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007826",
+"barcode": "7891515434342",
+"cat": 15,
+"ar": "ساديا ناجتس دجاج 400 جم",
+"en": "Sadia Breaded Chicken Nuggets Traditional 400 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12152634",
+"img_src": "ninja",
+"images": [
+"7891515434342.webp",
+"7891515434342-1.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007827",
+"barcode": "7891515579029",
+"cat": 106,
+"ar": "ساديا مكعبات صدور دجاج متبلة بالزبادي و التوابل العربية 600 جم",
+"en": "Sadia Marinated Breast Arabic Spices 600 g",
+"price": 26.95,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-19321730",
+"img_src": "ninja",
+"images": [
+"7891515579029.webp",
+"7891515579029-1.webp",
+"7891515579029-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007828",
+"barcode": "6281050114471",
+"cat": 106,
+"ar": "امريكانا برجر الدجاج بالبقسماط جامبو 10 قطع",
+"en": "Americana Breaded Chicken Burger Jumbo 10 pcs.",
+"price": 33.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291382",
+"img_src": "ninja",
+"images": [
+"6281050114471.webp",
+"6281050114471-1.webp",
+"6281050114471-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007829",
+"barcode": "6281101935772",
+"cat": 106,
+"ar": "فقيه نقانق دجاج بالجبن 340 جم",
+"en": "Fakieh Chicken Franks Cheese Frozen 340 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19389912",
+"img_src": "ninja",
+"images": [
+"6281101935772.webp",
+"6281101935772-1.webp",
+"6281101935772-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007830",
+"barcode": "6281073130755",
+"cat": 15,
+"ar": "السنبلة بايتس الدجاج 750 جم",
+"en": "Sunbulah Spicy Chicken Bites 750 g",
+"price": 34.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19389883",
+"img_src": "ninja",
+"images": [
+"6281073130755.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007831",
+"barcode": "6281073130786",
+"cat": 15,
+"ar": "السنبلة بوب كورن الدجاج 400 جم",
+"en": "Sunbulah Chicken Pop Corn 400 g",
+"price": 18.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-19389888",
+"img_src": "ninja",
+"images": [
+"6281073130786.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007832",
+"barcode": "8690612504076",
+"cat": 15,
+"ar": "سوبر فريش رولات الجبنة والبطاطا مجمدة 800 جم",
+"en": "SuperFresh Potato& Cheese Rolls Frozen 800 g",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19364652",
+"img_src": "ninja",
+"images": [
+"8690612504076.webp",
+"8690612504076-1.webp",
+"8690612504076-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007833",
+"barcode": "6287053560147",
+"cat": 15,
+"ar": "سنيورة اصابع الدجاج 750 جم",
+"en": "Siniora Frozen Chicken Fingers 750 g",
+"price": 30.95,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-19417313",
+"img_src": "ninja",
+"images": [
+"6287053560147.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007834",
+"barcode": "6287053560185",
+"cat": 15,
+"ar": "سنيورة فيلية صدور الدجاج حار 750 جم",
+"en": "Siniora Frozen Chicken Breast Fillet Spicy 750 g",
+"price": 37.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19417315",
+"img_src": "ninja",
+"images": [
+"6287053560185.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007835",
+"barcode": "6287053560543",
+"cat": 15,
+"ar": "سنيورة حلقات البصل 750 جم",
+"en": "Siniora Frozen Breaded Onion Rings 750 g",
+"price": 24.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19417321",
+"img_src": "ninja",
+"images": [
+"6287053560543.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007836",
+"barcode": "6287053560550",
+"cat": 15,
+"ar": "سنيورة حلقات الدجاج 750 جم",
+"en": "Siniora Frozen Chicken Rings 750 g",
+"price": 26.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19417322",
+"img_src": "ninja",
+"images": [
+"6287053560550.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007837",
+"barcode": "6287053560321",
+"cat": 106,
+"ar": "سنيورة صدر دجاج طري 2 كجم",
+"en": "Siniora Frozen Tenderized Chicken Breast 2 kg",
+"price": 56.95,
+"special": 49.95,
+"src": "ninja",
+"ninja_id": "5-19417324",
+"img_src": "ninja",
+"images": [
+"6287053560321.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007838",
+"barcode": "6253005380286",
+"cat": 106,
+"ar": "سنيورة برجر دجاج بالبقسماط 1 كجم",
+"en": "Siniora Frozen Chicken Burger Breaded Jumbo 1 kg",
+"price": 41.95,
+"special": 28.95,
+"src": "ninja",
+"ninja_id": "5-19417325",
+"img_src": "ninja",
+"images": [
+"6253005380286.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007839",
+"barcode": "6287053560277",
+"cat": 106,
+"ar": "سنيورة برجر دجاج 1344 جم",
+"en": "Siniora Frozen Chicken Burger Unbreaded 1344 g",
+"price": 47.95,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-19417329",
+"img_src": "ninja",
+"images": [
+"6287053560277.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007840",
+"barcode": "6287053560253",
+"cat": 106,
+"ar": "سنيورة برجر دجاج بالبقسماط 678 جم",
+"en": "Siniora Frozen Chicken Burger Breaded 678 g",
+"price": 26.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19417330",
+"img_src": "ninja",
+"images": [
+"6287053560253.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007841",
+"barcode": "8809950200490",
+"cat": 15,
+"ar": "جود سيئول كورن دوج جبنة 4 حبات 320 جم",
+"en": "Good Seoul Crispy Cheese Dog 4 pcs 320 g",
+"price": 35.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395433",
+"img_src": "ninja",
+"images": [
+"8809950200490.webp",
+"8809950200490-1.webp",
+"8809950200490-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007842",
+"barcode": "6281050115010",
+"cat": 15,
+"ar": "امريكانا كرات لحم بقري 1 كجم",
+"en": "Americana Beef Meat Ball 1 kg",
+"price": 44.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291375",
+"img_src": "ninja",
+"images": [
+"6281050115010.webp",
+"6281050115010-1.webp",
+"6281050115010-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007843",
+"barcode": "6281050114402",
+"cat": 15,
+"ar": "امريكانا بوب كورن الدجاج 400 جم",
+"en": "Americana Chicken Popcorn 400 g",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291385",
+"img_src": "ninja",
+"images": [
+"6281050114402.webp",
+"6281050114402-1.webp",
+"6281050114402-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007844",
+"barcode": "6287032860909",
+"cat": 15,
+"ar": "ريفي كنافة بحشوة الجبنة مجمدة 150 جم",
+"en": "Refee Frozen kunafa Cheese 150 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400078",
+"img_src": "ninja",
+"images": [
+"6287032860909.webp",
+"6287032860909-1.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007845",
+"barcode": "7894904256303",
+"cat": 106,
+"ar": "سيارا برجر دجاج بالبقسماط 12 قطعة 672 جم",
+"en": "Seara Breaded Chicken Burger 12 pcs 672 g",
+"price": 23.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-1148438",
+"img_src": "ninja",
+"images": [
+"7894904256303.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007846",
+"barcode": "5033712160057",
+"cat": 15,
+"ar": "الكبير سمبوسة بالدجاج 240 جم",
+"en": "AL kabeer Chicken Sambosa 240 g",
+"price": 14.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-19294890",
+"img_src": "ninja",
+"images": [
+"5033712160057.webp",
+"5033712160057-1.webp",
+"5033712160057-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007847",
+"barcode": "5033712150041",
+"cat": 15,
+"ar": "الكبير سمبوسة خضار 240 جم",
+"en": "AL kabeer Vegetable Sambosa 240 g",
+"price": 14.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-19294899",
+"img_src": "ninja",
+"images": [
+"5033712150041.webp",
+"5033712150041-1.webp",
+"5033712150041-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007848",
+"barcode": "6281073120947",
+"cat": 15,
+"ar": "السنبلة بيتزا دجاج بريمير 335 جم",
+"en": "Sunbulah Pizza Chicken Premiere 335 g",
+"price": 23.95,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-1172115",
+"img_src": "ninja",
+"images": [
+"6281073120947.webp",
+"6281073120947-1.webp",
+"6281073120947-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007849",
+"barcode": "6281050114037",
+"cat": 106,
+"ar": "امريكانا برجر دجاج بالبقسماط 12 حبة 678 جم",
+"en": "Americana Breaded Chicken Burger 12 pcs 678 g",
+"price": 26.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-659234",
+"img_src": "ninja",
+"images": [
+"6281050114037.webp",
+"6281050114037-1.webp",
+"6281050114037-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007850",
+"barcode": "6281050114242",
+"cat": 106,
+"ar": "امريكانا برجر دجاج 12 حبة 672 جم",
+"en": "Americana Chicken Burger 12 pcs 672 g",
+"price": 26.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-659387",
+"img_src": "ninja",
+"images": [
+"6281050114242.webp",
+"6281050114242-1.webp",
+"6281050114242-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007851",
+"barcode": "6281050114303",
+"cat": 15,
+"ar": "امريكانا شيش طاووق 400 جم",
+"en": "Americana Shish Tawook 400 g",
+"price": 18.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-659847",
+"img_src": "ninja",
+"images": [
+"6281050114303.webp",
+"6281050114303-1.webp",
+"6281050114303-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007852",
+"barcode": "6286015957520",
+"cat": 15,
+"ar": "زولابي كنافة قشطة مجمدة 200 جم",
+"en": "Zolabe Frozen kunafa Cream 200 g",
+"price": 21.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19347566",
+"img_src": "ninja",
+"images": [
+"6286015957520.webp",
+"6286015957520-1.webp",
+"6286015957520-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007853",
+"barcode": "7894904256402",
+"cat": 15,
+"ar": "سيارا فيليه الدجاج 400 جم",
+"en": "Seara Chicken Fillet 400 g",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1184960",
+"img_src": "ninja",
+"images": [
+"7894904256402.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007854",
+"barcode": "5033712451780",
+"cat": 15,
+"ar": "الكبير فلافل 1000 جم",
+"en": "AL kabeer vegetable felafal cat 1000 g",
+"price": 33.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294897",
+"img_src": "ninja",
+"images": [
+"5033712451780.webp",
+"5033712451780-1.webp",
+"5033712451780-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007855",
+"barcode": "5033712152113",
+"cat": 15,
+"ar": "الكبير فطيرة براتا 3 عبوات 400 جم",
+"en": "AL kabeer plain paratha promo 400 g *3",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294904",
+"img_src": "ninja",
+"images": [
+"5033712152113.webp",
+"5033712152113-1.webp",
+"5033712152113-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007856",
+"barcode": "6281105681682",
+"cat": 15,
+"ar": "والمة سمبوسة جبن 16 حبة",
+"en": "Wallmah Sambousik Cheese 16 pcs",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19305847",
+"img_src": "ninja",
+"images": [
+"6281105681682.webp",
+"6281105681682-1.webp",
+"6281105681682-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007857",
+"barcode": "6281105681705",
+"cat": 15,
+"ar": "والمة سمبوسة خضار 16 حبة",
+"en": "Wallmah Sambousik Vegetables 16 pcs",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19305848",
+"img_src": "ninja",
+"images": [
+"6281105681705.webp",
+"6281105681705-1.webp",
+"6281105681705-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007858",
+"barcode": "6281105681699",
+"cat": 15,
+"ar": "والمة سمبوسة دجاج 16 حبه",
+"en": "Wallmah Sambousik Chicken 16 pcs",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19305850",
+"img_src": "ninja",
+"images": [
+"6281105681699.webp",
+"6281105681699-1.webp",
+"6281105681699-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007859",
+"barcode": "6281105681675",
+"cat": 15,
+"ar": "والمة سمبوسة لحم 16 حبة",
+"en": "Wallmah Sambousik meat 16 pcs",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19305852",
+"img_src": "ninja",
+"images": [
+"6281105681675.webp",
+"6281105681675-1.webp",
+"6281105681675-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007860",
+"barcode": "6287008350526",
+"cat": 15,
+"ar": "ام القرى سمبوسة دجاج مجمدة 25 حبة 500 جم",
+"en": "Um Alquraa Chicken Sambosa Frozen 25 pcs 500 g",
+"price": 33.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348874",
+"img_src": "ninja",
+"images": [
+"6287008350526.webp",
+"6287008350526-1.webp",
+"6287008350526-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007861",
+"barcode": "6287008350311",
+"cat": 15,
+"ar": "بلادي رقاق مطبق مجمد دقيق فاخر 1 كجم",
+"en": "Bladi Mutabaq Leaves Fakher Frozen 1 kg",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348875",
+"img_src": "ninja",
+"images": [
+"6287008350311.webp",
+"6287008350311-1.webp",
+"6287008350311-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007862",
+"barcode": "6287008350519",
+"cat": 15,
+"ar": "بلادي سمبوسة جبنة بيضاء مجمدة 25 حبة 500 جم",
+"en": "Bladi White Cheese Sambosa Frozen 25 pcs 500 g",
+"price": 33.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348876",
+"img_src": "ninja",
+"images": [
+"6287008350519.webp",
+"6287008350519-1.webp",
+"6287008350519-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007863",
+"barcode": "6287008350540",
+"cat": 15,
+"ar": "ام القرى سبرنج رول خضار مجمد 20 حبة 450 جم",
+"en": "Um Alquraa Vegetable Spring Roll Frozen 20 pcs 450 g",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348878",
+"img_src": "ninja",
+"images": [
+"6287008350540.webp",
+"6287008350540-1.webp",
+"6287008350540-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007864",
+"barcode": "6287008350502",
+"cat": 15,
+"ar": "ام القرى سمبوسة لحم مجمدة 25 حبة 500 جم",
+"en": "Um Alquraa Meat Sambosa Frozen 25 pcs 500 g",
+"price": 33.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348879",
+"img_src": "ninja",
+"images": [
+"6287008350502.webp",
+"6287008350502-1.webp",
+"6287008350502-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007865",
+"barcode": "6287008350021",
+"cat": 15,
+"ar": "ام القرى عجينة كنافة مجمدة 1 كجم",
+"en": "Um Alquraa Kunafa Dough Frozen 1 kg",
+"price": 14.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348881",
+"img_src": "ninja",
+"images": [
+"6287008350021.webp",
+"6287008350021-1.webp",
+"6287008350021-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007866",
+"barcode": "6287008350618",
+"cat": 15,
+"ar": "بلادي سمبوسة خضار مجمدة 12 حبة 250 جم",
+"en": "Bladi Vegetable Sambosa Frozen 12 pcs 250 g",
+"price": 17.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348882",
+"img_src": "ninja",
+"images": [
+"6287008350618.webp",
+"6287008350618-1.webp",
+"6287008350618-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007867",
+"barcode": "6287008350601",
+"cat": 15,
+"ar": "بلادي سمبوسة دجاج مجمدة 12 حبة 250 جم",
+"en": "Bladi Chicken Sambosa Frozen 12 pcs 250 g",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348883",
+"img_src": "ninja",
+"images": [
+"6287008350601.webp",
+"6287008350601-1.webp",
+"6287008350601-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007868",
+"barcode": "6287008350595",
+"cat": 15,
+"ar": "بلادي سمبوسة لحم مجمدة 12 حبة 250 جم",
+"en": "Bladi Meat Sambosa Frozen 12 pcs 250 g",
+"price": 17.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348886",
+"img_src": "ninja",
+"images": [
+"6287008350595.webp",
+"6287008350595-1.webp",
+"6287008350595-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007869",
+"barcode": "6287008350632",
+"cat": 15,
+"ar": "بلادي سمبوسة جبنة بيضاء مجمدة 12 حبة 250 جم",
+"en": "Bladi White Cheese Sambosa Frozen 12 pcs 250 g",
+"price": 17.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348887",
+"img_src": "ninja",
+"images": [
+"6287008350632.webp",
+"6287008350632-1.webp",
+"6287008350632-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007870",
+"barcode": "6281100930150",
+"cat": 106,
+"ar": "شهيه برجر غنم 4 قطع 200 جم",
+"en": "Shahia Mutton Burger 4 pcs 200 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19338655",
+"img_src": "ninja",
+"images": [
+"6281100930150.webp",
+"6281100930150-1.webp",
+"6281100930150-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007871",
+"barcode": "6281100930181",
+"cat": 15,
+"ar": "شهيه كفتة بقري 500 جم",
+"en": "Shahia Beef Meat Balls 500 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19338664",
+"img_src": "ninja",
+"images": [
+"6281100930181.webp",
+"6281100930181-1.webp",
+"6281100930181-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007872",
+"barcode": "6285536000067",
+"cat": 15,
+"ar": "جولدن براون كوكيز براونيز 48 قطعة 450 جم",
+"en": "Golden Brown Brownie Cookies 48 pcs 450 g",
+"price": 106.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19339258",
+"img_src": "ninja",
+"images": [
+"6285536000067.webp",
+"6285536000067-1.webp",
+"6285536000067-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007873",
+"barcode": "6281100930037",
+"cat": 106,
+"ar": "شهيه مفروم دجاج رول 350 جم",
+"en": "Shahia Minced Chicken Roll 350 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19338665",
+"img_src": "ninja",
+"images": [
+"6281100930037.webp",
+"6281100930037-1.webp",
+"6281100930037-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007874",
+"barcode": "6285536000135",
+"cat": 15,
+"ar": "جولدن براون كوكيز براونيز 6 قطع 55 جم",
+"en": "Golden Brown Brownie Cookies 6 pcs 55 g",
+"price": 25.3,
+"special": 19.45,
+"src": "ninja",
+"ninja_id": "5-19339262",
+"img_src": "ninja",
+"images": [
+"6285536000135.webp",
+"6285536000135-1.webp",
+"6285536000135-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007875",
+"barcode": "6287007090454",
+"cat": 106,
+"ar": "رضوى صدور دجاج مجمد 450 جم",
+"en": "Radwa Frozen Breast Fillet 450 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-15309816",
+"img_src": "ninja",
+"images": [
+"6287007090454.webp",
+"6287007090454-1.webp",
+"6287007090454-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007876",
+"barcode": "6287007092939",
+"cat": 106,
+"ar": "رضوى صدر دجاج تندر مجمد 2.5 كجم",
+"en": "Radwa Frozen Chicken Tender Breast 2.5 kg",
+"price": 87.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-15311544",
+"img_src": "ninja",
+"images": [
+"6287007092939.webp",
+"6287007092939-1.webp",
+"6287007092939-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007877",
+"barcode": "7893000452763",
+"cat": 106,
+"ar": "ساديا برجر دجاج 12 قطعة 672 جم",
+"en": "Sadia Chicken Burger 12 pcs 672 g",
+"price": 22.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12150874",
+"img_src": "ninja",
+"images": [
+"7893000452763.webp",
+"7893000452763-1.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007878",
+"barcode": "7893000084995",
+"cat": 106,
+"ar": "ساديا برجر دجاج 20 قطعة 1 كجم",
+"en": "Sadia Chicken Burger 20 pcs 1 kg",
+"price": 32.95,
+"special": 27.95,
+"src": "ninja",
+"ninja_id": "5-12151099",
+"img_src": "ninja",
+"images": [
+"7893000084995.webp",
+"7893000084995-1.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007879",
+"barcode": "6281050114013",
+"cat": 106,
+"ar": "امريكانا برجر الدجاج بالبقسماط 15 حبة 840 جم",
+"en": "Americana Burger Chicken Breaded 15 Piece 840 g",
+"price": 30.95,
+"special": 20.62,
+"src": "ninja",
+"ninja_id": "5-4181",
+"img_src": "ninja",
+"images": [
+"6281050114013.webp",
+"6281050114013-1.webp",
+"6281050114013-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007880",
+"barcode": "8710438047349",
+"cat": 15,
+"ar": "ماكين بطاطس مقطعة رفيعة 2.5 كجم",
+"en": "McCain Thin Cut Potato 2.5 kg",
+"price": 46.95,
+"special": 33.95,
+"src": "ninja",
+"ninja_id": "5-12556823",
+"img_src": "ninja",
+"images": [
+"8710438047349.webp",
+"8710438047349-1.webp",
+"8710438047349-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007881",
+"barcode": "6281050115904",
+"cat": 15,
+"ar": "امريكانا كباب بقري بالخلطة التركية 600 جم",
+"en": "Americana Beef Kabab Turkish Recipe 600 g",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4275",
+"img_src": "ninja",
+"images": [
+"6281050115904.webp",
+"6281050115904-1.webp",
+"6281050115904-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007882",
+"barcode": "055773080001",
+"cat": 15,
+"ar": "ماكين بطاطس سوبر كرسبي 750 جم",
+"en": "McCain Super Crisps Fries 750 g",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19333931",
+"img_src": "ninja",
+"images": [
+"055773080001.webp",
+"055773080001-1.webp",
+"055773080001-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007883",
+"barcode": "6281102685799",
+"cat": 106,
+"ar": "هرفي برجر دجاج مشوي 12 × 56 جم",
+"en": "Herfy Grilled Chicken Burger 12 x 56 g",
+"price": 25.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-17178836",
+"img_src": "ninja",
+"images": [
+"6281102685799.webp",
+"6281102685799-1.webp",
+"6281102685799-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007884",
+"barcode": "6285536000012",
+"cat": 15,
+"ar": "جولدن براون كوكيز براونيز شوكولاته 225 جم",
+"en": "Golden Brown Cookies Brownies Chocolate 225 g",
+"price": 59.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-9547395",
+"img_src": "ninja",
+"images": [
+"6285536000012.webp",
+"6285536000012-1.webp",
+"6285536000012-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00007885",
+"barcode": "6281000122358",
+"cat": 9,
+"ar": "سوزو شعيرية الأرز 400 جم",
+"en": "Sozo Rice Sticks 400 g",
+"price": 23.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19372708",
+"img_src": "ninja",
+"images": [
+"6281000122358.webp",
+"6281000122358-1.webp",
+"6281000122358-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007886",
+"barcode": "6271003014019",
+"cat": 11,
+"ar": "فاخر طحين كويتي 1 كجم",
+"en": "Patent Flour Kuwaiti 1 kg",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-8108",
+"img_src": "ninja",
+"images": [
+"6271003014019.webp",
+"6271003014019-1.webp",
+"6271003014019-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007887",
+"barcode": "6285021000237",
+"cat": 11,
+"ar": "فوم دقيق ابيض 1 كجم",
+"en": "Foam Flour White 1 kg",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10919810",
+"img_src": "ninja",
+"images": [
+"6285021000237.webp",
+"6285021000237-1.webp",
+"6285021000237-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007888",
+"barcode": "6281011411069",
+"cat": 11,
+"ar": "الأسرة سكر ناعم 2 كجم",
+"en": "Alosra Sugar Fine 2 kg",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4797",
+"img_src": "ninja",
+"images": [
+"6281011411069.webp",
+"6281011411069-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007889",
+"barcode": "5352101542893",
+"cat": 11,
+"ar": "فوستر كلاركس كاسترد 450 جم",
+"en": "Foster Clarks Custard Powder 450 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11619585",
+"img_src": "ninja",
+"images": [
+"5352101542893.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007890",
+"barcode": "6287017150032",
+"cat": 11,
+"ar": "المطاحن الأولي طحين سوبر فاخر لجميع الاستعمالات 1 كجم",
+"en": "First Mills Super Patent Flour 1 kg",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19399381",
+"img_src": "ninja",
+"images": [
+"6287017150032.webp",
+"6287017150032-1.webp",
+"6287017150032-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007891",
+"barcode": "5285000911203",
+"cat": 11,
+"ar": "ستيفيانا سكر محلى 50 ظرف",
+"en": "Steviana Sweetener 50 Bag",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6936",
+"img_src": "ninja",
+"images": [
+"5285000911203.webp",
+"5285000911203-1.webp",
+"5285000911203-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007892",
+"barcode": "6281063223405",
+"cat": 11,
+"ar": "اورينت جاردن بيكنج صودا 340 جم",
+"en": "Orient Gardens Baking Soda 340 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355311",
+"img_src": "ninja",
+"images": [
+"6281063223405.webp",
+"6281063223405-1.webp",
+"6281063223405-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007893",
+"barcode": "6287017150711",
+"cat": 11,
+"ar": "الأولى خليط كيكة الشاي بالفانيلا 400 جم",
+"en": "Aloula Tea Cake Mix vanilla 400 g",
+"price": 9.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19399378",
+"img_src": "ninja",
+"images": [
+"6287017150711.webp",
+"6287017150711-1.webp",
+"6287017150711-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007894",
+"barcode": "7622300470326",
+"cat": 11,
+"ar": "دريم ويب كريمة مخفوقة 144 جم",
+"en": "Dream Whip Whipped Cream 144 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-8110",
+"img_src": "ninja",
+"images": [
+"7622300470326.webp",
+"7622300470326-1.webp",
+"7622300470326-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007895",
+"barcode": "6287019400241",
+"cat": 11,
+"ar": "قوت اند روت دقيق بر 1 كجم",
+"en": "Qoot & Root Brown flour 1 kg",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19308111",
+"img_src": "ninja",
+"images": [
+"6287019400241.webp",
+"6287019400241-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007896",
+"barcode": "5203912391173",
+"cat": 11,
+"ar": "بيتي كروكر خليط البانكيك أضيفي الماء فقط 360 جم",
+"en": "Betty Crocker Pancake Mix Just Add Water 360 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14289212",
+"img_src": "ninja",
+"images": [
+"5203912391173.webp",
+"5203912391173-1.webp",
+"5203912391173-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007897",
+"barcode": "6281063881544",
+"cat": 11,
+"ar": "فرشلي شيرة البانكيك الاصلية 709 مل",
+"en": "Freshly Original pancake syrup 709 ml",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19319090",
+"img_src": "ninja",
+"images": [
+"6281063881544.webp",
+"6281063881544-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007898",
+"barcode": "54061088",
+"cat": 11,
+"ar": "فيكتوريا خميرة جافة 500 جم",
+"en": "Victoria Yeast 500 g",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381339",
+"img_src": "ninja",
+"images": [
+"54061088.webp",
+"54061088-1.webp",
+"54061088-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007899",
+"barcode": "6287019400234",
+"cat": 11,
+"ar": "قوت اند روت دقيق فاخر 1 كجم",
+"en": "Qoot & Root Superior flour 1 kg",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19308103",
+"img_src": "ninja",
+"images": [
+"6287019400234.webp",
+"6287019400234-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007900",
+"barcode": "6287019400180",
+"cat": 11,
+"ar": "المطاحن الحديثة دقيق فاخر 1 كجم",
+"en": "Modern Mills Patent flour 1 kg",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19308106",
+"img_src": "ninja",
+"images": [
+"6287019400180.webp",
+"6287019400180-1.webp",
+"6287019400180-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007901",
+"barcode": "6281041114015",
+"cat": 11,
+"ar": "حلواني فانيلا 20 جم",
+"en": "Halwani Vanilla 20 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19357750",
+"img_src": "ninja",
+"images": [
+"6281041114015.webp",
+"6281041114015-1.webp",
+"6281041114015-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007902",
+"barcode": "54061095",
+"cat": 11,
+"ar": "فيكتوريا خميرة جافة 125 جم",
+"en": "Victoria Yeast 125 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381338",
+"img_src": "ninja",
+"images": [
+"54061095.webp",
+"54061095-1.webp",
+"54061095-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007903",
+"barcode": "6285021000251",
+"cat": 11,
+"ar": "فوم دقيق بر 1 كجم",
+"en": "Foam Flour Brown 1 kg",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10921149",
+"img_src": "ninja",
+"images": [
+"6285021000251.webp",
+"6285021000251-1.webp",
+"6285021000251-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007904",
+"barcode": "6281063881759",
+"cat": 11,
+"ar": "فرشلي سيروب الحلويات العربية 710 مل",
+"en": "Freshly Arabic Dessert Syrup 710 ml",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-771",
+"img_src": "ninja",
+"images": [
+"6281063881759.webp",
+"6281063881759-1.webp",
+"6281063881759-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007905",
+"barcode": "6281041114916",
+"cat": 11,
+"ar": "حلواني بيكنج بودر 100 جم",
+"en": "Halwani Baking Powder 100 g",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19357751",
+"img_src": "ninja",
+"images": [
+"6281041114916.webp",
+"6281041114916-1.webp",
+"6281041114916-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007906",
+"barcode": "5352101825736",
+"cat": 11,
+"ar": "فوستر كلاركس بيكينج بودر 110 جم",
+"en": "Foster Clarks Baking Powder 110 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-17402150",
+"img_src": "ninja",
+"images": [
+"5352101825736.webp",
+"5352101825736-1.webp",
+"5352101825736-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007907",
+"barcode": "5352101009372",
+"cat": 11,
+"ar": "فوستر كلاركس جيلي كرز 80 جم",
+"en": "Foster Clarks Jelly Dessert Cherry 80 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-17401979",
+"img_src": "ninja",
+"images": [
+"5352101009372.webp",
+"5352101009372-1.webp",
+"5352101009372-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007908",
+"barcode": "6291105694742",
+"cat": 11,
+"ar": "بليزبيري خليط الكيك بالشوكلاتة 360 جم",
+"en": "Pillsbury Cake Mix Choco 360 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398245",
+"img_src": "ninja",
+"images": [
+"6291105694742.webp",
+"6291105694742-1.webp",
+"6291105694742-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007909",
+"barcode": "8690547194984",
+"cat": 11,
+"ar": "كينتون كريمة خفق بنكهة الفانيليا 75 جم",
+"en": "Kenton Whipped Topping Vanilla 75 g",
+"price": 9.95,
+"special": 6.95,
+"src": "ninja",
+"ninja_id": "5-19402524",
+"img_src": "ninja",
+"images": [
+"8690547194984.webp",
+"8690547194984-1.webp",
+"8690547194984-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007910",
+"barcode": "617950200901",
+"cat": 11,
+"ar": "العلالي خليط بانكيك كريب وافل 360 جم",
+"en": "Alalali Pancake mix Crepe Waffle 360 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6770042",
+"img_src": "ninja",
+"images": [
+"617950200901.webp",
+"617950200901-1.webp",
+"617950200901-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007911",
+"barcode": "5352101243387",
+"cat": 11,
+"ar": "فوستر كلاركس حلوى جيلي التوت 80 جم",
+"en": "Foster Clarks Jelly Dessert Raspberry 80 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397255",
+"img_src": "ninja",
+"images": [
+"5352101243387.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007912",
+"barcode": "016000721401",
+"cat": 11,
+"ar": "بيتي كروكر خليط البانكيك 907 جم",
+"en": "Betty Crocker Pancake Mix 907 g",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-412",
+"img_src": "ninja",
+"images": [
+"016000721401.webp",
+"016000721401-1.webp",
+"016000721401-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007913",
+"barcode": "617950200628",
+"cat": 11,
+"ar": "العلالي بيكنج باودر 100 جم",
+"en": "Alalali Baking Powder 100 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6773389",
+"img_src": "ninja",
+"images": [
+"617950200628.webp",
+"617950200628-1.webp",
+"617950200628-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007914",
+"barcode": "717273501591",
+"cat": 11,
+"ar": "أمريكان جاردن شراب البانكيك 680 جم",
+"en": "American Garden Pancake Syrup, 680 g",
+"price": 28.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19318397",
+"img_src": "ninja",
+"images": [
+"717273501591.webp",
+"717273501591-1.webp",
+"717273501591-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007915",
+"barcode": "50296101",
+"cat": 11,
+"ar": "رينرز نكهة الفانيليا 28 مل",
+"en": "Rayners Vanilla Essence 28 ml",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317562",
+"img_src": "ninja",
+"images": [
+"50296101.webp",
+"50296101-1.webp",
+"50296101-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007916",
+"barcode": "5285000910220",
+"cat": 11,
+"ar": "ستيفيانا سكر محلى 100 ظرف",
+"en": "Steviana Sweetener Tablets 100 Bag",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6938",
+"img_src": "ninja",
+"images": [
+"5285000910220.webp",
+"5285000910220-1.webp",
+"5285000910220-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007917",
+"barcode": "5352101434501",
+"cat": 11,
+"ar": "فوستر كلاركس نكهه طعام فانيلا 28 جم",
+"en": "Foster Clarks Food Essence Vanilla 28 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11621374",
+"img_src": "ninja",
+"images": [
+"5352101434501.webp",
+"5352101434501-1.webp",
+"5352101434501-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007918",
+"barcode": "5010084907862",
+"cat": 11,
+"ar": "بيتي كروكر خليط كيك فانيليا 430 جم",
+"en": "Betty Crocker French Vanilla Cake Mix 430 g",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349362",
+"img_src": "ninja",
+"images": [
+"5010084907862.webp",
+"5010084907862-1.webp",
+"5010084907862-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007919",
+"barcode": "013300280652",
+"cat": 11,
+"ar": "هانجري جاك خليط البانكيك والوافل الخفيف الوزن الصافي 907 جم",
+"en": "Hungry Jack Extra light Fluffy Pancake mix 907 g",
+"price": 24.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19423802",
+"img_src": "ninja",
+"images": [
+"013300280652.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007920",
+"barcode": "5203912391425",
+"cat": 11,
+"ar": "بيتي كروكر خليط فدج البراوني بالشوكولاته الداكنة 500 جم",
+"en": "Betty Crocker Dark Chocolate Fudge Brownie Mix 500 g",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14289820",
+"img_src": "ninja",
+"images": [
+"5203912391425.webp",
+"5203912391425-1.webp",
+"5203912391425-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007921",
+"barcode": "4104220122057",
+"cat": 11,
+"ar": "هنتز مسحوق الكاكاو ناعم 227 جم",
+"en": "Hintz Cocoa Powder 227 g",
+"price": 79.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-710",
+"img_src": "ninja",
+"images": [
+"4104220122057.webp",
+"4104220122057-1.webp",
+"4104220122057-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007922",
+"barcode": "6281101490790",
+"cat": 11,
+"ar": "الخير سكر 100 ظرف",
+"en": "Alkhair Sugar 100 Envelop",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289906",
+"img_src": "ninja",
+"images": [
+"6281101490790.webp",
+"6281101490790-1.webp",
+"6281101490790-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007923",
+"barcode": "5352101007897",
+"cat": 11,
+"ar": "فوستر كلاركس خليط براوني شوكولاته بالبندق 500 جم",
+"en": "Foster Clarks Brownie Mix Chocolate Hazelnut 500 g",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397264",
+"img_src": "ninja",
+"images": [
+"5352101007897.webp",
+"5352101007897-1.webp",
+"5352101007897-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007924",
+"barcode": "013300928073",
+"cat": 11,
+"ar": "هانجري جاك شراب الذرة الاصلي الوزن الصافي 429 مل",
+"en": "Hungry Jack Original Pancake Syrup 429 ml",
+"price": 17.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19423804",
+"img_src": "ninja",
+"images": [
+"013300928073.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007925",
+"barcode": "5352101142611",
+"cat": 11,
+"ar": "فوستر كلاركس بيكينج بودر 225 جم",
+"en": "Foster Clarks Baking Powder 225 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-17402385",
+"img_src": "ninja",
+"images": [
+"5352101142611.webp",
+"5352101142611-1.webp",
+"5352101142611-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007926",
+"barcode": "016000437708",
+"cat": 11,
+"ar": "بيتي كروكر خليط الكيك الأبيض 500 جم",
+"en": "Betty Crocker White Cake Mix 500 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-413",
+"img_src": "ninja",
+"images": [
+"016000437708.webp",
+"016000437708-1.webp",
+"016000437708-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007927",
+"barcode": "016000437500",
+"cat": 11,
+"ar": "بيتي كروكر خليط كيك أبيض بالشوكولاته 500 جم",
+"en": "Betty Crocker White Chocolate Swirl Cake 500 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-419",
+"img_src": "ninja",
+"images": [
+"016000437500.webp",
+"016000437500-1.webp",
+"016000437500-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007928",
+"barcode": "6281063881889",
+"cat": 11,
+"ar": "فرشلي حشوة فطيرة الفراولة 595 جم",
+"en": "Freshly Strawberry Pie Filling 595 g",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-773",
+"img_src": "ninja",
+"images": [
+"6281063881889.webp",
+"6281063881889-1.webp",
+"6281063881889-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007929",
+"barcode": "6281041092214",
+"cat": 11,
+"ar": "حلواني سكر مكعب 500 جم",
+"en": "Halwani Sugar Cubes 500 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19357733",
+"img_src": "ninja",
+"images": [
+"6281041092214.webp",
+"6281041092214-1.webp",
+"6281041092214-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007930",
+"barcode": "856017003387",
+"cat": 11,
+"ar": "بريتش بينديرس مسحوق خليط وافل وبانكيك عضوي كلاسيكي الوزن الصافي 454 جم",
+"en": "Birch Benders Pancake & waffle mix classic recipe 454 g",
+"price": 31.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-19423801",
+"img_src": "ninja",
+"images": [
+"856017003387.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007931",
+"barcode": "013300101629",
+"cat": 11,
+"ar": "هانجري جاك مسحوق خليط الوافل البلجيكي الوزن الصافي 794 جم",
+"en": "Hungry Jack Belgian Waffle mix 794 g",
+"price": 24.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19423803",
+"img_src": "ninja",
+"images": [
+"013300101629.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007932",
+"barcode": "6287017150759",
+"cat": 11,
+"ar": "الأولى خليط كيكة الشاي بالبرتقال 400 جم",
+"en": "Aloula Tea Cake Mix orange 400 g",
+"price": 9.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19399377",
+"img_src": "ninja",
+"images": [
+"6287017150759.webp",
+"6287017150759-1.webp",
+"6287017150759-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007933",
+"barcode": "6281014146005",
+"cat": 11,
+"ar": "قودي شيرة البانكيك الأصلية 710 مل",
+"en": "Goody Pancake Syrup Original 710 ml",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381080",
+"img_src": "ninja",
+"images": [
+"6281014146005.webp",
+"6281014146005-1.webp",
+"6281014146005-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007934",
+"barcode": "5010084908449",
+"cat": 11,
+"ar": "بيتي كروكر سينابون كريمة تزيين 400 جم",
+"en": "Betty Crocker Cinnabon Cream Cheese Frosting 400 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381079",
+"img_src": "ninja",
+"images": [
+"5010084908449.webp",
+"5010084908449-1.webp",
+"5010084908449-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007935",
+"barcode": "016000578609",
+"cat": 11,
+"ar": "بيتي كروكر خليط الكويكز بقطع الشوكولاته 496 جم",
+"en": "Betty Crocker Chocolate Chip Cookie Mix 496 g",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14289125",
+"img_src": "ninja",
+"images": [
+"016000578609.webp",
+"016000578609-1.webp",
+"016000578609-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007936",
+"barcode": "5352101302831",
+"cat": 11,
+"ar": "فوستر كلاركس نشا 100 جم",
+"en": "Foster Clarks Corn Flour 100 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11619925",
+"img_src": "ninja",
+"images": [
+"5352101302831.webp",
+"5352101302831-1.webp",
+"5352101302831-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007937",
+"barcode": "6291105694759",
+"cat": 11,
+"ar": "بليزبيري خليط الكيك بالشوكلاتة الداكنة 360 جم",
+"en": "Pillsbury Cake Mix Dark Choco 360 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398246",
+"img_src": "ninja",
+"images": [
+"6291105694759.webp",
+"6291105694759-1.webp",
+"6291105694759-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007938",
+"barcode": "6291105694728",
+"cat": 11,
+"ar": "بليزبيري خليط الكيك بالفانيلا 360 جم",
+"en": "Pillsbury Cake Mix Vanilla 360 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398247",
+"img_src": "ninja",
+"images": [
+"6291105694728.webp",
+"6291105694728-1.webp",
+"6291105694728-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007939",
+"barcode": "5352101003622",
+"cat": 11,
+"ar": "فوستر كلاركس حلوى جيلي الكرز الحامض 80 جم",
+"en": "Foster Clarks Jelly Dessert Sour Cherry 80 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397258",
+"img_src": "ninja",
+"images": [
+"5352101003622.webp",
+"5352101003622-1.webp",
+"5352101003622-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007940",
+"barcode": "5352101866180",
+"cat": 11,
+"ar": "فوستر كلاركس لقمة القاضي 500 جم",
+"en": "Foster Clarks Dumpling Mix 500 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397260",
+"img_src": "ninja",
+"images": [
+"5352101866180.webp",
+"5352101866180-1.webp",
+"5352101866180-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007941",
+"barcode": "5352101006258",
+"cat": 11,
+"ar": "فوستر كلاركس خليط كيك مولتن لافا بالشوكولاتة 400 جم",
+"en": "Foster Clark's Chocolate Molten Lava Cake Mix 400 g",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397272",
+"img_src": "ninja",
+"images": [
+"5352101006258.webp",
+"5352101006258-1.webp",
+"5352101006258-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007942",
+"barcode": "6281063881858",
+"cat": 11,
+"ar": "فرشلي حشوة فطيرة التوت الأزرق 595 جم",
+"en": "Freshly Blueberry Pie Filling 595 g",
+"price": 32.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-725",
+"img_src": "ninja",
+"images": [
+"6281063881858.webp",
+"6281063881858-1.webp",
+"6281063881858-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007943",
+"barcode": "6281014992008",
+"cat": 11,
+"ar": "بست مكس سكر بودرة 300 جم",
+"en": "Best Mix Icing Sugar 300 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294052",
+"img_src": "ninja",
+"images": [
+"6281014992008.webp",
+"6281014992008-1.webp",
+"6281014992008-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007944",
+"barcode": "5352101422614",
+"cat": 11,
+"ar": "فوستر كلاركس كريم كراميل بالعسل 71 جم",
+"en": "Foster Clarks Creme Caramel Honey 71 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-17401881",
+"img_src": "ninja",
+"images": [
+"5352101422614.webp",
+"5352101422614-1.webp",
+"5352101422614-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007945",
+"barcode": "5352101363856",
+"cat": 11,
+"ar": "فوستر كلاركس خليط كيك شوكولاتة بالحليب 500 جم",
+"en": "Foster Clark's Milk Chocolate Cake Mix 500 g",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-17401900",
+"img_src": "ninja",
+"images": [
+"5352101363856.webp",
+"5352101363856-1.webp",
+"5352101363856-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007946",
+"barcode": "617950200543",
+"cat": 11,
+"ar": "العلالي نشاء الذرة علبة 450 جم",
+"en": "Alalali Corn Flour Tins 450 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6875287",
+"img_src": "ninja",
+"images": [
+"617950200543.webp",
+"617950200543-1.webp",
+"617950200543-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007947",
+"barcode": "617950202363",
+"cat": 11,
+"ar": "العلالي كريم شانتيه 72 جم",
+"en": "Alalali Cream Delight 72 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6765494",
+"img_src": "ninja",
+"images": [
+"617950202363.webp",
+"617950202363-1.webp",
+"617950202363-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007948",
+"barcode": "617950200567",
+"cat": 11,
+"ar": "العلالي نشاء الذرة باكيت صغير 100 جم",
+"en": "Alalali Corn Flour Small Packet 100 g",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6876098",
+"img_src": "ninja",
+"images": [
+"617950200567.webp",
+"617950200567-1.webp",
+"617950200567-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007949",
+"barcode": "5352101947193",
+"cat": 11,
+"ar": "فوستر كلاركس نشا الذرة 200 جم",
+"en": "Foster Clarks Corn Flour 200 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397253",
+"img_src": "ninja",
+"images": [
+"5352101947193.webp",
+"5352101947193-1.webp",
+"5352101947193-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007950",
+"barcode": "709993302015",
+"cat": 9,
+"ar": "أرض الطبيعة أرز بسمتي أسمر عضوي 1 كجم",
+"en": "Natureland Basmati Rice Brown Organic 1 kg",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-8139",
+"img_src": "ninja",
+"images": [
+"709993302015.webp",
+"709993302015-1.webp",
+"709993302015-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007951",
+"barcode": "6287043030674",
+"cat": 9,
+"ar": "بركة السنابل مكرونة شعيرية مقطعة 450 جم",
+"en": "Barakah Al Sanabil Vermicelli 450 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355271",
+"img_src": "ninja",
+"images": [
+"6287043030674.webp",
+"6287043030674-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007952",
+"barcode": "6287043030667",
+"cat": 9,
+"ar": "بركة السنابل مكرونة مبرومة 450 جم",
+"en": "Barakah Al Sanabil Fusilli 450 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355272",
+"img_src": "ninja",
+"images": [
+"6287043030667.webp",
+"6287043030667-1.webp",
+"6287043030667-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007953",
+"barcode": "9310140010519",
+"cat": 9,
+"ar": "صنوايت أرز 5 كجم",
+"en": "Sunwhite Rice 5 kg",
+"price": 51.95,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-4787",
+"img_src": "ninja",
+"images": [
+"9310140010519.webp",
+"9310140010519-1.webp",
+"9310140010519-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007954",
+"barcode": "6287043030735",
+"cat": 9,
+"ar": "بركة السنابل مكرونة أكواع 450 جم",
+"en": "Barakah Al Sanabil Chiffari Lisci 450 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355265",
+"img_src": "ninja",
+"images": [
+"6287043030735.webp",
+"6287043030735-1.webp",
+"6287043030735-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007955",
+"barcode": "6281014306980",
+"cat": 9,
+"ar": "قودي مكرونة خواتم مخططة 450 جم",
+"en": "Goody Pasta Ditalini Rigate 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-269",
+"img_src": "ninja",
+"images": [
+"6281014306980.webp",
+"6281014306980-1.webp",
+"6281014306980-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007956",
+"barcode": "6281014300131",
+"cat": 9,
+"ar": "تريفا مكرونة أقلام مخططة 400 جم",
+"en": "Treva Macaroni Penne Rigate 400 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14284657",
+"img_src": "ninja",
+"images": [
+"6281014300131.webp",
+"6281014300131-1.webp",
+"6281014300131-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007957",
+"barcode": "6281014306966",
+"cat": 9,
+"ar": "قودي مكرونة خواتم صغيرة 450 جم",
+"en": "Goody Pasta Ditalini Lisce 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-267",
+"img_src": "ninja",
+"images": [
+"6281014306966.webp",
+"6281014306966-1.webp",
+"6281014306966-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007958",
+"barcode": "6281100410072",
+"cat": 9,
+"ar": "ابو كاس أرز مزة بسمتي 5 كجم",
+"en": "Abu Kass Indian Sella Basmati Rice 5 kg",
+"price": 48.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-8106",
+"img_src": "ninja",
+"images": [
+"6281100410072.webp",
+"6281100410072-1.webp",
+"6281100410072-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007959",
+"barcode": "6281063771524",
+"cat": 9,
+"ar": "فرشلي فتوتشيني 454 جم",
+"en": "Freshly Fettuccine 454 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355318",
+"img_src": "ninja",
+"images": [
+"6281063771524.webp",
+"6281063771524-1.webp",
+"6281063771524-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007960",
+"barcode": "6287043030650",
+"cat": 9,
+"ar": "بركة السنابل مكرونة لسان العصفور 450 جم",
+"en": "Barakah Al Sanabil Orzo 450 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355273",
+"img_src": "ninja",
+"images": [
+"6287043030650.webp",
+"6287043030650-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007961",
+"barcode": "6281014402101",
+"cat": 9,
+"ar": "بيرفيتو مكرونة نوتشيولي 500 جم",
+"en": "Perfetto Nocciole Pasta 500 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19372799",
+"img_src": "ninja",
+"images": [
+"6281014402101.webp",
+"6281014402101-1.webp",
+"6281014402101-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007962",
+"barcode": "6281014306997",
+"cat": 9,
+"ar": "قودي مكرونة أكواع صغيره 450 جم",
+"en": "Goody Pasta Elbow 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294046",
+"img_src": "ninja",
+"images": [
+"6281014306997.webp",
+"6281014306997-1.webp",
+"6281014306997-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007963",
+"barcode": "6287043030742",
+"cat": 9,
+"ar": "بركة السنابل مكرونه إسباكتيني رفيعة أكثر 450 جم",
+"en": "Barakah Al Sanabil Spaghettini 450 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355250",
+"img_src": "ninja",
+"images": [
+"6287043030742.webp",
+"6287043030742-1.webp",
+"6287043030742-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007964",
+"barcode": "6287043030704",
+"cat": 9,
+"ar": "بركة السنابل مكرونة خواتم صغيره 450 جم",
+"en": "Barakah Al Sanabil Ditalini Lisci 450 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355251",
+"img_src": "ninja",
+"images": [
+"6287043030704.webp",
+"6287043030704-1.webp",
+"6287043030704-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007965",
+"barcode": "6281100200413",
+"cat": 9,
+"ar": "الوليمة أرز مزة بسمتي هندي 5 كجم",
+"en": "Alwalimah Indian Sella Basmati Rice 5 kg",
+"price": 52.95,
+"special": 47.95,
+"src": "ninja",
+"ninja_id": "5-4776",
+"img_src": "ninja",
+"images": [
+"6281100200413.webp",
+"6281100200413-1.webp",
+"6281100200413-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007966",
+"barcode": "6281014300186",
+"cat": 9,
+"ar": "تريفا مكرونة خواتم كبيرة 400 جم",
+"en": "Treva Macaroni Ditalini Rigate 400 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14283978",
+"img_src": "ninja",
+"images": [
+"6281014300186.webp",
+"6281014300186-1.webp",
+"6281014300186-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007967",
+"barcode": "8690946423098",
+"cat": 9,
+"ar": "ماريتي معكرونة ذات الكوع الكبير مع خط 400 جم",
+"en": "Maretti Pasta Big Elbow With Line 400 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401637",
+"img_src": "ninja",
+"images": [
+"8690946423098.webp",
+"8690946423098-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007968",
+"barcode": "8690946423074",
+"cat": 9,
+"ar": "ماريتي مكرونة ديتالوني 400 جم",
+"en": "Maretti Pasta Ditaloni 400 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401635",
+"img_src": "ninja",
+"images": [
+"8690946423074.webp",
+"8690946423074-1.webp",
+"8690946423074-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007969",
+"barcode": "6285131009328",
+"cat": 9,
+"ar": "المهباج سميد خشن 800 جم",
+"en": "Almehbaj Coarse Semolina 800 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1129283",
+"img_src": "ninja",
+"images": [
+"6285131009328.webp",
+"6285131009328-1.webp",
+"6285131009328-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007970",
+"barcode": "6281100200024",
+"cat": 9,
+"ar": "العائلة أرز بسمتي أبيض هندي عنبر بشاور 5 كجم",
+"en": "Alaila Indian White Basmati Rice Amber Bashawer 5 kg",
+"price": 52.95,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-658230",
+"img_src": "ninja",
+"images": [
+"6281100200024.webp",
+"6281100200024-1.webp",
+"6281100200024-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007971",
+"barcode": "6287043032128",
+"cat": 9,
+"ar": "بركة السنابل مكرونة انابيب 450 جم",
+"en": "Barakah Al Sanabil Sedani 450 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355274",
+"img_src": "ninja",
+"images": [
+"6287043032128.webp",
+"6287043032128-1.webp",
+"6287043032128-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007972",
+"barcode": "071771554252",
+"cat": 9,
+"ar": "أبو بنت رز امريكي 2 كجم",
+"en": "Abu Bint American Rice 2 kg",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287042",
+"img_src": "ninja",
+"images": [
+"071771554252.webp",
+"071771554252-1.webp",
+"071771554252-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007973",
+"barcode": "6287029191894",
+"cat": 9,
+"ar": "اطايب سميد خشن 800 جم",
+"en": "Atayib Coarse Semolina 800 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327639",
+"img_src": "ninja",
+"images": [
+"6287029191894.webp",
+"6287029191894-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007974",
+"barcode": "6287043030681",
+"cat": 9,
+"ar": "بركة السنابل مكرونة أقلام مخططة 450 جم",
+"en": "Barakah Al Sanabil Penne Rigate 450 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355269",
+"img_src": "ninja",
+"images": [
+"6287043030681.webp",
+"6287043030681-1.webp",
+"6287043030681-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007975",
+"barcode": "6281014307000",
+"cat": 9,
+"ar": "قودي مكرونة أصداف 450 جم",
+"en": "Goody Pasta Conchigli 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294033",
+"img_src": "ninja",
+"images": [
+"6281014307000.webp",
+"6281014307000-1.webp",
+"6281014307000-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007976",
+"barcode": "6287012424121",
+"cat": 9,
+"ar": "الغربي سميد ناعم 900 جم",
+"en": "Al Gharbi Fine Semolina 900 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19313013",
+"img_src": "ninja",
+"images": [
+"6287012424121.webp",
+"6287012424121-1.webp",
+"6287012424121-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007977",
+"barcode": "6281063883456",
+"cat": 9,
+"ar": "فرشلي فشار اصفر 454 جم",
+"en": "Freshly Yellow Popcorn 454 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19344329",
+"img_src": "ninja",
+"images": [
+"6281063883456.webp",
+"6281063883456-1.webp",
+"6281063883456-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007978",
+"barcode": "617950300823",
+"cat": 9,
+"ar": "العلالي مكرونة ايطالية فوسيلي 450 جم",
+"en": "Alalali Italian Macaroni Fusilli 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6725680",
+"img_src": "ninja",
+"images": [
+"617950300823.webp",
+"617950300823-1.webp",
+"617950300823-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007979",
+"barcode": "6287043030643",
+"cat": 9,
+"ar": "بركة السنابل مكرونة أكواع كبيرة 450 جم",
+"en": "Barakah Al Sanabil Chiffari Rigate 450 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355264",
+"img_src": "ninja",
+"images": [
+"6287043030643.webp",
+"6287043030643-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007980",
+"barcode": "617950300991",
+"cat": 9,
+"ar": "العلالي مكرونة ايطالية خواتم طويلة 450 جم",
+"en": "Alalali Italian Macaroni Penne 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6726000",
+"img_src": "ninja",
+"images": [
+"617950300991.webp",
+"617950300991-1.webp",
+"617950300991-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007981",
+"barcode": "3660861000648",
+"cat": 9,
+"ar": "سيبا كسكوس ناعم 500 جم",
+"en": "Sipa Fine Couscous 500 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355302",
+"img_src": "ninja",
+"images": [
+"3660861000648.webp",
+"3660861000648-1.webp",
+"3660861000648-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007982",
+"barcode": "6281014472210",
+"cat": 9,
+"ar": "بيرفيتو مكرونة اسباغتيني 450 جم",
+"en": "Perfetto Thin Spaghettini Pasta 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19372801",
+"img_src": "ninja",
+"images": [
+"6281014472210.webp",
+"6281014472210-1.webp",
+"6281014472210-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007983",
+"barcode": "6287017151039",
+"cat": 9,
+"ar": "الاولى سميد خشن 800 جم",
+"en": "Aloula Coarse Semolina 800 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19356677",
+"img_src": "ninja",
+"images": [
+"6287017151039.webp",
+"6287017151039-1.webp",
+"6287017151039-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007984",
+"barcode": "6281100205852",
+"cat": 9,
+"ar": "العائلة أرز بسمتي أبيض هندي 5 كجم",
+"en": "Alaila Indian White Basmati Rice 5 kg",
+"price": 59.95,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-630709",
+"img_src": "ninja",
+"images": [
+"6281100205852.webp",
+"6281100205852-1.webp",
+"6281100205852-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007985",
+"barcode": "8906001090472",
+"cat": 9,
+"ar": "الشعلان أرز بنجابي 5 كجم",
+"en": "Alshalan Punjabi Rice 5 kg",
+"price": 49.95,
+"special": 43.95,
+"src": "ninja",
+"ninja_id": "5-19375103",
+"img_src": "ninja",
+"images": [
+"8906001090472.webp",
+"8906001090472-1.webp",
+"8906001090472-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007986",
+"barcode": "8000139910159",
+"cat": 9,
+"ar": "غاروفالو مكرونه لنغويني ايطالي 500 جم",
+"en": "Garofalo Linguine pasta Italy 500 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19399688",
+"img_src": "ninja",
+"images": [
+"8000139910159.webp",
+"8000139910159-1.webp",
+"8000139910159-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007987",
+"barcode": "6287029192044",
+"cat": 9,
+"ar": "مقدار بذور الكينوا 250 جم",
+"en": "Mqdar Quinoa Seeds 250 g",
+"price": 19.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19295352",
+"img_src": "ninja",
+"images": [
+"6287029192044.webp",
+"6287029192044-1.webp",
+"6287029192044-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007988",
+"barcode": "8690946423067",
+"cat": 9,
+"ar": "ماريتي معكرونة لوماكوني ريجاتي 400 جم",
+"en": "Maretti Pasta Lumaconi Rigate 400 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401634",
+"img_src": "ninja",
+"images": [
+"8690946423067.webp",
+"8690946423067-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007989",
+"barcode": "617950301059",
+"cat": 9,
+"ar": "العلالي مكرونة رقم 105 روتي 450 جم",
+"en": "ALALALI Pasta Cuts No.105 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19413112",
+"img_src": "ninja",
+"images": [
+"617950301059.webp",
+"617950301059-1.webp",
+"617950301059-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007990",
+"barcode": "6281091003819",
+"cat": 9,
+"ar": "تاج الهند رويال أرز بسمتي هندي أبيض طويل الحبة درجة أولى 1 كجم",
+"en": "Taj al hind royal First Grade Indian White Long Grain Basmati Rice 1 kg",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407944",
+"img_src": "ninja",
+"images": [
+"6281091003819.webp",
+"6281091003819-1.webp",
+"6281091003819-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007991",
+"barcode": "6287012424145",
+"cat": 9,
+"ar": "الغربي عدس بني 900 جم",
+"en": "Al Gharbi Brown Lentils 900 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19313009",
+"img_src": "ninja",
+"images": [
+"6287012424145.webp",
+"6287012424145-1.webp",
+"6287012424145-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007992",
+"barcode": "6281100201861",
+"cat": 9,
+"ar": "العائلة أرز بسمتي أبيض هندي 2 كجم",
+"en": "Alaila Indian White Basmati Rice 2 kg",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-630695",
+"img_src": "ninja",
+"images": [
+"6281100201861.webp",
+"6281100201861-1.webp",
+"6281100201861-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007993",
+"barcode": "617950300052",
+"cat": 9,
+"ar": "العلالي اسباغتي إيطالية 400 جم",
+"en": "Alalali Italian Spaghetti 400 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6724993",
+"img_src": "ninja",
+"images": [
+"617950300052.webp",
+"617950300052-1.webp",
+"617950300052-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007994",
+"barcode": "6281100412151",
+"cat": 9,
+"ar": "ابوكاس أرز بنجابي عنبر هندي بسمتي أبيض 5 كجم",
+"en": "Abu Kass Punjabi Rice Amber Indian White Basmati 5 kg",
+"price": 53.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6929337",
+"img_src": "ninja",
+"images": [
+"6281100412151.webp",
+"6281100412151-1.webp",
+"6281100412151-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007995",
+"barcode": "6287043030728",
+"cat": 9,
+"ar": "بركة السنابل مكرونة أجراس 450 جم",
+"en": "Barakah Al Sanabil Pipe Rigate 450 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355268",
+"img_src": "ninja",
+"images": [
+"6287043030728.webp",
+"6287043030728-1.webp",
+"6287043030728-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007996",
+"barcode": "681250040284",
+"cat": 9,
+"ar": "مجدي ماش ابيض 800 جم",
+"en": "Majdi Urid Dal White 800 g",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19393348",
+"img_src": "ninja",
+"images": [
+"681250040284.webp",
+"681250040284-1.webp",
+"681250040284-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007997",
+"barcode": "617950301110",
+"cat": 9,
+"ar": "العلالي مكرونة رقم 111 مانكوتي 450 جم",
+"en": "ALALALI Pasta Cuts No.111 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19413113",
+"img_src": "ninja",
+"images": [
+"617950301110.webp",
+"617950301110-1.webp",
+"617950301110-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007998",
+"barcode": "6294001832461",
+"cat": 9,
+"ar": "أرز أبو سيوف أرز امريكي 0.9 كجم",
+"en": "Abu Siouf American Rice 0.9 kg",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370164",
+"img_src": "ninja",
+"images": [
+"6294001832461.webp",
+"6294001832461-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00007999",
+"barcode": "6285131010591",
+"cat": 9,
+"ar": "المهباج حمص رقم 12- 800 جم",
+"en": "Almehbaj Chick Peas No 12 800 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292598",
+"img_src": "ninja",
+"images": [
+"6285131010591.webp",
+"6285131010591-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008000",
+"barcode": "617950300724",
+"cat": 9,
+"ar": "العلالي مكرونة ايطالية خواتم 450 جم",
+"en": "Alalali Italian Macaroni Rigato 450 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6725877",
+"img_src": "ninja",
+"images": [
+"617950300724.webp",
+"617950300724-1.webp",
+"617950300724-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008001",
+"barcode": "6281091002447",
+"cat": 9,
+"ar": "أورلاندا أرز كالروز مصري 5 كجم",
+"en": "Orlanda Egyptian Calrose Rice 5 kg",
+"price": 39.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349959",
+"img_src": "ninja",
+"images": [
+"6281091002447.webp",
+"6281091002447-1.webp",
+"6281091002447-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008002",
+"barcode": "6281091003321",
+"cat": 9,
+"ar": "تاج الهند أرز بسمتي هندي أبيض طويل الحبة 5 كجم",
+"en": "Taj Al Hind Indian White Long Grain Basmati Rice 5 kg",
+"price": 53.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349977",
+"img_src": "ninja",
+"images": [
+"6281091003321.webp",
+"6281091003321-1.webp",
+"6281091003321-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008003",
+"barcode": "3177960004540",
+"cat": 9,
+"ar": "سيبا كسكسو أبوجمل فرنسي سيبا 500 جم",
+"en": "Sipa medium couscous 500 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19319095",
+"img_src": "ninja",
+"images": [
+"3177960004540.webp",
+"3177960004540-1.webp",
+"3177960004540-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008004",
+"barcode": "6287012424107",
+"cat": 9,
+"ar": "الغربي فول مجروش 900 جم",
+"en": "Al Gharbi Crushed Beans 900 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19313010",
+"img_src": "ninja",
+"images": [
+"6287012424107.webp",
+"6287012424107-1.webp",
+"6287012424107-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008005",
+"barcode": "5033712160514",
+"cat": 106,
+"ar": "الكبير لحم دجاج مفروم مجمد 400 جم",
+"en": "Al Kabeer Frozen Minced Chicken 400 g",
+"price": 12.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5033712160514.webp",
+"5033712160514-1.webp",
+"5033712160514-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00008006",
+"barcode": "6287007094049",
+"cat": 106,
+"ar": "رضوى صدور دجاج متبلة بالأعشاب الإيطالية 450 جم",
+"en": "Radwa Italian Herb Marinated Chicken Breast 450 g",
+"price": 34.95,
+"special": 29.7,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6287007094049.webp",
+"6287007094049-1.webp",
+"6287007094049-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00008007",
+"barcode": "6287007090409",
+"cat": 106,
+"ar": "رضوى دجاج كامل مجمد 1100 جم",
+"en": "Radwa Whole Chicken In Bag 1100 g",
+"price": 22.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6287007090409.webp",
+"6287007090409-1.webp",
+"6287007090409-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00008008",
+"barcode": "5033712111196",
+"cat": 15,
+"ar": "الكبير كفتة عربية 300 جم",
+"en": "Al Kabeer Arabic Kofta 300 g",
+"price": 16.5,
+"special": 14.02,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5033712111196.webp",
+"5033712111196-1.webp",
+"5033712111196-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00008009",
+"barcode": "6287007092441",
+"cat": 15,
+"ar": "رضوى ستربس دجاج حار 600 جم",
+"en": "Radwa Spicy Chicken Strips 600 g",
+"price": 31.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6287007092441.webp",
+"6287007092441-1.webp",
+"6287007092441-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00008010",
+"barcode": "5033712461581",
+"cat": 15,
+"ar": "الكبير كريزي ناجتس دجاج مقرمش 750 جم",
+"en": "Al Kabeer Krazee Chicken Nuggets 750 g",
+"price": 33.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5033712461581.webp",
+"5033712461581-1.webp",
+"5033712461581-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00008011",
+"barcode": "6287007092137",
+"cat": 106,
+"ar": "رضوى برجر دجاج بالبقسماط مجمد 1440 جم",
+"en": "Radwa Breaded Frozen Chicken Burger 1440 g",
+"price": 54.95,
+"special": 38.46,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6287007092137.webp",
+"6287007092137-1.webp",
+"6287007092137-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00008012",
+"barcode": "6281073110948",
+"cat": 15,
+"ar": "السنبلة رقائق السبرينج رول 345 جم",
+"en": "Sunbulah Spring Roll Pastry 345 g",
+"price": 10.95,
+"special": 8.65,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281073110948.webp",
+"6281073110948-1.webp",
+"6281073110948-2.webp"
+],
+"frozen": true
+},
+{
+"sku": "JRN00008013",
+"barcode": "5203912390244",
+"cat": 11,
+"ar": "بيتي كروكر خليط الكوكيز بالشوكولاتة 496 جم",
+"en": "Betty Crocker Double Chocolate Cookie Mix 496 g",
+"price": 20.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5203912390244.webp",
+"5203912390244-1.webp",
+"5203912390244-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008014",
+"barcode": "5010084902904",
+"cat": 11,
+"ar": "بيتي كروكر كريمة تزيين الكيك بنكهة الفانيلا 400 جم",
+"en": "Betty Crocker Vanilla Frosting 400 g",
+"price": 18.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5010084902904.webp",
+"5010084902904-1.webp",
+"5010084902904-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008015",
+"barcode": "5352101078231",
+"cat": 11,
+"ar": "فوستر كلاركس مهلبية 85 جم",
+"en": "Foster Clark's Muhallabiah 85 g",
+"price": 4,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5352101078231.webp",
+"5352101078231-1.webp",
+"5352101078231-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008016",
+"barcode": "6281100610403",
+"cat": 11,
+"ar": "رياض فود خليط لقمة القاضي 500 جم",
+"en": "Riyadh Food Dumpling Mix 500 g",
+"price": 7.75,
+"special": 5.81,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281100610403.webp",
+"6281100610403-1.webp",
+"6281100610403-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008017",
+"barcode": "5000318004030",
+"cat": 11,
+"ar": "جرينز جيلي الكرز 80 جم",
+"en": "Greens Cherry Jelly 80 g",
+"price": 3.25,
+"special": 2.6,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5000318004030.webp",
+"5000318004030-1.webp",
+"5000318004030-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008018",
+"barcode": "6281014472852",
+"cat": 9,
+"ar": "بيرفيتو مكرونة كانيلوني 250 جم",
+"en": "Perfetto Cannelloni 250 g",
+"price": 11.95,
+"special": 6.93,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281014472852.webp",
+"6281014472852-1.webp",
+"6281014472852-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008019",
+"barcode": "6281100201113",
+"cat": 9,
+"ar": "وايت سوان أرز مصري 2 كجم",
+"en": "White Swan Calrose Rice 2 kg",
+"price": 20.3,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281100201113.webp",
+"6281100201113-1.webp",
+"6281100201113-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008020",
+"barcode": "6281100412113",
+"cat": 9,
+"ar": "أبو كاس أرز بسمتي أبيض عنبر 10 كجم",
+"en": "Abu kass Amber White Basmati Rice 10 kg",
+"price": 100,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281100412113.webp",
+"6281100412113-1.webp",
+"6281100412113-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008021",
+"barcode": "6281100203438",
+"cat": 9,
+"ar": "بنجابي المهيدب أرز بسمتي بني 2 كجم",
+"en": "Punjabi Al Muhaidib Brown Basmati Rice 2 kg",
+"price": 32,
+"special": 30.08,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281100203438.webp",
+"6281100203438-1.webp",
+"6281100203438-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008022",
+"barcode": "8410522009894",
+"cat": 14,
+"ar": "كوبوليفيا شرائح زيتون أخضر حار 510 جم",
+"en": "Coopoliva Sliced Green Olives Hot 510 g",
+"price": 51.5,
+"special": 41.2,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8410522009894.webp",
+"8410522009894-1.webp",
+"8410522009894-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008023",
+"barcode": "6281011422225",
+"cat": 11,
+"ar": "الأسرة سكر بني 500 جم",
+"en": "Alosra Brown Sugar 500 g",
+"price": 5.4,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281011422225.webp",
+"6281011422225-1.webp",
+"6281011422225-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008024",
+"barcode": "6287019730218",
+"cat": 11,
+"ar": "البيت سكر أبيض ناعم 1 كجم",
+"en": "Al Bayt Fine White Sugar 1 kg",
+"price": 5.2,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6287019730218.webp",
+"6287019730218-1.webp",
+"6287019730218-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008025",
+"barcode": "6287019730225",
+"cat": 11,
+"ar": "البيت سكر ناعم ابيض 2 كجم",
+"en": "Al Bayt Fine White Sugar 2 kg",
+"price": 8.99,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6287019730225.webp",
+"6287019730225-1.webp",
+"6287019730225-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008026",
+"barcode": "6285525000658",
+"cat": 11,
+"ar": "الأسرة سكر بودرة 500 جم",
+"en": "Alosra Icing Sugar 500 g",
+"price": 8.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6285525000658.webp",
+"6285525000658-1.webp",
+"6285525000658-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008027",
+"barcode": "6281011422027",
+"cat": 11,
+"ar": "الأسرة سكر أبيض مكعبات 500 جم",
+"en": "Alosra White Sugar Cubes 500 g",
+"price": 8.6,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281011422027.webp",
+"6281011422027-1.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008028",
+"barcode": "8888167023016",
+"cat": 11,
+"ar": "إس آي إس سكر أبيض ناعم 1 كجم",
+"en": "Sis Fine White Sugar 1 kg",
+"price": 9.6,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8888167023016.webp",
+"8888167023016-1.webp",
+"8888167023016-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008029",
+"barcode": "032894079343",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فول بالصلصة 450 جم",
+"en": "California Garden Fava Beans Mashed With Salsa 450 g",
+"price": 6.75,
+"special": 5.26,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"032894079343.webp",
+"032894079343-1.webp",
+"032894079343-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008030",
+"barcode": "6281063881810",
+"cat": 14,
+"ar": "فرشلي فاصوليا حمراء داكنة 425 جم",
+"en": "Freshly Dark Red Kidney Beans 425 g",
+"price": 9.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281063881810.webp",
+"6281063881810-1.webp",
+"6281063881810-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008031",
+"barcode": "032894010919",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فول بالخلطة المصرية 450 جم",
+"en": "California Garden Fava Beans Egyptian Recipe 450 g",
+"price": 6.95,
+"special": 5.42,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"032894010919.webp",
+"032894010919-1.webp",
+"032894010919-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008032",
+"barcode": "6281014303224",
+"cat": 14,
+"ar": "قودي فول مدمس كامل سادة 450 جم",
+"en": "Goody Fava Beans Whole Plain 450 g",
+"price": 4.25,
+"special": 2.97,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281014303224.webp",
+"6281014303224-1.webp",
+"6281014303224-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008033",
+"barcode": "032894079350",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فول مدمس خلطة مصرية 450 جم",
+"en": "California Garden Egyptian Mashed Fava Beans 450 g",
+"price": 6.75,
+"special": 5.26,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"032894079350.webp",
+"032894079350-1.webp",
+"032894079350-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008034",
+"barcode": "6281014133005",
+"cat": 14,
+"ar": "قودي حمص حب 425 جم",
+"en": "Goody Chick Peas Can 425 g",
+"price": 5.5,
+"special": 4.95,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281014133005.webp",
+"6281014133005-1.webp",
+"6281014133005-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008035",
+"barcode": "032894010445",
+"cat": 14,
+"ar": "حدائق كاليفورنيا فطر كامل 425 جم",
+"en": "California Garden Mushroom Whole 425 g",
+"price": 8,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"032894010445.webp",
+"032894010445-1.webp",
+"032894010445-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008036",
+"barcode": "6281014630009",
+"cat": 14,
+"ar": "قودي فطر كامل 400 جم",
+"en": "Goody Whole Mushroom 400 g",
+"price": 12,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281014630009.webp",
+"6281014630009-1.webp",
+"6281014630009-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008037",
+"barcode": "5285001150502",
+"cat": 14,
+"ar": "ألوها لحم تونا خفيفة بالزيت النباتي 185 جم",
+"en": "Aloha Light Meat Tuna In Vegetable Oil 185 g",
+"price": 7.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5285001150502.webp",
+"5285001150502-1.webp",
+"5285001150502-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008038",
+"barcode": "6281055704523",
+"cat": 14,
+"ar": "بليمز تونا خفيف في زيت دوار الشمس 170 جم",
+"en": "Plyms Light Meat Tuna In Sunflower Oil 170 g",
+"price": 8.95,
+"special": 7.16,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281055704523.webp",
+"6281055704523-1.webp",
+"6281055704523-2.webp"
+],
+"frozen": false
+},
+{
+"sku": "JRN00008039",
+"barcode": "6281055704622",
+"cat": 14,
+"ar": "هناء لحم تونا خفيف في الزيت 185 جم",
+"en": "Hanaa Light Meat Tuna In Sunflower Oil 185 g",
+"price": 9.25,
+"special": 7.95,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281055704622.webp",
+"6281055704622-1.webp",
+"6281055704622-2.webp"
+],
+"frozen": false
+}
+]

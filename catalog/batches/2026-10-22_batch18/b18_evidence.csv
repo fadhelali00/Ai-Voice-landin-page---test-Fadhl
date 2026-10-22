@@ -1,0 +1,441 @@
+sku,barcode,barcode_source,price_source,price,special,ninja_id,hs_names,hs_price,tamimi_name,tamimi_price,img_src,source_images,size_check,frozen
+JRN00007600,6281020333239,ninja_img,ninja,5.95,,5-6031,,,,,ninja,5-6031_0,,
+JRN00007601,6281020173163,ninja_img,ninja,6.95,,5-6017,,,,,ninja,5-6017_0,,
+JRN00007602,032894010308,ninja_page,ninja,4.95,,5-5175848,,,California Garden Premium Fava Beans Plain Medammes-450g,4.95,ninja,5-5175848_0 5-5175848_1 5-5175848_2,,
+JRN00007603,6281020325630,ninja_img,ninja,6.95,,5-6013,,,Luna Foul Medammes Egyptian Recipe-400g,6.25,ninja,5-6013_0,Ninja 450 g vs Tamimi 400 g; Open Food Facts quantity 450 g -> Ninja size confirmed | https://world.openfoodfacts.org/api/v2/product/6281020325630.json,
+JRN00007604,6281063882527,ninja_img,ninja,5.95,,5-19319082,,,Freshly Whole Kernel Sweet Corn-185g,4.95,ninja,5-19319082_0 5-19319082_1 5-19319082_2,,
+JRN00007605,6281020174368,tamimi,ninja,11.95,9.95,5-19294008,,,Luna Saudi Recipe Foul-3 x 450g,12.5,ninja,5-19294008_0,,
+JRN00007606,6281014305105,ninja_img,ninja,8.95,,5-19294035,,,Goody Sliced Black Olives-240g,8.5,ninja,5-19294035_0 5-19294035_1 5-19294035_2,,
+JRN00007607,5202118101050,ninja_img,ninja,10.95,,5-1053985,ايديال زيتون اسود 125 جرام,10.95,Ideal Black Olives-125g,11.5,ninja,5-1053985_0 5-1053985_1 5-1053985_2,,
+JRN00007608,032894010940,ninja_img,ninja,7.95,,5-196722,,,California Garden Fava Beans Saudi Koshna Recipe-450g,7.5,ninja,5-196722_0 5-196722_1 5-196722_2,,
+JRN00007609,6281041291112,ninja_img,ninja,20.95,19.95,5-19287926,,,Halwani Brothers Olive Green With Chile Sauce In Oil-325-370g,19.95,ninja,5-19287926_0 5-19287926_1 5-19287926_2,Ninja 325 g vs Tamimi '325-370 g' (drained / net on the same jar) -> consistent,
+JRN00007610,032894041111,ninja_img,ninja,14.95,,5-16368813,,,California Garden Egyptian Foul Recipe-3 x 450g,14.95,ninja,5-16368813_0 5-16368813_1 5-16368813_2,,
+JRN00007611,8410522001034,ninja_page,ninja,12.95,,5-456,,,Coopoliva Green Olives Sliced-114g,11.5,ninja,5-456_0 5-456_1 5-456_2,,
+JRN00007612,6210281471558,ninja_img,ninja,26.95,16.95,5-19295103,,,,,ninja,5-19295103_0 5-19295103_1 5-19295103_2,,
+JRN00007613,032894016546,ninja_img,ninja,7.95,,5-197769,,,California Garden Fava Beans Saudi Koshna Recipe-450g,7.5,ninja,5-197769_0 5-197769_1 5-197769_2,,
+JRN00007614,032894041128,ninja_img,ninja,14.95,,5-16369750,,,California Garden Fava Beans Koshna Mix-3 x 450g,14.95,ninja,5-16369750_0 5-16369750_1 5-16369750_2,,
+JRN00007615,6281100681748,ninja_page,ninja,6.95,,5-19321684,,,,,ninja,5-19321684_0 5-19321684_1 5-19321684_2,,
+JRN00007616,6281014305143,ninja_img,ninja,9.95,,5-19294031,,,Goody Stuffed Green Olives With Pimento Paste-240g,8.5,ninja,5-19294031_0 5-19294031_1 5-19294031_2,,
+JRN00007617,6210281476706,ninja_img,ninja,15.95,,5-19295104,,,,,ninja,5-19295104_0 5-19295104_1 5-19295104_2,,
+JRN00007618,6281020174382,ninja_img,ninja,11.95,9.95,5-19294009,,,,,ninja,5-19294009_0 5-19294009_1 5-19294009_2,,
+JRN00007619,6281014000994,ninja_img,ninja,5.95,,5-19294047,,,Goody Golden Corn Whole Kernel-150g,5.95,ninja,5-19294047_0 5-19294047_1 5-19294047_2,,
+JRN00007620,032894010889,ninja_img,ninja,7.95,,5-194990,,,California Garden Fava Beans Peeled Secret Recipe-450g,7.5,ninja,5-194990_0 5-194990_1 5-194990_2,,
+JRN00007621,5202118121058,ninja_img,ninja,16.95,,5-1054119,,,Ideal Black Olives-250g,16.5,ninja,5-1054119_0 5-1054119_1 5-1054119_2,,
+JRN00007622,6281020325531,ninja_img,ninja,6.95,,5-6011,,,Luna Foul Medames Saudi Recipe-400g,6.25,ninja,5-6011_0,Ninja 450 g vs Tamimi 400 g; Open Food Facts quantity 450 g -> Ninja size confirmed | https://world.openfoodfacts.org/api/v2/product/6281020325531.json,
+JRN00007623,684500704875,ninja_img,ninja,5.95,,5-19294956,حدائق كاليفورنيا حبوب ذرة حلوة كاملة 400جرام,5.8,California Garden Whole Kernel Sweet Corn-400g,5.95,ninja,5-19294956_0 5-19294956_1 5-19294956_2,,
+JRN00007624,032894041135,ninja_img,ninja,14.95,,5-16369467,,,California Garden Peeled Chili Foul-3 x 450g,14.95,ninja,5-16369467_0 5-16369467_1 5-16369467_2,,
+JRN00007625,6210281101608,ninja_img,ninja,19.95,13.95,5-19294976,,,,,ninja,5-19294976_0 5-19294976_1 5-19294976_2,,
+JRN00007626,032894041142,ninja_img,ninja,14.95,,5-16368371,كاليفورنيا جاردن فول مدمس مقشور بالخلطة السرية 3×450جرام,14.25,California Garden Peeled Foul-3 x 450g,14.95,ninja,5-16368371_0 5-16368371_1 5-16368371_2,,
+JRN00007627,617950701453,ninja_img,ninja,9.95,,5-6818346,,,,,ninja,5-6818346_0 5-6818346_1 5-6818346_2,,
+JRN00007628,6281014305112,ninja_img,ninja,9.95,,5-19294039,,,Goody Sliced Green Olives-240g,8.5,ninja,5-19294039_0 5-19294039_1 5-19294039_2,,
+JRN00007629,6281020174405,ninja_page,ninja,11.95,9.95,5-19294007,,,Luna Egyptian Recipe Foul-3 x 450g,12.5,ninja,5-19294007_0 5-19294007_1 5-19294007_2,,
+JRN00007630,6281063999638,ninja_img,ninja,16.95,,5-19319080,,,Freshly Whole Kernel Corn-3 x 185g,14.95,ninja,5-19319080_0 5-19319080_1 5-19319080_2,,
+JRN00007631,032894011152,ninja_img,ninja,7.95,,5-194835,,,,,ninja,5-194835_0 5-194835_1 5-194835_2,,
+JRN00007632,6281014134019,ninja_img,ninja,8.95,,5-226,,,Goody Golden Corn Whole Kernel-340g,7.95,ninja,5-226_0 5-226_1 5-226_2,,
+JRN00007633,617950701460,ninja_img,ninja,7.95,,5-19288630,العلالي ذرة حلوة 425جرام,5.95,,,ninja,5-19288630_0 5-19288630_1 5-19288630_2,,
+JRN00007634,032894075116,ninja_img,ninja,13.95,,5-5174350,حدائق كاليفورنيا فول مدمس سادة 4×450جرام,13.5,California Garden Foul Medammas-4 x 450g,12.95,ninja,5-5174350_0 5-5174350_1 5-5174350_2,,
+JRN00007635,032894010896,ninja_img,ninja,7.95,,5-195066,,,California Garden Peeled Fava Bean With Chili-450g,7.5,ninja,5-195066_0 5-195066_1 5-195066_2,,
+JRN00007636,032894010902,ninja_img,ninja,7.95,,5-195224,,,California Garden Fava Beans Lebanese Recipe-450g,7.5,ninja,5-195224_0 5-195224_1 5-195224_2,,
+JRN00007637,032894075468,ninja_img,ninja,7.95,,5-19331199,,,California Garden Light Chunks Tuna In Vegetable Oil-160g,8.5,ninja,5-19331199_0 5-19331199_1 5-19331199_2,,
+JRN00007638,6281014800471,ninja_img,ninja,9.95,,5-7821,,,Goody Tuna Tenderina Soft Fancy-185g,10.5,ninja,5-7821_0 5-7821_1 5-7821_2,,
+JRN00007639,6281100680055,ninja_page,ninja,4.95,,5-19321686,الطائي طماطم مقشرة 400جرام,4.5,Al taie Italian Whole Peeled Tomatoes-400g,4.5,ninja,5-19321686_0 5-19321686_1 5-19321686_2,,
+JRN00007640,024000308270,ninja_img,ninja,7.95,,5-19397455,,,,,ninja,5-19397455_0 5-19397455_1,,
+JRN00007641,6281014300001,ninja_img,ninja,4.95,,5-14284940,,,,,ninja,5-14284940_0 5-14284940_1 5-14284940_2,,
+JRN00007642,6281020174603,ninja_img,ninja,11.95,9.95,5-19354973,,,,,ninja,5-19354973_0 5-19354973_1 5-19354973_2,,
+JRN00007643,6281020172203,ninja_img,ninja,6.95,,5-19354975,,,,,ninja,5-19354975_0 5-19354975_1 5-19354975_2,,
+JRN00007644,6281014800419,ninja_img,ninja,5.95,,5-252,,,Goody Light Meat Tuna In Sunflower Oil-90g,5.95,ninja,5-252_0 5-252_1 5-252_2,,
+JRN00007645,6281020010819,ninja_img,ninja,5.95,,5-6029,,,Luna Red Kidney Beans-400g,5.75,ninja,5-6029_0,Ninja 380 g vs Tamimi 400 g; Open Food Facts quantity 380 g -> Ninja size confirmed | https://world.openfoodfacts.org/api/v2/product/6281020010819.json,
+JRN00007646,6281020333130,ninja_page,ninja,3.95,,5-6033,,,,,ninja,5-6033_0 5-6033_1 5-6033_2,,
+JRN00007647,6281020174924,ninja_img,ninja,6.95,,5-19385304,,,,,ninja,5-19385304_0 5-19385304_1 5-19385304_2,,
+JRN00007648,6281051007420,ninja_img,ninja,3.95,,5-15557027,,,,,ninja,5-15557027_0 5-15557027_1 5-15557027_2,,
+JRN00007649,6281014304290,ninja_img,ninja,12.95,,5-19294032,,,Goody Stuffed Grape Leaves Plain-295g,11.25,ninja,5-19294032_0 5-19294032_1 5-19294032_2,,
+JRN00007650,6281014300018,ninja_img,ninja,6.95,,5-14284862,,,,,ninja,5-14284862_0 5-14284862_1 5-14284862_2,,
+JRN00007651,6281014620208,ninja_img,ninja,6.95,,5-8181,,,Goody Tuna Tenderina Soft Fancy-80g,6.5,ninja,5-8181_0 5-8181_1 5-8181_2,,
+JRN00007652,6281014800426,ninja_img,ninja,9.95,,5-257,,,Goody Light Meat Tuna In Sunflower Oil-185g,9.95,ninja,5-257_0 5-257_1 5-257_2,,
+JRN00007653,6281063881551,ninja_img,ninja,15.95,,5-19330462,,,Freshly Nacho Sliced Jalapeno Peppers-453g,15.5,ninja,5-19330462_0 5-19330462_1 5-19330462_2,"Ninja 510 g vs Tamimi 453 g; Ninja back-label image prints NET WEIGHT 18 oz (510 g), drained 8 oz (227 g) -> printed pack wins",
+JRN00007654,032894010278,ninja_img,ninja,6.95,,5-197285,,,California Garden Beans Red Kidney-400g,6.5,ninja,5-197285_0 5-197285_1 5-197285_2,,
+JRN00007655,4902931110673,ninja_img,ninja,6.5,,5-1052905,,,,,ninja,5-1052905_0 5-1052905_1 5-1052905_2,,
+JRN00007656,6281014302333,tamimi,ninja,5.95,,5-19381053,,,Goody Tenderina Sandwich Tuna With Lemon & Pepper-80g,6.5,ninja,5-19381053_0 5-19381053_1 5-19381053_2,,
+JRN00007657,6281041292317,ninja_img,ninja,7.95,,5-19357741,,,,,ninja,5-19357741_0 5-19357741_1,,
+JRN00007658,6281063100140,ninja_page,ninja,5.95,,5-19344319,,,Peep Chick Peas-370g,4.95,ninja,5-19344319_0 5-19344319_1 5-19344319_2,,
+JRN00007659,617950144953,ninja_img,ninja,10.95,,5-6821606,,,,,ninja,5-6821606_0 5-6821606_1 5-6821606_2,,
+JRN00007660,4902931110598,ninja_img,ninja,9.5,,5-1051123,بوتان تونة لحم خفيف فاخرة متماسكة 185جرام,9.5,Botan Light Meat Tuna-185g,9.95,ninja,5-1051123_0 5-1051123_1 5-1051123_2,,
+JRN00007661,6281091004953,ninja_page,ninja,16.95,13.95,5-19349960,,,Tandy Small Cucumber Pickles-680g,15.95,ninja,5-19349960_0 5-19349960_1 5-19349960_2,,
+JRN00007662,6281041292416,ninja_img,ninja,7.95,,5-19357747,,,,,ninja,5-19357747_0 5-19357747_1,,
+JRN00007663,6281091002492,ninja_img,ninja,13.95,9.95,5-19373822,,,,,ninja,5-19373822_0 5-19373822_1 5-19373822_2,,
+JRN00007664,8004030026018,ninja_img,ninja,20.95,,5-4176287,,,Riomare Salatuna Mexico Recipe-160g,19.5,ninja,5-4176287_0,,
+JRN00007665,6281055704615,ninja_img,ninja,5.95,,5-4808791,,,Hanaa Light Meat Tuna-95g,6.95,ninja,5-4808791_0 5-4808791_1 5-4808791_2,,
+JRN00007666,6281014303941,ninja_img,ninja,6.95,,5-19381070,,,Goody Tenderina Tuna Jalapeno-80g,6.5,ninja,5-19381070_0 5-19381070_1 5-19381070_2,,
+JRN00007667,6281100038085,ninja_img,ninja,12.95,,5-19290269,,,,,ninja,5-19290269_0 5-19290269_1 5-19290269_2,,
+JRN00007668,4902931110581,ninja_img,ninja,5.95,,5-1051587,,,Botan Meat Tuna Light-100g,6.5,ninja,5-1051587_0 5-1051587_1,Ninja 90 g vs Tamimi 100 g; Open Food Facts quantity 90 g -> Ninja size confirmed | https://world.openfoodfacts.org/api/v2/product/4902931110581.json,
+JRN00007669,736211763839,ninja_img,ninja,10.95,,5-19397471,,,,,ninja,5-19397471_0 5-19397471_1,,
+JRN00007670,736211763631,ninja_img,ninja,8.95,,5-19397469,,,,,ninja,5-19397469_0 5-19397469_1,,
+JRN00007671,6281101491421,ninja_img,ninja,5.95,,5-19327757,,,,,ninja,5-19327757_0 5-19327757_1 5-19327757_2,,
+JRN00007672,8004030383531,ninja_img,ninja,44.95,,5-19294274,,,Riomare Mare Light Meat Tuna In Olive Oil-4 x 80g,41.95,ninja,5-19294274_0 5-19294274_1 5-19294274_2,,
+JRN00007673,032894010339,ninja_img,ninja,5.95,,5-197560,,,California Garden Baked Beans Ready To Eat-420g,5.5,ninja,5-197560_0 5-197560_1 5-197560_2,,
+JRN00007674,6281020010710,ninja_img,ninja,4.95,,5-6025,,,Luna Baked Beans-400g,4.5,ninja,5-6025_0 5-6025_1 5-6025_2,Ninja 380 g vs Tamimi 400 g; Open Food Facts quantity 380 g -> Ninja size confirmed | https://world.openfoodfacts.org/api/v2/product/6281020010710.json,
+JRN00007675,6281014622134,ninja_img,ninja,9.95,,5-254,,,Goody Light Meat Tuna With Chilli-185g,9.95,ninja,5-254_0 5-254_1 5-254_2,,
+JRN00007676,6281014304252,ninja_img,ninja,6.95,,5-19294041,,,Goody Mushroom Pieces And Stems-200g,6.5,ninja,5-19294041_0 5-19294041_1 5-19294041_2,,
+JRN00007677,024000003649,ninja_img,ninja,6.5,,5-19397461,,,,,ninja,5-19397461_0 5-19397461_1,,
+JRN00007678,5285001154029,ninja_img,ninja,5.95,,5-617093,,,,,ninja,5-617093_0 5-617093_1 5-617093_2,,
+JRN00007679,8852707102011,ninja_page,ninja,6.95,5.95,5-7858,,,Geisha Light Tuna Meat In Sunflower Oil-90g,6.25,ninja,5-7858_0 5-7858_1 5-7858_2,,
+JRN00007680,6281020040700,ninja_img,ninja,9.5,,5-19287025,,,Green Farm Light Meat Tuna-200g,9.95,ninja,5-19287025_0 5-19287025_1 5-19287025_2,Ninja 185 g vs Tamimi 200 g; Open Food Facts quantity 185 g -> Ninja size confirmed | https://world.openfoodfacts.org/api/v2/product/6281020040700.json,
+JRN00007681,6281014630108,ninja_img,ninja,10.95,,5-222,,,Goody Pieces & Stems Mushroom-400g,9.75,ninja,5-222_0 5-222_1 5-222_2,,
+JRN00007682,6281015002195,ninja_page,ninja,31.95,,5-4125169,,,Riomare Salatuna Maize Recipe-20% off 2 x 160g,30.95,ninja,5-4125169_0 5-4125169_1 5-4125169_2,,
+JRN00007683,6281039711011,ninja_page,ninja,9.95,,5-19294434,,,,,ninja,5-19294434_0 5-19294434_1 5-19294434_2,,
+JRN00007684,6281039711110,ninja_img,ninja,10.95,,5-19294435,,,,,ninja,5-19294435_0 5-19294435_1 5-19294435_2,,
+JRN00007685,6281014301886,ninja_page,ninja,24.95,,5-14282515,تريفا ورق عنب 960جرام,22.25,,,ninja,5-14282515_0 5-14282515_1 5-14282515_2,,
+JRN00007686,8004030102033,ninja_img,ninja,37.95,,5-19343977,ريو ماري تونة فلفل وليمون 3×65جرام,38,Riomare Tuna Lemon & Pepper-3 x 65g,36.95,ninja,5-19343977_0 5-19343977_1 5-19343977_2,,
+JRN00007687,6281063632108,ninja_img,ninja,6.95,,5-736,,,Freshly Papinaple Broken Slices-340g,5.95,ninja,5-736_0 5-736_1 5-736_2,"Ninja 565 g vs Tamimi 340 g; Ninja back-label image prints NET WEIGHT 565 g, DRAINED 340 g -> printed pack wins (Tamimi lists drained weight)",
+JRN00007688,6281100681199,ninja_img,ninja,3.95,,5-19392748,,,,,ninja,5-19392748_0 5-19392748_1 5-19392748_2,,
+JRN00007689,024000130116,ninja_img,ninja,6.95,,5-19397451,,,,,ninja,5-19397451_0 5-19397451_1,,
+JRN00007690,6281014131001,ninja_img,ninja,7.95,,5-238,جودي فاصوليا حمراء 425جرام,6.75,Goody Red Kidney Beans-420g,6.75,ninja,5-238_0 5-238_1 5-238_2,,
+JRN00007691,6947753700020,ninja_img,ninja,13.95,9.95,5-19381337,السوسن ورق عنب محشي بالأرز 400جرام,13.5,Al Sawsan Stuffed Vine Leaf With Rice-400g,12.95,ninja,5-19381337_0 5-19381337_1 5-19381337_2,,
+JRN00007692,6210281041799,ninja_img,ninja,39.95,26.95,5-19307205,,,,,ninja,5-19307205_0 5-19307205_1 5-19307205_2,,
+JRN00007693,6281063882435,ninja_page,ninja,11.95,,5-759,,,,,ninja,5-759_0 5-759_1 5-759_2,,
+JRN00007694,6281100681366,ninja_img,ninja,3.95,,5-19392750,,,,,ninja,5-19392750_0 5-19392750_1 5-19392750_2,,
+JRN00007695,6281014301862,ninja_img,ninja,29.95,,5-249,قودي ورق عنب 960جرام,29.5,Goody Grape Leaves-960g,26.25,ninja,5-249_0 5-249_1 5-249_2,,
+JRN00007696,5285001070596,ninja_img,ninja,6.95,,5-19369408,اسناد لحم تونا خفيف بالزيت النباتي 165جرام,6.25,,,ninja,5-19369408_0 5-19369408_1 5-19369408_2,,
+JRN00007697,024000130123,ninja_img,ninja,4.95,,5-19397449,,,,,ninja,5-19397449_0 5-19397449_1,,
+JRN00007698,024000024675,ninja_img,ninja,11.95,,5-19397457,,,,,ninja,5-19397457_0 5-19397457_1,,
+JRN00007699,8852707110733,ninja_img,ninja,10.95,,5-19422272,,,Geisha Tuna with Chilli-170g,9.5,ninja,5-19422272_0,,
+JRN00007700,8004030100817,ninja_img,ninja,49.95,,5-4120164,,,Riomare Light Meat Tuna In Olive Oil 20% Off-6 x 80g,49.95,ninja,5-4120164_0 5-4120164_1 5-4120164_2,,
+JRN00007701,709993301025,ninja_img,ninja,19.95,,5-7895,,,,,ninja,5-7895_0 5-7895_1 5-7895_2,,
+JRN00007702,6281100680956,ninja_page,ninja,6.95,,5-19335465,,,,,ninja,5-19335465_0 5-19335465_1 5-19335465_2,,
+JRN00007703,6281051007383,ninja_img,ninja,3.95,,5-15557348,,,,,ninja,5-15557348_0 5-15557348_1 5-15557348_2,,
+JRN00007704,6281020010918,ninja_img,ninja,2.95,,5-6021,,,Luna Green Peas-284g,2.5,ninja,5-6021_0 5-6021_1 5-6021_2,,
+JRN00007705,617950143956,ninja_img,ninja,5.95,,5-6821382,,,,,ninja,5-6821382_0 5-6821382_1 5-6821382_2,,
+JRN00007706,6281063632115,ninja_img,ninja,9.95,,5-1237934,,,Freshly Sliced Pineapple In Light Syrup-565g,9.95,ninja,5-1237934_0 5-1237934_1 5-1237934_2,,
+JRN00007707,6281020010215,ninja_img,ninja,3.95,,5-19354971,لونا فول مدمس 450جرام,5.95,Luna Foul Medames Superior Quality Fava Beans-450g,3.95,ninja,5-19354971_0 5-19354971_1 5-19354971_2,,
+JRN00007708,617950156031,ninja_img,ninja,18.95,,5-6921177,,,,,ninja,5-6921177_0 5-6921177_1 5-6921177_2,,
+JRN00007709,6281100200437,tamimi,ninja,99.95,88.95,5-19289214,,,Al Walimah Sella Basmati Rice-10kg,98.95,ninja,5-19289214_0 5-19289214_1 5-19289214_2,,
+JRN00007710,6281011411083,tamimi,ninja,25.95,,5-10230620,,,Alosra Fine Sugar-5kg,23.95,ninja,5-10230620_0,,
+JRN00007711,617950366355,ninja_img,ninja,25.95,,5-6877460,العلالي كريم كراميل 6 حبات 70 جم,22.75,,,ninja,5-6877460_0 5-6877460_1 5-6877460_2,,
+JRN00007712,6281011411021,ninja_page,ninja,45.95,,5-4475647,الأسرة سكر أبيض ناعم 10كيلو,61.4,Alosra Fine Sugar-10kg,44.95,ninja,5-4475647_0 5-4475647_1 5-4475647_2,,
+JRN00007713,3280316007826,tamimi,ninja,201.95,,5-15547705,,,Doux Frozen Chicken-10 x 1000g,206.95,ninja,5-15547705_0 5-15547705_1,,yes (needs freezer delivery)
+JRN00007714,17893000075730,ninja_page,ninja,198.95,,5-14378673,,,,,ninja,5-14378673_0,,yes (needs freezer delivery)
+JRN00007715,6281020022409,tamimi,ninja,113.95,,5-19416294,,,Al Maha Punjabi Basmati Rice-10kg,107.95,ninja,5-19416294_0,,
+JRN00007716,6287019730249,tamimi,ninja,43.95,,5-19369851,,,Al Bayt Fine White Sugar-10kg,36.95,ninja,5-19369851_0,,
+JRN00007717,8904498500528,ninja_img,ninja,79.95,57.95,5-19401169,,,,,ninja,5-19401169_0,,
+JRN00007718,6281011421075,ninja_img,ninja,25.95,,5-4479125,,,Alosra Coarse Sugar-5kg,23.95,ninja,5-4479125_0,,
+JRN00007719,6281100680314,ninja_page,ninja,92.95,79.95,5-19321688,,,,,ninja,5-19321688_0 5-19321688_1 5-19321688_2,,
+JRN00007720,7891515465520,ninja_page (first Ninja code invalid),ninja,16.95,11.95,5-1735,,,Sadia Chicken Breast-450g,14.95,ninja,5-1735_0 5-1735_1 5-1735_2,,yes (needs freezer delivery)
+JRN00007721,6281073150906,ninja_img,ninja,10.95,8.95,5-872,,,Sunbulah Okra Zero-400g,10.5,ninja,5-872_0 5-872_1 5-872_2,,yes (needs freezer delivery)
+JRN00007722,6281073150869,ninja_img,ninja,6.95,5.95,5-1174876,,,Sunbulah Molokhia-400g,6.75,ninja,5-1174876_0 5-1174876_1 5-1174876_2,,yes (needs freezer delivery)
+JRN00007723,6281073150067,ninja_img,ninja,8.95,7.95,5-869,,,Sunbulah Frozen Garden Peas-400g,8.5,ninja,5-869_0 5-869_1 5-869_2,,yes (needs freezer delivery)
+JRN00007724,6281073132032,tamimi,ninja,35.5,23.31,5-19389880,,,Sunbulah Chicken Strips-750g,33.95,ninja,5-19389880_0 5-19389880_1 5-19389880_2,,yes (needs freezer delivery)
+JRN00007725,5033712451506,ninja_img,ninja,24.95,,5-19398038,,,,,ninja,5-19398038_0 5-19398038_1 5-19398038_2,,yes (needs freezer delivery)
+JRN00007726,6281051006843,ninja_img,ninja,29.95,23.95,5-15543224,,,Dari Chicken Tender Breast-1kg,30.95,ninja,5-15543224_0 5-15543224_1 5-15543224_2,,yes (needs freezer delivery)
+JRN00007727,6287017970029,ninja_page,ninja,15.95,,5-876,سولو عجينة سمبوسة بر 360جرام,15.5,Solo Sambosa Dough Burr-360g,15.5,ninja,5-876_0 5-876_1 5-876_2,,yes (needs freezer delivery)
+JRN00007728,4001724029908,ninja_img,ninja,28.95,,5-1779,,,Dr. Oetker Ristorante Margherita Pizza-295g,25.25,ninja,5-1779_0 5-1779_1 5-1779_2,,yes (needs freezer delivery)
+JRN00007729,6222000400459,ninja_img,ninja,6.25,5.35,5-437,,,Montana Frozen Molokheya-400g,5.95,ninja,5-437_0 5-437_1 5-437_2,,yes (needs freezer delivery)
+JRN00007730,6281073151088,ninja_img,ninja,9.25,7.95,5-1174969,,,Sunbulah Peas & Carrots-400g,8.5,ninja,5-1174969_0 5-1174969_1 5-1174969_2,,yes (needs freezer delivery)
+JRN00007731,6281073111860,ninja_page,ninja,8.95,5.95,5-1173220,,,Sunbulah Paratha With Onion-400g,8.5,ninja,5-1173220_0 5-1173220_1 5-1173220_2,,yes (needs freezer delivery)
+JRN00007732,6281073110900,ninja_page,ninja,6.25,5.95,5-852,السنبلة رقائق عجينة سبرنج رول 160جرام,5.5,Sunbulah Spring Roll Pastry-160g,5.75,ninja,5-852_0 5-852_1 5-852_2,,yes (needs freezer delivery)
+JRN00007733,6281073150180,ninja_page,ninja,8.95,7.95,5-871,,,Sunbulah Mixed Vegetables-400g,8.5,ninja,5-871_0 5-871_1 5-871_2,,yes (needs freezer delivery)
+JRN00007734,6281073110108,tamimi,ninja,10.75,9.95,5-853,السنبلة رقائق بف بيستري 400جرام,10.75,Sunbulah Puff Pastry Squares-400g,10.5,ninja,5-853_0,,yes (needs freezer delivery)
+JRN00007735,6281073110467,ninja_img,ninja,12.95,9.95,5-881,,,Sunbulah Kunafa Dough-500g,12.95,ninja,5-881_0 5-881_1 5-881_2,,yes (needs freezer delivery)
+JRN00007736,6281050114860,ninja_page,ninja,30.95,19.95,5-4271,,,Americana Chicken Nuggets-750g,28.95,ninja,5-4271_0 5-4271_1 5-4271_2,,yes (needs freezer delivery)
+JRN00007737,6281050114105,ninja_img,ninja,17.95,,5-19291380,,,Americana Happy Chicken Nuggets-400g,17.95,ninja,5-19291380_0 5-19291380_1 5-19291380_2,,yes (needs freezer delivery)
+JRN00007738,6281050114938,ninja_img,ninja,36.95,21.95,5-4187,,,Americana Spicy Chicken Strips-750g,35.95,ninja,5-4187_0 5-4187_1 5-4187_2,,yes (needs freezer delivery)
+JRN00007739,6281102685157,ninja_page,ninja,18.95,15.95,5-17179305,,,Herfy Chicken Nuggets-350g,19.95,ninja,5-17179305_0 5-17179305_1 5-17179305_2,,yes (needs freezer delivery)
+JRN00007740,5033712451803,tamimi,ninja,27.5,,5-19355076,,,Al Kabeer Mozzarella Cheese Sticks-250g,23.95,ninja,5-19355076_0 5-19355076_1,,yes (needs freezer delivery)
+JRN00007741,6281051099951,ninja_page,ninja,29.95,23.95,5-19290977,,,Doux Chicken Breast Tenderized-1kg,30.95,ninja,5-19290977_0 5-19290977_1 5-19290977_2,,yes (needs freezer delivery)
+JRN00007742,6281073130588,ninja_img,ninja,18.95,10.95,5-864,,,Sunbulah Chicken Nuggets-400g,16.5,ninja,5-864_0 5-864_1 5-864_2,,yes (needs freezer delivery)
+JRN00007743,6222000401449,tamimi,ninja,5.95,,5-439,,,Montana Frozen Spinach-400g,5.75,ninja,5-439_0 5-439_1 5-439_2,,yes (needs freezer delivery)
+JRN00007744,4001724030300,ninja_img,ninja,27.95,21.49,5-19363245,,,Dr. Oetker Pizza Ristorante Piccola Margherita-2 x 135g,24.95,ninja,5-19363245_0 5-19363245_1 5-19363245_2,,yes (needs freezer delivery)
+JRN00007745,6287053560239,ninja_img,ninja,42.95,23.95,5-19417316,,,,,ninja,5-19417316_0,,yes (needs freezer delivery)
+JRN00007746,6253005380200,ninja_img,ninja,12.95,10.95,5-19417336,,,,,ninja,5-19417336_0,,yes (needs freezer delivery)
+JRN00007747,8710438040227,ninja_img,ninja,20.95,,5-19395440,,,Mccain Tradition Straight Cut Potato French Fries-750g,19.95,ninja,5-19395440_0,,yes (needs freezer delivery)
+JRN00007748,7894904256358,tamimi,ninja,30.95,21.95,5-19290954,,,Seara Chicken Nuggets-750g,27.95,ninja,5-19290954_0,,yes (needs freezer delivery)
+JRN00007749,7894904256396,tamimi,ninja,39.95,,5-19290957,,,Seara Chicken Strips-750g,42.95,ninja,5-19290957_0,,yes (needs freezer delivery)
+JRN00007750,6281051099975,ninja_page,ninja,56.95,44.95,5-19290976,,,Doux Chicken Breast Tenderized-2kg,57.95,ninja,5-19290976_0 5-19290976_1 5-19290976_2,,yes (needs freezer delivery)
+JRN00007751,6281050117021,tamimi,ninja,24.95,,5-19291374,,,Americana Beef Hot Dog-450g,27.95,ninja,5-19291374_0 5-19291374_1 5-19291374_2,,yes (needs freezer delivery)
+JRN00007752,8711571020329,ninja_img,ninja,18.95,16.95,5-442,,,Lamb Weston Twister Fries-750g,18.95,ninja,5-442_0 5-442_1 5-442_2,,yes (needs freezer delivery)
+JRN00007753,3280310020074,ninja_img,ninja,19.95,15.5,5-447,,,Doux Frozen Chicken-900g,20.5,ninja,5-447_0 5-447_1 5-447_2,,yes (needs freezer delivery)
+JRN00007754,5704025031159,ninja_page,ninja,11.25,7.95,5-19327023,,,Emborg Okra Zero-400g,10.95,ninja,5-19327023_0 5-19327023_1 5-19327023_2,,yes (needs freezer delivery)
+JRN00007755,6281073111785,ninja_page,ninja,7.25,,5-851,,,Sunbulah Plain Paratha-400g,6.95,ninja,5-851_0 5-851_1 5-851_2,,yes (needs freezer delivery)
+JRN00007756,6281073150821,ninja_img,ninja,15.5,9.95,5-874,,,Sunbulah Frozen Strawberries-800g,14.95,ninja,5-874_0 5-874_1 5-874_2,,yes (needs freezer delivery)
+JRN00007757,6281051005884,ninja_page,ninja,7.25,,5-15560559,,,Dari Mouloukhia-400g,5.95,ninja,5-15560559_0 5-15560559_1 5-15560559_2,,yes (needs freezer delivery)
+JRN00007758,6281051001701,ninja_page,ninja,7.95,6.95,5-15561862,,,Dari Green Peas-400g,7.95,ninja,5-15561862_0 5-15561862_1 5-15561862_2,,yes (needs freezer delivery)
+JRN00007759,6281051007048,ninja_img,ninja,23.95,19.67,5-15663860,,,Dari Very Berry-350g,22.5,ninja,5-15663860_0 5-15663860_1 5-15663860_2,,yes (needs freezer delivery)
+JRN00007760,8710438047370,ninja_img,ninja,46.95,33.95,5-12557126,,,Mccain Straight Cut Frozen French Fries-2.5kg,43.95,ninja,5-12557126_0 5-12557126_1 5-12557126_2,,yes (needs freezer delivery)
+JRN00007761,6281073130700,tamimi,ninja,18.95,10.95,5-19389884,,,Sunbulah Fun Chicken Nuggets-400g,16.5,ninja,5-19389884_0 5-19389884_1 5-19389884_2,,yes (needs freezer delivery)
+JRN00007762,6287053560178,ninja_img,ninja,37.95,23.95,5-19417314,,,,,ninja,5-19417314_0,,yes (needs freezer delivery)
+JRN00007763,6287053560154,ninja_img,ninja,39.95,23.95,5-19417320,,,,,ninja,5-19417320_0,,yes (needs freezer delivery)
+JRN00007764,6287053560284,ninja_img,ninja,25.95,22.95,5-19417335,,,,,ninja,5-19417335_0,,yes (needs freezer delivery)
+JRN00007765,055773080940,ninja_img,ninja,48.0,39.95,5-19395443,,,Mccain Seasoned Super Spiral-1.5kg,48.95,ninja,5-19395443_0,,yes (needs freezer delivery)
+JRN00007766,7891515486532,ninja_img,ninja,29.0,,5-19290373,,,Sadia French Fries Thin Cut-2.5kg,29.25,ninja,5-19290373_0 5-19290373_1 5-19290373_2,,yes (needs freezer delivery)
+JRN00007767,7894904256419,tamimi,ninja,41.95,23.95,5-19290959,,,Seara Chicken Fillet-750g,43.95,ninja,5-19290959_0,,yes (needs freezer delivery)
+JRN00007768,6281073151064,tamimi,ninja,31.5,18.1,5-19404221,,,Sunbulah French Fries-2.5kg,32.5,ninja,5-19404221_0 5-19404221_1 5-19404221_2,,yes (needs freezer delivery)
+JRN00007769,6222000401258,tamimi,ninja,7.95,,5-436,,,Montana Frozen Mixed Vegetables-400g,7.95,ninja,5-436_0 5-436_1 5-436_2,,yes (needs freezer delivery)
+JRN00007770,6281073151163,ninja_page,ninja,4.5,,5-873,,,Sunbulah Spinach-400g,4.5,ninja,5-873_0 5-873_1 5-873_2,,yes (needs freezer delivery)
+JRN00007771,5033712150171,ninja_page,ninja,12.95,,5-19294906,,,Al Kabeer French Fries-1kg,12.95,ninja,5-19294906_0 5-19294906_1 5-19294906_2,,yes (needs freezer delivery)
+JRN00007772,6281050214744,ninja_page,ninja,32.95,18.95,5-660328,,,,,ninja,5-660328_0 5-660328_1 5-660328_2,,yes (needs freezer delivery)
+JRN00007773,6281073151026,ninja_page,ninja,14.95,12.95,5-19320381,,,Sunbulah French Fries-1kg,14.25,ninja,5-19320381_0 5-19320381_1 5-19320381_2,,yes (needs freezer delivery)
+JRN00007774,8710438040265,ninja_page,ninja,24.95,,5-19333934,,,Mccain French Fries Golden Long-750g,20.5,ninja,5-19333934_0 5-19333934_1 5-19333934_2,,yes (needs freezer delivery)
+JRN00007775,5033712150522,ninja_img,ninja,7.95,7.37,5-19294913,,,Al Kabeer Plain Paratha-400g,7.95,ninja,5-19294913_0 5-19294913_1 5-19294913_2,,yes (needs freezer delivery)
+JRN00007776,6281050831804,tamimi,ninja,42.95,,5-19294507,,,Americana Air Fry Chicken Strips Regular-700g,37.95,ninja,5-19294507_0 5-19294507_1 5-19294507_2,,yes (needs freezer delivery)
+JRN00007777,9501100600967,ninja_img,ninja,11.75,,5-19304466,,,Switz Puff Pastry Square-400g,11.95,ninja,5-19304466_0 5-19304466_1 5-19304466_2,,yes (needs freezer delivery)
+JRN00007778,4001724819806,ninja_img,ninja,28.95,22.26,5-1781,,,Dr. Oetker Mozzarella Pizza-355g,25.25,ninja,5-1781_0 5-1781_1 5-1781_2,,yes (needs freezer delivery)
+JRN00007779,8711571016841,ninja_page,ninja,35.95,,5-15666274,,,Lamb Weston Original Fries-2.5kg,35.95,ninja,5-15666274_0 5-15666274_1 5-15666274_2,,yes (needs freezer delivery)
+JRN00007780,6281051006812,ninja_img,ninja,56.95,44.95,5-15548423,,,Dari Tender Chicken Breast-2kg,57.95,ninja,5-15548423_0,,yes (needs freezer delivery)
+JRN00007781,6281102685034,ninja_page,ninja,27.95,22.11,5-17178821,,,Herfy Breaded Chicken Burger-672g,28.95,ninja,5-17178821_0 5-17178821_1 5-17178821_2,,yes (needs freezer delivery)
+JRN00007782,6281102685041,ninja_img,ninja,47.95,,5-17178896,,,Herfy Breaded Chicken Burger-1344g,44.95,ninja,5-17178896_0 5-17178896_1 5-17178896_2,,yes (needs freezer delivery)
+JRN00007783,6281102685195,ninja_img,ninja,22.5,15.95,5-17179371,,,Herfy Chicken Tenders-350g,19.95,ninja,5-17179371_0 5-17179371_1 5-17179371_2,,yes (needs freezer delivery)
+JRN00007784,6281102685669,ninja_page,ninja,34.95,30.95,5-17179606,,,,,ninja,5-17179606_0 5-17179606_1 5-17179606_2,,yes (needs freezer delivery)
+JRN00007785,6281102685621,ninja_page,ninja,23.95,,5-17179745,,,Herfy Chicken Strips-400g,24.5,ninja,5-17179745_0 5-17179745_2,"Ninja 350 g vs Tamimi 400 g; Ninja main image is the new green pack printing net weight 350 g, Tamimi shows the old yellow 400 g box (same barcode, new pack rule) -> printed pack wins, new pack image used",yes (needs freezer delivery)
+JRN00007786,3280310020050,ninja_img,ninja,19.5,,5-7482,,,,,ninja,5-7482_0 5-7482_1 5-7482_2,,yes (needs freezer delivery)
+JRN00007787,5060728130118,ninja_img,ninja,32.95,,5-19292729,,,Osea Frozen Energy Mix Raspberries Blueberries & Strawberry-400g,29.95,ninja,5-19292729_0 5-19292729_1 5-19292729_2,,yes (needs freezer delivery)
+JRN00007788,6281101930364,ninja_img,ninja,199.95,,5-19389926,,,,,ninja,5-19389926_0 5-19389926_1 5-19389926_2,,yes (needs freezer delivery)
+JRN00007789,6287053560161,ninja_img,ninja,37.95,23.95,5-19417312,,,,,ninja,5-19417312_0,,yes (needs freezer delivery)
+JRN00007790,6287053560246,ninja_img,ninja,42.95,23.95,5-19417317,,,,,ninja,5-19417317_0,,yes (needs freezer delivery)
+JRN00007791,6287053560208,ninja_img,ninja,31.95,18.95,5-19417318,,,,,ninja,5-19417318_0,,yes (needs freezer delivery)
+JRN00007792,6287053560192,ninja_img,ninja,31.95,18.95,5-19417319,,,,,ninja,5-19417319_0,,yes (needs freezer delivery)
+JRN00007793,6291100860999,ninja_img,ninja,34.95,28.95,5-19417327,,,,,ninja,5-19417327_0,,yes (needs freezer delivery)
+JRN00007794,6287053560215,ninja_img,ninja,17.95,9.95,5-19417331,,,,,ninja,5-19417331_0,,yes (needs freezer delivery)
+JRN00007795,6287053560222,ninja_img,ninja,17.95,9.95,5-19417332,,,,,ninja,5-19417332_0,,yes (needs freezer delivery)
+JRN00007796,6287053560338,ninja_img,ninja,18.95,9.95,5-19417333,,,,,ninja,5-19417333_0,,yes (needs freezer delivery)
+JRN00007797,055773080032,ninja_img,ninja,25.95,,5-19395444,,,Mccain Seasoned Super Spirals-750g,24.95,ninja,5-19395444_0 5-19395444_1 5-19395444_2,,yes (needs freezer delivery)
+JRN00007798,5704025030909,ninja_page,ninja,30.5,,5-19369455,,,Emborg Blueberries-400g,31.95,ninja,5-19369455_0 5-19369455_1 5-19369455_2,,yes (needs freezer delivery)
+JRN00007799,7893000085701,tamimi,ninja,55.95,,5-19290374,,,Sadia Tender Chicken Half Breast-2kg,52.95,ninja,5-19290374_0 5-19290374_1,,yes (needs freezer delivery)
+JRN00007800,6291107376172,ninja_img,ninja,24.95,,5-19290964,,,Mayda Chicken Breast-1kg,29.95,ninja,5-19290964_0 5-19290964_1 5-19290964_2,,yes (needs freezer delivery)
+JRN00007801,6281050114280,ninja_page,ninja,38.5,,5-19291383,,,,,ninja,5-19291383_0 5-19291383_1 5-19291383_2,,yes (needs freezer delivery)
+JRN00007802,6281050113399,ninja_page,ninja,39.95,,5-19291387,,,Americana Classic Beef Burger-1kg,41.95,ninja,5-19291387_0 5-19291387_1 5-19291387_2,,yes (needs freezer delivery)
+JRN00007803,6287032861258,ninja_img,ninja,38.95,,5-19400076,,,,,ninja,5-19400076_0 5-19400076_1 5-19400076_2,,yes (needs freezer delivery)
+JRN00007804,6287032860893,ninja_img,ninja,15.95,,5-19400079,,,,,ninja,5-19400079_0 5-19400079_1,,yes (needs freezer delivery)
+JRN00007805,5704025031166,ninja_page,ninja,6.75,,5-19327028,,,Emborg Frozen Minced Molokhia-400g,6.5,ninja,5-19327028_0 5-19327028_1 5-19327028_2,,yes (needs freezer delivery)
+JRN00007806,5701215058422,ninja_page,ninja,11.25,,5-19327031,,,,,ninja,5-19327031_0 5-19327031_1 5-19327031_2,,yes (needs freezer delivery)
+JRN00007807,5033712154629,ninja_img,ninja,9.0,,5-19294908,,,,,ninja,5-19294908_0 5-19294908_1 5-19294908_2,,yes (needs freezer delivery)
+JRN00007808,5033712463837,ninja_page,ninja,40.0,,5-19294914,,,Al Kabeer Zing Chicken Non Spicy Strips-750g,43.5,ninja,5-19294914_0 5-19294914_1 5-19294914_2,,yes (needs freezer delivery)
+JRN00007809,5033712162334,ninja_img,ninja,18.5,,5-19294884,,,Al Kabeer Chicken Nuggets-400g,18.95,ninja,5-19294884_0 5-19294884_1 5-19294884_2,,yes (needs freezer delivery)
+JRN00007810,7891515551674,ninja_page,ninja,8.5,6.95,5-1757,,,Sadia Mixed Vegetables With Corn-450g,8.99,ninja,5-1757_0 5-1757_1 5-1757_2,,yes (needs freezer delivery)
+JRN00007811,7891515486518,ninja_page (first Ninja code invalid),ninja,13.5,11.56,5-1747,,,Sadia French Fries-1kg,12.95,ninja,5-1747_0 5-1747_1 5-1747_2,,yes (needs freezer delivery)
+JRN00007812,7894904256365,tamimi,ninja,18.95,11.95,5-1182883,,,Seara Chicken Popcorn-350g,17.95,ninja,5-1182883_0,,yes (needs freezer delivery)
+JRN00007813,7894904256228,tamimi,ninja,18.95,,5-1183236,,,Seara Chicken Nuggets-350g,17.95,ninja,5-1183236_0,,yes (needs freezer delivery)
+JRN00007814,5033712160224,ninja_page,ninja,32.95,23.95,5-19294896,,,Al Kabeer Tender Chicken Breast-1kg,27.25,ninja,5-19294896_0 5-19294896_1 5-19294896_2,,yes (needs freezer delivery)
+JRN00007815,6281101430406,ninja_page,ninja,18.95,,5-19305849,,,,,ninja,5-19305849_0 5-19305849_1,,yes (needs freezer delivery)
+JRN00007816,6281105681750,ninja_img,ninja,19.95,,5-19305851,,,,,ninja,5-19305851_0 5-19305851_1 5-19305851_2,,yes (needs freezer delivery)
+JRN00007817,6281102685867,ninja_page,ninja,24.5,,5-19307414,,,,,ninja,5-19307414_0 5-19307414_1 5-19307414_2,,yes (needs freezer delivery)
+JRN00007818,6281123038680,ninja_img,ninja,8.5,,5-19304464,,,Switz Paratha Plain-400g,7.95,ninja,5-19304464_0 5-19304464_1 5-19304464_2,,yes (needs freezer delivery)
+JRN00007819,6281101430079,ninja_page,ninja,15.25,,5-19309724,,,,,ninja,5-19309724_0 5-19309724_1 5-19309724_2,,yes (needs freezer delivery)
+JRN00007820,6287008350533,ninja_img,ninja,33.95,,5-19348877,,,,,ninja,5-19348877_0 5-19348877_1 5-19348877_2,,yes (needs freezer delivery)
+JRN00007821,6285536000838,ninja_page,ninja,28.95,,5-19339260,,,,,ninja,5-19339260_0 5-19339260_1 5-19339260_2,,yes (needs freezer delivery)
+JRN00007822,6281051098862,ninja_page,ninja,7.95,7.06,5-15554754,,,Dari Plain Paratha-400g,7.5,ninja,5-15554754_0 5-15554754_1 5-15554754_2,,yes (needs freezer delivery)
+JRN00007823,6281051001664,ninja_img,ninja,7.95,,5-15564798,,,Dari Mixed Vegetables-400g,7.95,ninja,5-15564798_0 5-15564798_1 5-15564798_2,,yes (needs freezer delivery)
+JRN00007824,6281051004146,ninja_img,ninja,15.95,,5-15663918,,,Dari Strawberry-1kg,14.95,ninja,5-15663918_0 5-15663918_1 5-15663918_2,,yes (needs freezer delivery)
+JRN00007825,6281050113207,ninja_page,ninja,39.95,,5-658496,,,Americana Jumbo Beef Burger-1kg,44.95,ninja,5-658496_0 5-658496_1 5-658496_2,,yes (needs freezer delivery)
+JRN00007826,7891515434342,ninja_page,ninja,18.95,,5-12152634,,,Sadia Chicken Nuggets-400g,17.5,ninja,5-12152634_0 5-12152634_1,,yes (needs freezer delivery)
+JRN00007827,7891515579029,tamimi,ninja,26.95,18.95,5-19321730,,,Sadia Marinated Chicken Breast Cubes Yogurt & Arabic Spices-600g,22.95,ninja,5-19321730_0 5-19321730_1 5-19321730_2,,yes (needs freezer delivery)
+JRN00007828,6281050114471,ninja_img,ninja,33.5,,5-19291382,,,Americana Jumbo Chicken Burger Breaded-1kg,37.95,ninja,5-19291382_0 5-19291382_1 5-19291382_2,,yes (needs freezer delivery)
+JRN00007829,6281101935772,ninja_img,ninja,6.95,,5-19389912,,,,,ninja,5-19389912_0 5-19389912_1 5-19389912_2,,yes (needs freezer delivery)
+JRN00007830,6281073130755,tamimi,ninja,34.95,24.95,5-19389883,,,Sunbulah Spicy Chicken Bites-750g,32.5,ninja,5-19389883_0,,yes (needs freezer delivery)
+JRN00007831,6281073130786,tamimi,ninja,18.95,10.95,5-19389888,,,Sunbulah Chicken Pop Corn-400g,16.5,ninja,5-19389888_0,,yes (needs freezer delivery)
+JRN00007832,8690612504076,ninja_page,ninja,22.95,,5-19364652,,,,,ninja,5-19364652_0 5-19364652_1 5-19364652_2,,yes (needs freezer delivery)
+JRN00007833,6287053560147,ninja_img,ninja,30.95,18.95,5-19417313,,,,,ninja,5-19417313_0,,yes (needs freezer delivery)
+JRN00007834,6287053560185,ninja_img,ninja,37.95,23.95,5-19417315,,,,,ninja,5-19417315_0,,yes (needs freezer delivery)
+JRN00007835,6287053560543,ninja_img,ninja,24.95,19.95,5-19417321,,,,,ninja,5-19417321_0,,yes (needs freezer delivery)
+JRN00007836,6287053560550,ninja_img,ninja,26.95,17.95,5-19417322,,,,,ninja,5-19417322_0,,yes (needs freezer delivery)
+JRN00007837,6287053560321,ninja_img,ninja,56.95,49.95,5-19417324,,,,,ninja,5-19417324_0,,yes (needs freezer delivery)
+JRN00007838,6253005380286,ninja_img,ninja,41.95,28.95,5-19417325,,,,,ninja,5-19417325_0,,yes (needs freezer delivery)
+JRN00007839,6287053560277,ninja_img,ninja,47.95,39.95,5-19417329,,,,,ninja,5-19417329_0,,yes (needs freezer delivery)
+JRN00007840,6287053560253,ninja_img,ninja,26.95,17.95,5-19417330,,,,,ninja,5-19417330_0,,yes (needs freezer delivery)
+JRN00007841,8809950200490,ninja_img,ninja,35.95,,5-19395433,,,Good Seoul Cheese Corn Dog-320g,33.95,ninja,5-19395433_0 5-19395433_1 5-19395433_2,,yes (needs freezer delivery)
+JRN00007842,6281050115010,ninja_img,ninja,44.95,,5-19291375,,,,,ninja,5-19291375_0 5-19291375_1 5-19291375_2,,yes (needs freezer delivery)
+JRN00007843,6281050114402,ninja_img,ninja,17.95,,5-19291385,,,Americana Chicken Popcorn-400g,17.95,ninja,5-19291385_0 5-19291385_1 5-19291385_2,,yes (needs freezer delivery)
+JRN00007844,6287032860909,ninja_img,ninja,15.95,,5-19400078,,,,,ninja,5-19400078_0 5-19400078_1,,yes (needs freezer delivery)
+JRN00007845,7894904256303,tamimi,ninja,23.95,15.95,5-1148438,,,Seara Breaded Chicken Burger-672g,25.95,ninja,5-1148438_0,,yes (needs freezer delivery)
+JRN00007846,5033712160057,ninja_page,ninja,14.95,12.95,5-19294890,الكبير سمبوسة دجاج مجمدة 240جرام,16.5,Al Kabeer Chicken Samosas-240g,15.95,ninja,5-19294890_0 5-19294890_1 5-19294890_2,,yes (needs freezer delivery)
+JRN00007847,5033712150041,ninja_page,ninja,14.95,12.95,5-19294899,,,Al Kabeer Vegetable Samosa-240g,15.95,ninja,5-19294899_0 5-19294899_1 5-19294899_2,,yes (needs freezer delivery)
+JRN00007848,6281073120947,ninja_img,ninja,23.95,18.95,5-1172115,,,Sunbulah Chicken Premier Pizza-335g,22.5,ninja,5-1172115_0 5-1172115_1 5-1172115_2,,yes (needs freezer delivery)
+JRN00007849,6281050114037,ninja_img,ninja,26.5,,5-659234,,,Americana Breaded Chicken Burger-678g,25.95,ninja,5-659234_0 5-659234_1 5-659234_2,,yes (needs freezer delivery)
+JRN00007850,6281050114242,ninja_img,ninja,26.0,,5-659387,,,Americana Unbreaded Chicken Burger-672g,25.95,ninja,5-659387_0 5-659387_1 5-659387_2,,yes (needs freezer delivery)
+JRN00007851,6281050114303,ninja_page,ninja,18.5,,5-659847,,,Americana Shish Taouk-400g,20.95,ninja,5-659847_0 5-659847_1 5-659847_2,,yes (needs freezer delivery)
+JRN00007852,6286015957520,ninja_img,ninja,21.95,16.95,5-19347566,,,,,ninja,5-19347566_0 5-19347566_1 5-19347566_2,,yes (needs freezer delivery)
+JRN00007853,7894904256402,tamimi,ninja,24.95,,5-1184960,,,Seara Chicken Fillet Regular-400g,24.95,ninja,5-1184960_0,,yes (needs freezer delivery)
+JRN00007854,5033712451780,ninja_page,ninja,33.0,,5-19294897,,,Al Kabeer Felafel Family Pack-1kg,33.95,ninja,5-19294897_0 5-19294897_1 5-19294897_2,,yes (needs freezer delivery)
+JRN00007855,5033712152113,ninja_img,ninja,19.95,,5-19294904,,,Al Kabeer Paratha Plain-3 x 400g,19.95,ninja,5-19294904_0 5-19294904_1 5-19294904_2,,yes (needs freezer delivery)
+JRN00007856,6281105681682,ninja_page,ninja,19.95,,5-19305847,,,,,ninja,5-19305847_0 5-19305847_1 5-19305847_2,,yes (needs freezer delivery)
+JRN00007857,6281105681705,ninja_img,ninja,19.95,,5-19305848,,,,,ninja,5-19305848_0 5-19305848_1 5-19305848_2,,yes (needs freezer delivery)
+JRN00007858,6281105681699,ninja_page,ninja,19.95,,5-19305850,,,,,ninja,5-19305850_0 5-19305850_1 5-19305850_2,,yes (needs freezer delivery)
+JRN00007859,6281105681675,ninja_page,ninja,19.95,,5-19305852,,,,,ninja,5-19305852_0 5-19305852_1 5-19305852_2,,yes (needs freezer delivery)
+JRN00007860,6287008350526,ninja_img,ninja,33.95,,5-19348874,,,,,ninja,5-19348874_0 5-19348874_1 5-19348874_2,,yes (needs freezer delivery)
+JRN00007861,6287008350311,ninja_img,ninja,15.95,,5-19348875,,,,,ninja,5-19348875_0 5-19348875_1 5-19348875_2,,yes (needs freezer delivery)
+JRN00007862,6287008350519,ninja_img,ninja,33.95,,5-19348876,,,,,ninja,5-19348876_0 5-19348876_1 5-19348876_2,,yes (needs freezer delivery)
+JRN00007863,6287008350540,ninja_img,ninja,26.95,,5-19348878,,,,,ninja,5-19348878_0 5-19348878_1 5-19348878_2,,yes (needs freezer delivery)
+JRN00007864,6287008350502,ninja_img,ninja,33.95,,5-19348879,,,,,ninja,5-19348879_0 5-19348879_1 5-19348879_2,,yes (needs freezer delivery)
+JRN00007865,6287008350021,ninja_img,ninja,14.75,,5-19348881,,,,,ninja,5-19348881_0 5-19348881_1 5-19348881_2,,yes (needs freezer delivery)
+JRN00007866,6287008350618,ninja_img,ninja,17.25,,5-19348882,,,,,ninja,5-19348882_0 5-19348882_1 5-19348882_2,,yes (needs freezer delivery)
+JRN00007867,6287008350601,ninja_img,ninja,17.95,,5-19348883,,,,,ninja,5-19348883_0 5-19348883_1 5-19348883_2,,yes (needs freezer delivery)
+JRN00007868,6287008350595,ninja_img,ninja,17.25,,5-19348886,,,,,ninja,5-19348886_0 5-19348886_1 5-19348886_2,,yes (needs freezer delivery)
+JRN00007869,6287008350632,ninja_img,ninja,17.25,,5-19348887,,,,,ninja,5-19348887_0 5-19348887_1 5-19348887_2,,yes (needs freezer delivery)
+JRN00007870,6281100930150,ninja_img,ninja,9.95,,5-19338655,,,,,ninja,5-19338655_0 5-19338655_1 5-19338655_2,,yes (needs freezer delivery)
+JRN00007871,6281100930181,ninja_page,ninja,18.95,,5-19338664,,,,,ninja,5-19338664_0 5-19338664_1 5-19338664_2,,yes (needs freezer delivery)
+JRN00007872,6285536000067,ninja_page,ninja,106.95,,5-19339258,,,,,ninja,5-19339258_0 5-19339258_1 5-19339258_2,,yes (needs freezer delivery)
+JRN00007873,6281100930037,ninja_page,ninja,11.95,,5-19338665,,,,,ninja,5-19338665_0 5-19338665_1 5-19338665_2,,yes (needs freezer delivery)
+JRN00007874,6285536000135,ninja_page,ninja,25.3,19.45,5-19339262,,,,,ninja,5-19339262_0 5-19339262_1 5-19339262_2,,yes (needs freezer delivery)
+JRN00007875,6287007090454,ninja_img,ninja,21.95,,5-15309816,,,Radwa Frozen Boneless Chicken Breasts-450g,20.95,ninja,5-15309816_0 5-15309816_1 5-15309816_2,,yes (needs freezer delivery)
+JRN00007876,6287007092939,ninja_img,ninja,87.95,,5-15311544,,,Radwa Frozen Chicken Tender Breast-2.5kg,84.95,ninja,5-15311544_0 5-15311544_1 5-15311544_2,,yes (needs freezer delivery)
+JRN00007877,7893000452763,tamimi,ninja,22.5,,5-12150874,,,Sadia Chicken Burger-672g,21.5,ninja,5-12150874_0 5-12150874_1,,yes (needs freezer delivery)
+JRN00007878,7893000084995,tamimi,ninja,32.95,27.95,5-12151099,,,Sadia Chicken Burger 20Pcs-1000g,30.5,ninja,5-12151099_0 5-12151099_1,,yes (needs freezer delivery)
+JRN00007879,6281050114013,tamimi,ninja,30.95,20.62,5-4181,,,Americana Breaded Chicken Burger-840g,30.25,ninja,5-4181_0 5-4181_1 5-4181_2,,yes (needs freezer delivery)
+JRN00007880,8710438047349,ninja_page,ninja,46.95,33.95,5-12556823,,,Mccain Thin Frozen French Fries-2.5kg,43.95,ninja,5-12556823_0 5-12556823_1 5-12556823_2,,yes (needs freezer delivery)
+JRN00007881,6281050115904,ninja_page,ninja,31.95,,5-4275,,,Americana Turkish Recipe Beef Kebab-600g,32.95,ninja,5-4275_0 5-4275_1 5-4275_2,,yes (needs freezer delivery)
+JRN00007882,055773080001,ninja_page,ninja,29.95,,5-19333931,,,Mccain Super Crisp Potato Fries-750g,23.5,ninja,5-19333931_0 5-19333931_1 5-19333931_2,,yes (needs freezer delivery)
+JRN00007883,6281102685799,ninja_img,ninja,25.95,19.95,5-17178836,,,,,ninja,5-17178836_0 5-17178836_1 5-17178836_2,,yes (needs freezer delivery)
+JRN00007884,6285536000012,ninja_page,ninja,59.95,,5-9547395,,,,,ninja,5-9547395_0 5-9547395_1 5-9547395_2,,yes (needs freezer delivery)
+JRN00007885,6281000122358,ninja_img,ninja,23.95,19.95,5-19372708,,,,,ninja,5-19372708_0 5-19372708_1 5-19372708_2,,
+JRN00007886,6271003014019,ninja_img,ninja,5.95,,5-8108,,,Kuwait Bakeries All Purpose Flour-1kg,6.25,ninja,5-8108_0 5-8108_1 5-8108_2,,
+JRN00007887,6285021000237,tamimi,ninja,2.95,,5-10919810,فوم دقيق أبيض 1كيلو,3.25,Foom White Flour-1kg,3.5,ninja,5-10919810_0 5-10919810_1 5-10919810_2,,
+JRN00007888,6281011411069,tamimi,ninja,10.95,,5-4797,الاسرة سكر ناعم 2 كيلو,10.95,Alosra Fine Sugar-2kg,10.5,ninja,5-4797_0 5-4797_1,,
+JRN00007889,5352101542893,ninja_img,ninja,10.95,,5-11619585,,,Foster Clark's Custard Powder-450g,10.95,ninja,5-11619585_0,,
+JRN00007890,6287017150032,ninja_img,ninja,2.0,,5-19399381,,,Aloula Super Superior Flour All Purpose-1kg,2.5,ninja,5-19399381_0 5-19399381_1 5-19399381_2,,
+JRN00007891,5285000911203,ninja_img,ninja,17.95,,5-6936,,,Steviana Sweetener-50 sachets,17.95,ninja,5-6936_0 5-6936_1 5-6936_2,,
+JRN00007892,6281063223405,ninja_img,ninja,15.95,,5-19355311,,,Orient Gardens Baking Soda-12oz,13.75,ninja,5-19355311_0 5-19355311_1 5-19355311_2,,
+JRN00007893,6287017150711,ninja_img,ninja,9.95,8.95,5-19399378,,,Aloula Vanilla Tea Cake-400g,10.5,ninja,5-19399378_0 5-19399378_1 5-19399378_2,,
+JRN00007894,7622300470326,ninja_img,ninja,18.95,,5-8110,,,Dream Whip Whipped Topping Mix-144g,16.95,ninja,5-8110_0 5-8110_1 5-8110_2,,
+JRN00007895,6287019400241,tamimi,ninja,2.95,,5-19308111,,,Qoot & Root Brown Flour-1kg,2.5,ninja,5-19308111_0 5-19308111_1,,
+JRN00007896,5203912391173,ninja_page,ninja,16.95,,5-14289212,,,Betty Crocker Pancake Crepe Or Waffle Mix-360g,15.5,ninja,5-14289212_0 5-14289212_1 5-14289212_2,,
+JRN00007897,6281063881544,ninja_img,ninja,24.95,,5-19319090,,,Freshly Pancake Syrup-24oz,20.95,ninja,5-19319090_0 5-19319090_1,,
+JRN00007898,54061088,ninja_img,ninja,24.95,,5-19381339,,,Victoria Dry Yeast-500g,22.95,ninja,5-19381339_0 5-19381339_1 5-19381339_2,,
+JRN00007899,6287019400234,tamimi,ninja,2.95,,5-19308103,,,Qoot & Root Superior Flour-1kg,2.5,ninja,5-19308103_0 5-19308103_1,,
+JRN00007900,6287019400180,tamimi,ninja,3.95,,5-19308106,,,Modern Mills Patent Flour-1kg,3.75,ninja,5-19308106_0 5-19308106_1 5-19308106_2,,
+JRN00007901,6281041114015,tamimi,ninja,3.95,,5-19357750,,,Halwani Brothers Vanilla For Sweets-20g,3.75,ninja,5-19357750_0 5-19357750_1 5-19357750_2,,
+JRN00007902,54061095,ninja_img,ninja,9.95,,5-19381338,,,Victoria Dry Yeast-125g,8.95,ninja,5-19381338_0 5-19381338_1 5-19381338_2,,
+JRN00007903,6285021000251,ninja_img,ninja,3.95,,5-10921149,,,Foom Wheat Flour-1kg,3.5,ninja,5-10921149_0 5-10921149_1 5-10921149_2,,
+JRN00007904,6281063881759,ninja_img,ninja,31.95,,5-771,,,Freshly Arabic Sweet Syrup-24oz,25.95,ninja,5-771_0 5-771_1 5-771_2,,
+JRN00007905,6281041114916,tamimi (Ninja image code 2810411149162 is a mis-keyed 2-prefix; Tamimi Halwani Baking Powder 100 g lists 2810411149162 and 6281041114916),ninja,2.95,,5-19357751,,,Halwani Brothers Baking Powder-100g,2.95,ninja,5-19357751_0 5-19357751_1 5-19357751_2,,
+JRN00007906,5352101825736,ninja_img,ninja,5.95,,5-17402150,,,Foster Clark's Baking Powder-110g,5.95,ninja,5-17402150_0 5-17402150_1 5-17402150_2,,
+JRN00007907,5352101009372,ninja_img,ninja,4.95,,5-17401979,فوستر كلاركس حلوى جيلي بالكرز 85جرام,3.5,Foster Clark's Cherry Jelly-85g,3.75,ninja,5-17401979_0 5-17401979_1 5-17401979_2,"Ninja 80 g vs Tamimi 85 g; Ninja images are the new blue box printing net weight 80 g, Tamimi shows the old 85 g box (same barcode, new pack rule) -> printed pack wins",
+JRN00007908,6291105694742,ninja_img,ninja,12.95,,5-19398245,,,Pillsbury Chocolate Cake Mix-360g,12.5,ninja,5-19398245_0 5-19398245_1 5-19398245_2,,
+JRN00007909,8690547194984,ninja_img,ninja,9.95,6.95,5-19402524,,,,,ninja,5-19402524_0 5-19402524_1 5-19402524_2,,
+JRN00007910,617950200901,ninja_page,ninja,10.95,,5-6770042,,,,,ninja,5-6770042_0 5-6770042_1 5-6770042_2,,
+JRN00007911,5352101243387,tamimi,ninja,4.95,,5-19397255,,,Foster Clark's Raspberry Jelly Dessert-80g,3.75,ninja,5-19397255_0,,
+JRN00007912,016000721401,ninja_img,ninja,31.95,,5-412,,,Betty Crocker Butter Milk Pancake Mix-32oz,26.5,ninja,5-412_0 5-412_1 5-412_2,,
+JRN00007913,617950200628,ninja_img,ninja,4.95,,5-6773389,,,,,ninja,5-6773389_0 5-6773389_1 5-6773389_2,,
+JRN00007914,717273501591,ninja_img,ninja,28.95,16.95,5-19318397,,,American Garden Pancake Original Syrup-24oz,26.5,ninja,5-19318397_0 5-19318397_1 5-19318397_2,,
+JRN00007915,50296101,ninja_img,ninja,3.95,,5-19317562,,,,,ninja,5-19317562_0 5-19317562_1 5-19317562_2,,
+JRN00007916,5285000910220,ninja_img,ninja,29.95,,5-6938,,,Steviana Sweetener-1.5g,29.95,ninja,5-6938_0 5-6938_1 5-6938_2,,
+JRN00007917,5352101434501,ninja_img,ninja,3.95,,5-11621374,,,Foster Clark's Vanilla Essence-28ml,4.5,ninja,5-11621374_0 5-11621374_1 5-11621374_2,,
+JRN00007918,5010084907862,ninja_img,ninja,20.95,,5-19349362,بيتي كروكر خليط كيك فانيليا 430جرام,17.25,Betty Crocker Cake Mix French Vanilla-430g,18.75,ninja,5-19349362_0 5-19349362_1 5-19349362_2,,
+JRN00007919,013300280652,ninja_img,ninja,24.95,19.95,5-19423802,,,,,ninja,5-19423802_0,,
+JRN00007920,5203912391425,ninja_img,ninja,23.95,,5-14289820,بيتي كروكر خليط البراوني بقطع الشوكولاتة الداكنة 500جرام,20.95,Betty Crocker Dark Chocolate Brownie-496g,21.95,ninja,5-14289820_0 5-14289820_1 5-14289820_2,Ninja 500 g vs Tamimi 496 g; Open Food Facts quantity 500 g -> Ninja size confirmed | https://world.openfoodfacts.org/api/v2/product/5203912391425.json,
+JRN00007921,4104220122057,ninja_img,ninja,79.95,,5-710,,,Hintz Cocoa Powder-227g,72.95,ninja,5-710_0 5-710_1 5-710_2,,
+JRN00007922,6281101490790,ninja_img,ninja,12.95,,5-19289906,,,,,ninja,5-19289906_0 5-19289906_1 5-19289906_2,,
+JRN00007923,5352101007897,ninja_img,ninja,17.95,,5-19397264,,,,,ninja,5-19397264_0 5-19397264_1 5-19397264_2,,
+JRN00007924,013300928073,ninja_img,ninja,17.95,14.95,5-19423804,,,,,ninja,5-19423804_0,,
+JRN00007925,5352101142611,ninja_img,ninja,12.95,,5-17402385,,,Foster Clark's Baking Powder-225g,11.5,ninja,5-17402385_0 5-17402385_1 5-17402385_2,,
+JRN00007926,016000437708,ninja_img,ninja,18.95,,5-413,,,Betty Crocker Super Moist White Cake-500g,18.75,ninja,5-413_0 5-413_1 5-413_2,,
+JRN00007927,016000437500,ninja_img,ninja,19.95,,5-419,,,Betty Crocker Super Moist White Chocolate Swirl Cake-500g,18.75,ninja,5-419_0 5-419_1 5-419_2,,
+JRN00007928,6281063881889,ninja_img,ninja,31.95,,5-773,,,Freshly Strawberry Pie Filling-595g,27.5,ninja,5-773_0 5-773_1 5-773_2,,
+JRN00007929,6281041092214,ninja_img,ninja,6.95,,5-19357733,,,,,ninja,5-19357733_0 5-19357733_1 5-19357733_2,,
+JRN00007930,856017003387,ninja_img,ninja,31.95,26.95,5-19423801,,,,,ninja,5-19423801_0,,
+JRN00007931,013300101629,ninja_img,ninja,24.95,19.95,5-19423803,,,,,ninja,5-19423803_0,,
+JRN00007932,6287017150759,ninja_img,ninja,9.95,8.95,5-19399377,,,Aloula Orange Tea Cake-400g,10.5,ninja,5-19399377_0 5-19399377_1 5-19399377_2,,
+JRN00007933,6281014146005,ninja_img,ninja,20.95,,5-19381080,,,Goody Pancake Syrup-24oz,21.5,ninja,5-19381080_0 5-19381080_1 5-19381080_2,,
+JRN00007934,5010084908449,ninja_img,ninja,19.95,,5-19381079,,,,,ninja,5-19381079_0 5-19381079_1 5-19381079_2,,
+JRN00007935,016000578609,ninja_img,ninja,23.95,,5-14289125,,,Betty Crocker Chocolate Chip Cookies-496g,21.95,ninja,5-14289125_0 5-14289125_1 5-14289125_2,,
+JRN00007936,5352101302831,ninja_img,ninja,3.95,,5-11619925,,,Foster Clark's Corn Flour-100g,3.5,ninja,5-11619925_0 5-11619925_1 5-11619925_2,,
+JRN00007937,6291105694759,ninja_img,ninja,12.95,,5-19398246,بيلسبري خليط كيك بالشوكولاتة السوداء 360جرام,11.95,Pillsbury Cake Mix Dark Chocolate-360g,12.5,ninja,5-19398246_0 5-19398246_1 5-19398246_2,,
+JRN00007938,6291105694728,ninja_img,ninja,12.95,,5-19398247,,,Pillsbury Cake Mix Vanilla-360g,12.5,ninja,5-19398247_0 5-19398247_1 5-19398247_2,,
+JRN00007939,5352101003622,ninja_img,ninja,4.95,,5-19397258,,,,,ninja,5-19397258_0 5-19397258_1 5-19397258_2,,
+JRN00007940,5352101866180,ninja_img,ninja,10.95,,5-19397260,فوستر كلاركس خليط لقمة القاضي مع خميرة 500جرام,10.75,Foster Clark's Dumpling Mix-500g,10.25,ninja,5-19397260_0 5-19397260_1 5-19397260_2,,
+JRN00007941,5352101006258,ninja_img,ninja,25.95,,5-19397272,,,Foster Clark's Chocolate Molten Lava-400g,25.75,ninja,5-19397272_0 5-19397272_1 5-19397272_2,"Ninja name says 500 g but its pack images print NET WT 400 g (Tamimi also 400 g) -> printed pack wins, name corrected to 400 g",
+JRN00007942,6281063881858,ninja_img,ninja,32.95,,5-725,,,Freshly Pie Filling Blueberry-340g,27.95,ninja,5-725_0 5-725_1 5-725_2,"Ninja 21 oz vs Tamimi 340 g; Ninja back-label image prints NET WEIGHT 21 oz (595 g) -> printed pack wins, name shows 595 g",
+JRN00007943,6281014992008,ninja_img,ninja,7.95,,5-19294052,,,Best Mix Icing Sugar-300g,6.95,ninja,5-19294052_0 5-19294052_1 5-19294052_2,,
+JRN00007944,5352101422614,ninja_img,ninja,4.95,,5-17401881,,,Foster Clark's Creme Caramel-71g,4.95,ninja,5-17401881_0 5-17401881_1 5-17401881_2,,
+JRN00007945,5352101363856,ninja_img,ninja,17.95,,5-17401900,,,Foster Clark's Milk Chocolate Cake Mix-500g,17.75,ninja,5-17401900_0 5-17401900_1 5-17401900_2,"Ninja name says 430 g but its pack images print NET WT 500 g (Tamimi also 500 g) -> printed pack wins, name corrected to 500 g",
+JRN00007946,617950200543,ninja_img,ninja,11.95,,5-6875287,,,,,ninja,5-6875287_0 5-6875287_1 5-6875287_2,,
+JRN00007947,617950202363,ninja_img,ninja,10.95,,5-6765494,,,,,ninja,5-6765494_0 5-6765494_1 5-6765494_2,,
+JRN00007948,617950200567,ninja_img,ninja,2.5,,5-6876098,العلالي نشاء الذرة 100جرام,2,,,ninja,5-6876098_0 5-6876098_1 5-6876098_2,,
+JRN00007949,5352101947193,ninja_img,ninja,4.95,,5-19397253,,,Foster Clark's Corn Flour-200g,5.25,ninja,5-19397253_0 5-19397253_1 5-19397253_2,,
+JRN00007950,709993302015,ninja_img,ninja,26.95,,5-8139,,,Natureland Organic Brown Basma Rice-1kg,28.95,ninja,5-8139_0 5-8139_1 5-8139_2,,
+JRN00007951,6287043030674,ninja_page,ninja,3.95,,5-19355271,,,,,ninja,5-19355271_0 5-19355271_1,,
+JRN00007952,6287043030667,ninja_page,ninja,3.95,,5-19355272,,,,,ninja,5-19355272_0 5-19355272_1 5-19355272_2,,
+JRN00007953,9310140010519,tamimi,ninja,51.95,39.95,5-4787,صنوايت ارز كالروز 5كيلو,53,Sunwhite Calrose Rice-5kg,52.95,ninja,5-4787_0 5-4787_1 5-4787_2,,
+JRN00007954,6287043030735,ninja_page,ninja,3.95,,5-19355265,,,,,ninja,5-19355265_0 5-19355265_1 5-19355265_2,,
+JRN00007955,6281014306980,ninja_img,ninja,6.95,,5-269,,,Goody Pasta Ditalini Rigate No. 10-450g,6.95,ninja,5-269_0 5-269_1 5-269_2,,
+JRN00007956,6281014300131,ninja_img,ninja,4.95,,5-14284657,,,,,ninja,5-14284657_0 5-14284657_1 5-14284657_2,,
+JRN00007957,6281014306966,ninja_img,ninja,6.95,,5-267,,,Goody Pasta Ditalini Lisce No. 14-450g,6.95,ninja,5-267_0 5-267_1 5-267_2,,
+JRN00007958,6281100410072,tamimi,ninja,48.95,,5-8106,,,Abu kass Indian Sella Basmati Rice-5kg,47.95,ninja,5-8106_0 5-8106_1 5-8106_2,,
+JRN00007959,6281063771524,ninja_img,ninja,16.95,,5-19355318,,,Freshly Italian Style Fettuccine-454g,15.95,ninja,5-19355318_0 5-19355318_1 5-19355318_2,,
+JRN00007960,6287043030650,ninja_page,ninja,3.95,,5-19355273,,,,,ninja,5-19355273_0 5-19355273_1,,
+JRN00007961,6281014402101,ninja_img,ninja,6.95,,5-19372799,,,Perfetto Pasta Nocciola No. 210-500g,6.75,ninja,5-19372799_0 5-19372799_1 5-19372799_2,,
+JRN00007962,6281014306997,ninja_img,ninja,6.95,,5-19294046,,,Goody Pasta Elbow No. 19-450g,6.95,ninja,5-19294046_0 5-19294046_1 5-19294046_2,,
+JRN00007963,6287043030742,ninja_page,ninja,3.95,,5-19355250,,,,,ninja,5-19355250_0 5-19355250_1 5-19355250_2,,
+JRN00007964,6287043030704,ninja_page,ninja,3.95,,5-19355251,,,,,ninja,5-19355251_0 5-19355251_1 5-19355251_2,,
+JRN00007965,6281100200413,tamimi,ninja,52.95,47.95,5-4776,,,Al Walimah Sella Basmati Rice-5kg,51.5,ninja,5-4776_0 5-4776_1 5-4776_2,,
+JRN00007966,6281014300186,ninja_img,ninja,4.95,,5-14283978,,,,,ninja,5-14283978_0 5-14283978_1 5-14283978_2,,
+JRN00007967,8690946423098,ninja_img,ninja,5.95,,5-19401637,,,,,ninja,5-19401637_0 5-19401637_1,,
+JRN00007968,8690946423074,ninja_img,ninja,5.95,,5-19401635,,,,,ninja,5-19401635_0 5-19401635_1 5-19401635_2,,
+JRN00007969,6285131009328,ninja_img,ninja,9.95,,5-1129283,,,,,ninja,5-1129283_0 5-1129283_1 5-1129283_2,,
+JRN00007970,6281100200024,ninja_page,ninja,52.95,39.95,5-658230,,,Al Aila White Basmati Rice Amber-5kg,53.5,ninja,5-658230_0 5-658230_1 5-658230_2,,
+JRN00007971,6287043032128,ninja_page,ninja,3.95,,5-19355274,,,,,ninja,5-19355274_0 5-19355274_1 5-19355274_2,,
+JRN00007972,071771554252,ninja_img,ninja,22.95,,5-19287042,,,Abu Bint Parboiled Rice Chopstick-2kg,21.95,ninja,5-19287042_0 5-19287042_1 5-19287042_2,,
+JRN00007973,6287029191894,ninja_img,ninja,9.95,,5-19327639,,,,,ninja,5-19327639_0 5-19327639_1,,
+JRN00007974,6287043030681,ninja_page,ninja,3.95,,5-19355269,,,,,ninja,5-19355269_0 5-19355269_1 5-19355269_2,,
+JRN00007975,6281014307000,ninja_img,ninja,6.95,,5-19294033,,,Goody Pasta Conchiglie No. 18-450g,6.95,ninja,5-19294033_0 5-19294033_1 5-19294033_2,,
+JRN00007976,6287012424121,ninja_img,ninja,11.95,,5-19313013,,,,,ninja,5-19313013_0 5-19313013_1 5-19313013_2,,
+JRN00007977,6281063883456,ninja_page,ninja,14.95,,5-19344329,,,Freshly Popcorn In Jar-16oz,14.95,ninja,5-19344329_0 5-19344329_1 5-19344329_2,,
+JRN00007978,617950300823,ninja_img,ninja,6.95,,5-6725680,العلالي مكرونة فوسيلي الايطالية 450 جرام,6.5,,,ninja,5-6725680_0 5-6725680_1 5-6725680_2,,
+JRN00007979,6287043030643,ninja_page,ninja,3.95,,5-19355264,,,,,ninja,5-19355264_0 5-19355264_1,,
+JRN00007980,617950300991,ninja_img,ninja,6.95,,5-6726000,,,,,ninja,5-6726000_0 5-6726000_1 5-6726000_2,,
+JRN00007981,3660861000648,ninja_img,ninja,14.95,,5-19355302,,,Sipa Fine Couscous-500g,13.75,ninja,5-19355302_0 5-19355302_1 5-19355302_2,,
+JRN00007982,6281014472210,ninja_img,ninja,6.95,,5-19372801,,,Perfetto Spaghetini No. 221 Thin-450g,6.75,ninja,5-19372801_0 5-19372801_1 5-19372801_2,,
+JRN00007983,6287017151039,ninja_page,ninja,10.95,,5-19356677,,,Aloula Coarse Semolina-800g,13.95,ninja,5-19356677_0 5-19356677_1 5-19356677_2,,
+JRN00007984,6281100205852,ninja_page,ninja,59.95,39.95,5-630709,,,Al Aila White Basmati Rice-5kg,53.95,ninja,5-630709_0 5-630709_1 5-630709_2,,
+JRN00007985,8906001090472,ninja_page,ninja,49.95,43.95,5-19375103,,,Al Shalan Punjabi White Basmati Rice-5kg,47.95,ninja,5-19375103_0 5-19375103_1 5-19375103_2,,
+JRN00007986,8000139910159,ninja_img,ninja,11.95,,5-19399688,,,,,ninja,5-19399688_0 5-19399688_1 5-19399688_2,,
+JRN00007987,6287029192044,ninja_img,ninja,19.95,14.95,5-19295352,,,,,ninja,5-19295352_0 5-19295352_1 5-19295352_2,,
+JRN00007988,8690946423067,ninja_img,ninja,5.95,,5-19401634,,,,,ninja,5-19401634_0 5-19401634_1,,
+JRN00007989,617950301059,ninja_page,ninja,6.95,,5-19413112,,,,,ninja,5-19413112_0 5-19413112_1 5-19413112_2,,
+JRN00007990,6281091003819,ninja_img,ninja,16.95,,5-19407944,,,,,ninja,5-19407944_0 5-19407944_1 5-19407944_2,,
+JRN00007991,6287012424145,ninja_img,ninja,15.95,,5-19313009,,,,,ninja,5-19313009_0 5-19313009_1 5-19313009_2,,
+JRN00007992,6281100201861,ninja_page,ninja,27.95,,5-630695,العائلة أرز بسمتي هندي أبيض 2كيلو,26.8,Al Aila White Indian Basmati Rice-2kg,25.5,ninja,5-630695_0 5-630695_1 5-630695_2,,
+JRN00007993,617950300052,ninja_img,ninja,6.95,,5-6724993,,,,,ninja,5-6724993_0 5-6724993_1 5-6724993_2,,
+JRN00007994,6281100412151,ninja_page,ninja,53.95,,5-6929337,,,Abu kass Amber White Basmati Rice-5kg,49.95,ninja,5-6929337_0 5-6929337_1 5-6929337_2,,
+JRN00007995,6287043030728,ninja_page,ninja,3.95,,5-19355268,,,,,ninja,5-19355268_0 5-19355268_1 5-19355268_2,,
+JRN00007996,681250040284,tamimi,ninja,29.95,,5-19393348,,,Majdi Urid Dal White-800g,25.5,ninja,5-19393348_0 5-19393348_1 5-19393348_2,,
+JRN00007997,617950301110,ninja_page,ninja,6.95,,5-19413113,,,,,ninja,5-19413113_0 5-19413113_1 5-19413113_2,,
+JRN00007998,6294001832461,ninja_img,ninja,13.95,,5-19370164,,,,,ninja,5-19370164_0 5-19370164_1,,
+JRN00007999,6285131010591,ninja_img,ninja,19.95,,5-19292598,المهباج حمص 800جرام,20.25,,,ninja,5-19292598_0 5-19292598_1,,
+JRN00008000,617950300724,ninja_img,ninja,6.95,,5-6725877,,,,,ninja,5-6725877_0 5-6725877_1 5-6725877_2,,
+JRN00008001,6281091002447,ninja_page,ninja,39.95,,5-19349959,,,Orlanda Calrose Rice-5kg,42.95,ninja,5-19349959_0 5-19349959_1 5-19349959_2,,
+JRN00008002,6281091003321,ninja_page,ninja,53.95,,5-19349977,,,,,ninja,5-19349977_0 5-19349977_1 5-19349977_2,,
+JRN00008003,3177960004540,ninja_img,ninja,14.95,,5-19319095,,,Sipa Couscous-500g,13.75,ninja,5-19319095_0 5-19319095_1 5-19319095_2,,
+JRN00008004,6287012424107,ninja_img,ninja,15.95,,5-19313010,,,,,ninja,5-19313010_0 5-19313010_1 5-19313010_2,,
+JRN00008005,5033712160514,tamimi,hs,12.5,,,الكبير دجاج مفروم مجمد 400جرام,12.5,Al Kabeer Frozen Minced Chicken-400g,11.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/6ad4bfc830fa8afde4574f44.png https://hungerstation.dhmedia.io/image/product-information-management/6ab24db641faba6a314a7139.png https://hungerstation.dhmedia.io/image/product-information-management/6ab24db6dadaeae0d7ca5497.png,,yes (needs freezer delivery)
+JRN00008006,6287007094049,tamimi,hs,34.95,29.7,,رضوى صدور دجاج متبلة مجرامدة بالأعشاب الإيطالية 450جرام,34.95,Radwa Italian Herb Marinated Chicken Breast-450g,33.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/6ac767831abcbb8900ffde52.png https://hungerstation.dhmedia.io/image/product-information-management/6aafa5675b9b3fef725ba1f6.png https://hungerstation.dhmedia.io/image/product-information-management/6ac76784b7f7a664d6a96d17.png,,yes (needs freezer delivery)
+JRN00008007,6287007090409,tamimi,hs,22.5,,,رضوى دجاج دجاج مجمد 1100جرام,22.5,Radwa Whole Chicken In Bag-1100g,22.25,hs,https://hungerstation.dhmedia.io/image/product-information-management/6ac1fbf458daa9bd7b32c4e6.png https://hungerstation.dhmedia.io/image/product-information-management/6ac81471360bb9d3dedf7198.png https://hungerstation.dhmedia.io/image/product-information-management/6ac1fbf4857bc0837c994d2c.png,,yes (needs freezer delivery)
+JRN00008008,5033712111196,tamimi,hs,16.5,14.02,,الكبير كفتة عربية بقري فاخرة 300جرام,16.5,Al Kabeer Arabic Kofta-300g,16.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/6a71bba4d5758be5c484a1bb.jpg https://hungerstation.dhmedia.io/image/product-information-management/68ad8742cfe5d66ed8803046.jpg https://hungerstation.dhmedia.io/image/product-information-management/68ad8743cfe5d66ed880309d.jpg,,yes (needs freezer delivery)
+JRN00008009,6287007092441,tamimi,hs,31.5,,,دجاج رضوى ستربس دجاج فاخر حار 600جرام,31.5,Radwa Spicy Chicken Strips-600g,32.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/6ad4bfa830fa8afde45734b7.png https://hungerstation.dhmedia.io/image/product-information-management/6ac6460f662420fa61b03ebd.png https://hungerstation.dhmedia.io/image/product-information-management/6ab8f9319e1708d3b7b136d1.png,,yes (needs freezer delivery)
+JRN00008010,5033712461581,tamimi,hs,33.95,,,الكبير كريزي ناجتس دجاج 750جرام,33.95,Al Kabeer Krazee Chicken Nuggets-750g,32.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/6a71bc66d5758be5c484cfb8.jpg https://hungerstation.dhmedia.io/image/product-information-management/6ac64551662420fa61b03c51.png https://hungerstation.dhmedia.io/image/product-information-management/6a4fa2844f11b82209e6885e,,yes (needs freezer delivery)
+JRN00008011,6287007092137,tamimi,hs,54.95,38.46,,رضوى برجر دجاج بالبقسماط 20×72جرام,54.95,Radwa Breaded Frozen Chicken Burger-1440g,54.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/689df81eeca7e0ad0dd08aa7.png https://hungerstation.dhmedia.io/image/product-information-management/6ac767e7b7f7a664d6a96efc.png https://hungerstation.dhmedia.io/image/product-information-management/68e24cc475279d9b9ce847d4.png,,yes (needs freezer delivery)
+JRN00008012,6281073110948,tamimi,hs,10.95,8.65,,سنبلة رقائق السبرينج رول 345جرام,10.95,Sunbulah Spring Roll Pastry-345g,11.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/68fa3acc831cb678978b57b1.png https://hungerstation.dhmedia.io/image/product-information-management/68ff2933d749450da3931f83.jpg https://hungerstation.dhmedia.io/image/product-information-management/6978b730d80b7b448b08c33d.png,,yes (needs freezer delivery)
+JRN00008013,5203912390244,tamimi,hs,20.95,,,بيتي كروكر كوكيز بالشوكولاتة وقطع الشوكولاتة 496جرام,20.95,Betty Crocker Double Chocolate Cookie Mix-496g,21.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/6aa7a468dba31b1dbd84beb1.png https://hungerstation.dhmedia.io/image/product-information-management/6aa7a46872db72e8f9110515.png https://hungerstation.dhmedia.io/image/product-information-management/6aa7a46872db72e8f9110514.png,,
+JRN00008014,5010084902904,tamimi,hs,18.25,,,بيتي كروكر كريمة التزيين بالفانيليا 400 جرام,18.25,Betty Crocker Vanilla Frosting-400g,18.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/69fa5d7b49e38ea9aacd2c67.png https://hungerstation.dhmedia.io/image/product-information-management/699c3716b68e51cfd32839e0.jpg https://hungerstation.dhmedia.io/image/product-information-management/699c3716b68e51cfd32839e1.jpg,,
+JRN00008015,5352101078231,tamimi,hs,4,,,فوستر كلاركس خليط المهلبية 85جرام,4,Foster Clark's Muhallabiah-85g,4.25,hs,https://hungerstation.dhmedia.io/image/product-information-management/689dfea98fefcf4041db8b04.png https://hungerstation.dhmedia.io/image/product-information-management/689dfeaa8fefcf4041db8b96.JPG https://hungerstation.dhmedia.io/image/product-information-management/689dfeab8fefcf4041db8c19.JPG,,
+JRN00008016,6281100610403,tamimi,hs,7.75,5.81,,رياض فود لقمة القاضي 500جرام,7.75,Riyadh Food Dumpling Mix-500g,7.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/6abb61efec4fc8c4b598a3dc.png https://hungerstation.dhmedia.io/image/product-information-management/6abb61ef345757cffa558b77.png https://hungerstation.dhmedia.io/image/product-information-management/6abb61ee5413f8269c9ff6f9.png,,
+JRN00008017,5000318004030,tamimi,hs,3.25,2.6,,جرينز جيلي الكرز 80جرام,3.25,Greens Cherry Jelly-80g,3.75,hs,https://hungerstation.dhmedia.io/image/product-information-management/6968aa1a61f87bfc37327213.jpg https://hungerstation.dhmedia.io/image/product-information-management/6968aa19c61c4bb605ce8a43.jpg https://hungerstation.dhmedia.io/image/product-information-management/6968aa30d804c66d94d75e6e.jpg,,
+JRN00008018,6281014472852,tamimi,hs,11.95,6.93,,بيرفيتو مكرونة كانيلوني رقم  250جرام,11.95,Perfetto Cannelloni-250g,9.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/6ac360efb5a5e9a4f3469aa3.png https://hungerstation.dhmedia.io/image/product-information-management/6ac360efb5a5e9a4f3469aa4.png https://hungerstation.dhmedia.io/image/product-information-management/6ac360efce4b510b630109f0.png,,
+JRN00008019,6281100201113,tamimi,hs,20.3,,,وايت سوان ارز كالروز مصري 2كيلو,20.3,White Swan Calrose Rice-2kg,17.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/6a9ff94d42e4571e1599929a.png https://hungerstation.dhmedia.io/image/product-information-management/6a66130ef07061eab844c84f.png https://hungerstation.dhmedia.io/image/product-information-management/6a66130ff07061eab844c850.png,,
+JRN00008020,6281100412113,tamimi,hs,100,,,ابو كاس بنجانبي عنبر أرز هندي بسمتي أبيض 10كيلو,100,Abu kass Amber White Basmati Rice-10kg,94.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/69edcd66e47080c7ec7fdd9b.png https://hungerstation.dhmedia.io/image/product-information-management/68e246f1abcb25ba0fdfd636.png https://hungerstation.dhmedia.io/image/product-information-management/68fe0cfdf1de2c0476daec6a.png,,
+JRN00008021,6281100203438,tamimi,hs,32,30.08,,بنجابي المهيدب أرز بسمتي بني هندي 2كيلو,32,Punjabi Al Muhaidib Brown Basmati Rice-2kg,28.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/6a9ffb4f42e4571e1599953a.png https://hungerstation.dhmedia.io/image/product-information-management/6aab8931fe7479aa60b7f9dc.png https://hungerstation.dhmedia.io/image/product-information-management/6ac660de662420fa61b0616a.png,,
+JRN00008022,8410522009894,tamimi,hs,51.5,41.2,,كوبوليفا شرائح زيتون حار أخضر  510جرام,51.5,Coopoliva Sliced Green Olives Hot-510g,53.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/693173f561a9797b0d76e000.jpg https://hungerstation.dhmedia.io/image/product-information-management/68e63dd1dd10097785c9f721.png https://hungerstation.dhmedia.io/image/product-information-management/6a71bd4fd5758be5c4851f1f.jpg,,
+JRN00008023,6281011422225,tamimi,hs,5.4,,,الأسرة سكر بني طبيعي 500جرام,5.4,Alosra Brown Sugar-500g,5.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/6a33ed75deea0c82671914a2.png https://hungerstation.dhmedia.io/image/product-information-management/6a33ed75deea0c82671914a3.png https://hungerstation.dhmedia.io/image/product-information-management/6a33ed77deea0c82671914a4.png,,
+JRN00008024,6287019730218,tamimi,hs,5.2,,,البيت سكر ابيض ناعم 1كيلو,5.2,Al Bayt Fine White Sugar-1kg,3.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/69fa5de549e38ea9aacd51f6.png https://hungerstation.dhmedia.io/image/product-information-management/6ab8f8c09e1708d3b7b135d8.png https://hungerstation.dhmedia.io/image/product-information-management/69215c7aba3ec028ac249d90,,
+JRN00008025,6287019730225,tamimi,hs,8.99,,,البيت سكر ابيض ناعم 2كيلو,8.99,Al Bayt Fine White Sugar-2kg,7.75,hs,https://hungerstation.dhmedia.io/image/product-information-management/69fa5de549e38ea9aacd51f7.png https://hungerstation.dhmedia.io/image/product-information-management/697077d401d63331a2bd7818.png https://hungerstation.dhmedia.io/image/product-information-management/69215ca7f57c3a1c1ed3db48,,
+JRN00008026,6285525000658,tamimi,hs,8.5,,,الأسرة سكر بودرة 500جرام,8.5,Alosra Icing Sugar-500g,8.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/6ac60448662420fa61afc385.png https://hungerstation.dhmedia.io/image/product-information-management/6ac60448baf3722e735a27bb.png https://hungerstation.dhmedia.io/image/product-information-management/6ac60448662420fa61afc384.png,,
+JRN00008027,6281011422027,tamimi,hs,8.6,,,الأسرة سكر أبيض مكعبات 500جرام,8.6,Alosra White Sugar Cubes-500g,7.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/6ad72985a775e7fe3b489796.png https://hungerstation.dhmedia.io/image/product-information-management/6ad7298ba775e7fe3b489797.png,,
+JRN00008028,8888167023016,tamimi,hs,9.6,,,اس اي اس سكر أبيض ناعم 1كيلو,9.6,Sis Fine White Sugar-1kg,8.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/68e3a7961ef1b976cbcfda59.png https://hungerstation.dhmedia.io/image/product-information-management/68e3a79d1ef1b976cbcfda5a.png https://hungerstation.dhmedia.io/image/product-information-management/69204ad1eb22909a81e36573.jpg,,
+JRN00008029,032894079343,tamimi,hs,6.75,5.26,,حدائق كاليفورنيا فول مهروس مع الصلصه 450جرام,6.75,California Garden Fava Beans Mashed With Salsa-450g,7.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/68e63dd8dd10097785c9fa97.png https://hungerstation.dhmedia.io/image/product-information-management/68e63dd9dd10097785c9fb0d.png https://hungerstation.dhmedia.io/image/product-information-management/68e63ddbdd10097785c9fb79.png,,
+JRN00008030,6281063881810,tamimi,hs,9.95,,,فرشلي فاصوليا حمراء 425 جرام,9.95,Freshly Dark Red Kidney Beans-425g,10.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/689dfdf9eca7e0ad0dd42ce6.png https://hungerstation.dhmedia.io/image/product-information-management/689dfdfdeca7e0ad0dd42dcf.jpg https://hungerstation.dhmedia.io/image/product-information-management/695f53e392e81edaaeb156cd.png,,
+JRN00008031,032894010919,tamimi,hs,6.95,5.42,,حدائق كاليفورنيا فول مدمس بالخلطة المصرية 450جرام,6.95,California Garden Fava Beans Egyptian Recipe-450g,7.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/6a71bb9ed5758be5c4849e9c.jpg https://hungerstation.dhmedia.io/image/product-information-management/6a71bb9fd5758be5c4849f3d.jpg https://hungerstation.dhmedia.io/image/product-information-management/6a71bb9fd5758be5c4849fe0.jpg,,
+JRN00008032,6281014303224,tamimi,hs,4.25,2.97,,قودي فول مدمس كامل سادة 450 جرام,4.25,Goody Fava Beans Whole Plain-450g,4.75,hs,https://hungerstation.dhmedia.io/image/product-information-management/6ad4bfce30fa8afde4575168.png https://hungerstation.dhmedia.io/image/product-information-management/693982120f00ff1ed7df2048.png https://hungerstation.dhmedia.io/image/product-information-management/6aba27598fdb0a308ff353f3.png,,
+JRN00008033,032894079350,tamimi,hs,6.75,5.26,,حدائق كاليفورنيا فول بالخلطة المصرية 450جرام,6.75,California Garden Egyptian Mashed Fava Beans-450g,7.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/686fdafc1289c220eb1e6121.png https://hungerstation.dhmedia.io/image/product-information-management/68e3e1d0e739c0da73490249.png https://hungerstation.dhmedia.io/image/product-information-management/68e3e1d2e739c0da734902aa.png,,
+JRN00008034,6281014133005,tamimi,hs,5.5,4.95,,قودي حمص حب مسلوق 425جرام,5.5,Goody Chick Peas Can-425g,5.75,hs,https://hungerstation.dhmedia.io/image/product-information-management/6ad4bfa730fa8afde457348b.png https://hungerstation.dhmedia.io/image/product-information-management/6aba27438fdb0a308ff353c0.png https://hungerstation.dhmedia.io/image/product-information-management/6a045be2b557617cdceeac6c.jpg,,
+JRN00008035,032894010445,tamimi,hs,8,,,حدائق كاليفورنيا فطر كامل 425 جرام,8,California Garden Mushroom Whole-425g,8.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/6ad4bff130fa8afde4575ac3.png https://hungerstation.dhmedia.io/image/product-information-management/69a00aef1a0148fcd52563bc.png https://hungerstation.dhmedia.io/image/product-information-management/69a00aef1a0148fcd52563bd.png,,
+JRN00008036,6281014630009,tamimi,hs,12,,,قودي فـطـر كـامـل 400جرام,12,Goody Whole Mushroom-400g,12.75,hs,https://hungerstation.dhmedia.io/image/product-information-management/6ad4bfce30fa8afde4575163.png https://hungerstation.dhmedia.io/image/product-information-management/6a045968fb9077981b162dca.jpg https://hungerstation.dhmedia.io/image/product-information-management/6a045968af0d3bf1ff37b75c.jpg,,
+JRN00008037,5285001150502,tamimi,hs,7.5,,,ألوها لحم تونا خفيف بالزيت النباتي 185جرام,7.5,Aloha Light Meat Tuna In Vegetable Oil-185g,8.95,hs,https://hungerstation.dhmedia.io/image/product-information-management/6a71bb9ed5758be5c4849e96.jpg https://hungerstation.dhmedia.io/image/product-information-management/6a71bb9fd5758be5c4849f1f.jpg https://hungerstation.dhmedia.io/image/product-information-management/691c2552c62b88fd3a07d376.png,,
+JRN00008038,6281055704523,tamimi,hs,8.95,7.16,,بليمز تونة في زيت دوار الشمس 170جرام,8.95,Plyms Light Meat Tuna In Sunflower Oil-170g,10.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/68af3038c97953c774630ed9.png https://hungerstation.dhmedia.io/image/product-information-management/68af303cc97953c7746310a2.png https://hungerstation.dhmedia.io/image/product-information-management/68af303dc97953c774631139.png,,
+JRN00008039,6281055704622,tamimi,hs,9.25,7.95,,هناء لحم تونا خفيف 185جرام,9.25,Hanaa Light Meat Tuna In Sunflower Oil-185g,11.5,hs,https://hungerstation.dhmedia.io/image/product-information-management/695e5bc4f3e98d7021cbbfcb.jpg https://hungerstation.dhmedia.io/image/product-information-management/6866ab90d35f4cb212119bda.png https://hungerstation.dhmedia.io/image/product-information-management/6920851f3b60233a813c24d6.jpg,,
