@@ -1,0 +1,2 @@
+tile_id,source,source_id,name,price,special_price,status,reason,candidate_barcode,group,check_on_pack
+54,ninja,5-19370086,كارولينا هيريرا عطر باد بوي لو بارفيوم للرجال او دي برفيوم 100 مل,453.0,360,DEFERRED,"Barcode does not fit the brand: Ninja page code 8993175565141 has an Indonesian GS1 prefix (899), while Carolina Herrera / Puig perfumes carry 8411061",8993175565141,suspect,Read the barcode on the Bad Boy Le Parfum 100 ml box

@@ -1,0 +1,5 @@
+tile_id,source,source_id,name,price,special_price,status,reason,candidate_barcode
+54,ninja,5-19370086,كارولينا هيريرا عطر باد بوي لو بارفيوم للرجال او دي برفيوم 100 مل,453.0,360,DEFERRED,"Barcode does not fit the brand: Ninja page code 8993175565141 has an Indonesian GS1 prefix (899), while Carolina Herrera / Puig perfumes carry 8411061",8993175565141
+54,ninja,5-19373890,لانكوم عطر ايدول للنساء لو دي برفيوم 50 مل,535.0,368,HOLD,Variant conflict: Ninja gallery shows both Idole L'Eau de Toilette (box) and L'Eau de Parfum (box) for this 50 ml listing; verify which product the barcode is,3614272629370
+54,ninja,5-19322864,اسكادا مغنسيوم او دي بارفان للنساء 75 مل,275.0,169,HOLD,"Size conflict: Ninja lists Escada Magnetism (spelled Magnesium) 75 ml, but its own gallery box photo prints 25 ml; no external source checked yet",3614227293960
+48,ninja,5-19286863,ديتول البشرة الحساسة قالب صابون باللافندر والمسك الأبيض 120 جم,13.95,,HOLD,"Size conflict: Ninja English name says 165 g, Arabic name says 120 g; the weight is not visible on the pack photos and no external source settles it",6001106110697
