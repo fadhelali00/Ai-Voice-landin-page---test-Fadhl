@@ -1,0 +1,8257 @@
+[
+{
+"sku": "JRN00009700",
+"barcode": "6281018154747",
+"cat": 27,
+"ar": "ندى حليب بروتين فانيلا مع الفواكه المشكلة 320 مل",
+"en": "Nada Protein Milk Vanilla With Mixed Fruits 320 ml",
+"price": 5.95,
+"special": 5.25,
+"src": "ninja",
+"ninja_id": "5-1186191",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281018154747.webp",
+"6281018154747-1.webp",
+"6281018154747-2.webp"
+]
+},
+{
+"sku": "JRN00009701",
+"barcode": "6297000747781",
+"cat": 24,
+"ar": "باربيكان رمان 6*250مل",
+"en": "Barbican Pomegranate Drink 6*250 ml",
+"price": 14.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-11964825",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6297000747781.webp",
+"6297000747781-1.webp",
+"6297000747781-2.webp"
+]
+},
+{
+"sku": "JRN00009702",
+"barcode": "5449000088048",
+"cat": 21,
+"ar": "اروى مياه 40 * 330 مل",
+"en": "Arwa Water 40 pcs 330 ml",
+"price": 21.5,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-448012",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5449000088048.webp",
+"5449000088048-1.webp",
+"5449000088048-2.webp"
+]
+},
+{
+"sku": "JRN00009703",
+"barcode": "6281026120833",
+"cat": 22,
+"ar": "الربيع شراب تفاح 18 حبة 185 مل",
+"en": "Alrabie Apple Juice 18 pcs 185 ml",
+"price": 32.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19335182",
+"hs_ids": [
+"d205dbf9-7153-4b7c-abb7-fe4ca0ad6942"
+],
+"img_src": "ninja",
+"images": [
+"6281026120833.webp",
+"6281026120833-1.webp",
+"6281026120833-2.webp"
+]
+},
+{
+"sku": "JRN00009704",
+"barcode": "6297000747699",
+"cat": 24,
+"ar": "باربيكان كلاسيك 6 حبات 250 مل",
+"en": "Barbican Regular Drink 6 pcs 250 ml",
+"price": 16.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-11961783",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6297000747699.webp",
+"6297000747699-1.webp",
+"6297000747699-2.webp"
+]
+},
+{
+"sku": "JRN00009705",
+"barcode": "6291025000029",
+"cat": 22,
+"ar": "كابري سن عصير المانجو 100% من دون سكر مضاف 10 حبات 200 مل",
+"en": "Capri Sun Mango Juice 100% No Added Sugar 10 pcs 200 ml",
+"price": 17.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19355626",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6291025000029.webp",
+"6291025000029-1.webp",
+"6291025000029-2.webp"
+]
+},
+{
+"sku": "JRN00009706",
+"barcode": "6281100585558",
+"cat": 21,
+"ar": "نستله بيور لايف مياه 40 * 330 مل",
+"en": "Nestle Pure Life Water 40 pcs 330 ml",
+"price": 24.65,
+"special": 20.95,
+"src": "ninja",
+"ninja_id": "5-1223707",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281100585558.webp",
+"6281100585558-1.webp",
+"6281100585558-2.webp"
+]
+},
+{
+"sku": "JRN00009707",
+"barcode": "6281035000300",
+"cat": 21,
+"ar": "نوفا مياه زجاج 24 حبة 250 مل",
+"en": "Nova Water Glass 24 pcs 250 ml",
+"price": 50.5,
+"special": 42.95,
+"src": "ninja",
+"ninja_id": "5-19290778",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281035000300.webp",
+"6281035000300-1.webp",
+"6281035000300-2.webp"
+]
+},
+{
+"sku": "JRN00009708",
+"barcode": "6287025900179",
+"cat": 21,
+"ar": "ايفال مياه 40 * 330 مل",
+"en": "Ival Water 40 pcs 330 ml",
+"price": 24.5,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-1020017",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287025900179.webp",
+"6287025900179-1.webp",
+"6287025900179-2.webp"
+]
+},
+{
+"sku": "JRN00009709",
+"barcode": "5449000043191",
+"cat": 23,
+"ar": "كوكاكولا مشروب غازي زجاج كرتون 6 * 250مل",
+"en": "Coca Cola Soft Drink Glass Bottle Carton 6 pcs 250ml",
+"price": 16.5,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-3260411",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5449000043191.webp",
+"5449000043191-1.webp",
+"5449000043191-2.webp"
+]
+},
+{
+"sku": "JRN00009710",
+"barcode": "8850124085917",
+"cat": 26,
+"ar": "نسكافيه 3 في 1 كلاسيك 30 حبة 20 جم",
+"en": "Nescafe 3In1 Classic 30 pcs 20 gm",
+"price": 49.95,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-19351831",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8850124085917.webp",
+"8850124085917-1.webp",
+"8850124085917-2.webp"
+]
+},
+{
+"sku": "JRN00009711",
+"barcode": "5056555201138",
+"cat": 27,
+"ar": "أبلايد نيوتريشن آبي صفر سعرات حرارية نكهة الطاقة 330 مل",
+"en": "Applied Nutrition Abe Energy Drink Zero Calories Energy Flavour 330 ml",
+"price": 17.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19322983",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5056555201138.webp",
+"5056555201138-1.webp",
+"5056555201138-2.webp"
+]
+},
+{
+"sku": "JRN00009712",
+"barcode": "6281034904470",
+"cat": 24,
+"ar": "باربيكان مشروب شعير نكهه الرمان 6 حبات 330 مل",
+"en": "Barbican Malt Drink Pomegranate Flavour 6 pcs 330 ml",
+"price": 32.25,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19392718",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034904470.webp",
+"6281034904470-1.webp",
+"6281034904470-2.webp"
+]
+},
+{
+"sku": "JRN00009713",
+"barcode": "6281055001424",
+"cat": 21,
+"ar": "هارفست مياه جوز الهند 330 مل",
+"en": "Harvest Coconut Water Regular 330 ml",
+"price": 8.95,
+"special": 6.95,
+"src": "ninja",
+"ninja_id": "5-19319316",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281055001424.webp",
+"6281055001424-1.webp",
+"6281055001424-2.webp"
+]
+},
+{
+"sku": "JRN00009714",
+"barcode": "6281101493562",
+"cat": 26,
+"ar": "بونا فورتي قهوه مقطره فلتر 10 أظرف",
+"en": "Bunna Forte Drip Coffee 10 Envelop",
+"price": 34.95,
+"special": 28.95,
+"src": "ninja",
+"ninja_id": "5-19289909",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281101493562.webp",
+"6281101493562-1.webp",
+"6281101493562-2.webp"
+]
+},
+{
+"sku": "JRN00009715",
+"barcode": "5060338922905",
+"cat": 27,
+"ar": "قيت مور فيتس ماء متعدد الفيتامينات بنكهه الليمون الحامض بدون سكر 500 مل",
+"en": "Get More Vites Multivitamin Water Lemon Flavor Sugar Free 500 ml",
+"price": 11.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19368037",
+"hs_ids": [
+"56392122-1393-44b8-b3d6-61b7da9c5e44"
+],
+"img_src": "ninja",
+"images": [
+"5060338922905.webp",
+"5060338922905-1.webp"
+]
+},
+{
+"sku": "JRN00009716",
+"barcode": "6287006530043",
+"cat": 26,
+"ar": "كيف المسافر قهوة سعودية سريعة التحضير بالهيل 10 حبات 30 جم",
+"en": "Kif Almosafer Instant Saudi Coffee Cardamom 10 pcs 30 gm",
+"price": 63.95,
+"special": 54.5,
+"src": "ninja",
+"ninja_id": "5-19319179",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287006530043.webp",
+"6287006530043-1.webp",
+"6287006530043-2.webp"
+]
+},
+{
+"sku": "JRN00009717",
+"barcode": "6287042762552",
+"cat": 26,
+"ar": "كافي أظرف قهوة مختصة البرازيل 5 أظرف 12 جم",
+"en": "Kafy Drip Bags Single Origin Brazil 5 pcs 12 gm",
+"price": 26.95,
+"special": 22.95,
+"src": "ninja",
+"ninja_id": "5-19404356",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287042762552.webp",
+"6287042762552-1.webp",
+"6287042762552-2.webp"
+]
+},
+{
+"sku": "JRN00009718",
+"barcode": "6281101494903",
+"cat": 26,
+"ar": "بونا تشيلو قهوة مقطرة فلتر 3 أظرف 10 جم",
+"en": "Bunna Cielo Drip Coffee 3 Sachets 10 gm",
+"price": 11.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19391594",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281101494903.webp",
+"6281101494903-1.webp",
+"6281101494903-2.webp"
+]
+},
+{
+"sku": "JRN00009719",
+"barcode": "6287043721763",
+"cat": 22,
+"ar": "الحطب عصير طازج برتقال كبس 250 مل",
+"en": "Alhatab Fresh Juice Orange Squeezed 250 ml",
+"price": 8.5,
+"special": 7.5,
+"src": "ninja",
+"ninja_id": "5-19375782",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287043721763.webp",
+"6287043721763-1.webp",
+"6287043721763-2.webp"
+]
+},
+{
+"sku": "JRN00009720",
+"barcode": "6281007070720",
+"cat": 22,
+"ar": "المراعي عصير تفاح بدون إضافة سكر 1.4 لتر",
+"en": "Almarai Juice Apple Premium No Added Sugar 1.4 L",
+"price": 13.0,
+"special": 8.5,
+"src": "ninja",
+"ninja_id": "5-8191",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007070720.webp",
+"6281007070720-1.webp",
+"6281007070720-2.webp"
+]
+},
+{
+"sku": "JRN00009721",
+"barcode": "054881017817",
+"cat": 25,
+"ar": "أحمد شاي انجليزي 100 ظرف",
+"en": "Ahmad Tea English Tea No1 100 Bags",
+"price": 25.25,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-910",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"054881017817.webp",
+"054881017817-1.webp",
+"054881017817-2.webp"
+]
+},
+{
+"sku": "JRN00009722",
+"barcode": "8002270021060",
+"cat": 21,
+"ar": "سان بيليغرينو مياه معدنية طبيعية فوارة زجاجية 6 حبات 250 مل",
+"en": "San Pellegrino Water Sparkling Glass 6 pcs 250 ml",
+"price": 43.0,
+"special": 38.95,
+"src": "ninja",
+"ninja_id": "5-19314395",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8002270021060.webp",
+"8002270021060-1.webp"
+]
+},
+{
+"sku": "JRN00009723",
+"barcode": "6281007070775",
+"cat": 22,
+"ar": "المراعي نكتار الفواكة مشكلة بدون اضافة سكر 1.4 لتر",
+"en": "Almarai Mixed Fruit Nectar No Added Sugar 1.4 L",
+"price": 8.95,
+"special": 8.0,
+"src": "ninja",
+"ninja_id": "5-8186",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007070775.webp",
+"6281007070775-1.webp",
+"6281007070775-2.webp"
+]
+},
+{
+"sku": "JRN00009724",
+"barcode": "6287043721886",
+"cat": 22,
+"ar": "الحطب عصير طازج جزر وبرتقال 250 مل",
+"en": "Alhatab Fresh Juice Carrot & Orange Juice 250 ml",
+"price": 12.5,
+"special": 10.75,
+"src": "ninja",
+"ninja_id": "5-19375799",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287043721886.webp",
+"6287043721886-1.webp",
+"6287043721886-2.webp"
+]
+},
+{
+"sku": "JRN00009725",
+"barcode": "8720608616855",
+"cat": 25,
+"ar": "بروك بوند العلامة الحمراء شاي أسود 100 ظرف",
+"en": "Brooke Bond Red Label Black Tea 100 Teabags",
+"price": 19.5,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19292226",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8720608616855.webp",
+"8720608616855-1.webp",
+"8720608616855-2.webp"
+]
+},
+{
+"sku": "JRN00009726",
+"barcode": "5099864014501",
+"cat": 27,
+"ar": "انشور ماكس بروتين شيك مشروب بنكهة الموكا 330 مل",
+"en": "Ensure Max Protein Shake Mocha Flavour 330 ml",
+"price": 23.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19292382",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5099864014501.webp",
+"5099864014501-1.webp",
+"5099864014501-2.webp"
+]
+},
+{
+"sku": "JRN00009727",
+"barcode": "6287043721787",
+"cat": 22,
+"ar": "الحطب عصير طازج برتقال كبس 1 لتر",
+"en": "Alhatab Fresh Juice Orange Squeezed 1 L",
+"price": 20.95,
+"special": 18.5,
+"src": "ninja",
+"ninja_id": "5-19383407",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287043721787.webp",
+"6287043721787-1.webp",
+"6287043721787-2.webp"
+]
+},
+{
+"sku": "JRN00009728",
+"barcode": "5999862168988",
+"cat": 24,
+"ar": "نانو سوبس هايب بيست بري ووركاوت بلو راسبيري فليفر 60 مل",
+"en": "Nano Supps Hype Beast Pre Workout Blue Raspberry Flavour 60 ml",
+"price": 14.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-19370606",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5999862168988.webp",
+"5999862168988-1.webp",
+"5999862168988-2.webp"
+]
+},
+{
+"sku": "JRN00009729",
+"barcode": "6281034067045",
+"cat": 24,
+"ar": "باربيكان مشروب شعير عادي 6 حبات 330 مل",
+"en": "Barbican Malt Drink Regular 6 pcs 330 ml",
+"price": 32.25,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19392714",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034067045.webp",
+"6281034067045-1.webp",
+"6281034067045-2.webp"
+]
+},
+{
+"sku": "JRN00009730",
+"barcode": "4792252938298",
+"cat": 27,
+"ar": "تيبسون شاي ماتشا بالتوت الازرق عضوي 25 مغلف",
+"en": "Tipson Matcha Blueberry Tea Organic 25 tea bag",
+"price": 39.95,
+"special": 32.95,
+"src": "ninja",
+"ninja_id": "5-19345302",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4792252938298.webp",
+"4792252938298-1.webp",
+"4792252938298-2.webp"
+]
+},
+{
+"sku": "JRN00009731",
+"barcode": "6281007070782",
+"cat": 22,
+"ar": "المراعي نكتار الفواكه المشكلة مع الليمون بدون اضافة سكر 1.4 لتر",
+"en": "Almarai Mixed Fruit Lemon Nectar No Added Sugar 1.4 L",
+"price": 8.95,
+"special": 8.0,
+"src": "ninja",
+"ninja_id": "5-8189",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007070782.webp",
+"6281007070782-1.webp",
+"6281007070782-2.webp"
+]
+},
+{
+"sku": "JRN00009732",
+"barcode": "6281007070843",
+"cat": 22,
+"ar": "المراعي نكتار الفواكه المشكلة مع الرمان بدون إضافة سكر 1.4 لتر",
+"en": "Almarai Mixed Fruit Pomegranate Nectar No Added Sugar 1.4 L",
+"price": 8.95,
+"special": 8.0,
+"src": "ninja",
+"ninja_id": "5-8192",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007070843.webp",
+"6281007070843-1.webp",
+"6281007070843-2.webp"
+]
+},
+{
+"sku": "JRN00009733",
+"barcode": "6210554018152",
+"cat": 26,
+"ar": "الحموي قهوه ساده بدون الهيل 180 جم",
+"en": "Hamwi Pure Cafe without Cardamom 180 gm",
+"price": 17.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19414891",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6210554018152.webp",
+"6210554018152-1.webp"
+]
+},
+{
+"sku": "JRN00009734",
+"barcode": "6281057013579",
+"cat": 22,
+"ar": "نادك نكتار توت مشكل 1.3 لتر",
+"en": "Nadec Nectar Berry Mix 1.3L",
+"price": 8.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290391",
+"hs_ids": [
+"0e7b024a-76f5-436d-a3ea-6170fa25b50b"
+],
+"img_src": "ninja",
+"images": [
+"6281057013579.webp",
+"6281057013579-1.webp",
+"6281057013579-2.webp"
+]
+},
+{
+"sku": "JRN00009735",
+"barcode": "6281057017270",
+"cat": 22,
+"ar": "نادك نكتار المانجو باشن فروت مع الفواكة المشكلة 180 مل",
+"en": "Nadec Mango Passion Fruit Nectar with Mix Fruit 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19377617",
+"hs_ids": [
+"4d1f00e5-68e5-47d9-9edb-e80f9a0ca937"
+],
+"img_src": "ninja",
+"images": [
+"6281057017270.webp",
+"6281057017270-1.webp",
+"6281057017270-2.webp"
+]
+},
+{
+"sku": "JRN00009736",
+"barcode": "5060319120115",
+"cat": 27,
+"ar": "هاير ليفنق شاي عضوي أخضر 20 كيس",
+"en": "Higher Living Organic Green Tea 20 Bags",
+"price": 19.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19287298",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5060319120115.webp",
+"5060319120115-1.webp",
+"5060319120115-2.webp"
+]
+},
+{
+"sku": "JRN00009737",
+"barcode": "6287020240010",
+"cat": 26,
+"ar": "روست مايسترو قهوة سعودية محمصة شقراء 250 جم",
+"en": "Roast Maestro Saudi Coffee Blonde 250 gm",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-926711",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287020240010.webp",
+"6287020240010-1.webp",
+"6287020240010-2.webp"
+]
+},
+{
+"sku": "JRN00009738",
+"barcode": "6210554038150",
+"cat": 26,
+"ar": "الحموي قهوه كلاسيك مع الهيل 180 جم",
+"en": "Hamwi Classic Café with Cardamom 180 gm",
+"price": 22.95,
+"special": 20.5,
+"src": "ninja",
+"ninja_id": "5-19414892",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6210554038150.webp",
+"6210554038150-1.webp"
+]
+},
+{
+"sku": "JRN00009739",
+"barcode": "054881006996",
+"cat": 25,
+"ar": "شاي أحمد بالخوخ والباشن فروت 20 ظرف",
+"en": "Ahmad Tea Peach & Passion Fruit 20 Bags",
+"price": 19.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-1180287",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"054881006996.webp",
+"054881006996-1.webp",
+"054881006996-2.webp"
+]
+},
+{
+"sku": "JRN00009740",
+"barcode": "8681026203273",
+"cat": 25,
+"ar": "قطاف شاي كرك زنجبيل 10 اظرف 22 جم",
+"en": "Qetaf Karak Tea Ginger 10 Sachets 22 gm",
+"price": 31.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19348274",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8681026203273.webp",
+"8681026203273-1.webp",
+"8681026203273-2.webp"
+]
+},
+{
+"sku": "JRN00009741",
+"barcode": "6281057013715",
+"cat": 22,
+"ar": "نادك نكتار توت مشكل 180 مل",
+"en": "Nadec Nectar Berry Mix 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290381",
+"hs_ids": [
+"4d1f00e5-68e5-47d9-9edb-e80f9a0ca937"
+],
+"img_src": "ninja",
+"images": [
+"6281057013715.webp",
+"6281057013715-1.webp",
+"6281057013715-2.webp"
+]
+},
+{
+"sku": "JRN00009742",
+"barcode": "6254000115019",
+"cat": 26,
+"ar": "العميد قهوة تركي وسط مع الهيل 250 جم",
+"en": "Al Ameed Turkish Coffee Medium Roast With Cardamom 250 gm",
+"price": 39.95,
+"special": 35.95,
+"src": "ninja",
+"ninja_id": "5-19406822",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6254000115019.webp",
+"6254000115019-1.webp",
+"6254000115019-2.webp"
+]
+},
+{
+"sku": "JRN00009743",
+"barcode": "012000059490",
+"cat": 25,
+"ar": "ليبتون أيس تي زيرو سكر بنكهة الخوخ 320 مل",
+"en": "Lipton Ice Tea Zero Sugar Peach Flavour 320 ml",
+"price": 3.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-17531373",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000059490.webp",
+"012000059490-1.webp",
+"012000059490-2.webp"
+]
+},
+{
+"sku": "JRN00009744",
+"barcode": "6281000010167",
+"cat": 25,
+"ar": "زوي شاي مثلج بنكهة التوت 6 حبات 320 مل",
+"en": "Zoi Ice Tea Berry Flavour 6 pcs 320 ml",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376769",
+"hs_ids": [
+"00e368a8-9880-4a60-8be3-4ae779cf2d72"
+],
+"img_src": "ninja",
+"images": [
+"6281000010167.webp",
+"6281000010167-1.webp"
+]
+},
+{
+"sku": "JRN00009745",
+"barcode": "6287043722005",
+"cat": 22,
+"ar": "الحطب عصير طازج الشمندر و الجزر 250 مل",
+"en": "Alhatab Fresh Juice Beetroot & Carrot 250 ml",
+"price": 12.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19375784",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287043722005.webp",
+"6287043722005-1.webp",
+"6287043722005-2.webp"
+]
+},
+{
+"sku": "JRN00009746",
+"barcode": "6281000010136",
+"cat": 25,
+"ar": "زوي شاي مثلج بنكهة الخوخ 6 حبات 320 مل",
+"en": "Zoi Ice Tea Peach Flavour 6 pcs 320 ml",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376767",
+"hs_ids": [
+"00e368a8-9880-4a60-8be3-4ae779cf2d72"
+],
+"img_src": "ninja",
+"images": [
+"6281000010136.webp",
+"6281000010136-1.webp"
+]
+},
+{
+"sku": "JRN00009747",
+"barcode": "6281057013807",
+"cat": 22,
+"ar": "نادك نكتار ليمون نعناع 180 مل",
+"en": "Nadec Nectar Lemon Mint 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290401",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057013807.webp",
+"6281057013807-1.webp",
+"6281057013807-2.webp"
+]
+},
+{
+"sku": "JRN00009748",
+"barcode": "6222016706811",
+"cat": 25,
+"ar": "العاصوف شاي كرك زنجبيل 6 اظرف 22 جم",
+"en": "Alasouf Karak Tea Ginger 6 Sachets 22 gm",
+"price": 26.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19348275",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6222016706811.webp",
+"6222016706811-1.webp",
+"6222016706811-2.webp"
+]
+},
+{
+"sku": "JRN00009749",
+"barcode": "6254000115040",
+"cat": 26,
+"ar": "العميد قهوة تركي وسط بدون الهيل 250 جم",
+"en": "Al Ameed Turkish Coffee Medium Roast Without Cardamom 250 gm",
+"price": 39.95,
+"special": 35.95,
+"src": "ninja",
+"ninja_id": "5-19406821",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6254000115040.webp",
+"6254000115040-1.webp",
+"6254000115040-2.webp"
+]
+},
+{
+"sku": "JRN00009750",
+"barcode": "6281057013791",
+"cat": 22,
+"ar": "نادك نكتار رمان 180 مل",
+"en": "Nadec Nectar Pomegranate 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290400",
+"hs_ids": [
+"1b40af56-ffb6-457c-8812-53838a9d5761"
+],
+"img_src": "ninja",
+"images": [
+"6281057013791.webp",
+"6281057013791-1.webp",
+"6281057013791-2.webp"
+]
+},
+{
+"sku": "JRN00009751",
+"barcode": "6291104281240",
+"cat": 27,
+"ar": "سن بلاست عصير تفاح عضوي 10 × 200 مل",
+"en": "Sun Blast Organic Apple Juice 10 x 200 ml",
+"price": 34.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19403786",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6291104281240.webp",
+"6291104281240-1.webp",
+"6291104281240-2.webp"
+]
+},
+{
+"sku": "JRN00009752",
+"barcode": "6222016706781",
+"cat": 25,
+"ar": "العاصوف شاي كرك مسالا 6 اظرف 22 جم",
+"en": "Alasouf Karak Tea Masala 6 Sachets 22 gm",
+"price": 26.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19348277",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6222016706781.webp",
+"6222016706781-1.webp",
+"6222016706781-2.webp"
+]
+},
+{
+"sku": "JRN00009753",
+"barcode": "6294017105962",
+"cat": 26,
+"ar": "نسكافيه جولد كابتشينو غير محلى 14.2 جم",
+"en": "Nescafe Gold Cappuccino Unsweetened Taste 14.2 gm",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-9875",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6294017105962.webp",
+"6294017105962-1.webp",
+"6294017105962-2.webp"
+]
+},
+{
+"sku": "JRN00009754",
+"barcode": "8699432202032",
+"cat": 27,
+"ar": "دوغادان شاي بلسم الليمون مع الأعشاب المختلطة 27 جم",
+"en": "Dogadan Mixed Herbal Tea With Lemon Balm 27 gm",
+"price": 19.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19402083",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8699432202032.webp",
+"8699432202032-1.webp"
+]
+},
+{
+"sku": "JRN00009755",
+"barcode": "6287012870010",
+"cat": 26,
+"ar": "ذوق قهوة سعودية نكهة الهيل 250 جم",
+"en": "Thouk Saudi Coffee Cardamom Flavor 250 gm",
+"price": 26.95,
+"special": 22.5,
+"src": "ninja",
+"ninja_id": "5-19293007",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287012870010.webp",
+"6287012870010-1.webp",
+"6287012870010-2.webp"
+]
+},
+{
+"sku": "JRN00009756",
+"barcode": "6254000115057",
+"cat": 26,
+"ar": "العميد قهوة تركي فاتح بدون الهيل 250 جم",
+"en": "Al Ameed Turkish Coffee Light Roast Without Cardamom 250 gm",
+"price": 39.95,
+"special": 35.95,
+"src": "ninja",
+"ninja_id": "5-19406819",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6254000115057.webp",
+"6254000115057-1.webp",
+"6254000115057-2.webp"
+]
+},
+{
+"sku": "JRN00009757",
+"barcode": "6281057007967",
+"cat": 22,
+"ar": "نادك عصير مانجو مع مزيج نكتار الفاكهة 300 مل",
+"en": "Nadec Mango Juice With Fruit Mix Nectar 300 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-662",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057007967.webp",
+"6281057007967-1.webp",
+"6281057007967-2.webp"
+]
+},
+{
+"sku": "JRN00009758",
+"barcode": "8699580001518",
+"cat": 27,
+"ar": "دوغادان شاي المختلط بالليمون 36 جم",
+"en": "Dogadan Mixed Herbal Tea With Lemon 36 gm",
+"price": 19.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19389953",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8699580001518.webp",
+"8699580001518-1.webp",
+"8699580001518-2.webp"
+]
+},
+{
+"sku": "JRN00009759",
+"barcode": "054881017909",
+"cat": 25,
+"ar": "أحمد شاي أخضر 100 أكياس",
+"en": "Ahmad Tea Green Tea 100 Bags",
+"price": 21.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-912",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"054881017909.webp",
+"054881017909-1.webp",
+"054881017909-2.webp"
+]
+},
+{
+"sku": "JRN00009760",
+"barcode": "7613036643528",
+"cat": 108,
+"ar": "نسكافيه دولتشي جوستو فلات وايت 16 كبسولة",
+"en": "Nescafe Dolce Gusto Flat White 16 Capsules",
+"price": 49.95,
+"special": 31.95,
+"src": "ninja",
+"ninja_id": "5-10877",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"7613036643528.webp",
+"7613036643528-1.webp",
+"7613036643528-2.webp"
+]
+},
+{
+"sku": "JRN00009761",
+"barcode": "6251361010038",
+"cat": 25,
+"ar": "شاي الكبوس 25 ظرف",
+"en": "Al Kbous Tea 25 Bags",
+"price": 6.95,
+"special": 5.95,
+"src": "ninja",
+"ninja_id": "5-19304071",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6251361010038.webp",
+"6251361010038-1.webp",
+"6251361010038-2.webp"
+]
+},
+{
+"sku": "JRN00009762",
+"barcode": "6287038120656",
+"cat": 108,
+"ar": "محمصة الرياض قهوة حقل السفانية قهوة مجففة علبة 6 كبسولات 3 جم",
+"en": "Arriyadh Roaster Medium Roast Safaniya Field Honduras 6 capsules 3 gm",
+"price": 34.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363666",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287038120656.webp",
+"6287038120656-1.webp",
+"6287038120656-2.webp"
+]
+},
+{
+"sku": "JRN00009763",
+"barcode": "8712000057626",
+"cat": 24,
+"ar": "هنيكين بيره بدون كحول 6 حبات 250 مل",
+"en": "Heineken Non Alcohol Beer Cans 6 pcs 250 ml",
+"price": 30.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19309084",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8712000057626.webp",
+"8712000057626-1.webp",
+"8712000057626-2.webp"
+]
+},
+{
+"sku": "JRN00009764",
+"barcode": "9002490270360",
+"cat": 24,
+"ar": "ريد بول مشروب طاقة وايت ايديشن 4 حبات 250 مل",
+"en": "Red Bull Energy Drink White Edition 4 pcs 250 ml",
+"price": 45.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19336669",
+"hs_ids": [
+"35cdb650-e45f-4f38-9498-4fb1f725407e"
+],
+"img_src": "ninja",
+"images": [
+"9002490270360.webp",
+"9002490270360-1.webp",
+"9002490270360-2.webp"
+]
+},
+{
+"sku": "JRN00009765",
+"barcode": "6281035000355",
+"cat": 21,
+"ar": "نوفا مياه 24 حبة 550 مل",
+"en": "Nova Water 24 pcs 550 ml",
+"price": 23.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290777",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281035000355.webp",
+"6281035000355-1.webp",
+"6281035000355-2.webp"
+]
+},
+{
+"sku": "JRN00009766",
+"barcode": "6281012033185",
+"cat": 22,
+"ar": "سن توب شراب البرتقال 250 مل",
+"en": "Suntop Orange Fruit Drink 250 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3126",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281012033185.webp",
+"6281012033185-1.webp",
+"6281012033185-2.webp"
+]
+},
+{
+"sku": "JRN00009767",
+"barcode": "6281018156444",
+"cat": 22,
+"ar": "ندى شراب توت 300 مل",
+"en": "Nada Raspberry Drink Juice 300 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294588",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281018156444.webp",
+"6281018156444-1.webp",
+"6281018156444-2.webp"
+]
+},
+{
+"sku": "JRN00009768",
+"barcode": "6281018157618",
+"cat": 22,
+"ar": "ندى شراب بنكهة الليمون و النعناع 1.3 لتر",
+"en": "Nada Lemon with Mint Flavor Drink 1.3 L",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1190155",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281018157618.webp",
+"6281018157618-1.webp",
+"6281018157618-2.webp"
+]
+},
+{
+"sku": "JRN00009769",
+"barcode": "6294017106051",
+"cat": 26,
+"ar": "نسكافيه جولد فانيلا لاتيه 18.5 جم",
+"en": "Nescafe Gold Vanilla Latte 18.5 gm",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14166",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6294017106051.webp",
+"6294017106051-1.webp",
+"6294017106051-2.webp"
+]
+},
+{
+"sku": "JRN00009770",
+"barcode": "6287038120632",
+"cat": 108,
+"ar": "محمصة الرياض قهوة حقل الغوار بتحميص داكن علبة 6 كبسولات 3 جم",
+"en": "Arriyadh Roaster Dark Roast Dried Ghawar Field Guatemala 6 Capsules 3 gm",
+"price": 34.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363661",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287038120632.webp",
+"6287038120632-1.webp",
+"6287038120632-2.webp"
+]
+},
+{
+"sku": "JRN00009771",
+"barcode": "6281007055321",
+"cat": 22,
+"ar": "المراعي عصير التفاح بدون اضافة سكر 200 مل",
+"en": "Almarai Juice Apple No Added Sugar 200 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1172",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007055321.webp",
+"6281007055321-1.webp",
+"6281007055321-2.webp"
+]
+},
+{
+"sku": "JRN00009772",
+"barcode": "6287030601047",
+"cat": 108,
+"ar": "بيت التحميص كوستاريكا سانتا ماريا المغسولة 227 جم",
+"en": "Roasting House Costa Rica Santa Maria Fully Wash 227 gm",
+"price": 48.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293059",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287030601047.webp",
+"6287030601047-1.webp",
+"6287030601047-2.webp"
+]
+},
+{
+"sku": "JRN00009773",
+"barcode": "6297000747750",
+"cat": 24,
+"ar": "باربيكان فراولة 6 حبات 250 مل",
+"en": "Barbican Strawberry Drink 6 pcs 250 ml",
+"price": 17.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11963141",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6297000747750.webp",
+"6297000747750-1.webp",
+"6297000747750-2.webp"
+]
+},
+{
+"sku": "JRN00009774",
+"barcode": "6281100585077",
+"cat": 21,
+"ar": "نستله بيور لايف مياه 12 * 600 مل",
+"en": "Nestle Pure Life Water 12 pcs 600 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1223479",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281100585077.webp",
+"6281100585077-1.webp",
+"6281100585077-2.webp"
+]
+},
+{
+"sku": "JRN00009775",
+"barcode": "6281057013692",
+"cat": 22,
+"ar": "نادك عصير برتقال 180 مل",
+"en": "Nadec Juice Orange 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290398",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057013692.webp",
+"6281057013692-1.webp",
+"6281057013692-2.webp"
+]
+},
+{
+"sku": "JRN00009776",
+"barcode": "6287038120649",
+"cat": 108,
+"ar": "محمصة الرياض قهوة حقل الشيبة قهوة مجففة علبة 6 كبسولات 3 جم",
+"en": "Arriyadh Roaster Medium Roast Coffee Dried Shaybah Field 6 Capsules 3 gm",
+"price": 34.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363665",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287038120649.webp",
+"6287038120649-1.webp",
+"6287038120649-2.webp"
+]
+},
+{
+"sku": "JRN00009777",
+"barcode": "6281018301844",
+"cat": 22,
+"ar": "ندى عصير ليمون نعناع 300 مل",
+"en": "Nada Lemon Mint Juice 300 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292915",
+"hs_ids": [
+"9f409242-35a2-485b-971e-196f78f1a28b"
+],
+"img_src": "ninja",
+"images": [
+"6281018301844.webp",
+"6281018301844-1.webp",
+"6281018301844-2.webp"
+]
+},
+{
+"sku": "JRN00009778",
+"barcode": "6287043722203",
+"cat": 22,
+"ar": "الحطب جرعات مناعة صفراء 125مل",
+"en": "Alhatab Yellow Immunity Shots 125 ml",
+"price": 9.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19375819",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287043722203.webp",
+"6287043722203-1.webp",
+"6287043722203-2.webp"
+]
+},
+{
+"sku": "JRN00009779",
+"barcode": "012000061264",
+"cat": 25,
+"ar": "ليبتون آيس تي توت أحمر زيرو علبة 320 مل",
+"en": "Lipton Ice Tea Red Fruits Zero Can 320 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407032",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000061264.webp",
+"012000061264-1.webp",
+"012000061264-2.webp"
+]
+},
+{
+"sku": "JRN00009780",
+"barcode": "9002490270346",
+"cat": 24,
+"ar": "ريد بول مشروب طاقة بلو ايديشن 4 حبات 250 مل",
+"en": "Red Bull Energy Drink Blue Edition 4 pcs 250 ml",
+"price": 49.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355630",
+"hs_ids": [
+"35cdb650-e45f-4f38-9498-4fb1f725407e"
+],
+"img_src": "ninja",
+"images": [
+"9002490270346.webp",
+"9002490270346-1.webp",
+"9002490270346-2.webp"
+]
+},
+{
+"sku": "JRN00009781",
+"barcode": "6281035426216",
+"cat": 21,
+"ar": "نوفا مياه 48 حبة 200 مل",
+"en": "Nova Water 48 pcs 200 ml",
+"price": 28.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290775",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281035426216.webp",
+"6281035426216-1.webp",
+"6281035426216-2.webp"
+]
+},
+{
+"sku": "JRN00009782",
+"barcode": "6281035000089",
+"cat": 21,
+"ar": "نوفا مياه 40 حبة 330 مل",
+"en": "Nova Water 40 pcs 330 ml",
+"price": 22.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290781",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281035000089.webp",
+"6281035000089-1.webp",
+"6281035000089-2.webp"
+]
+},
+{
+"sku": "JRN00009783",
+"barcode": "6287043721732",
+"cat": 22,
+"ar": "الحطب عصير طازج تفاح معصور علي البارد 250 مل",
+"en": "Alhatab Fresh Juice Apple Cold Pressed 250 ml",
+"price": 12.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19375812",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287043721732.webp",
+"6287043721732-1.webp",
+"6287043721732-2.webp"
+]
+},
+{
+"sku": "JRN00009784",
+"barcode": "6294003598303",
+"cat": 26,
+"ar": "نسكافيه كابتشينو فوم 19.3 جم",
+"en": "Nescafe Cappuccino Foamy 19.3 gm",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-9460",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6294003598303.webp",
+"6294003598303-1.webp",
+"6294003598303-2.webp"
+]
+},
+{
+"sku": "JRN00009785",
+"barcode": "6287038120373",
+"cat": 108,
+"ar": "محمصة الرياض قهوة شارع الشميسي 250 جم",
+"en": "Arriyadh Roaster Alshumaisi Coffee 250 gm",
+"price": 79.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292038",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287038120373.webp",
+"6287038120373-1.webp",
+"6287038120373-2.webp"
+]
+},
+{
+"sku": "JRN00009786",
+"barcode": "5056555201183",
+"cat": 24,
+"ar": "أبلايد نيوترشن إي بي إي شوت بلو لاجون 60 مل",
+"en": "Applied Nutrition Abe Shot Blue Lagoon 60 ml",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370617",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5056555201183.webp",
+"5056555201183-1.webp"
+]
+},
+{
+"sku": "JRN00009787",
+"barcode": "6281018210610",
+"cat": 22,
+"ar": "فلوريدا عصير بنكهة البرتقال واللب 1.6 لتر",
+"en": "Florida Orange Pulp Flavor Juice 1.6 L",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1190693",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281018210610.webp",
+"6281018210610-1.webp",
+"6281018210610-2.webp"
+]
+},
+{
+"sku": "JRN00009788",
+"barcode": "6287038121356",
+"cat": 108,
+"ar": "محمصة الرياض أظرف قهوة مختصة جبل الفيل 5 أظرف 75 جم",
+"en": "Arriyadh Roaster Drip Bags Coffee Alfeel Mountain 5 Bags 75 gm",
+"price": 32.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292044",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287038121356.webp",
+"6287038121356-1.webp",
+"6287038121356-2.webp"
+]
+},
+{
+"sku": "JRN00009789",
+"barcode": "6281105793972",
+"cat": 26,
+"ar": "باجة قهوة تركية بالهيل 400 جم",
+"en": "Baja Turkish Coffee With Cardamom 400 gm",
+"price": 31.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1107333",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281105793972.webp",
+"6281105793972-1.webp",
+"6281105793972-2.webp"
+]
+},
+{
+"sku": "JRN00009790",
+"barcode": "3080216031255",
+"cat": 24,
+"ar": "هولستن شراب الشعير عنب اسود 6 حبات 330 مل",
+"en": "Holsten Malt Drink Black Grape 6 pcs 330 ml",
+"price": 37.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381011",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"3080216031255.webp",
+"3080216031255-1.webp",
+"3080216031255-2.webp"
+]
+},
+{
+"sku": "JRN00009791",
+"barcode": "5056555203521",
+"cat": 24,
+"ar": "أبلايد نيوترشن إي بي إي شوت إنيرجي 60 مل",
+"en": "Applied Nutrition Abe Shot Energy 60 ml",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370618",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5056555203521.webp",
+"5056555203521-1.webp",
+"5056555203521-2.webp"
+]
+},
+{
+"sku": "JRN00009792",
+"barcode": "6281007053549",
+"cat": 22,
+"ar": "المراعي نكتار الفواكه المشكلة بدون اضافة سكر 200 مل",
+"en": "Almarai Mixed Fruit Nectar No Added Sugar 200 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1191",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007053549.webp",
+"6281007053549-1.webp",
+"6281007053549-2.webp"
+]
+},
+{
+"sku": "JRN00009793",
+"barcode": "6281018420163",
+"cat": 22,
+"ar": "فلوريدا عصير بنكهة البرتقال مع اللب 900 مل",
+"en": "Florida Orange Flavor Juice With Pulp 900 ml",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1191239",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281018420163.webp",
+"6281018420163-1.webp",
+"6281018420163-2.webp"
+]
+},
+{
+"sku": "JRN00009794",
+"barcode": "6281007055284",
+"cat": 22,
+"ar": "المراعي عصير البرتقال والفواكه المشكلة بدون اضافة سكر 200 مل",
+"en": "Almarai Juice Orange & Mix Fruits No Added Sugar 200 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1201",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007055284.webp",
+"6281007055284-1.webp",
+"6281007055284-2.webp"
+]
+},
+{
+"sku": "JRN00009795",
+"barcode": "6281018420866",
+"cat": 22,
+"ar": "فلوريدا عصير بنكهة البرتقال و الأناناس 900 مل",
+"en": "Florida Orange & Pineapple Flavor Juice 900 ml",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1191198",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281018420866.webp",
+"6281018420866-1.webp",
+"6281018420866-2.webp"
+]
+},
+{
+"sku": "JRN00009796",
+"barcode": "8809950201763",
+"cat": 27,
+"ar": "زرو بوب صودا بنكهة التفاح 500 مل",
+"en": "Zropop Apple Cider Soda 500 ml",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19417486",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8809950201763.webp",
+"8809950201763-1.webp",
+"8809950201763-2.webp"
+]
+},
+{
+"sku": "JRN00009797",
+"barcode": "6281100069225",
+"cat": 21,
+"ar": "صفا مكة مياه كرتون 24 * 200 مل",
+"en": "Safa Makkah Water Carton 24 pcs 200 ml",
+"price": 13.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-17920797",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281100069225.webp",
+"6281100069225-1.webp",
+"6281100069225-2.webp"
+]
+},
+{
+"sku": "JRN00009798",
+"barcode": "5061074320338",
+"cat": 27,
+"ar": "هيومانترا إلكتروليتات بنكهة التوت والرمان 20 كيس",
+"en": "Humantra Electrolytes Berry Pomegranate 20 Sachets",
+"price": 149.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392633",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5061074320338.webp",
+"5061074320338-1.webp"
+]
+},
+{
+"sku": "JRN00009799",
+"barcode": "4012824404168",
+"cat": 27,
+"ar": "يوجي تي شاي عضوي الكركم تشاي عضوي 17 كيس",
+"en": "Yogi Tea Organic Tea Turmeric Chai 17 Teabags",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287718",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824404168.webp",
+"4012824404168-1.webp",
+"4012824404168-2.webp"
+]
+},
+{
+"sku": "JRN00009800",
+"barcode": "6287042760121",
+"cat": 26,
+"ar": "كافي قهوة كراميل لاتيه سبيشل 250 مل",
+"en": "Kafy Specialty Caramel Latte 250 ml",
+"price": 11.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19365394",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287042760121.webp",
+"6287042760121-1.webp"
+]
+},
+{
+"sku": "JRN00009801",
+"barcode": "6281007053723",
+"cat": 22,
+"ar": "المراعي نكتار التوت و الفواكه المشكلة بدون اضافة سكر 200 مل",
+"en": "Almarai Berry & Mix Fruits Nectar No Added Sugar 200 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1189",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007053723.webp",
+"6281007053723-1.webp",
+"6281007053723-2.webp"
+]
+},
+{
+"sku": "JRN00009802",
+"barcode": "6281057013555",
+"cat": 22,
+"ar": "نادك عصير برتقال 1.3 لتر",
+"en": "Nadec Juice Orange 1.3L",
+"price": 12.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290388",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057013555.webp",
+"6281057013555-1.webp",
+"6281057013555-2.webp"
+]
+},
+{
+"sku": "JRN00009803",
+"barcode": "4012824401341",
+"cat": 27,
+"ar": "يوجي تي شاي عضوي بالزنجبيل بالليمون عضوي 17 كيس",
+"en": "Yogi Tea Organic Tea Ginger Lemon 17 Teabags",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287723",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824401341.webp",
+"4012824401341-1.webp",
+"4012824401341-2.webp"
+]
+},
+{
+"sku": "JRN00009804",
+"barcode": "5319991979079",
+"cat": 108,
+"ar": "دروس كبسولات قهوة اللونقو 8 كبسولات 48 جم",
+"en": "Doros Coffee Capsules Lungo 8 Capsules 48 gm",
+"price": 29.95,
+"special": 25.5,
+"src": "ninja",
+"ninja_id": "5-19342198",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5319991979079.webp",
+"5319991979079-1.webp",
+"5319991979079-2.webp"
+]
+},
+{
+"sku": "JRN00009805",
+"barcode": "6222016706798",
+"cat": 25,
+"ar": "العاصوف شاي كرك بالهيل 6 اظرف 22 جم",
+"en": "Alasouf Karak Tea Cardamom 6 Sachets 22 gm",
+"price": 26.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19348266",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6222016706798.webp",
+"6222016706798-1.webp",
+"6222016706798-2.webp"
+]
+},
+{
+"sku": "JRN00009806",
+"barcode": "6254000115064",
+"cat": 26,
+"ar": "العميد قهوة تركي غامق بدون الهيل 250 جم",
+"en": "Al Ameed Turkish Coffee Dark Roast Without Cardamom 250 gm",
+"price": 39.95,
+"special": 35.95,
+"src": "ninja",
+"ninja_id": "5-19406823",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6254000115064.webp",
+"6254000115064-1.webp",
+"6254000115064-2.webp"
+]
+},
+{
+"sku": "JRN00009807",
+"barcode": "6281022101188",
+"cat": 22,
+"ar": "داناو عصير5 فيتامينات 180 مل",
+"en": "Danao Mixed Fruit Juice 180 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-993597",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022101188.webp",
+"6281022101188-1.webp",
+"6281022101188-2.webp"
+]
+},
+{
+"sku": "JRN00009808",
+"barcode": "6222016705708",
+"cat": 25,
+"ar": "العاصوف مشروب الطيبين 5 اظرف 22 جم",
+"en": "Alasouf Altaybeen Drink 5 Sachets 22 gm",
+"price": 26.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19348279",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6222016705708.webp",
+"6222016705708-1.webp",
+"6222016705708-2.webp"
+]
+},
+{
+"sku": "JRN00009809",
+"barcode": "6281022101133",
+"cat": 22,
+"ar": "داناو عصير برتقال و موز 180 مل",
+"en": "Danao Orange With Banana & Strawberry Juice 180 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-988549",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022101133.webp",
+"6281022101133-1.webp",
+"6281022101133-2.webp"
+]
+},
+{
+"sku": "JRN00009810",
+"barcode": "4792055030885",
+"cat": 25,
+"ar": "الصمان شاي اسود ذهبي كيني 100 كيس",
+"en": "AlSamman Kenyan Golden Black Tea 100 Bags",
+"price": 23.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19366200",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4792055030885.webp",
+"4792055030885-1.webp"
+]
+},
+{
+"sku": "JRN00009811",
+"barcode": "6281101494675",
+"cat": 26,
+"ar": "بونا 2 في 1 قهوة كلاسيكية بدون سكر 30 ظرف",
+"en": "Bunna 2in1 Classic Coffee Sugar Free 30 Sachets",
+"price": 32.95,
+"special": 28.95,
+"src": "ninja",
+"ninja_id": "5-19368626",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281101494675.webp",
+"6281101494675-1.webp",
+"6281101494675-2.webp"
+]
+},
+{
+"sku": "JRN00009812",
+"barcode": "6281057013623",
+"cat": 22,
+"ar": "نادك نكتار جوافا 1.3 لتر",
+"en": "Nadec Nectar Guava 1.3L",
+"price": 8.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290387",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057013623.webp",
+"6281057013623-1.webp",
+"6281057013623-2.webp"
+]
+},
+{
+"sku": "JRN00009813",
+"barcode": "6281057013616",
+"cat": 22,
+"ar": "نادك نكتار برتقال و جزر 1.3 لتر",
+"en": "Nadec Nectar Orange And Carrots 1.3L",
+"price": 8.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290392",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057013616.webp",
+"6281057013616-1.webp",
+"6281057013616-2.webp"
+]
+},
+{
+"sku": "JRN00009814",
+"barcode": "6281057013654",
+"cat": 22,
+"ar": "نادك نكتار رمان 1.3 لتر",
+"en": "Nadec Nectar Pomegranate 1.3L",
+"price": 8.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290395",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057013654.webp",
+"6281057013654-1.webp",
+"6281057013654-2.webp"
+]
+},
+{
+"sku": "JRN00009815",
+"barcode": "6281057013753",
+"cat": 22,
+"ar": "نادك نكتار عصير برتقال و جزر 180 مل",
+"en": "Nadec Nectar Orange And Carrots 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290406",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057013753.webp",
+"6281057013753-1.webp",
+"6281057013753-2.webp"
+]
+},
+{
+"sku": "JRN00009816",
+"barcode": "8998666003935",
+"cat": 26,
+"ar": "تورابيكا قهوة سريعه التحضير كارميل لاتيه 20 ظرف 25 جم",
+"en": "Torabica Instant Coffee Caramelo Latte 20 Sachets 25 gm",
+"price": 48.95,
+"special": 34.95,
+"src": "ninja",
+"ninja_id": "5-19407760",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8998666003935.webp",
+"8998666003935-1.webp"
+]
+},
+{
+"sku": "JRN00009817",
+"barcode": "6281022101119",
+"cat": 22,
+"ar": "داناو عصير برتقال و مانجو 180 مل",
+"en": "Danao Mango & Orange Juice 180 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-988162",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022101119.webp",
+"6281022101119-1.webp",
+"6281022101119-2.webp"
+]
+},
+{
+"sku": "JRN00009818",
+"barcode": "5060319120092",
+"cat": 27,
+"ar": "هاير ليفنق شاي عضوي اسود 20 كيس",
+"en": "Higher Living Organic English Breakfast Tea 20 Bags",
+"price": 19.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19287312",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5060319120092.webp",
+"5060319120092-1.webp",
+"5060319120092-2.webp"
+]
+},
+{
+"sku": "JRN00009819",
+"barcode": "8699580000146",
+"cat": 27,
+"ar": "دوغادان شاي بالفواكه المشكلة مع الليمون 40 جم",
+"en": "Dogadan Mixed Fruit Tea With Lemon 40 gm",
+"price": 19.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19402082",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8699580000146.webp",
+"8699580000146-1.webp",
+"8699580000146-2.webp"
+]
+},
+{
+"sku": "JRN00009820",
+"barcode": "6287012870140",
+"cat": 26,
+"ar": "ذوق قهوة سعودية زعفران ظرف 30 جم",
+"en": "Thouq Saudi Coffee Saffron Flavor Sachet 30 gm",
+"price": 10.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371930",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287012870140.webp",
+"6287012870140-1.webp",
+"6287012870140-2.webp"
+]
+},
+{
+"sku": "JRN00009821",
+"barcode": "6281105794030",
+"cat": 26,
+"ar": "باجة شينشينا قهوة مقطرة كولومبية 5 أكياس 13 جم",
+"en": "Baja Chinchina Drip Coffee Colombia 5 Sachets 13 gm",
+"price": 30.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407001",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281105794030.webp",
+"6281105794030-1.webp",
+"6281105794030-2.webp"
+]
+},
+{
+"sku": "JRN00009822",
+"barcode": "6251932003056",
+"cat": 27,
+"ar": "تي تي مشروب شاي مثلج هاواي بدون سكر مضاف مع عصير الفواكه 330 مل",
+"en": "TT Ice Tea drink with juice Hawaii No Add Sugar 330 ml",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404181",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6251932003056.webp",
+"6251932003056-1.webp",
+"6251932003056-2.webp"
+]
+},
+{
+"sku": "JRN00009823",
+"barcode": "6281026122264",
+"cat": 22,
+"ar": "الربيع شراب توت مشكل 185 مل",
+"en": "Alrabie Berry Mix Drink 185 ml",
+"price": 1.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19335195",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281026122264.webp",
+"6281026122264-1.webp",
+"6281026122264-2.webp"
+]
+},
+{
+"sku": "JRN00009824",
+"barcode": "6281100111900",
+"cat": 22,
+"ar": "جلوريا عصير بودره بنكهه البطيخ 2.5 كجم",
+"en": "Gloria Powder Drink Watermelon Juice 2.5 kg",
+"price": 53.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397212",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281100111900.webp",
+"6281100111900-1.webp",
+"6281100111900-2.webp"
+]
+},
+{
+"sku": "JRN00009825",
+"barcode": "012000002496",
+"cat": 23,
+"ar": "بيبسي دايت مشروب غازى 330 مل",
+"en": "Pepsi Diet Soft Drink 330 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398218",
+"hs_ids": [
+"22bb2cdf-9854-49a9-9b2d-6153819db5a3"
+],
+"img_src": "ninja",
+"images": [
+"012000002496.webp",
+"012000002496-1.webp",
+"012000002496-2.webp"
+]
+},
+{
+"sku": "JRN00009826",
+"barcode": "5449000000712",
+"cat": 23,
+"ar": "فانتا برتقال مشروب غازي 250 مل",
+"en": "Fanta Orange Carbonated Soft Drink 250 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19288612",
+"hs_ids": [
+"18a5e447-71da-45f7-88f2-76ecff03ca41"
+],
+"img_src": "ninja",
+"images": [
+"5449000000712.webp",
+"5449000000712-1.webp",
+"5449000000712-2.webp"
+]
+},
+{
+"sku": "JRN00009827",
+"barcode": "6287015680500",
+"cat": 22,
+"ar": "مكسا 4 جي شراب فوار 250 مل",
+"en": "Mixa 250 ml Sparkling Drink 250 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-727961",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287015680500.webp",
+"6287015680500-1.webp",
+"6287015680500-2.webp"
+]
+},
+{
+"sku": "JRN00009828",
+"barcode": "6287041060062",
+"cat": 25,
+"ar": "الطحان شاي اخضر ليمون 25 كيس 50 جم",
+"en": "Altahan Green Tea Lemon 25 Bags 50 gm",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19343987",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287041060062.webp",
+"6287041060062-1.webp",
+"6287041060062-2.webp"
+]
+},
+{
+"sku": "JRN00009829",
+"barcode": "8445291061941",
+"cat": 21,
+"ar": "ميزون بيرييه فوريفير مياه فوارة بنكهة الليمون الأخضر 250 مل",
+"en": "Maison Perrier Forever Flavored Sparkling Water Lime 250 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318829",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8445291061941.webp",
+"8445291061941-1.webp",
+"8445291061941-2.webp"
+]
+},
+{
+"sku": "JRN00009830",
+"barcode": "682430500017",
+"cat": 21,
+"ar": "فوس مياه ارتوازية 250 مل",
+"en": "Voss Artesian Still Water 250 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19383656",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"682430500017.webp"
+]
+},
+{
+"sku": "JRN00009831",
+"barcode": "6281105795471",
+"cat": 26,
+"ar": "باجة قهوة سعودية بالقرنفل 30 جم",
+"en": "Baja Saudi Coffee With Cloves 30 gm",
+"price": 5.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1107118",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281105795471.webp",
+"6281105795471-1.webp",
+"6281105795471-2.webp"
+]
+},
+{
+"sku": "JRN00009832",
+"barcode": "6281102481100",
+"cat": 108,
+"ar": "بارنز حبوب قهوة إسبريسو 250 جم",
+"en": "Barns Coffee Beans Espresso 250 gm",
+"price": 22.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374220",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281102481100.webp",
+"6281102481100-1.webp",
+"6281102481100-2.webp"
+]
+},
+{
+"sku": "JRN00009833",
+"barcode": "6281102481506",
+"cat": 26,
+"ar": "بارنز قهوة تركي خلطة خاصة بالهيل 200 جم",
+"en": "Barns Turkish Premium Blend With Cardamom 200 gm",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19338686",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281102481506.webp",
+"6281102481506-1.webp",
+"6281102481506-2.webp"
+]
+},
+{
+"sku": "JRN00009834",
+"barcode": "6281102482121",
+"cat": 108,
+"ar": "بارنز كبسولات قهوة إسبريسو 10 كبسولات",
+"en": "Barns Coffee Espresso 10 Capsules",
+"price": 25.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374219",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281102482121.webp",
+"6281102482121-1.webp",
+"6281102482121-2.webp"
+]
+},
+{
+"sku": "JRN00009835",
+"barcode": "6281105794047",
+"cat": 26,
+"ar": "باجة سانتوس قهوة مقطرة برازيلية 5 أكياس 13 جم",
+"en": "Baja Santos Drip Coffee Brazil 5 Sachets 13 gm",
+"price": 30.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407000",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281105794047.webp",
+"6281105794047-1.webp",
+"6281105794047-2.webp"
+]
+},
+{
+"sku": "JRN00009836",
+"barcode": "90457043",
+"cat": 24,
+"ar": "ريد بول مشروب طاقة وايت ايديشن 250 مل",
+"en": "Red Bull Energy Drink White Edition 250 ml",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19332979",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"90457043.webp",
+"90457043-1.webp",
+"90457043-2.webp"
+]
+},
+{
+"sku": "JRN00009837",
+"barcode": "3080216032566",
+"cat": 24,
+"ar": "هولستن شراب الشعير بالتفاح 330 مل",
+"en": "Holsten Malt Drink Apple Flavour 330 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1494",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"3080216032566.webp",
+"3080216032566-1.webp",
+"3080216032566-2.webp"
+]
+},
+{
+"sku": "JRN00009838",
+"barcode": "6251932003087",
+"cat": 27,
+"ar": "تي تي مشروب شاي مثلج بالخوخ بدون سكر مضاف مع عصير الفواكه 330 مل",
+"en": "TT Ice Tea drink juice Peach No Add Sugar 330 ml",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404178",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6251932003087.webp"
+]
+},
+{
+"sku": "JRN00009839",
+"barcode": "6281100320012",
+"cat": 22,
+"ar": "تونو شراب التوت 710 مل",
+"en": "Tono Drink Berry 710 ml",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-690184",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281100320012.webp",
+"6281100320012-1.webp",
+"6281100320012-2.webp"
+]
+},
+{
+"sku": "JRN00009840",
+"barcode": "6271002205968",
+"cat": 22,
+"ar": "كي دي دي نكتار أناناس مع عنب ابيض بدون سكر مضاف 6 حبات 180 مل",
+"en": "Kdd Nectar Pineapple And White Grape No Added Sugar 6 pcs 180 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327099",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6271002205968.webp",
+"6271002205968-1.webp"
+]
+},
+{
+"sku": "JRN00009841",
+"barcode": "6281100111863",
+"cat": 22,
+"ar": "جلوريا عصير بودره بنكهه المانجو 2.5 كجم",
+"en": "Gloria Powder Drink Mango Juice 2.5 kg",
+"price": 53.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397211",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281100111863.webp",
+"6281100111863-1.webp",
+"6281100111863-2.webp"
+]
+},
+{
+"sku": "JRN00009842",
+"barcode": "173891873395",
+"cat": 108,
+"ar": "دبليو حبوب القهوه إثيوبيا قوجي مجففة فلتر و إسبريسو 250 جم",
+"en": "Dapilio Coffee Beans Ethiopia Guji Natural 250 gm",
+"price": 55.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328192",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"173891873395.webp",
+"173891873395-1.webp",
+"173891873395-2.webp"
+]
+},
+{
+"sku": "JRN00009843",
+"barcode": "6287041060079",
+"cat": 25,
+"ar": "الطحان شاي اخضر زنجبيل 25 كيس 50 جم",
+"en": "Altahan Green Tea Ginger 25 Bags 50 gm",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19343985",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287041060079.webp",
+"6287041060079-1.webp"
+]
+},
+{
+"sku": "JRN00009844",
+"barcode": "6223000274507",
+"cat": 25,
+"ar": "تي بريك شاي كرك سريع الذوبان 4 في 1 200 حم",
+"en": "Tea Break Chai Karak Instant 4 X 1 200 gm",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3370542",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6223000274507.webp",
+"6223000274507-1.webp",
+"6223000274507-2.webp"
+]
+},
+{
+"sku": "JRN00009845",
+"barcode": "5690351231403",
+"cat": 21,
+"ar": "ايسلانديك جلاسيال مياه 330 مل",
+"en": "Icelandic Glacial Water 330 ml",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409737",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5690351231403.webp",
+"5690351231403-1.webp",
+"5690351231403-2.webp"
+]
+},
+{
+"sku": "JRN00009846",
+"barcode": "6281035000188",
+"cat": 21,
+"ar": "نوفا مياه 12 لتر",
+"en": "Nova Water 12 L",
+"price": 11.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3709",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281035000188.webp",
+"6281035000188-1.webp",
+"6281035000188-2.webp"
+]
+},
+{
+"sku": "JRN00009847",
+"barcode": "6287034240167",
+"cat": 21,
+"ar": "سبادا مياه غازية ليمون 250 مل",
+"en": "Spada Sparking Water Lemon Lime 250 ml",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19415396",
+"hs_ids": [
+"95845365-1053-481f-9667-dcaf945d3b95"
+],
+"img_src": "ninja",
+"images": [
+"6287034240167.webp",
+"6287034240167-1.webp"
+]
+},
+{
+"sku": "JRN00009848",
+"barcode": "6281101220762",
+"cat": 21,
+"ar": "بيرين مياه 600 مل",
+"en": "Berain Water 600 ml",
+"price": 0.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1223342",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281101220762.webp",
+"6281101220762-1.webp",
+"6281101220762-2.webp"
+]
+},
+{
+"sku": "JRN00009849",
+"barcode": "6287029190002",
+"cat": 26,
+"ar": "مهيله قهوة سعودية 300 جم",
+"en": "Mahila Saudi Coffee 300 gm",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322026",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287029190002.webp",
+"6287029190002-1.webp",
+"6287029190002-2.webp"
+]
+},
+{
+"sku": "JRN00009850",
+"barcode": "6297000747705",
+"cat": 24,
+"ar": "بربيكان شراب الشعير بالتفاح 250 مل",
+"en": "Barbican Malt Apple Drink 250 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6860",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6297000747705.webp",
+"6297000747705-1.webp",
+"6297000747705-2.webp"
+]
+},
+{
+"sku": "JRN00009851",
+"barcode": "9002490275549",
+"cat": 24,
+"ar": "ريد بول مشروب الطاقة بنكهة البطيخ 4 حبات 250 مل",
+"en": "Red Bull Energy Drink Watermelon 4 pcs 250 ml",
+"price": 46.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19386740",
+"hs_ids": [
+"35cdb650-e45f-4f38-9498-4fb1f725407e"
+],
+"img_src": "ninja",
+"images": [
+"9002490275549.webp",
+"9002490275549-1.webp",
+"9002490275549-2.webp"
+]
+},
+{
+"sku": "JRN00009852",
+"barcode": "6251932003278",
+"cat": 27,
+"ar": "تي تي مشروب شاي مثلج موهيتو ليمون ونعناع بدون سكر مضاف مع عصير الفواكه 330 مل",
+"en": "TT Ice Tea drink with juice Mojito No Add Sugar 330 ml",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404182",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6251932003278.webp"
+]
+},
+{
+"sku": "JRN00009853",
+"barcode": "6281034016272",
+"cat": 22,
+"ar": "راني شراب التفاح 200 مل",
+"en": "Rani Apple Flavoured Drink 200 ml",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5324419",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034016272.webp",
+"6281034016272-1.webp",
+"6281034016272-2.webp"
+]
+},
+{
+"sku": "JRN00009854",
+"barcode": "012000062100",
+"cat": 23,
+"ar": "بيبسي زيرو مشروب غازى 330 مل",
+"en": "Pepsi Zero Soft Drink 330 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398217",
+"hs_ids": [
+"eda4688d-586e-4c6c-a009-c8fe383c48b6"
+],
+"img_src": "hungerstation",
+"images": [
+"012000062100.webp",
+"012000062100-1.webp",
+"012000062100-2.webp"
+]
+},
+{
+"sku": "JRN00009855",
+"barcode": "6287041060031",
+"cat": 25,
+"ar": "الطحان شاي اخضر يانسون 25 كيس 50 جم",
+"en": "Altahan Green Tea Anise 25 Bags 50 gm",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19343989",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287041060031.webp",
+"6287041060031-1.webp",
+"6287041060031-2.webp"
+]
+},
+{
+"sku": "JRN00009856",
+"barcode": "6281101220779",
+"cat": 21,
+"ar": "بيرين مياه 1.5 لتر",
+"en": "Berain Water 1.5 L",
+"price": 1.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3733",
+"hs_ids": [
+"345e6c00-de9f-4663-bc28-dd3932c4543f"
+],
+"img_src": "ninja",
+"images": [
+"6281101220779.webp",
+"6281101220779-1.webp",
+"6281101220779-2.webp"
+]
+},
+{
+"sku": "JRN00009857",
+"barcode": "3361730000539",
+"cat": 21,
+"ar": "سلتيك مياه معدنية طبيعية فرنسية 6 حبات 330 مل",
+"en": "Celtic Natural Mineral Still French Water 6 pcs 330 ml",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390356",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"3361730000539.webp",
+"3361730000539-1.webp",
+"3361730000539-2.webp"
+]
+},
+{
+"sku": "JRN00009858",
+"barcode": "6210554058134",
+"cat": 26,
+"ar": "الحموي قهوه اكسترابالهيل 180 جم",
+"en": "Hamwi Extra Cafe with Cardamom 180 gm",
+"price": 28.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19414893",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6210554058134.webp",
+"6210554058134-1.webp"
+]
+},
+{
+"sku": "JRN00009859",
+"barcode": "6281105793743",
+"cat": 26,
+"ar": "باجة يرغاتشيف قهوة مقطرة أثيوبية 5 أكياس 13 جم",
+"en": "Baja Yirgacheffe Drip Coffee Ethiopia 5 Sachets 13 gm",
+"price": 30.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407002",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281105793743.webp",
+"6281105793743-1.webp",
+"6281105793743-2.webp"
+]
+},
+{
+"sku": "JRN00009860",
+"barcode": "6251932003285",
+"cat": 27,
+"ar": "تي تي مشروب شاي مثلج بالفواكه الحمراء بدون سكر مضاف مع عصير الفواكه 330 مل",
+"en": "TT Ice Tea drink with juice Red Fruit No Add Sugar 330 ml",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404180",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6251932003285.webp"
+]
+},
+{
+"sku": "JRN00009861",
+"barcode": "6281034901875",
+"cat": 22,
+"ar": "راني عصير بنكهة الجوافه 200مل",
+"en": "Rani Guava Fruit Drink 200ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19295792",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034901875.webp",
+"6281034901875-1.webp",
+"6281034901875-2.webp"
+]
+},
+{
+"sku": "JRN00009862",
+"barcode": "6281034916237",
+"cat": 22,
+"ar": "راني شراب المانجو بدون سكر مضاف 200 مل",
+"en": "Rani Mango Drink No Added Sugar 200 ml",
+"price": 2.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396630",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034916237.webp",
+"6281034916237-1.webp",
+"6281034916237-2.webp"
+]
+},
+{
+"sku": "JRN00009863",
+"barcode": "6281022159219",
+"cat": 22,
+"ar": "الصافي عصير فواكه مشكلة 1.4 لتر",
+"en": "Alsafi Juice Mixed Fruit 1.4 L",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19305894",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022159219.webp",
+"6281022159219-1.webp",
+"6281022159219-2.webp"
+]
+},
+{
+"sku": "JRN00009864",
+"barcode": "012000063442",
+"cat": 23,
+"ar": "ميرندا زيرومشروب غازى حمضيات 330 مل",
+"en": "Mirinda Zero Soft Drink Citrus 330 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398222",
+"hs_ids": [
+"50ef3886-6643-4bf6-808f-ab5904ab48b0"
+],
+"img_src": "ninja",
+"images": [
+"012000063442.webp",
+"012000063442-1.webp",
+"012000063442-2.webp"
+]
+},
+{
+"sku": "JRN00009865",
+"barcode": "070177074579",
+"cat": 25,
+"ar": "توايننجز شاي الافطار الانجليزي 25 ظرف",
+"en": "Twinings English Breakfast Tea 25 Bags",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-2025482",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"070177074579.webp",
+"070177074579-1.webp",
+"070177074579-2.webp"
+]
+},
+{
+"sku": "JRN00009866",
+"barcode": "6287041060055",
+"cat": 25,
+"ar": "الطحان شاي اخضر نعناع 25 كيس 50 جم",
+"en": "Altahan Green Tea Mint 25 Bags 50 gm",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19343984",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287041060055.webp",
+"6287041060055-1.webp",
+"6287041060055-2.webp"
+]
+},
+{
+"sku": "JRN00009867",
+"barcode": "6281035426193",
+"cat": 21,
+"ar": "نوفا مياه 5 لتر",
+"en": "Nova Water 5 L",
+"price": 8.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3711",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281035426193.webp",
+"6281035426193-1.webp",
+"6281035426193-2.webp"
+]
+},
+{
+"sku": "JRN00009868",
+"barcode": "012000055744",
+"cat": 24,
+"ar": "جاتوريد برتقال 495 مل",
+"en": "Gatorade Orange 495 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19372528",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000055744.webp",
+"012000055744-1.webp",
+"012000055744-2.webp"
+]
+},
+{
+"sku": "JRN00009869",
+"barcode": "3057640253133",
+"cat": 21,
+"ar": "فولفيك مياه معدنية طبيعية 500 مل",
+"en": "Volvic Water 500 ml",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19311790",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"3057640253133.webp",
+"3057640253133-1.webp",
+"3057640253133-2.webp"
+]
+},
+{
+"sku": "JRN00009870",
+"barcode": "5391523052245",
+"cat": 27,
+"ar": "انشور بلس حليب بنكهة الفانيلا 200 مل",
+"en": "Ensure Plus Liquid Milk Vanilla 200 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292359",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5391523052245.webp",
+"5391523052245-1.webp",
+"5391523052245-2.webp"
+]
+},
+{
+"sku": "JRN00009871",
+"barcode": "4012824403222",
+"cat": 27,
+"ar": "يوغي شاي عضوي دعم المناعة",
+"en": "Yogi Tea Organic Immune Support",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328009",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824403222.webp",
+"4012824403222-1.webp",
+"4012824403222-2.webp"
+]
+},
+{
+"sku": "JRN00009872",
+"barcode": "6281060043112",
+"cat": 22,
+"ar": "سيزر عصير اناناس زجاج 250 مل",
+"en": "Caesar Juice Pineapple Flavor Bottle 250 ml",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398411",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281060043112.webp",
+"6281060043112-1.webp",
+"6281060043112-2.webp"
+]
+},
+{
+"sku": "JRN00009873",
+"barcode": "6281100111993",
+"cat": 22,
+"ar": "جلوريا عصيربودره بنكهه الفواكه المشكله 2.5 كجم",
+"en": "Gloria Powder Drink Mixed Fruit Juice 2.5 kg",
+"price": 53.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397213",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281100111993.webp",
+"6281100111993-1.webp",
+"6281100111993-2.webp"
+]
+},
+{
+"sku": "JRN00009874",
+"barcode": "012000022760",
+"cat": 23,
+"ar": "سفن أب زيرو مشروب غازى 330 مل",
+"en": "7Up Zero Soft Drink 330 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398220",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000022760.webp",
+"012000022760-1.webp",
+"012000022760-2.webp"
+]
+},
+{
+"sku": "JRN00009875",
+"barcode": "6287041060048",
+"cat": 25,
+"ar": "الطحان شاي اخضر ياسمين 25 كيس 50 جم",
+"en": "Altahan Green Tea Jasmine 25 Bags 50 gm",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19343986",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287041060048.webp",
+"6287041060048-1.webp"
+]
+},
+{
+"sku": "JRN00009876",
+"barcode": "012000055799",
+"cat": 24,
+"ar": "جاتوريد فواكه 495 مل",
+"en": "Gatorade Fruit Punch 495 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19372529",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000055799.webp",
+"012000055799-1.webp",
+"012000055799-2.webp"
+]
+},
+{
+"sku": "JRN00009877",
+"barcode": "012000061769",
+"cat": 21,
+"ar": "اكوافينا مياه غازية 12 حبة 250 مل",
+"en": "Aquafina Sparkling Water 12 pcs 250 ml",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368630",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000061769.webp",
+"012000061769-1.webp",
+"012000061769-2.webp"
+]
+},
+{
+"sku": "JRN00009878",
+"barcode": "6287012870157",
+"cat": 26,
+"ar": "ذوق قهوة سعودية قرنفل ظرف 30 جم",
+"en": "Thouq Saudi Coffee Cloves Flavor Sachet 30 gm",
+"price": 8.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371929",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287012870157.webp",
+"6287012870157-1.webp"
+]
+},
+{
+"sku": "JRN00009879",
+"barcode": "5319991979543",
+"cat": 108,
+"ar": "دوروس قهوة كبسولة بريميوم كاراميل",
+"en": "Doros Premium Caramel Coffee Capsule",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294284",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5319991979543.webp",
+"5319991979543-1.webp",
+"5319991979543-2.webp"
+]
+},
+{
+"sku": "JRN00009880",
+"barcode": "6281034900601",
+"cat": 24,
+"ar": "بربيكان شراب الشعير بنكهة خوخ 330 مل",
+"en": "Barbican Malt Drink Peach Flavoured 330 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19391533",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034900601.webp",
+"6281034900601-1.webp"
+]
+},
+{
+"sku": "JRN00009881",
+"barcode": "6291025002450",
+"cat": 27,
+"ar": "سن بلاست عصير الخوخ العضوي 200 مل",
+"en": "Sun Blast Organic Peach Mix Juice 200 ml",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328486",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6291025002450.webp",
+"6291025002450-1.webp",
+"6291025002450-2.webp"
+]
+},
+{
+"sku": "JRN00009882",
+"barcode": "6287041060017",
+"cat": 25,
+"ar": "الطحان شاي اخضر 25 كيس 50 جم",
+"en": "Altahan Green Tea 25 Bags 50 gm",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19343988",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287041060017.webp",
+"6287041060017-1.webp",
+"6287041060017-2.webp"
+]
+},
+{
+"sku": "JRN00009883",
+"barcode": "3068320109596",
+"cat": 21,
+"ar": "افيان مياه معدنية 500 مل",
+"en": "Evian Water Mineral 500 ml",
+"price": 8.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4177",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"3068320109596.webp",
+"3068320109596-1.webp",
+"3068320109596-2.webp"
+]
+},
+{
+"sku": "JRN00009884",
+"barcode": "6287012870034",
+"cat": 26,
+"ar": "ذوق قهوة سعودية هيل ظرف 30 جم",
+"en": "Thouq Saudi Coffee Cardamom Flavor Sachet 30 gm",
+"price": 9.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371928",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287012870034.webp",
+"6287012870034-1.webp"
+]
+},
+{
+"sku": "JRN00009885",
+"barcode": "3080216032443",
+"cat": 24,
+"ar": "هولستن شراب الشعير بالفراولة 330 مل",
+"en": "Holsten Malt Drink Strawberry Flavour 330 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3139",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"3080216032443.webp",
+"3080216032443-1.webp",
+"3080216032443-2.webp"
+]
+},
+{
+"sku": "JRN00009886",
+"barcode": "90457425",
+"cat": 24,
+"ar": "ريد بول مشروب الطاقة بنكهة البطيخ 250 مل",
+"en": "Red Bull Energy Drink Watermelon 250 ml",
+"price": 11.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19386739",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"90457425.webp",
+"90457425-1.webp",
+"90457425-2.webp"
+]
+},
+{
+"sku": "JRN00009887",
+"barcode": "6291025002429",
+"cat": 27,
+"ar": "سن بلاست عصير العنب الأحمر العضوي 200 مل",
+"en": "Sun Blast Organic Red Grape Mix Juice 200 ml",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328503",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6291025002429.webp",
+"6291025002429-1.webp",
+"6291025002429-2.webp"
+]
+},
+{
+"sku": "JRN00009888",
+"barcode": "6271002271765",
+"cat": 22,
+"ar": "كي دي دي عصير تفاح 6 حبات 180 مل",
+"en": "Kdd Apple Juice Sugar 6 pcs 180 ml",
+"price": 9.45,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327096",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6271002271765.webp"
+]
+},
+{
+"sku": "JRN00009889",
+"barcode": "6285755100050",
+"cat": 108,
+"ar": "لاك حبوب القهوه كولومبيا هويلا مغسولة فلتر وإسبريسو 250 جم",
+"en": "Lack Coffee Beans Colombia Huila Washed Filter And Espresso 250 gm",
+"price": 39.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19331050",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6285755100050.webp",
+"6285755100050-1.webp",
+"6285755100050-2.webp"
+]
+},
+{
+"sku": "JRN00009890",
+"barcode": "6280706980385",
+"cat": 108,
+"ar": "بلاك نايت كبسولات قهوة البرازيل كيت كات أنفيوجن 10 كبسولات",
+"en": "Black Knight Coffee Capsules Infusion 10 pcs",
+"price": 30.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19425877",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6280706980385.webp",
+"6280706980385-1.webp"
+]
+},
+{
+"sku": "JRN00009891",
+"barcode": "3361730000072",
+"cat": 21,
+"ar": "سلتيك مياه معدنية طبيعية فرنسية 6 حبات 1.5 لتر",
+"en": "Celtic French Natural Mineral Still Water 6 pcs 1.5 L",
+"price": 50.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390360",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"3361730000072.webp"
+]
+},
+{
+"sku": "JRN00009892",
+"barcode": "6281101220366",
+"cat": 21,
+"ar": "بيرين مياه 12 لتر",
+"en": "Berain Water 12 L",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3735",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281101220366.webp",
+"6281101220366-1.webp",
+"6281101220366-2.webp"
+]
+},
+{
+"sku": "JRN00009893",
+"barcode": "6281105795518",
+"cat": 26,
+"ar": "باجة قهوة سعودية بالزعفران 30 جم",
+"en": "Baja Saudi Coffee With Safforn 30 gm",
+"price": 5.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1106730",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281105795518.webp",
+"6281105795518-1.webp",
+"6281105795518-2.webp"
+]
+},
+{
+"sku": "JRN00009894",
+"barcode": "90486272",
+"cat": 24,
+"ar": "ريدبل مشروب الطاقة إصدارالصيف بنكهه المشمش والفراوله 250 مل",
+"en": "Red Bull Energy Drink Summer Edition Apricot Strawberry Flavor 250 ml",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19408690",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"90486272.webp",
+"90486272-1.webp",
+"90486272-2.webp"
+]
+},
+{
+"sku": "JRN00009895",
+"barcode": "6281034016210",
+"cat": 22,
+"ar": "راني شراب المانجو 200 مل",
+"en": "Rani Mango Flavoured Drink 200 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5323426",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034016210.webp",
+"6281034016210-1.webp",
+"6281034016210-2.webp"
+]
+},
+{
+"sku": "JRN00009896",
+"barcode": "012000804144",
+"cat": 23,
+"ar": "سفن أب مشروب غازي زجاج 250 مل",
+"en": "7Up Soft Drink Glass Bottle 250 ml",
+"price": 2.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-299",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000804144.webp",
+"012000804144-1.webp"
+]
+},
+{
+"sku": "JRN00009897",
+"barcode": "7613033666445",
+"cat": 21,
+"ar": "بيريه مياه غازية 250 مل",
+"en": "Perrier Sparkling Water 250 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4713",
+"hs_ids": [
+"2d8b5037-f417-48c2-82b5-bca40d56d49d"
+],
+"img_src": "ninja",
+"images": [
+"7613033666445.webp",
+"7613033666445-1.webp",
+"7613033666445-2.webp"
+]
+},
+{
+"sku": "JRN00009898",
+"barcode": "6281014801249",
+"cat": 26,
+"ar": "كوفيك مسحوق قهوة مثلجة كراميل 10 * 24 جم",
+"en": "Cofique Iced Coffee Caramel Powder 10 pcs 24 gm",
+"price": 42.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-444187",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281014801249.webp",
+"6281014801249-1.webp",
+"6281014801249-2.webp"
+]
+},
+{
+"sku": "JRN00009899",
+"barcode": "6281105793859",
+"cat": 26,
+"ar": "باجة قهوة تركية بالهيل 200 جم",
+"en": "Baja Turkish Coffee With Cardamom 200 gm",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5415",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281105793859.webp",
+"6281105793859-1.webp",
+"6281105793859-2.webp"
+]
+},
+{
+"sku": "JRN00009900",
+"barcode": "6281034916008",
+"cat": 24,
+"ar": "بربيكان شراب الشعير بنكهة باشين فروت 250 مل",
+"en": "Barbican Malt Drink Passionfruit Flavoured 250 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19391535",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034916008.webp",
+"6281034916008-1.webp",
+"6281034916008-2.webp"
+]
+},
+{
+"sku": "JRN00009901",
+"barcode": "6291108221662",
+"cat": 27,
+"ar": "سن بلاست عصير تفاح وموز وفراولة عضوي 200 مل",
+"en": "Sun Blast Apple Banana & Strawberry Juice Organic 200 ml",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328470",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6291108221662.webp",
+"6291108221662-1.webp",
+"6291108221662-2.webp"
+]
+},
+{
+"sku": "JRN00009902",
+"barcode": "6281022159165",
+"cat": 22,
+"ar": "الصافي عصير برتقال 1.4 لتر",
+"en": "Alsafi Juice Orange 1.4 L",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19305896",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022159165.webp",
+"6281022159165-1.webp",
+"6281022159165-2.webp"
+]
+},
+{
+"sku": "JRN00009903",
+"barcode": "012000811043",
+"cat": 23,
+"ar": "بيبسي دايت مشروب غازي 6 حبه 330 مل",
+"en": "Pepsi Diet Carbonated Soft Drink 6 Pcs 330 ml",
+"price": 19.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19402242",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000811043.webp",
+"012000811043-1.webp",
+"012000811043-2.webp"
+]
+},
+{
+"sku": "JRN00009904",
+"barcode": "6280706980361",
+"cat": 108,
+"ar": "بلاك نايت كبسولات قهوة إثيوبيا شيلشلي مجففة 10 كبسولات",
+"en": "Black Knight Coffee Capsules Ethiopia Chelchelee Natural 10 pcs",
+"price": 27.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19425879",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6280706980361.webp",
+"6280706980361-1.webp"
+]
+},
+{
+"sku": "JRN00009905",
+"barcode": "682430611768",
+"cat": 21,
+"ar": "فوس مياه غازية ارتوازية زجاج 800 مل",
+"en": "Voss Artesian Sparkling Water Glass 800 ml",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19383659",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"682430611768.webp"
+]
+},
+{
+"sku": "JRN00009906",
+"barcode": "5319991979208",
+"cat": 108,
+"ar": "دروس كبسولات القهوة بالشوكولاته و التوت الأحمر 8 كبسولات 48 جم",
+"en": "Doros Coffee Capsules Chocolate And Raspberry 8 Capsules 48 gm",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19342209",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5319991979208.webp",
+"5319991979208-1.webp",
+"5319991979208-2.webp"
+]
+},
+{
+"sku": "JRN00009907",
+"barcode": "90456497",
+"cat": 24,
+"ar": "ريد بول مشروب طاقة بلو ايديشن 250 مل",
+"en": "Red Bull Energy Drink Blue Edition 250 ml",
+"price": 12.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19355629",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"90456497.webp",
+"90456497-1.webp",
+"90456497-2.webp"
+]
+},
+{
+"sku": "JRN00009908",
+"barcode": "62906227",
+"cat": 27,
+"ar": "سن بلاست عصير تفاح و كرز و كشمش أسود عضوي 200 مل",
+"en": "Sun Blast Apple & Cherry & Blackcurrant Juice Organic 200 ml",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328497",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"62906227.webp",
+"62906227-1.webp",
+"62906227-2.webp"
+]
+},
+{
+"sku": "JRN00009909",
+"barcode": "6295199290200",
+"cat": 27,
+"ar": "ون شوت هايدرايت بنكهة الباشن فروت 14 ظرف",
+"en": "Oneshot Hydrate Passion Bliss 14 Sticks",
+"price": 86.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369427",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6295199290200.webp",
+"6295199290200-1.webp",
+"6295199290200-2.webp"
+]
+},
+{
+"sku": "JRN00009910",
+"barcode": "6281060903188",
+"cat": 22,
+"ar": "سيزر نكتار فواكه مشكلة زجاج 250 مل",
+"en": "Caesar Nectar Cocktail Flavor Bottle 250 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398405",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281060903188.webp",
+"6281060903188-1.webp"
+]
+},
+{
+"sku": "JRN00009911",
+"barcode": "6271002205937",
+"cat": 22,
+"ar": "كي دي دي نكتار أناناس مع عنب ابيض 6 حبات 250 مل",
+"en": "Kdd Pineapple And White Grape Nectar 6 pcs 250 ml",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19379063",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6271002205937.webp",
+"6271002205937-1.webp",
+"6271002205937-2.webp"
+]
+},
+{
+"sku": "JRN00009912",
+"barcode": "6287034100201",
+"cat": 23,
+"ar": "كينزا مشروب غازي حمضيات 185 مل",
+"en": "Kinza Soft Drink Citrus 185 ml",
+"price": 1.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381626",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287034100201.webp",
+"6287034100201-1.webp",
+"6287034100201-2.webp"
+]
+},
+{
+"sku": "JRN00009913",
+"barcode": "4796007420700",
+"cat": 25,
+"ar": "الصمان شاي احمر برطمان بلاستيك 600 جم",
+"en": "AlSamman Red Tea Plastic Jar 600 gm",
+"price": 60.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19366207",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4796007420700.webp",
+"4796007420700-1.webp"
+]
+},
+{
+"sku": "JRN00009914",
+"barcode": "6281018152484",
+"cat": 22,
+"ar": "ندى عصير كيوي وليمون 200 مل",
+"en": "Nada Kiwi Lime Juice 200 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292909",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281018152484.webp",
+"6281018152484-1.webp",
+"6281018152484-2.webp"
+]
+},
+{
+"sku": "JRN00009915",
+"barcode": "6281018157717",
+"cat": 22,
+"ar": "ندى عصير بنكهة تفاح 1.3 لتر",
+"en": "Nada Apple Flavor Juice 1.3 L",
+"price": 12.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1190168",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281018157717.webp",
+"6281018157717-1.webp",
+"6281018157717-2.webp"
+]
+},
+{
+"sku": "JRN00009916",
+"barcode": "6281007073110",
+"cat": 27,
+"ar": "المراعي حليب بروتين الشوكولاته خالي من الدسم بدون اضافة سكر 400 مل",
+"en": "Almarai Protein Milk Chocolate Fat Free No Add Sugar 400 ml",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19377629",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007073110.webp",
+"6281007073110-1.webp",
+"6281007073110-2.webp"
+]
+},
+{
+"sku": "JRN00009917",
+"barcode": "6281100585206",
+"cat": 21,
+"ar": "نستله بيور لايف مياه 12 * 330 مل",
+"en": "Nestle Pure Life Water 12 pcs 330 ml",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1223585",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281100585206.webp",
+"6281100585206-1.webp",
+"6281100585206-2.webp"
+]
+},
+{
+"sku": "JRN00009918",
+"barcode": "6281007055017",
+"cat": 22,
+"ar": "المراعي عصير الأطفال تفاح بدون اضافة سكر 180 مل",
+"en": "Almarai Juice Kids Apple No Added Sugar 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1177",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007055017.webp",
+"6281007055017-1.webp",
+"6281007055017-2.webp"
+]
+},
+{
+"sku": "JRN00009919",
+"barcode": "6281007070737",
+"cat": 22,
+"ar": "المراعي عصير برتقال 1.4 لتر",
+"en": "Almarai Orange Juice 1.4 L",
+"price": 13.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19288152",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007070737.webp",
+"6281007070737-1.webp",
+"6281007070737-2.webp"
+]
+},
+{
+"sku": "JRN00009920",
+"barcode": "6281034913779",
+"cat": 24,
+"ar": "بربيكان تيربو مشروب شعير بنكهة التوت الرهيب 6*250 مل",
+"en": "Barbican Turbo Berry Burst 6 pcs 250 ml",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19295804",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034913779.webp",
+"6281034913779-1.webp"
+]
+},
+{
+"sku": "JRN00009921",
+"barcode": "6281057007974",
+"cat": 22,
+"ar": "نادك عصير توت مشكل 300 مل",
+"en": "Nadec Mixed Berry Juice 300 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-652",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057007974.webp",
+"6281057007974-1.webp",
+"6281057007974-2.webp"
+]
+},
+{
+"sku": "JRN00009922",
+"barcode": "6281018157014",
+"cat": 22,
+"ar": "ندى شراب بنكهة توت العليق 1.3 لتر",
+"en": "Nada Raspberry Flavor Drink 1.3 L",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1190334",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281018157014.webp",
+"6281018157014-1.webp",
+"6281018157014-2.webp"
+]
+},
+{
+"sku": "JRN00009923",
+"barcode": "5391523052252",
+"cat": 27,
+"ar": "انشور بلس حليب بنكهة الفانيلا 18 حبة 200 مل",
+"en": "Ensure Plus Liquid Milk Vanilla 18 pcs 200 Ml",
+"price": 234.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292381",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5391523052252.webp",
+"5391523052252-1.webp",
+"5391523052252-2.webp"
+]
+},
+{
+"sku": "JRN00009924",
+"barcode": "4595317861049",
+"cat": 27,
+"ar": "ترا ماتشا فاخرة فصل الربيع 50 جم",
+"en": "Tora Matcha Premium Spring 50 gm",
+"price": 149.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19342561",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4595317861049.webp",
+"4595317861049-1.webp",
+"4595317861049-2.webp"
+]
+},
+{
+"sku": "JRN00009925",
+"barcode": "7616200045661",
+"cat": 24,
+"ar": "موسي شراب الشعير شراب الشعير تفاح 6 حبات 330 مل",
+"en": "Moussy Malt Drink Apple 6 pcs 330 ml",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381015",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"7616200045661.webp",
+"7616200045661-1.webp",
+"7616200045661-2.webp"
+]
+},
+{
+"sku": "JRN00009926",
+"barcode": "6287034240068",
+"cat": 21,
+"ar": "سبادا مياه صودا فواره 24 حبة 250 مل",
+"en": "Spada Sparkling Water Zero 24 pcs 250 ml",
+"price": 61.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19329294",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287034240068.webp"
+]
+},
+{
+"sku": "JRN00009927",
+"barcode": "6281035000027",
+"cat": 21,
+"ar": "نوفا مياه معدنية بعبوات معاد تدويرها 40 حبة 330 مل",
+"en": "Nova Water Recycled Bottle 40 pcs 330 ml",
+"price": 25.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19344488",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281035000027.webp",
+"6281035000027-1.webp",
+"6281035000027-2.webp"
+]
+},
+{
+"sku": "JRN00009928",
+"barcode": "6281057013685",
+"cat": 22,
+"ar": "نادك عصير تفاح 180 مل",
+"en": "Nadec Juice Apple 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290408",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057013685.webp",
+"6281057013685-1.webp",
+"6281057013685-2.webp"
+]
+},
+{
+"sku": "JRN00009929",
+"barcode": "012000061301",
+"cat": 25,
+"ar": "ليبتون آيس تي توت أحمر زيرو عبوة 6 حبات 320 مل",
+"en": "Lipton Ice Tea Red Fruits Zero 6 pcs 320 ml",
+"price": 15.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407033",
+"hs_ids": [
+"9c99299d-cc2b-481d-9220-6dcd30dd01f4"
+],
+"img_src": "ninja",
+"images": [
+"012000061301.webp",
+"012000061301-1.webp",
+"012000061301-2.webp"
+]
+},
+{
+"sku": "JRN00009930",
+"barcode": "6287038120991",
+"cat": 108,
+"ar": "محمصة الرياض حبوب القهوة جبل الفيل 250 جم",
+"en": "Arriyadh Roaster Coffee Beans Alfeel mountain 250 gm",
+"price": 49.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292032",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287038120991.webp",
+"6287038120991-1.webp"
+]
+},
+{
+"sku": "JRN00009931",
+"barcode": "6287020240300",
+"cat": 108,
+"ar": "روست مايسترو قهوة أوغندية 10 كبسولات",
+"en": "Roast Maestro Uganda Coffee 10 Capsules",
+"price": 25.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-927381",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287020240300.webp",
+"6287020240300-1.webp",
+"6287020240300-2.webp"
+]
+},
+{
+"sku": "JRN00009932",
+"barcode": "7616200098001",
+"cat": 24,
+"ar": "موسي شراب الشعير توت احمر 6 حبات 330 مل",
+"en": "Moussy Malt Drink Raspberry 6 pcs 330 ml",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381016",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"7616200098001.webp",
+"7616200098001-1.webp",
+"7616200098001-2.webp"
+]
+},
+{
+"sku": "JRN00009933",
+"barcode": "6281018210719",
+"cat": 22,
+"ar": "فلوريدا عصير بنكهة البرتقال بدون لب 1.6 لتر",
+"en": "Florida Orange No Pulp Flavor Juice 1.6 L",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1191094",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281018210719.webp",
+"6281018210719-1.webp",
+"6281018210719-2.webp"
+]
+},
+{
+"sku": "JRN00009934",
+"barcode": "6287038121097",
+"cat": 108,
+"ar": "محمصة الرياض حبوب القهوة حصاة النصلة 250 جم",
+"en": "Arriyadh Roaster Coffee Beans Alnaslah Rock 250 gm",
+"price": 45.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292045",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287038121097.webp",
+"6287038121097-1.webp"
+]
+},
+{
+"sku": "JRN00009935",
+"barcode": "5449000166517",
+"cat": 21,
+"ar": "اروى مياه 24 حبة 330 مل",
+"en": "Arwa Water 24 pcs 330 ml",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-448705",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5449000166517.webp",
+"5449000166517-1.webp",
+"5449000166517-2.webp"
+]
+},
+{
+"sku": "JRN00009936",
+"barcode": "6281026083619",
+"cat": 22,
+"ar": "الربيع نكتار فواكة مشكله 18 حبة 120 مل",
+"en": "Alrabie Nectar Multi Fruit 18 pcs 120 ml",
+"price": 18.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19335193",
+"hs_ids": [
+"7ff5f55c-0e11-4a66-8195-27b6061aa126"
+],
+"img_src": "ninja",
+"images": [
+"6281026083619.webp",
+"6281026083619-1.webp",
+"6281026083619-2.webp"
+]
+},
+{
+"sku": "JRN00009937",
+"barcode": "6281057013722",
+"cat": 22,
+"ar": "نادك نكتار مانجو 180 مل",
+"en": "Nadec Nectar Mango 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290386",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057013722.webp",
+"6281057013722-1.webp",
+"6281057013722-2.webp"
+]
+},
+{
+"sku": "JRN00009938",
+"barcode": "6287038121011",
+"cat": 108,
+"ar": "محمصة الرياض حبوب القهوة آبار حمى 250 جم",
+"en": "Arriyadh Roaster Coffee Beans Hema Wells Coffee 250 gm",
+"price": 49.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292040",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287038121011.webp",
+"6287038121011-1.webp"
+]
+},
+{
+"sku": "JRN00009939",
+"barcode": "6281007053594",
+"cat": 22,
+"ar": "المراعي نكتار مانجو وعنب بدون اضافة سكر 200 مل",
+"en": "Almarai Mango & Grape Nectar No Added Sugar 200 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1184",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007053594.webp",
+"6281007053594-1.webp",
+"6281007053594-2.webp"
+]
+},
+{
+"sku": "JRN00009940",
+"barcode": "7613036273800",
+"cat": 108,
+"ar": "نسكافيه دولتشي جوستو كابتشينو 16 كبسولة",
+"en": "Nescafe Dolce Gusto Cappuccino 16 Capsules",
+"price": 59.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12114",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"7613036273800.webp",
+"7613036273800-1.webp",
+"7613036273800-2.webp"
+]
+},
+{
+"sku": "JRN00009941",
+"barcode": "6281100007333",
+"cat": 21,
+"ar": "صفا مكة مياه 24 حبة 330 مل",
+"en": "Safa Makkah Water 24 pcs 330 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-17920821",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281100007333.webp",
+"6281100007333-1.webp",
+"6281100007333-2.webp"
+]
+},
+{
+"sku": "JRN00009942",
+"barcode": "6281022101560",
+"cat": 22,
+"ar": "داناو عصير 5 فيتامينات 6 حبات 180 مل",
+"en": "Danao 5 Vitamins Juice 6 pcs 180 ml",
+"price": 11.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19333553",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022101560.webp",
+"6281022101560-1.webp",
+"6281022101560-2.webp"
+]
+},
+{
+"sku": "JRN00009943",
+"barcode": "6281022101126",
+"cat": 22,
+"ar": "داناو مشروب الخوخ و المشمش مع الحليب الطازج 180 مل",
+"en": "Danao Peach and Apricot With Fresh Milk 180 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19362321",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022101126.webp",
+"6281022101126-1.webp",
+"6281022101126-2.webp"
+]
+},
+{
+"sku": "JRN00009944",
+"barcode": "6281007054997",
+"cat": 22,
+"ar": "المراعي عصير الأطفال فواكه مشكلة بدون اضافة سكر 180 مل",
+"en": "Almarai Juice Kids Mixed Fruit No Added Sugar 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1179",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007054997.webp",
+"6281007054997-1.webp",
+"6281007054997-2.webp"
+]
+},
+{
+"sku": "JRN00009945",
+"barcode": "6281022101522",
+"cat": 22,
+"ar": "داناو عصير خوخ و مشمش 6 حبات 180 مل",
+"en": "Danao Peach & Apricot Juice 6 pcs 180 ml",
+"price": 11.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19333555",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022101522.webp",
+"6281022101522-1.webp",
+"6281022101522-2.webp"
+]
+},
+{
+"sku": "JRN00009946",
+"barcode": "6287030604765",
+"cat": 108,
+"ar": "بيت التحميص عسل واسبريسو 6 ملاعق 10جم",
+"en": "Roasting House Honey Esprsso Spoons box 6 spoons 10gm",
+"price": 29.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371212",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287030604765.webp",
+"6287030604765-1.webp",
+"6287030604765-2.webp"
+]
+},
+{
+"sku": "JRN00009947",
+"barcode": "6281007055376",
+"cat": 22,
+"ar": "المراعي عصير التفاح بدون اضافة سكر 300 مل",
+"en": "Almarai Juice Apple No Added Sugar 300 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1173",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007055376.webp",
+"6281007055376-1.webp",
+"6281007055376-2.webp"
+]
+},
+{
+"sku": "JRN00009948",
+"barcode": "6281007055338",
+"cat": 22,
+"ar": "المراعي عصير البرتقال و الفواكه المشكلة بدون اضافة سكر 300 مل",
+"en": "Almarai Juice Orange & Mix Fruit No Added Sugar 300 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1202",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007055338.webp",
+"6281007055338-1.webp",
+"6281007055338-2.webp"
+]
+},
+{
+"sku": "JRN00009949",
+"barcode": "6281007070751",
+"cat": 22,
+"ar": "المراعي نكتار مانجو وعنب بدون إضافة سكر 1.4 لتر",
+"en": "Almarai Mixed Fruit Mango & Grape Nectar No Added Sugar 1.4 L",
+"price": 13.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-8190",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007070751.webp",
+"6281007070751-1.webp",
+"6281007070751-2.webp"
+]
+},
+{
+"sku": "JRN00009950",
+"barcode": "6281022159042",
+"cat": 22,
+"ar": "الصافي عصير تفاح 180 مل",
+"en": "Alsafi Apple Juice 180 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-993036",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022159042.webp",
+"6281022159042-1.webp"
+]
+},
+{
+"sku": "JRN00009951",
+"barcode": "6287030601610",
+"cat": 108,
+"ar": "بيت التحميص الصهباء - قهوة سعودية 227 جم",
+"en": "Roasting House Sahbaa - Saudi coffee 227 gm",
+"price": 34.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293061",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287030601610.webp",
+"6287030601610-1.webp",
+"6287030601610-2.webp"
+]
+},
+{
+"sku": "JRN00009952",
+"barcode": "6287030600071",
+"cat": 108,
+"ar": "بيت التحميص ايسبريسو رقم .4 227 جم",
+"en": "Roasting House NO 4 ESPRESSO 227 gm",
+"price": 54.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293062",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287030600071.webp",
+"6287030600071-1.webp",
+"6287030600071-2.webp"
+]
+},
+{
+"sku": "JRN00009953",
+"barcode": "4012824400054",
+"cat": 27,
+"ar": "يوجي تي شاي عضوي كلاسيك عضوي 17 كيس",
+"en": "Yogi Tea Organic Tea Classic 17 Teabags",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287715",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824400054.webp",
+"4012824400054-1.webp",
+"4012824400054-2.webp"
+]
+},
+{
+"sku": "JRN00009954",
+"barcode": "4012824400658",
+"cat": 27,
+"ar": "يوجي تي شاي عضوي أسود عضوي 17 كيس",
+"en": "Yogi Tea Organic Tea Black Chai 17 Teabags",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287722",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824400658.webp",
+"4012824400658-1.webp",
+"4012824400658-2.webp"
+]
+},
+{
+"sku": "JRN00009955",
+"barcode": "6281057013708",
+"cat": 22,
+"ar": "نادك نكتار فراولة 180 مل",
+"en": "Nadec Nectar Strawberry 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290403",
+"hs_ids": [
+"a05592d6-76f9-4520-b3b8-27e36a736466"
+],
+"img_src": "ninja",
+"images": [
+"6281057013708.webp",
+"6281057013708-1.webp",
+"6281057013708-2.webp"
+]
+},
+{
+"sku": "JRN00009956",
+"barcode": "6281057013784",
+"cat": 22,
+"ar": "نادك نكتار كيوي وليمون اخضر 180 مل",
+"en": "Nadec Nectar Kiwi Lime Mint 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290397",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057013784.webp",
+"6281057013784-1.webp",
+"6281057013784-2.webp"
+]
+},
+{
+"sku": "JRN00009957",
+"barcode": "709993332098",
+"cat": 27,
+"ar": "أرض الطبيعة عصير شمندر عضوي 750 مل",
+"en": "Natureland Beet Juice Organic 750 ml",
+"price": 32.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-978078",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"709993332098.webp",
+"709993332098-1.webp",
+"709993332098-2.webp"
+]
+},
+{
+"sku": "JRN00009958",
+"barcode": "4792252940734",
+"cat": 27,
+"ar": "تيبسون شاي افوكادو ليمون وزنجبيل عضوي 25 مغلف",
+"en": "Tipson Organic Tea Avocado Lemon & Ginger 25 Tea Bag",
+"price": 39.95,
+"special": 32.95,
+"src": "ninja",
+"ninja_id": "5-19310376",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4792252940734.webp",
+"4792252940734-1.webp",
+"4792252940734-2.webp"
+]
+},
+{
+"sku": "JRN00009959",
+"barcode": "6281100519614",
+"cat": 22,
+"ar": "اورجنال عصير تفاح بدون إضافة سكر 1.4 لتر",
+"en": "Original Apple Juice No Added Sugar 1.4 L",
+"price": 10.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-10765932",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281100519614.webp",
+"6281100519614-1.webp",
+"6281100519614-2.webp"
+]
+},
+{
+"sku": "JRN00009960",
+"barcode": "6281007070768",
+"cat": 22,
+"ar": "المراعي نكتار التوت المختلط 1.4 لتر",
+"en": "Almarai Mixed Berry Nectar 1.4 L",
+"price": 10.0,
+"special": 8.5,
+"src": "ninja",
+"ninja_id": "5-19288147",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007070768.webp",
+"6281007070768-1.webp",
+"6281007070768-2.webp"
+]
+},
+{
+"sku": "JRN00009961",
+"barcode": "5061013944113",
+"cat": 24,
+"ar": "مونستر مشروب طاقه الترا وايت 500 مل",
+"en": "Monster Energy Drink Ultra White 500 ml",
+"price": 10.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19394738",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5061013944113.webp",
+"5061013944113-1.webp"
+]
+},
+{
+"sku": "JRN00009962",
+"barcode": "6009615146534",
+"cat": 27,
+"ar": "رودس عصير كرانبري 1 لتر",
+"en": "Rhodes Juice Cranberry 1 L",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392213",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6009615146534.webp"
+]
+},
+{
+"sku": "JRN00009963",
+"barcode": "6287014280053",
+"cat": 22,
+"ar": "ذوقها عصير المانجو والعنب 250 مل",
+"en": "Dugaha Mango & Grape Juice 250 ml",
+"price": 4.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19382275",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287014280053.webp",
+"6287014280053-1.webp",
+"6287014280053-2.webp"
+]
+},
+{
+"sku": "JRN00009964",
+"barcode": "012000002632",
+"cat": 23,
+"ar": "شانى مشروب غازى 330 مل",
+"en": "Shani Soft Drink 330 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398227",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000002632.webp",
+"012000002632-1.webp",
+"012000002632-2.webp"
+]
+},
+{
+"sku": "JRN00009965",
+"barcode": "6287030603720",
+"cat": 108,
+"ar": "بيت التحميص كولومبيا سيليكت قهوة خالية من الكافيين 227 جم",
+"en": "Roasting House Colombia Decaf Royal Select Water 227 gm",
+"price": 44.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371215",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287030603720.webp",
+"6287030603720-1.webp",
+"6287030603720-2.webp"
+]
+},
+{
+"sku": "JRN00009966",
+"barcode": "6287044880148",
+"cat": 108,
+"ar": "صواع البرازيل مورادا مجففة فلتر 250جم",
+"en": "Suwaa Brazil Morada Natural Filter 250 gm",
+"price": 51.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370230",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287044880148.webp",
+"6287044880148-1.webp",
+"6287044880148-2.webp"
+]
+},
+{
+"sku": "JRN00009967",
+"barcode": "8413700013973",
+"cat": 25,
+"ar": "الضيافة أعشاب زعتر 25 كيس 30 جم",
+"en": "Aldiafa Thyme 25 Sachets 30 gm",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12669590",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8413700013973.webp",
+"8413700013973-1.webp",
+"8413700013973-2.webp"
+]
+},
+{
+"sku": "JRN00009968",
+"barcode": "5449000231963",
+"cat": 21,
+"ar": "اروى مياه زيرو صوديوم 1.5 لتر 6 حبة",
+"en": "Arwa Water Zero Sodium 1.5L 6 Pcs",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293092",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5449000231963.webp",
+"5449000231963-1.webp",
+"5449000231963-2.webp"
+]
+},
+{
+"sku": "JRN00009969",
+"barcode": "6281034915698",
+"cat": 24,
+"ar": "بربيكان شراب الشعيربنكهة التوت المثلج 250 مل",
+"en": "Barbican Malt Drink Arctic Berry Flavoured 250 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19391537",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034915698.webp",
+"6281034915698-1.webp",
+"6281034915698-2.webp"
+]
+},
+{
+"sku": "JRN00009970",
+"barcode": "9001372251329",
+"cat": 24,
+"ar": "باور هورس الأصلي علبة 250 مل",
+"en": "Power Horse Original Can 250 ml",
+"price": 10.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4679484",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"9001372251329.webp",
+"9001372251329-1.webp",
+"9001372251329-2.webp"
+]
+},
+{
+"sku": "JRN00009971",
+"barcode": "62906234",
+"cat": 27,
+"ar": "سن بلاست عصير تفاح و جوافة عضوي 200 مل",
+"en": "Sun Blast Organic Apple & Guava Juice 200 ml",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328514",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"62906234.webp",
+"62906234-1.webp",
+"62906234-2.webp"
+]
+},
+{
+"sku": "JRN00009972",
+"barcode": "012000062858",
+"cat": 23,
+"ar": "بيبسي زيرو مشروب غازي 2 لتر",
+"en": "Pepsi Zero Carbonated Soft Drink 2 L",
+"price": 8.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401089",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000062858.webp",
+"012000062858-1.webp",
+"012000062858-2.webp"
+]
+},
+{
+"sku": "JRN00009973",
+"barcode": "5319991979222",
+"cat": 108,
+"ar": "دوروس قهوة كبسولة بريميوم بندق",
+"en": "Doros Premium Hazelnut Coffee Capsule",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294287",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5319991979222.webp",
+"5319991979222-1.webp",
+"5319991979222-2.webp"
+]
+},
+{
+"sku": "JRN00009974",
+"barcode": "6281105793880",
+"cat": 26,
+"ar": "باجة قهوة تركية سادة 200 جم",
+"en": "Baja Turkish Coffee Plain 200 gm",
+"price": 17.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5417",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281105793880.webp",
+"6281105793880-1.webp",
+"6281105793880-2.webp"
+]
+},
+{
+"sku": "JRN00009975",
+"barcode": "76162879",
+"cat": 24,
+"ar": "موسي شراب الشعير بالرمان 330 مل",
+"en": "Moussy Malt Pomegranate Drink 330 ml",
+"price": 5.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4225",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"76162879.webp",
+"76162879-1.webp",
+"76162879-2.webp"
+]
+},
+{
+"sku": "JRN00009976",
+"barcode": "4012824000612",
+"cat": 27,
+"ar": "تشويس شاي دارجيلنغ عضوي 17 كيس",
+"en": "Choice Organic Tea Darjeeling 17 Sachets",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392619",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824000612.webp",
+"4012824000612-1.webp",
+"4012824000612-2.webp"
+]
+},
+{
+"sku": "JRN00009977",
+"barcode": "012000002533",
+"cat": 23,
+"ar": "سفن أب مشروب غازى 330 مل",
+"en": "7Up Soft Drink 330 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398219",
+"hs_ids": [
+"712a75aa-29c1-4f03-97ec-84fd7693adb2"
+],
+"img_src": "ninja",
+"images": [
+"012000002533.webp",
+"012000002533-1.webp",
+"012000002533-2.webp"
+]
+},
+{
+"sku": "JRN00009978",
+"barcode": "012000063497",
+"cat": 23,
+"ar": "ميرندا زيرو مشروب غازي حمضيات 2 لتر",
+"en": "Mirinda Zero Soft Drink Citrus 2 L",
+"price": 9.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401094",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000063497.webp",
+"012000063497-1.webp",
+"012000063497-2.webp"
+]
+},
+{
+"sku": "JRN00009979",
+"barcode": "5014328057085",
+"cat": 25,
+"ar": "تتلي شاي أسود ثقيل 100 كيس",
+"en": "Tetley Black Tea Bags 100 Bags",
+"price": 24.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19357246",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5014328057085.webp"
+]
+},
+{
+"sku": "JRN00009980",
+"barcode": "6281035119439",
+"cat": 21,
+"ar": "نوفا مياه فوارة الليمون والنعناع 250 مل",
+"en": "Nova Sparkling Water Lemon Mint 250 ml",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19382386",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281035119439.webp",
+"6281035119439-1.webp",
+"6281035119439-2.webp"
+]
+},
+{
+"sku": "JRN00009981",
+"barcode": "6281000811085",
+"cat": 26,
+"ar": "الدلة قهوة سعودية سريعة التحضير بالزعفران 30 جم",
+"en": "Aldallah Instant Saudi Coffee Saffron Dallah 30 gm",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19389874",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281000811085.webp",
+"6281000811085-1.webp"
+]
+},
+{
+"sku": "JRN00009982",
+"barcode": "012000069260",
+"cat": 24,
+"ar": "ستينج مشروب طاقه بنكهه التوت 300 مل",
+"en": "Sting Energy Drink Berry Flavor 300 ml",
+"price": 5.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19414919",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000069260.webp",
+"012000069260-1.webp",
+"012000069260-2.webp"
+]
+},
+{
+"sku": "JRN00009983",
+"barcode": "4012824000537",
+"cat": 27,
+"ar": "تشويس شاي ياسمين عضوي 17 كيس",
+"en": "Choice Organic Tea Jasmin 17 Sachets",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392621",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824000537.webp",
+"4012824000537-1.webp",
+"4012824000537-2.webp"
+]
+},
+{
+"sku": "JRN00009984",
+"barcode": "709993332937",
+"cat": 27,
+"ar": "أرض الطبيعة مياه نبع طبيعية فوارة زجاج 250 مل",
+"en": "Natureland Natural Spring Water Sparkling Glass 250 ml",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400539",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"709993332937.webp"
+]
+},
+{
+"sku": "JRN00009985",
+"barcode": "6281060903201",
+"cat": 22,
+"ar": "سيزر نكتار برتقال و جزر و فواكه مشكلة زجاج 250 مل",
+"en": "Caesar Nectar Orange Carrots & Mix Fruit Flavor Bottle 250 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398402",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281060903201.webp",
+"6281060903201-1.webp",
+"6281060903201-2.webp"
+]
+},
+{
+"sku": "JRN00009986",
+"barcode": "012000804526",
+"cat": 23,
+"ar": "ميرندا مشروب غازى حمضيات 330 مل",
+"en": "Mirinda Soft Drink Citrus 330 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398221",
+"hs_ids": [
+"50ef3886-6643-4bf6-808f-ab5904ab48b0"
+],
+"img_src": "ninja",
+"images": [
+"012000804526.webp",
+"012000804526-1.webp",
+"012000804526-2.webp"
+]
+},
+{
+"sku": "JRN00009987",
+"barcode": "8436613383087",
+"cat": 25,
+"ar": "فابوريتا أعشاب زنجبيل قرفة 20 كيس 2 جم",
+"en": "Faborita Ginger With Cinnamon 20 Bags 2 gm",
+"price": 13.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19352137",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8436613383087.webp",
+"8436613383087-1.webp",
+"8436613383087-2.webp"
+]
+},
+{
+"sku": "JRN00009988",
+"barcode": "6281000418079",
+"cat": 26,
+"ar": "الكيف قهوة لقمتي غير محمص 3 كجم",
+"en": "Alkaif Coffee Laqmati Unroasted 3 kg",
+"price": 163.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390152",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281000418079.webp",
+"6281000418079-1.webp",
+"6281000418079-2.webp"
+]
+},
+{
+"sku": "JRN00009989",
+"barcode": "6251932003070",
+"cat": 27,
+"ar": "تي تي مشروب شاي مثلج مانجو بدون سكر مضاف مع عصير 330 مل",
+"en": "TT Ice Tea drink with juice Mango No Add Sugar 330 ml",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404179",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6251932003070.webp"
+]
+},
+{
+"sku": "JRN00009990",
+"barcode": "6295199290194",
+"cat": 27,
+"ar": "ون شوت هايدرايت بنكهة الليمون 14 ظرف",
+"en": "Oneshot Hydrate Lime Burst 14 Sticks",
+"price": 86.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369429",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6295199290194.webp",
+"6295199290194-1.webp",
+"6295199290194-2.webp"
+]
+},
+{
+"sku": "JRN00009991",
+"barcode": "6281022159189",
+"cat": 22,
+"ar": "الصافي عصير فراولة 1.4 لتر",
+"en": "Alsafi Juice Strawberry 1.4 L",
+"price": 12.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19305911",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022159189.webp",
+"6281022159189-1.webp",
+"6281022159189-2.webp"
+]
+},
+{
+"sku": "JRN00009992",
+"barcode": "6281000981207",
+"cat": 108,
+"ar": "بريهانت بلاناداس كولومبيا 250 جم",
+"en": "Breehant Colombia blandas 250 gm",
+"price": 64.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349058",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281000981207.webp",
+"6281000981207-1.webp",
+"6281000981207-2.webp"
+]
+},
+{
+"sku": "JRN00009993",
+"barcode": "4796007420540",
+"cat": 25,
+"ar": "الصمان شاي احمر 150 كيس",
+"en": "AlSamman Red Tea 150 Bags",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19366191",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4796007420540.webp",
+"4796007420540-1.webp",
+"4796007420540-2.webp"
+]
+},
+{
+"sku": "JRN00009994",
+"barcode": "8436613383094",
+"cat": 25,
+"ar": "فابوريتا أعشاب زنجبيل ليمون 20 كيس 2 جم",
+"en": "Faborita Ginger With Lemon 20 Bags 2 gm",
+"price": 13.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19352138",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8436613383094.webp",
+"8436613383094-1.webp",
+"8436613383094-2.webp"
+]
+},
+{
+"sku": "JRN00009995",
+"barcode": "6281013141131",
+"cat": 26,
+"ar": "أصيلة خليط قهوة سعودية سريعة التحضير هيل ظرف 30 جم",
+"en": "Aseela Instant Saudi Coffee Sachet Cardamom 30 gm",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19391584",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281013141131.webp",
+"6281013141131-1.webp"
+]
+},
+{
+"sku": "JRN00009996",
+"barcode": "3080216028026",
+"cat": 24,
+"ar": "هولستن شراب الشعير بالتوت البري 330 مل",
+"en": "Holsten Malt Drink Cranberry Flavour 330 ml",
+"price": 6.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1495",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"3080216028026.webp",
+"3080216028026-1.webp",
+"3080216028026-2.webp"
+]
+},
+{
+"sku": "JRN00009997",
+"barcode": "818094006965",
+"cat": 24,
+"ar": "روك ستار مشروب طاقة 250 مل",
+"en": "Rockstar Energy Drink 250 ml",
+"price": 5.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1076",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"818094006965.webp",
+"818094006965-1.webp",
+"818094006965-2.webp"
+]
+},
+{
+"sku": "JRN00009998",
+"barcode": "6287043722036",
+"cat": 22,
+"ar": "الحطب عصير طازج الخضروات معصور علي البارد 250 مل",
+"en": "Alhatab Fresh Juice Greens Cold Pressed 250 ml",
+"price": 15.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392690",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287043722036.webp",
+"6287043722036-1.webp",
+"6287043722036-2.webp"
+]
+},
+{
+"sku": "JRN00009999",
+"barcode": "6251932003063",
+"cat": 27,
+"ar": "تي تي مشروب شاي مثلج باشن فروت وبرتقال بدون سكر مضاف مع عصير الفواكه 330 مل",
+"en": "TT Ice Tea Drink With Juice Orange Passion And Orange Fruit No Add Sugar 330 ml",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404183",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6251932003063.webp",
+"6251932003063-1.webp",
+"6251932003063-2.webp"
+]
+},
+{
+"sku": "JRN00010000",
+"barcode": "5999860634843",
+"cat": 27,
+"ar": "كولاجين مياه غازية بطعم المانجو 330 مل",
+"en": "Collagen Drink Mango Passion Fruit 330 ml",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292977",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5999860634843.webp",
+"5999860634843-1.webp",
+"5999860634843-2.webp"
+]
+},
+{
+"sku": "JRN00010001",
+"barcode": "6281026165643",
+"cat": 22,
+"ar": "الربيع شراب برتقال 125 مل",
+"en": "Alrabie Orange Drink 125 ml",
+"price": 1.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19335189",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281026165643.webp",
+"6281026165643-1.webp",
+"6281026165643-2.webp"
+]
+},
+{
+"sku": "JRN00010002",
+"barcode": "6271002206040",
+"cat": 22,
+"ar": "كي دي دي نكتار برتقال مع العنب الابيض 6 حبات 250 مل",
+"en": "Kdd Nectar Orange And White Grape 6 pcs 250 ml",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19379053",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6271002206040.webp",
+"6271002206040-1.webp"
+]
+},
+{
+"sku": "JRN00010003",
+"barcode": "6281022159202",
+"cat": 22,
+"ar": "الصافي نكتار ليمون و نعناع مع فواكه مشكلة 1.4 لتر",
+"en": "Alsafi Juice Lemon Mint With Mixed Fruit 1.4 L",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19305904",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022159202.webp",
+"6281022159202-1.webp",
+"6281022159202-2.webp"
+]
+},
+{
+"sku": "JRN00010004",
+"barcode": "6288004003416",
+"cat": 23,
+"ar": "ميلاف اب نكهة الليمون بمستخلص التمر بدون سكر مضاف 320 مل",
+"en": "Millaf Up Lemon Flavor With Date Extract Without Added Sugar 320 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19424056",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6288004003416.webp"
+]
+},
+{
+"sku": "JRN00010005",
+"barcode": "5449000043962",
+"cat": 23,
+"ar": "سبرايت مشروب غازي 6 حبة 355 مل",
+"en": "Sprite Soft Drink Regular 6 pcs 355 ml",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397034",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5449000043962.webp",
+"5449000043962-1.webp",
+"5449000043962-2.webp"
+]
+},
+{
+"sku": "JRN00010006",
+"barcode": "4977642723122",
+"cat": 108,
+"ar": "هاريو قمع الترشيح V60 02 - سيراميك أبيض",
+"en": "Hario Coffee Dripper V60 02 Ceramic White",
+"price": 89.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318440",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4977642723122.webp",
+"4977642723122-1.webp",
+"4977642723122-2.webp"
+]
+},
+{
+"sku": "JRN00010007",
+"barcode": "6287059510030",
+"cat": 108,
+"ar": "نهج حبوب القهوة كولومبيا كاوكا - مجففة 250 جم",
+"en": "Nahj Coffee Beans Colombia Cauca 250 gm",
+"price": 76.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19410304",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287059510030.webp",
+"6287059510030-1.webp",
+"6287059510030-2.webp"
+]
+},
+{
+"sku": "JRN00010008",
+"barcode": "8436613383100",
+"cat": 25,
+"ar": "فابوريتا أعشاب زنجبيل كركم 20 كيس 1.5 جم",
+"en": "Faborita Ginger With Turmeric 20 Bag 1.5 gm",
+"price": 13.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19352142",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8436613383100.webp",
+"8436613383100-1.webp",
+"8436613383100-2.webp"
+]
+},
+{
+"sku": "JRN00010009",
+"barcode": "6281101494644",
+"cat": 26,
+"ar": "بونا 3 في 1 قهوة كلاسيكية 30 ظرف",
+"en": "Bunna 3in1 Classic Coffee 30 Sachets",
+"price": 37.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368624",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281101494644.webp",
+"6281101494644-1.webp",
+"6281101494644-2.webp"
+]
+},
+{
+"sku": "JRN00010010",
+"barcode": "4009300527992",
+"cat": 27,
+"ar": "تيكاني شاي مثلج بارد بالخوخ 2.5 جم 18 ظرف",
+"en": "Teekanne Iced Tea Cold Feel Peach 2.5 gm 18 bags",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328226",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4009300527992.webp",
+"4009300527992-1.webp",
+"4009300527992-2.webp"
+]
+},
+{
+"sku": "JRN00010011",
+"barcode": "6288004003485",
+"cat": 23,
+"ar": "ميلاف لومي نكهة حمضيات بمستخلص التمر بدون سكر مضاف 320 مل",
+"en": "Milaf Lumi Citrus Flavor With Date Extract No Added Sugar 320 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19424057",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6288004003485.webp"
+]
+},
+{
+"sku": "JRN00010012",
+"barcode": "6281101495436",
+"cat": 108,
+"ar": "بونا قهوة مقطرة إثيوبية 5 أظرف",
+"en": "Bunna UFO Drip Coffee Ethiopian 5 Sachets",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19411889",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281101495436.webp",
+"6281101495436-1.webp",
+"6281101495436-2.webp"
+]
+},
+{
+"sku": "JRN00010013",
+"barcode": "4977642730809",
+"cat": 108,
+"ar": "فلاتر بيغاسوس الورقية من هاريو حجم 01 - 100 حبة",
+"en": "Hario Filter Paper for Pegasus Dripper 01-100 Sheets",
+"price": 23.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318444",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4977642730809.webp",
+"4977642730809-1.webp"
+]
+},
+{
+"sku": "JRN00010014",
+"barcode": "76162817",
+"cat": 24,
+"ar": "موسي شراب الشعير العادي 330 مل",
+"en": "Moussy Malt Drink Classic 330 ml",
+"price": 5.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1492",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"76162817.webp",
+"76162817-1.webp",
+"76162817-2.webp"
+]
+},
+{
+"sku": "JRN00010015",
+"barcode": "4012824402485",
+"cat": 27,
+"ar": "يوغي شاي عضوي وقت النوم",
+"en": "Yogi Tea Organic Bed Time",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327970",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824402485.webp",
+"4012824402485-1.webp",
+"4012824402485-2.webp"
+]
+},
+{
+"sku": "JRN00010016",
+"barcode": "6285806000698",
+"cat": 22,
+"ar": "سانتي عصير ريد ميكس خالي من السكر 300 مل",
+"en": "Sante Red Mix Juice Zero Sugar 300 ml",
+"price": 5.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387036",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6285806000698.webp",
+"6285806000698-1.webp",
+"6285806000698-2.webp"
+]
+},
+{
+"sku": "JRN00010017",
+"barcode": "6281034916206",
+"cat": 22,
+"ar": "راني شراب المانجو بدون سكر مضاف 1 لتر",
+"en": "Rani Mango Drink No Added Sugar 1 L",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396634",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034916206.webp",
+"6281034916206-1.webp",
+"6281034916206-2.webp"
+]
+},
+{
+"sku": "JRN00010018",
+"barcode": "012000804779",
+"cat": 23,
+"ar": "بيبسي مشروب غازى 24 حبه 330 مل",
+"en": "Pepsi Soft Drink 24 pcs 330 ml",
+"price": 69.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398228",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000804779.webp",
+"012000804779-1.webp",
+"012000804779-2.webp"
+]
+},
+{
+"sku": "JRN00010019",
+"barcode": "9008442000559",
+"cat": 24,
+"ar": "باور هورس الأصلي علبة 355 مل",
+"en": "Power Horse Original Can 355 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4680270",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"9008442000559.webp",
+"9008442000559-1.webp",
+"9008442000559-2.webp"
+]
+},
+{
+"sku": "JRN00010020",
+"barcode": "4012824401075",
+"cat": 27,
+"ar": "يوغي شاي عضوي راحة المعدة",
+"en": "Yogi Tea Organic Stomach Ease",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328013",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824401075.webp",
+"4012824401075-1.webp",
+"4012824401075-2.webp"
+]
+},
+{
+"sku": "JRN00010021",
+"barcode": "6291104288683",
+"cat": 27,
+"ar": "سن بلاست عصير تفاح وجوافة عضوي 10 × 200 مل",
+"en": "Sun Blast Organic Apple & Guava Juice 10 x 200 ml",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19403790",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6291104288683.webp"
+]
+},
+{
+"sku": "JRN00010022",
+"barcode": "6281034916213",
+"cat": 22,
+"ar": "راني شراب البرتقال بدون سكر مضاف 1 لتر",
+"en": "Rani Orange Drink No Added Sugar 1 L",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396635",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034916213.webp",
+"6281034916213-1.webp",
+"6281034916213-2.webp"
+]
+},
+{
+"sku": "JRN00010023",
+"barcode": "6291025000012",
+"cat": 22,
+"ar": "كابري سن عصير البرتقال من دون سكر مضاف كرتون 10 حبات 200 مل",
+"en": "Capri Sun Orange Juice No Add Sugar Box 10 pcs 200 ml",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19362255",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6291025000012.webp",
+"6291025000012-1.webp",
+"6291025000012-2.webp"
+]
+},
+{
+"sku": "JRN00010024",
+"barcode": "6285755100067",
+"cat": 108,
+"ar": "لاك حبوب القهوه برازيل موجيانا مجففة فلتر وإسبريسو 250 جم",
+"en": "Lack Coffee Beans Brazil Mogiana Natural Filter And Espresso 250 gm",
+"price": 37.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19331062",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6285755100067.webp",
+"6285755100067-1.webp",
+"6285755100067-2.webp"
+]
+},
+{
+"sku": "JRN00010025",
+"barcode": "9312631167788",
+"cat": 25,
+"ar": "ديلما شاي رويال سيلون 20 ظرف",
+"en": "Dilmah Royal Ceylon Breakfas 20 Sachets",
+"price": 49.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19382452",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"9312631167788.webp",
+"9312631167788-1.webp",
+"9312631167788-2.webp"
+]
+},
+{
+"sku": "JRN00010026",
+"barcode": "072890006196",
+"cat": 24,
+"ar": "هنيكين بيره بدون كحول 330 مل",
+"en": "Heineken Non Alcohol Beer 330 ml",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19309073",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"072890006196.webp",
+"072890006196-1.webp",
+"072890006196-2.webp"
+]
+},
+{
+"sku": "JRN00010027",
+"barcode": "6281060101980",
+"cat": 22,
+"ar": "سيزر عصير تفاح زجاج 250 مل",
+"en": "Caesar Juice Apple Flavor Bottle 250 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398407",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281060101980.webp",
+"6281060101980-1.webp",
+"6281060101980-2.webp"
+]
+},
+{
+"sku": "JRN00010028",
+"barcode": "6288004003355",
+"cat": 23,
+"ar": "ميلاف كولا بمستخلص التمر بدون سكر مضاف 320 مل",
+"en": "Milaf Cola with date extract without added sugar 320 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19424055",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6288004003355.webp"
+]
+},
+{
+"sku": "JRN00010029",
+"barcode": "6280800009111",
+"cat": 108,
+"ar": "بيكوك حبوب القهوة إثيوبيا ماندرين مجففة فلتر وإسبريسو 250 جم",
+"en": "Peacock Ethiopia Mandarin Natural Filter And Espresso 250 gm",
+"price": 53.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19425880",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6280800009111.webp"
+]
+},
+{
+"sku": "JRN00010030",
+"barcode": "4061445366713",
+"cat": 26,
+"ar": "دافيدوف أوريجينز البرازيل سريعة التحضير 90 جم",
+"en": "Davidoff Origins Brazil Instant 90 gm",
+"price": 40.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19399141",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4061445366713.webp",
+"4061445366713-1.webp"
+]
+},
+{
+"sku": "JRN00010031",
+"barcode": "8681744071086",
+"cat": 27,
+"ar": "لافي عصير مشمش وتفاح طبيعي 100 % بدون سكر 1 لتر",
+"en": "lavi 100 % Apple Aprict Juice 1 L",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19386738",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8681744071086.webp",
+"8681744071086-1.webp",
+"8681744071086-2.webp"
+]
+},
+{
+"sku": "JRN00010032",
+"barcode": "90495793",
+"cat": 23,
+"ar": "فانتا مشروب غازي برتقال زجاج 250 مل",
+"en": "Fanta Soft Drink Orange Glass 250 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1460",
+"hs_ids": [
+"18a5e447-71da-45f7-88f2-76ecff03ca41"
+],
+"img_src": "ninja",
+"images": [
+"90495793.webp",
+"90495793-1.webp",
+"90495793-2.webp"
+]
+},
+{
+"sku": "JRN00010033",
+"barcode": "6287037661594",
+"cat": 108,
+"ar": "نورس مزيج أظرف قهوة مجففة 5 أظرف 75 جم",
+"en": "Nawras Blend Anaerobic Coffee Sachets 5 Pcs 75 gm",
+"price": 26.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409536",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287037661594.webp",
+"6287037661594-1.webp",
+"6287037661594-2.webp"
+]
+},
+{
+"sku": "JRN00010034",
+"barcode": "4796007420526",
+"cat": 25,
+"ar": "الصمان شاي احمر 100 كيس",
+"en": "AlSamman Red Tea 100 Bags",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19366193",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4796007420526.webp",
+"4796007420526-1.webp",
+"4796007420526-2.webp"
+]
+},
+{
+"sku": "JRN00010035",
+"barcode": "6281020174887",
+"cat": 27,
+"ar": "لونا أيس كوفي اسبرسو بروتين 240 مل",
+"en": "Luna Ice Coffee Espresso Protein 240 ml",
+"price": 6.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19385639",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281020174887.webp",
+"6281020174887-1.webp",
+"6281020174887-2.webp"
+]
+},
+{
+"sku": "JRN00010036",
+"barcode": "6271002206064",
+"cat": 22,
+"ar": "كي دي دي نكتار برتقال مع عنب ابيض 180 مل",
+"en": "Kdd Nectar Orange And White Grape 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322787",
+"hs_ids": [
+"c5166bdb-13f8-48f4-a000-0a6e854eb183"
+],
+"img_src": "ninja",
+"images": [
+"6271002206064.webp",
+"6271002206064-1.webp"
+]
+},
+{
+"sku": "JRN00010037",
+"barcode": "6271002206071",
+"cat": 22,
+"ar": "كي دي دي نكتار برتقال مع عنب ابيض بدون سكر مضاف 6 حبات 180 مل",
+"en": "Kdd Nectar Orange And White Grape No Added Sugar 6 pcs 180 ml",
+"price": 10.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327102",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6271002206071.webp",
+"6271002206071-1.webp"
+]
+},
+{
+"sku": "JRN00010038",
+"barcode": "6297000747552",
+"cat": 23,
+"ar": "فيمتو شراب بنكهة التوت الازرق 250 مل",
+"en": "Vimto Blue Raspberry Can 250 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5340894",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6297000747552.webp",
+"6297000747552-1.webp",
+"6297000747552-2.webp"
+]
+},
+{
+"sku": "JRN00010039",
+"barcode": "6281104170330",
+"cat": 25,
+"ar": "الصمان شاي احمر علب دائري 360 جم",
+"en": "AlSamman Red Tea Round Boxes 360 gm",
+"price": 41.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19366197",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281104170330.webp",
+"6281104170330-1.webp",
+"6281104170330-2.webp"
+]
+},
+{
+"sku": "JRN00010040",
+"barcode": "6281034914516",
+"cat": 24,
+"ar": "بربيكان شراب الشعير بنكهة الباشن فروت خالي من الكحول 330 مل",
+"en": "Barbican Malt Drink Passion Fruit Flavored Non Alcoholic 330 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349510",
+"hs_ids": [
+"7037ba9b-b5b1-4cb8-af0b-3a19ddd0c8d2"
+],
+"img_src": "ninja",
+"images": [
+"6281034914516.webp",
+"6281034914516-1.webp",
+"6281034914516-2.webp"
+]
+},
+{
+"sku": "JRN00010041",
+"barcode": "6280706980378",
+"cat": 108,
+"ar": "بلاك نايت كبسولات قهوة مزيج أدهم 10 كبسولات",
+"en": "Black Knight Coffee Capsules Adham Blend 10 pcs",
+"price": 27.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19425878",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6280706980378.webp",
+"6280706980378-1.webp"
+]
+},
+{
+"sku": "JRN00010042",
+"barcode": "3080216032474",
+"cat": 24,
+"ar": "هولستن شراب الشعير بالرمان 330 مل",
+"en": "Holsten Malt Drink Pomegranate Flavour 330 ml",
+"price": 6.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1488",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"3080216032474.webp",
+"3080216032474-1.webp",
+"3080216032474-2.webp"
+]
+},
+{
+"sku": "JRN00010043",
+"barcode": "064579007709",
+"cat": 27,
+"ar": "روبيكون شراب القشطة الشائكة بدون اضافة سكر خالية من الجلوتين نباتية 1 لتر",
+"en": "Rubicon Soursop Sugar Free Drink Gluten Free Vegan 1 L",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19338747",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"064579007709.webp",
+"064579007709-1.webp",
+"064579007709-2.webp"
+]
+},
+{
+"sku": "JRN00010044",
+"barcode": "6281034007171",
+"cat": 24,
+"ar": "بربيكان شراب الشعير بالتفاح 330 مل",
+"en": "Barbican Malt Apple Flavour Drink 330 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4227",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034007171.webp",
+"6281034007171-1.webp",
+"6281034007171-2.webp"
+]
+},
+{
+"sku": "JRN00010045",
+"barcode": "5055963102921",
+"cat": 27,
+"ar": "جورجيا ناتشورال عصير التفاح النقي بجذر الشمندر والجزر الطبيعي العضوي 750 مل",
+"en": "Georgia'S Natural Organic Juice Apple Beetroot Carrot 750 ml",
+"price": 35.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19335415",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5055963102921.webp",
+"5055963102921-1.webp",
+"5055963102921-2.webp"
+]
+},
+{
+"sku": "JRN00010046",
+"barcode": "8699580000054",
+"cat": 27,
+"ar": "دوغادان شاي بالفواكه المشكلة مع فاكهة الورد البري 48 جم",
+"en": "Dogadan Mixed Fruit Tea With Wild Rose Fruit 48 gm",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19402076",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8699580000054.webp"
+]
+},
+{
+"sku": "JRN00010047",
+"barcode": "6281026170128",
+"cat": 22,
+"ar": "الربيع عصير أناناس 250 مل",
+"en": "Alrabie Pineapple Juice 250 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19335191",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281026170128.webp",
+"6281026170128-1.webp",
+"6281026170128-2.webp"
+]
+},
+{
+"sku": "JRN00010048",
+"barcode": "6281100512530",
+"cat": 24,
+"ar": "كلاس مشروب شعير تفاح علب 250 مل",
+"en": "Klasse Apple Can 250 ml",
+"price": 2.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10775572",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281100512530.webp",
+"6281100512530-1.webp",
+"6281100512530-2.webp"
+]
+},
+{
+"sku": "JRN00010049",
+"barcode": "6287049090290",
+"cat": 108,
+"ar": "أوهانا ماتشا درجة إحتفالية 50 جم",
+"en": "Ohana Ceremonial Grade Matcha 50 gm",
+"price": 51.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404913",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287049090290.webp",
+"6287049090290-1.webp",
+"6287049090290-2.webp"
+]
+},
+{
+"sku": "JRN00010050",
+"barcode": "5055963102525",
+"cat": 27,
+"ar": "جورجيا ناتشورال عصير التوت البري النقي الطبيعي العضوي 750 مل",
+"en": "Georgias Natural Organic Pure Cranberry Juice 750 ml",
+"price": 65.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19399039",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5055963102525.webp"
+]
+},
+{
+"sku": "JRN00010051",
+"barcode": "6287034101239",
+"cat": 23,
+"ar": "كينزا مشروب غازي كولا دايت ٣٦٠ مل",
+"en": "Kinza Cola Diet CSD 360 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19319175",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287034101239.webp",
+"6287034101239-1.webp"
+]
+},
+{
+"sku": "JRN00010052",
+"barcode": "6287049090993",
+"cat": 108,
+"ar": "كاميليا ماتشا درجة الباريستا 250 جم",
+"en": "Camelya Barista Grade Matcha 250 gm",
+"price": 169.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19425876",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287049090993.webp",
+"6287049090993-1.webp"
+]
+},
+{
+"sku": "JRN00010053",
+"barcode": "4061445356325",
+"cat": 26,
+"ar": "دافيدوف قهوة سريعه التحضير فاين اروما 45 جم",
+"en": "Davidoff Fine Aroma Instant Coffee 45 gm",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407812",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4061445356325.webp",
+"4061445356325-1.webp"
+]
+},
+{
+"sku": "JRN00010054",
+"barcode": "8684209862038",
+"cat": 27,
+"ar": "عشبة و زيت شاي التوت الاسود الطبيعي 200 جم",
+"en": "Herb And Oil Natural Black Berry Tea 200 gm",
+"price": 39.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19402091",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8684209862038.webp",
+"8684209862038-1.webp"
+]
+},
+{
+"sku": "JRN00010055",
+"barcode": "6291104289017",
+"cat": 27,
+"ar": "سن بلاست عصير برتقال عضوي 200 مل",
+"en": "Sun Blast Orange Juice Organic 200 ml",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328481",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6291104289017.webp",
+"6291104289017-1.webp",
+"6291104289017-2.webp"
+]
+},
+{
+"sku": "JRN00010056",
+"barcode": "6287034100904",
+"cat": 23,
+"ar": "كينزا مشروب غازي كوكتيل سعودي ٢٥٠ مل",
+"en": "Kinza Saudi Cocktail 250 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19319177",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287034100904.webp",
+"6287034100904-1.webp"
+]
+},
+{
+"sku": "JRN00010057",
+"barcode": "6281034904456",
+"cat": 24,
+"ar": "بربيكان شراب شعير بنكهة الرمان 330 مل",
+"en": "Barbican Malt Pomegranate Drink 330 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-569104",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034904456.webp",
+"6281034904456-1.webp",
+"6281034904456-2.webp"
+]
+},
+{
+"sku": "JRN00010058",
+"barcode": "8684209862045",
+"cat": 27,
+"ar": "عشبة وزيت شاي الرمان الطبيعي 200 جم",
+"en": "Herb And Oil Natural Pomegranate Tea 200 gm",
+"price": 39.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19402093",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8684209862045.webp",
+"8684209862045-1.webp",
+"8684209862045-2.webp"
+]
+},
+{
+"sku": "JRN00010059",
+"barcode": "6281026083893",
+"cat": 22,
+"ar": "الربيع نكتار فواكه مشكلة و برتقال 120 مل",
+"en": "Alrabie Nectar Mixed Fruit & Orange 120 ml",
+"price": 1.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19335218",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281026083893.webp",
+"6281026083893-1.webp",
+"6281026083893-2.webp"
+]
+},
+{
+"sku": "JRN00010060",
+"barcode": "012000802805",
+"cat": 23,
+"ar": "ميرندا مشروب غازي برتقال زجاج 250 مل",
+"en": "Mirinda Soft Drink Orange Glass Bottle 250 ml",
+"price": 2.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-300",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000802805.webp",
+"012000802805-1.webp"
+]
+},
+{
+"sku": "JRN00010061",
+"barcode": "6281101495450",
+"cat": 108,
+"ar": "بونا قهوة مقطرة كولومبية 5 أظرف",
+"en": "Bunna UFO Drip Coffee Colombian 5 Sachets",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19411888",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281101495450.webp",
+"6281101495450-1.webp",
+"6281101495450-2.webp"
+]
+},
+{
+"sku": "JRN00010062",
+"barcode": "6281034007164",
+"cat": 24,
+"ar": "بربيكان شراب الشعير بالتوت 330 مل",
+"en": "Barbican Malt Drink Raspberry Flavour 330 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1474",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034007164.webp",
+"6281034007164-1.webp",
+"6281034007164-2.webp"
+]
+},
+{
+"sku": "JRN00010063",
+"barcode": "4791082100653",
+"cat": 27,
+"ar": "راق شاي سيلان الأسود 50 كيس شاي",
+"en": "Raq Ceylon Black Tea 50 Tea Bags",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19389963",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4791082100653.webp",
+"4791082100653-1.webp",
+"4791082100653-2.webp"
+]
+},
+{
+"sku": "JRN00010064",
+"barcode": "6281000981405",
+"cat": 108,
+"ar": "بريهانت مزيج 250 جم",
+"en": "Breehant Mix 250 gm",
+"price": 45.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349057",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281000981405.webp",
+"6281000981405-1.webp",
+"6281000981405-2.webp"
+]
+},
+{
+"sku": "JRN00010065",
+"barcode": "6281000435304",
+"cat": 22,
+"ar": "فرش جاهز عصير عصير مانجو 330 مل",
+"en": "Fresh Jahiz Mango Juice 330 ml",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374562",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281000435304.webp",
+"6281000435304-1.webp"
+]
+},
+{
+"sku": "JRN00010066",
+"barcode": "6281057008148",
+"cat": 22,
+"ar": "نادك عصير برتقال 300 مل",
+"en": "Nadec Orange Juice 300 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-672",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057008148.webp",
+"6281057008148-1.webp",
+"6281057008148-2.webp"
+]
+},
+{
+"sku": "JRN00010067",
+"barcode": "6281057013760",
+"cat": 22,
+"ar": "نادك نكتار جوافا 180 مل",
+"en": "Nadec Nectar Guava 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290407",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057013760.webp",
+"6281057013760-1.webp",
+"6281057013760-2.webp"
+]
+},
+{
+"sku": "JRN00010068",
+"barcode": "6281022101539",
+"cat": 22,
+"ar": "داناو عصير برتقال موز فراولة 6 حبات 180 مل",
+"en": "Danao Orange-Banana-Strawberry Juice 6 pcs180 ml",
+"price": 11.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19333550",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022101539.webp",
+"6281022101539-1.webp",
+"6281022101539-2.webp"
+]
+},
+{
+"sku": "JRN00010069",
+"barcode": "6281057013777",
+"cat": 22,
+"ar": "نادك نكتار اناناس 180 مل",
+"en": "Nadec Nectar Pineapple 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290404",
+"hs_ids": [
+"58536b33-4530-4749-8f11-85ff965a6b11"
+],
+"img_src": "ninja",
+"images": [
+"6281057013777.webp",
+"6281057013777-1.webp",
+"6281057013777-2.webp"
+]
+},
+{
+"sku": "JRN00010070",
+"barcode": "6281007053556",
+"cat": 22,
+"ar": "المراعي نكتار الفواكه المشكلة بدون اضافة سكر 300 مل",
+"en": "Almarai Mix Fruit Nectar No Added Sugar 300 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1192",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007053556.webp",
+"6281007053556-1.webp",
+"6281007053556-2.webp"
+]
+},
+{
+"sku": "JRN00010071",
+"barcode": "6281022159172",
+"cat": 22,
+"ar": "الصافي نكتار مانجو والفواكه المشكلة 1.3 لتر",
+"en": "Alsafi Mango Nectar with Mixed Fruit 1.3 L",
+"price": 12.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6521318",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022159172.webp",
+"6281022159172-1.webp"
+]
+},
+{
+"sku": "JRN00010072",
+"barcode": "6281022159059",
+"cat": 22,
+"ar": "الصافي عصير ليمون 180 مل",
+"en": "Alsafi Lemon Juice 180 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-993031",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022159059.webp",
+"6281022159059-1.webp",
+"6281022159059-2.webp"
+]
+},
+{
+"sku": "JRN00010073",
+"barcode": "6281057007981",
+"cat": 22,
+"ar": "نادك عصير فواكه مشكلة 300 مل",
+"en": "Nadec Mixed Fruits Juice 300 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-670",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281057007981.webp",
+"6281057007981-1.webp",
+"6281057007981-2.webp"
+]
+},
+{
+"sku": "JRN00010074",
+"barcode": "6281007053358",
+"cat": 22,
+"ar": "المراعي نكتار مانجو وعنب بدون اضافة سكر 300 مل",
+"en": "Almarai Mango & Grape Nectar No Added Sugar 300 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1185",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007053358.webp",
+"6281007053358-1.webp",
+"6281007053358-2.webp"
+]
+},
+{
+"sku": "JRN00010075",
+"barcode": "5206542007612",
+"cat": 22,
+"ar": "جرين كولا مشروب غازي 240 مل",
+"en": "Green Cola Carbonated Soft Drink 240 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19335232",
+"hs_ids": [
+"1043e320-126a-454b-b374-06eaad73fbc2"
+],
+"img_src": "ninja",
+"images": [
+"5206542007612.webp"
+]
+},
+{
+"sku": "JRN00010076",
+"barcode": "6281007053679",
+"cat": 22,
+"ar": "المراعي نكتار فواكه مشكلة بالليمون بدون اضافة سكر 300 مل",
+"en": "Almarai Mixed Fruit Lemon Nectar No Added Sugar 300 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1233",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281007053679.webp",
+"6281007053679-1.webp",
+"6281007053679-2.webp"
+]
+},
+{
+"sku": "JRN00010077",
+"barcode": "5206542013163",
+"cat": 22,
+"ar": "جرين مشروب غازى ليمون لايم 240 مل",
+"en": "Green Carbonated Soft Drink Lemon Lime 240 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19335213",
+"hs_ids": [
+"b9fadef3-a5f9-4d0b-af2f-8183a95ff1b1"
+],
+"img_src": "ninja",
+"images": [
+"5206542013163.webp"
+]
+},
+{
+"sku": "JRN00010078",
+"barcode": "6287049690261",
+"cat": 108,
+"ar": "كي مزيج حبوب قهوة فاخرة 500جم",
+"en": "The Khey Original Blend Coffee Beans 500 gm",
+"price": 90.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404934",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287049690261.webp",
+"6287049690261-1.webp"
+]
+},
+{
+"sku": "JRN00010079",
+"barcode": "6281034902629",
+"cat": 24,
+"ar": "بربيكان شراب الشعير بالفراولة 330 مل",
+"en": "Barbican Malt Drink Strawberry Flavour Drink 330 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1458",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034902629.webp",
+"6281034902629-1.webp",
+"6281034902629-2.webp"
+]
+},
+{
+"sku": "JRN00010080",
+"barcode": "6281034915957",
+"cat": 22,
+"ar": "راني عصير خوخ 1.4 لتر",
+"en": "Rani Peach Drink 1.4 L",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19362635",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034915957.webp"
+]
+},
+{
+"sku": "JRN00010081",
+"barcode": "6287030602020",
+"cat": 108,
+"ar": "بيت التحميص الصفراء قهوة سعودية مختصه 227 جم",
+"en": "Roasting House Alsafraa Specialty Saudi Coffee 227 gm",
+"price": 41.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371202",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287030602020.webp",
+"6287030602020-1.webp",
+"6287030602020-2.webp"
+]
+},
+{
+"sku": "JRN00010082",
+"barcode": "6287044880230",
+"cat": 108,
+"ar": "صواع أظرف القهوة المقطرة إثيوبيا همبيلا بوكو 6 أظرف 72 جم",
+"en": "Suwaa instant drip coffee bags Ethiopia Hambela Buku 6 sachets 72 gm",
+"price": 37.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19408876",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287044880230.webp",
+"6287044880230-1.webp",
+"6287044880230-2.webp"
+]
+},
+{
+"sku": "JRN00010083",
+"barcode": "6281000435434",
+"cat": 22,
+"ar": "فرش جاهز عصير برتقال 1 لتر",
+"en": "Fresh Jahiz Orange Juice 1 L",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398194",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281000435434.webp",
+"6281000435434-1.webp",
+"6281000435434-2.webp"
+]
+},
+{
+"sku": "JRN00010084",
+"barcode": "50112142",
+"cat": 23,
+"ar": "فانتا مشروب غازي بنكهة الفراولة زجاج 250 مل",
+"en": "Fanta Soft Drink With Strawberry Flavour Glass 250 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7854",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"50112142.webp",
+"50112142-1.webp",
+"50112142-2.webp"
+]
+},
+{
+"sku": "JRN00010085",
+"barcode": "6285755100036",
+"cat": 108,
+"ar": "لاك حبوب القهوه إثيوبيا هامبيلا مجففة فلتر وإسبريسو 250 جم",
+"en": "Lack Coffee Beans Ethiopia Hambella Natural Filter And Espresso 250 gm",
+"price": 49.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19331057",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6285755100036.webp",
+"6285755100036-1.webp",
+"6285755100036-2.webp"
+]
+},
+{
+"sku": "JRN00010086",
+"barcode": "6281000445488",
+"cat": 22,
+"ar": "فرش جاهز عصير مانجو 1 لتر",
+"en": "Fresh Jahiz Mango Juice 1 L",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398200",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281000445488.webp",
+"6281000445488-1.webp",
+"6281000445488-2.webp"
+]
+},
+{
+"sku": "JRN00010087",
+"barcode": "4012824000636",
+"cat": 27,
+"ar": "تشويس شاي إفطار إنجليزي عضوي 17 كيس",
+"en": "Choice Organic Tea English Breakfast 17 Sachets",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392620",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824000636.webp",
+"4012824000636-1.webp",
+"4012824000636-2.webp"
+]
+},
+{
+"sku": "JRN00010088",
+"barcode": "5449000340382",
+"cat": 23,
+"ar": "سبرايت مشروب غازي بالحمضيات والنعناع 355 مل",
+"en": "Sprite Citrus Mint Carbonated Soft Drink Can 355 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374681",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5449000340382.webp",
+"5449000340382-1.webp",
+"5449000340382-2.webp"
+]
+},
+{
+"sku": "JRN00010089",
+"barcode": "4012824000551",
+"cat": 27,
+"ar": "تشويس شاي إيرل غراي عضوي 17 كيس",
+"en": "Choice Organic Tea Earl Grey 17 Sachets",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392622",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824000551.webp",
+"4012824000551-1.webp",
+"4012824000551-2.webp"
+]
+},
+{
+"sku": "JRN00010090",
+"barcode": "4012824401037",
+"cat": 27,
+"ar": "يوغي شاي للتنفس العميق عضوي عضوي 17 كيس",
+"en": "Yogi Tea Breathe Deep Organic 17 Teabags",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371576",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824401037.webp",
+"4012824401037-1.webp",
+"4012824401037-2.webp"
+]
+},
+{
+"sku": "JRN00010091",
+"barcode": "6281026310708",
+"cat": 22,
+"ar": "الربيع شراب توت مشكل 1 لتر",
+"en": "Alrabie Mix Berry Drink 1 L",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19335205",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281026310708.webp",
+"6281026310708-1.webp",
+"6281026310708-2.webp"
+]
+},
+{
+"sku": "JRN00010092",
+"barcode": "90495816",
+"cat": 23,
+"ar": "سبرايت مشروب غازي زجاج 250 مل",
+"en": "Sprite Soft Drink Glass Bottle 250 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1455",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"90495816.webp",
+"90495816-1.webp"
+]
+},
+{
+"sku": "JRN00010093",
+"barcode": "4012824406391",
+"cat": 27,
+"ar": "يوغي شاي طاقة الصباح عضوي عضوي 17 كيس",
+"en": "Yogi Tea Morning Energy Organic 17 Teabags",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371579",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824406391.webp",
+"4012824406391-1.webp",
+"4012824406391-2.webp"
+]
+},
+{
+"sku": "JRN00010094",
+"barcode": "6287030603515",
+"cat": 108,
+"ar": "بيت التحميص أظرف قهوة 6 أظرف 15 جم",
+"en": "Roasting House Mini Mixed Coffee Sachets 6 pcs 15 gm",
+"price": 39.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19332014",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287030603515.webp",
+"6287030603515-1.webp",
+"6287030603515-2.webp"
+]
+},
+{
+"sku": "JRN00010095",
+"barcode": "4012824401631",
+"cat": 27,
+"ar": "يوغي تي توازن المرأة عضوي عضوي 17 كيس",
+"en": "Yogi Tea Women's Balance Organic 17 Teabags",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371581",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824401631.webp",
+"4012824401631-1.webp",
+"4012824401631-2.webp"
+]
+},
+{
+"sku": "JRN00010096",
+"barcode": "012000802850",
+"cat": 23,
+"ar": "ميرندا مشروب غازي برتقال 1 لتر",
+"en": "Mirinda Soft Drink Orange 1 L",
+"price": 5.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-285",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000802850.webp",
+"012000802850-1.webp",
+"012000802850-2.webp"
+]
+},
+{
+"sku": "JRN00010097",
+"barcode": "4012824401389",
+"cat": 27,
+"ar": "يوغي شاي شاي الرجال عضوي عضوي 17 كيس",
+"en": "Yogi Tea Men's Tea Organic 17 Teabags",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371582",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824401389.webp",
+"4012824401389-1.webp",
+"4012824401389-2.webp"
+]
+},
+{
+"sku": "JRN00010098",
+"barcode": "6281034910273",
+"cat": 22,
+"ar": "راني شراب البرتقال بدون سكر مضاف 180 مل",
+"en": "Rani Orange Drink No Added Sugar 180 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1472",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281034910273.webp",
+"6281034910273-1.webp",
+"6281034910273-2.webp"
+]
+},
+{
+"sku": "JRN00010099",
+"barcode": "6288004003423",
+"cat": 23,
+"ar": "ميلاف اب مشروب غازى 240 مل",
+"en": "Milaf Up Soft Drink 240 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19397354",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6288004003423.webp",
+"6288004003423-1.webp",
+"6288004003423-2.webp"
+]
+},
+{
+"sku": "JRN00010100",
+"barcode": "6288004003812",
+"cat": 23,
+"ar": "ميلاف الرياض كوكتيل نكهة تفاح ونعناع بمستخلص التمر بدون سكر مضاف 240 مل",
+"en": "Milaf Riyadh Cocktail Apple & Mint Flavor With Date Extract No Added Sugar 240 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19424054",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6288004003812.webp"
+]
+},
+{
+"sku": "JRN00010101",
+"barcode": "012000803024",
+"cat": 23,
+"ar": "ميرندا مشروب غازي فراولة 1 لتر",
+"en": "Mirinda Soft Drink Strawberry 1 L",
+"price": 5.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-286",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000803024.webp",
+"012000803024-1.webp",
+"012000803024-2.webp"
+]
+},
+{
+"sku": "JRN00010102",
+"barcode": "4009300529491",
+"cat": 27,
+"ar": "تيكاني شاي الرمان 2.25 جم 20 ظرف",
+"en": "Teekanne Pomegranate Tea 2.25 gm 20 bags",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328219",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4009300529491.webp",
+"4009300529491-1.webp",
+"4009300529491-2.webp"
+]
+},
+{
+"sku": "JRN00010103",
+"barcode": "6281026083602",
+"cat": 22,
+"ar": "الربيع فواكة مشكله 120 مل",
+"en": "Alrabie Multi Fruit 120 ml",
+"price": 1.05,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19335226",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281026083602.webp",
+"6281026083602-1.webp",
+"6281026083602-2.webp"
+]
+},
+{
+"sku": "JRN00010104",
+"barcode": "4012824401426",
+"cat": 27,
+"ar": "يوغي شاي عضوي لراحة الحلق",
+"en": "Yogi Tea Organic Throat Comfort",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327998",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"4012824401426.webp",
+"4012824401426-1.webp",
+"4012824401426-2.webp"
+]
+},
+{
+"sku": "JRN00010105",
+"barcode": "012000002489",
+"cat": 23,
+"ar": "بيبسي مشروب غازى 330 مل",
+"en": "Pepsi Soft Drink 330 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398216",
+"hs_ids": [
+"54551701-71e4-4397-8e34-886db89fc6f7"
+],
+"img_src": "ninja",
+"images": [
+"012000002489.webp",
+"012000002489-1.webp",
+"012000002489-2.webp"
+]
+},
+{
+"sku": "JRN00010106",
+"barcode": "709993332715",
+"cat": 27,
+"ar": "أرض الطبيعة شاي البابونج عضوي 30 جم",
+"en": "Natureland Chamomile Tea Organic 30 gm",
+"price": 35.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12557484",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"709993332715.webp",
+"709993332715-1.webp",
+"709993332715-2.webp"
+]
+},
+{
+"sku": "JRN00010107",
+"barcode": "012000801655",
+"cat": 23,
+"ar": "بيبسي مينيز مشروب غازي 150 مل",
+"en": "Pepsi Minis Soft Drink 150 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-281",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000801655.webp",
+"012000801655-1.webp",
+"012000801655-2.webp"
+]
+},
+{
+"sku": "JRN00010108",
+"barcode": "6287030603829",
+"cat": 108,
+"ar": "بيت التحميص حبوب القهوه تيراميسو 227 جم",
+"en": "Roasting House Coffee Beans Tiramisu 227 gm",
+"price": 42.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19332024",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287030603829.webp",
+"6287030603829-1.webp",
+"6287030603829-2.webp"
+]
+},
+{
+"sku": "JRN00010109",
+"barcode": "54492509",
+"cat": 23,
+"ar": "كوكاكولا مشروب غازي زجاج 250 مل",
+"en": "Coca Cola Carbonated Soft Drink 250 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1497",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"54492509.webp",
+"54492509-1.webp",
+"54492509-2.webp"
+]
+},
+{
+"sku": "JRN00010110",
+"barcode": "6291104283398",
+"cat": 27,
+"ar": "أورجانيك لاردير قهوة مميزة عضوية 100 جم",
+"en": "Organic Larder Organic Premium Blend Coffee 100 gm",
+"price": 53.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381218",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6291104283398.webp",
+"6291104283398-1.webp",
+"6291104283398-2.webp"
+]
+},
+{
+"sku": "JRN00010111",
+"barcode": "5010102241534",
+"cat": 23,
+"ar": "بريتفيك مشروب جنجر ايل 300 مل",
+"en": "Britvic Ginger Ale 300 ml",
+"price": 5.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1080",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5010102241534.webp",
+"5010102241534-1.webp",
+"5010102241534-2.webp"
+]
+},
+{
+"sku": "JRN00010112",
+"barcode": "012000063121",
+"cat": 23,
+"ar": "ميرندا بلس مشروب غازي فواكه استوائية 300 مل",
+"en": "Mirinda Plus Carbonated Drink Tropical Flavour 300 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19345389",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000063121.webp",
+"012000063121-1.webp",
+"012000063121-2.webp"
+]
+},
+{
+"sku": "JRN00010113",
+"barcode": "6271002205852",
+"cat": 22,
+"ar": "كي دي دي نكتار أناناس مع عنب ابيض 1 لتر",
+"en": "Kdd Pineapple And White Grape Nectar 1 L",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19379054",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6271002205852.webp",
+"6271002205852-1.webp"
+]
+},
+{
+"sku": "JRN00010114",
+"barcode": "6271002221111",
+"cat": 22,
+"ar": "كي دي دي عصير تفاح 180 مل",
+"en": "Kdd Apple Juice 180 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322761",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6271002221111.webp"
+]
+},
+{
+"sku": "JRN00010115",
+"barcode": "012000069673",
+"cat": 23,
+"ar": "بيبسي مشروب غازى اكسترا كافيين اصدار ليلي 330 مل",
+"en": "Pepsi Soft Drink Extra Caffeine Night Edition 330 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19411910",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000069673.webp",
+"012000069673-1.webp"
+]
+},
+{
+"sku": "JRN00010116",
+"barcode": "5449000043399",
+"cat": 23,
+"ar": "كوكاكولا لايت مشروب غازي 355 مل",
+"en": "Coca Cola Light Carbonated Soft Drink 355 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3524",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5449000043399.webp",
+"5449000043399-1.webp"
+]
+},
+{
+"sku": "JRN00010117",
+"barcode": "6281060903225",
+"cat": 22,
+"ar": "سيزر نكتار جوافه زجاج 1 لتر",
+"en": "Caesar Nectar Guava Flavor Bottle 1 L",
+"price": 10.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398414",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281060903225.webp",
+"6281060903225-1.webp",
+"6281060903225-2.webp"
+]
+},
+{
+"sku": "JRN00010118",
+"barcode": "6281026083664",
+"cat": 22,
+"ar": "الربيع عصير تفاح 120 مل",
+"en": "Alrabie Apple Juice 120 ml",
+"price": 1.05,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19335201",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281026083664.webp",
+"6281026083664-1.webp",
+"6281026083664-2.webp"
+]
+},
+{
+"sku": "JRN00010119",
+"barcode": "012000803123",
+"cat": 23,
+"ar": "شاني مشروب غازي زجاج 250 مل",
+"en": "Shani Soft Drink Glass Bottle 250 ml",
+"price": 2.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-823",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000803123.webp",
+"012000803123-1.webp",
+"012000803123-2.webp"
+]
+},
+{
+"sku": "JRN00010120",
+"barcode": "6287034101093",
+"cat": 23,
+"ar": "كينزا توت بري مشروب غازي 360 مل",
+"en": "Kinza Blackcurrant 360 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371024",
+"hs_ids": [
+"4dccb1cc-80df-4b1c-a598-66d817269b27"
+],
+"img_src": "ninja",
+"images": [
+"6287034101093.webp",
+"6287034101093-1.webp",
+"6287034101093-2.webp"
+]
+},
+{
+"sku": "JRN00010121",
+"barcode": "012000800306",
+"cat": 23,
+"ar": "ماونتن ديومشروب غازي 330 مل",
+"en": "Mountain Dew Carbonated Soft Drink 330 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19398226",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000800306.webp",
+"012000800306-1.webp"
+]
+},
+{
+"sku": "JRN00010122",
+"barcode": "6287042952984",
+"cat": 23,
+"ar": "د.جيمي مشروب غازي بنكهه البرتقال 240 مل",
+"en": "Dr.Jimi Soft Drink Orange Flavor 240 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19405145",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287042952984.webp",
+"6287042952984-1.webp",
+"6287042952984-2.webp"
+]
+},
+{
+"sku": "JRN00010123",
+"barcode": "6281103690013",
+"cat": 23,
+"ar": "بي كولا مشروب غازي 250 مل",
+"en": "B Cola Carbonated Soft Drink 250 ml",
+"price": 1.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19364882",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281103690013.webp",
+"6281103690013-1.webp",
+"6281103690013-2.webp"
+]
+},
+{
+"sku": "JRN00010124",
+"barcode": "6288004001030",
+"cat": 23,
+"ar": "ميلاف كولا مشروب غازي بمستخلص التمر بدون سكر مضاف 240 مل",
+"en": "Milaf Cola Carbonated Drink With Date Extract With No Added Sugar 240 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348405",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6288004001030.webp",
+"6288004001030-1.webp",
+"6288004001030-2.webp"
+]
+},
+{
+"sku": "JRN00010125",
+"barcode": "6281026305001",
+"cat": 22,
+"ar": "الربيع عصير برتقال 1 لتر",
+"en": "Alrabie Orange Juice 1 L",
+"price": 7.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19335230",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281026305001.webp",
+"6281026305001-1.webp",
+"6281026305001-2.webp"
+]
+},
+{
+"sku": "JRN00010126",
+"barcode": "5449000000729",
+"cat": 23,
+"ar": "سبرايت مشروب 250 مل",
+"en": "Sprite Soft Drink 250 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19288611",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5449000000729.webp",
+"5449000000729-1.webp",
+"5449000000729-2.webp"
+]
+},
+{
+"sku": "JRN00010127",
+"barcode": "6287034101079",
+"cat": 23,
+"ar": "كينزا رمان مشروب غازي 360 مل",
+"en": "Kinza Pomegranate 360 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371027",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287034101079.webp",
+"6287034101079-1.webp",
+"6287034101079-2.webp"
+]
+},
+{
+"sku": "JRN00010128",
+"barcode": "012000063022",
+"cat": 23,
+"ar": "مريندا بلس مشروب غازي تفاح 300 مل",
+"en": "Mirinda Plus Carbonated Drink Apple Flavour 300 ml",
+"price": 3.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19345393",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000063022.webp",
+"012000063022-1.webp"
+]
+},
+{
+"sku": "JRN00010129",
+"barcode": "5449000133328",
+"cat": 23,
+"ar": "كوكا كولا زيرو كالوري 1 لتر",
+"en": "Coca Cola Zero Calories 1 L",
+"price": 5.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19295791",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5449000133328.webp"
+]
+},
+{
+"sku": "JRN00010130",
+"barcode": "012000057236",
+"cat": 23,
+"ar": "سفن أب مشروب غازي 240 مل",
+"en": "7Up Carbonated Soft Drink 240 ml",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1479",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000057236.webp",
+"012000057236-1.webp",
+"012000057236-2.webp"
+]
+},
+{
+"sku": "JRN00010131",
+"barcode": "6281022159066",
+"cat": 22,
+"ar": "الصافي عصير فواكه مشكلة 180 مل",
+"en": "Alsafi Mixed Fruit Juice 180 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-991275",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281022159066.webp",
+"6281022159066-1.webp",
+"6281022159066-2.webp"
+]
+},
+{
+"sku": "JRN00010132",
+"barcode": "5449000054227",
+"cat": 23,
+"ar": "كوكاكولا مشروب غازي 1 لتر",
+"en": "Coca Cola Carbonated Soft Drink 1 L",
+"price": 5.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1500",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5449000054227.webp"
+]
+},
+{
+"sku": "JRN00010133",
+"barcode": "5010102241510",
+"cat": 23,
+"ar": "بريتفيك ماء تونيك 300 مل",
+"en": "Britvic Tonic Water 300 ml",
+"price": 5.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1079",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5010102241510.webp",
+"5010102241510-1.webp",
+"5010102241510-2.webp"
+]
+},
+{
+"sku": "JRN00010134",
+"barcode": "5010102241541",
+"cat": 23,
+"ar": "بريتفيك مشروب الليمون المر 300 مل",
+"en": "Britvic Bitter Lemon Can 300 ml",
+"price": 5.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1081",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5010102241541.webp",
+"5010102241541-1.webp",
+"5010102241541-2.webp"
+]
+},
+{
+"sku": "JRN00010135",
+"barcode": "8001620017661",
+"cat": 23,
+"ar": "شيبرياني بيليني مشروب بنكهة الخوخ 180 مل",
+"en": "Cipriani Bellini Peach Drink 180 ml",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19333048",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8001620017661.webp",
+"8001620017661-1.webp",
+"8001620017661-2.webp"
+]
+},
+{
+"sku": "JRN00010136",
+"barcode": "5449000043429",
+"cat": 23,
+"ar": "سبرايت مشروب غازي 355 مل",
+"en": "Sprite Carbonated Soft Drink 355 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-448867",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5449000043429.webp",
+"5449000043429-1.webp",
+"5449000043429-2.webp"
+]
+},
+{
+"sku": "JRN00010137",
+"barcode": "54492820",
+"cat": 23,
+"ar": "كوكاكولا لايت مشروب غازي زجاج 250 مل",
+"en": "Coca Cola Light Carbonated Soft Drink 250 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1456",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"54492820.webp",
+"54492820-1.webp",
+"54492820-2.webp"
+]
+},
+{
+"sku": "JRN00010138",
+"barcode": "5449000222299",
+"cat": 23,
+"ar": "شويبس مشروب غازي بنكهة الرمان عبوة 250 مل",
+"en": "Schweppes Pomegranate Carbonated Soft Drink 250 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316897",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5449000222299.webp",
+"5449000222299-1.webp",
+"5449000222299-2.webp"
+]
+},
+{
+"sku": "JRN00010139",
+"barcode": "012000063060",
+"cat": 23,
+"ar": "ميرندا بلس مشروب غازي مانجو وخوخ 300 مل",
+"en": "Mirinda Plus Carbonated Drink Mango And Peach Flavour 300 ml",
+"price": 3.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19345395",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"012000063060.webp",
+"012000063060-1.webp",
+"012000063060-2.webp"
+]
+},
+{
+"sku": "JRN00010140",
+"barcode": "5449000050939",
+"cat": 23,
+"ar": "سبرايت مشروب غازي 1 لتر",
+"en": "Sprite Carbonated Soft Drink 1 L",
+"price": 5.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1454",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"5449000050939.webp",
+"5449000050939-1.webp",
+"5449000050939-2.webp"
+]
+},
+{
+"sku": "JRN00010141",
+"barcode": "6281026306008",
+"cat": 22,
+"ar": "الربيع نكتار مانجو 1 لتر",
+"en": "Al Rabie Mango Nectar 1 L",
+"price": 8.5,
+"special": 7.41,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"98abb58e-2ff3-4d32-9c34-711a0b6713ee"
+],
+"img_src": "hungerstation",
+"images": [
+"6281026306008.webp",
+"6281026306008-1.webp",
+"6281026306008-2.webp"
+]
+},
+{
+"sku": "JRN00010142",
+"barcode": "6281026120789",
+"cat": 22,
+"ar": "الربيع عصير تفاح 185 مل",
+"en": "Al Rabie Apple Juice 185 ml",
+"price": 1.75,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"23e96918-1a63-47c6-abbe-23f883c9ee02"
+],
+"img_src": "hungerstation",
+"images": [
+"6281026120789.webp",
+"6281026120789-1.webp",
+"6281026120789-2.webp"
+]
+},
+{
+"sku": "JRN00010143",
+"barcode": "6281026120840",
+"cat": 22,
+"ar": "الربيع نكتار مانجو 185 مل",
+"en": "Al Rabie Mango Nectar 185 ml",
+"price": 1.75,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"1a82f99b-c797-4bbb-9c9c-1d44624f4ff0"
+],
+"img_src": "hungerstation",
+"images": [
+"6281026120840.webp",
+"6281026120840-1.webp",
+"6281026120840-2.webp"
+]
+},
+{
+"sku": "JRN00010144",
+"barcode": "6281100514800",
+"cat": 22,
+"ar": "أوريجينال شراب برتقال بقطع الفواكه 240 مل",
+"en": "Original Orange Chunks Fruit Drink 240 ml",
+"price": 2.5,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"1a99b134-eb83-4970-ba29-fe50019a9369"
+],
+"img_src": "hungerstation",
+"images": [
+"6281100514800.webp",
+"6281100514800-1.webp",
+"6281100514800-2.webp"
+]
+},
+{
+"sku": "JRN00010145",
+"barcode": "6281006710078",
+"cat": 25,
+"ar": "ليبتون آيس تي ليمون 6 × 320 مل",
+"en": "Lipton Ice Tea Lemon 6 x 320 ml",
+"price": 16.75,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"d123a49c-894c-47f1-9b59-e768045a8f93"
+],
+"img_src": "hungerstation",
+"images": [
+"6281006710078.webp",
+"6281006710078-1.webp",
+"6281006710078-2.webp"
+]
+},
+{
+"sku": "JRN00010146",
+"barcode": "5711953041020",
+"cat": 26,
+"ar": "ستاربكس فرابتشينو كراميل 250 مل",
+"en": "Starbucks Caramel Frappuccino 250 ml",
+"price": 12.5,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"1135f499-6be2-4f6d-ba4a-3c259c093f05"
+],
+"img_src": "hungerstation",
+"images": [
+"5711953041020.webp",
+"5711953041020-1.webp",
+"5711953041020-2.webp"
+]
+},
+{
+"sku": "JRN00010147",
+"barcode": "5711953024290",
+"cat": 26,
+"ar": "ستاربكس فرابتشينو قهوة 250 مل",
+"en": "Starbucks Coffee Frappuccino 250 ml",
+"price": 12.5,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"e204694c-cbc0-4325-9254-6a782dcf466e"
+],
+"img_src": "hungerstation",
+"images": [
+"5711953024290.webp",
+"5711953024290-1.webp",
+"5711953024290-2.webp"
+]
+},
+{
+"sku": "JRN00010148",
+"barcode": "5711953126635",
+"cat": 26,
+"ar": "ستاربكس تربل شوت إسبريسو بالحليب 300 مل",
+"en": "Starbucks Tripleshot Espresso + Milk 300 ml",
+"price": 14.25,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"284b6159-f7fc-4a8a-9dd7-a2c02ae37c70"
+],
+"img_src": "hungerstation",
+"images": [
+"5711953126635.webp",
+"5711953126635-1.webp",
+"5711953126635-2.webp"
+]
+},
+{
+"sku": "JRN00010149",
+"barcode": "5711953024252",
+"cat": 26,
+"ar": "ستاربكس كابتشينو 220 مل",
+"en": "Starbucks Cappuccino 220 ml",
+"price": 10.75,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"f1124654-a487-465d-b0fd-32532e7a9e90"
+],
+"img_src": "hungerstation",
+"images": [
+"5711953024252.webp",
+"5711953024252-1.webp",
+"5711953024252-2.webp"
+]
+},
+{
+"sku": "JRN00010150",
+"barcode": "5711953026096",
+"cat": 26,
+"ar": "ستاربكس فرابتشينو موكا 250 مل",
+"en": "Starbucks Mocha Frappuccino 250 ml",
+"price": 12.5,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"f89d444d-644b-4f45-8bac-dcf09439410f"
+],
+"img_src": "hungerstation",
+"images": [
+"5711953026096.webp",
+"5711953026096-1.webp",
+"5711953026096-2.webp"
+]
+},
+{
+"sku": "JRN00010151",
+"barcode": "5711953077890",
+"cat": 26,
+"ar": "ستاربكس فرابتشينو فانيلا 250 مل",
+"en": "Starbucks Vanilla Frappuccino 250 ml",
+"price": 12.75,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"2d72101d-70c9-4baa-a710-2d118a0f71ee"
+],
+"img_src": "hungerstation",
+"images": [
+"5711953077890.webp",
+"5711953077890-1.webp",
+"5711953077890-2.webp"
+]
+},
+{
+"sku": "JRN00010152",
+"barcode": "5711953005237",
+"cat": 26,
+"ar": "ستاربكس موكا بالشوكولاتة 220 مل",
+"en": "Starbucks Chocolate Mocha 220 ml",
+"price": 10.75,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"2286ff3b-fdf4-42f6-9f50-c64351c1c54a"
+],
+"img_src": "hungerstation",
+"images": [
+"5711953005237.webp",
+"5711953005237-1.webp",
+"5711953005237-2.webp"
+]
+},
+{
+"sku": "JRN00010153",
+"barcode": "90020087",
+"cat": 22,
+"ar": "راوخ عصير العنب الأحمر 250 مل",
+"en": "Rauch Red Grape Juice 250 ml",
+"price": 9.95,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"4d1bd106-4f20-449e-83b1-cf2b1caa53a7"
+],
+"img_src": "hungerstation",
+"images": [
+"90020087.webp",
+"90020087-1.webp"
+]
+},
+{
+"sku": "JRN00010154",
+"barcode": "7622201128456",
+"cat": 22,
+"ar": "تانج مسحوق شراب البرتقال سريع التحضير 2 كجم",
+"en": "Tang Orange Instant Drink Powder 2 kg",
+"price": 54.95,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"31460412-2c53-44fb-a730-87cc37ebbc81"
+],
+"img_src": "hungerstation",
+"images": [
+"7622201128456.webp",
+"7622201128456-1.webp",
+"7622201128456-2.webp"
+]
+},
+{
+"sku": "JRN00010155",
+"barcode": "7622201128692",
+"cat": 22,
+"ar": "تانج مسحوق شراب المانجو سريع التحضير 375 جم",
+"en": "Tang Mango Instant Drink Powder 375 g",
+"price": 16.95,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"cb4c97d5-9111-48a9-89fa-5aa3f7199d5e"
+],
+"img_src": "hungerstation",
+"images": [
+"7622201128692.webp",
+"7622201128692-1.webp",
+"7622201128692-2.webp"
+]
+},
+{
+"sku": "JRN00010156",
+"barcode": "7622201128517",
+"cat": 22,
+"ar": "تانج مسحوق شراب الفواكه الاستوائية سريع التحضير 2 كجم",
+"en": "Tang Tropical Instant Drink Powder 2 kg",
+"price": 54.95,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"7650cb17-e364-48b4-a9c0-ec288f9ddaa8"
+],
+"img_src": "hungerstation",
+"images": [
+"7622201128517.webp",
+"7622201128517-1.webp",
+"7622201128517-2.webp"
+]
+},
+{
+"sku": "JRN00010157",
+"barcode": "6294017110553",
+"cat": 26,
+"ar": "نسكافيه جولد لاتيه بالكراميل 10 × 17 جم",
+"en": "Nescafe Gold Caramel Latte 10 x 17 g",
+"price": 56.95,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"c0328c18-6401-4929-b8cb-dbd18d30aa9d"
+],
+"img_src": "hungerstation",
+"images": [
+"6294017110553.webp",
+"6294017110553-1.webp",
+"6294017110553-2.webp"
+]
+},
+{
+"sku": "JRN00010158",
+"barcode": "070177173821",
+"cat": 25,
+"ar": "تويننجز شاي أخضر بالزنجبيل 25 كيس",
+"en": "Twinings Green Tea & Ginger 25 Tea Bags",
+"price": 31.25,
+"special": null,
+"src": "hungerstation",
+"ninja_id": null,
+"hs_ids": [
+"9260d8de-d589-486d-a958-ad97dee10bdf"
+],
+"img_src": "hungerstation",
+"images": [
+"070177173821.webp",
+"070177173821-1.webp",
+"070177173821-2.webp"
+]
+}
+]
