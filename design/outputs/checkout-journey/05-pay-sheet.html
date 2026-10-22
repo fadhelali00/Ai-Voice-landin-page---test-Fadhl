@@ -23,7 +23,8 @@
 <section class="card inv">
   <h3>تفاصيل الفاتورة</h3>
   <div class="irow"><svg class="ic ric"><use href="#i-receipt"/></svg><span class="l">إجمالي العناصر (4 منتجات)</span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>100.10</span></span></div>
-  <div class="irow"><svg class="ic ric"><use href="#i-scooter"/></svg><span class="l">رسوم التوصيل</span><span class="a"><span class="free">مجاناً</span></span></div>
+  <div class="irow"><svg class="ic ric"><use href="#i-scooter"/></svg><span class="l">رسوم التوصيل</span><span class="a"><span class="was">7.00</span><span class="free">مجاناً</span></span></div>
+  <div class="irow"><svg class="ic ric"><use href="#i-cash"/></svg><span class="l">إكرامية شريك التوصيل</span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>3.00</span></span></div>
 </section>
 </main>
 <footer class="footer">
@@ -42,7 +43,7 @@
       <div class="fld"><label>رمز التحقق</label><div class="box ph"><span>CVV</span></div></div>
     </div>
   </div>
-  <div class="save-card" id="savecard"><span class="cb"><svg class="ic"><use href="#i-check"/></svg></span>احفظ البطاقة للطلبات القادمة</div>
+  <div class="save-card" id="savecard"><span class="cb"></span>احفظ البطاقة للطلبات القادمة</div>
   <button class="btn-primary" type="button" id="paybtn">ادفع<span class="sep"></span><span class="amt"><svg class="sar"><use href="#sar"/></svg>103.10</span></button>
   <div class="via" id="via"><svg class="ic"><use href="#i-lock"/></svg>تتم معالجة الدفع عبر تاب، وقد يطلب بنكك رمز تحقق.</div>
 </div>
@@ -51,11 +52,11 @@
 window.ANN = [
  {n:1, sel:'#sum', what:'<b>المبلغ في رأس الورقة</b> = نفس رقم الزر والفاتورة (103.10)، ويُرسل لتاب بنفس القيمة بلا تقريب.', owner:'Backend + Flutter', cls:'now', src:'<code>total</code> للطلب. إنشاء Charge في تاب بالمبلغ والعملة SAR'},
  {n:2, sel:'#fields', what:'<b>حقول البطاقة من تاب</b> (Card SDK)، لا حقول نبنيها نحن. نضبط ألوانها فقط: حد التحكم <code>#6B8179</code>، والتركيز بترولي. لا يمر رقم البطاقة بخوادمنا.', owner:'Flutter (حزمة تاب)', cls:'now', src:'Tap Card SDK (توكن البطاقة). <b>غير متحقق</b>: مدى قابلية تخصيص الحزمة بالعربية وRTL'},
- {n:3, sel:'#savecard', what:'<b>حفظ البطاقة</b>: مختار افتراضياً؟ <b>قرار فضل</b>. النموذج يعرضه مختاراً.', owner:'Backend + Flutter', cls:'dec', src:'Tap <code>customer</code> + <code>save_card</code>'},
+ {n:3, sel:'#savecard', what:'<b>حفظ البطاقة</b>: <b>غير مختار افتراضياً</b>، لأنه موافقة على تخزين بيانات دفع. تغيير ذلك قرار فضل.', owner:'Backend + Flutter', cls:'dec', src:'Tap <code>customer</code> + <code>save_card</code>'},
  {n:4, sel:'#paybtn', what:'زر "ادفع | 103.10 ﷼" المرجاني. أثناء المعالجة: معطّل مع مؤشر تحميل ونص "جارٍ الدفع…"، ولا يُضغط مرتين.', owner:'Flutter', cls:'now', src:'حالة Charge في تاب (INITIATED / CAPTURED / FAILED)'},
  {n:5, sel:'#via', what:'سطر معالجة الدفع: يذكر تاب ورمز التحقق، بلا وعد "آمن 100%". بعده قد تفتح صفحة 3-D Secure من البنك (ليست من تصميمنا).', owner:'Flutter', cls:'now', src:'—'},
  {n:6, sel:null, what:'<b>Apple Pay</b>: لا تظهر هذه الورقة. تفتح ورقة النظام من Apple بالمبلغ 103.10 واسم التاجر. لا نصممها ولا نحاكيها.', owner:'Flutter', cls:'now', src:'Apple Pay عبر تاب'},
- {n:7, sel:null, what:'<b>فشل الدفع</b>: تبقى الورقة مفتوحة برسالة حمراء <code>#B42318</code> على <code>#FFF0ED</code>: "لم يكتمل الدفع، ولم يُخصم المبلغ. جرّب مرة ثانية أو اختر طريقة أخرى." لا يُنشأ الطلب. (<b>افتراض</b>: لا خصم عند الفشل؛ يحتاج تأكيد سلوك تاب)', owner:'Backend + Flutter', cls:'now', src:'رد تاب FAILED / DECLINED'}
+ {n:7, sel:null, what:'<b>فشل الدفع</b>: تبقى الورقة مفتوحة برسالة حمراء <code>#B42318</code> على <code>#FFF0ED</code>: "لم يكتمل الدفع. جرّب مرة ثانية أو اختر طريقة أخرى." لا يُنشأ الطلب. مرسوم في لوحة 07. لا تُذكر حالة الخصم إلا بعد تأكيد سلوك تاب كتابياً (قد يُحجز المبلغ مؤقتاً بعد 3-D Secure).', owner:'Backend + Flutter', cls:'now', src:'رد تاب FAILED / DECLINED'}
 ];
 window.ANN_FOOT = 'المستفيد: كل المبالغ تُحصَّل في حساب إيفيكسا عبر تاب (قرار فضل 2026-10-22)، والمتجر هو البائع ويصدر الفاتورة. اسم التاجر الظاهر في كشف البطاقة وفي ورقة Apple Pay يُضبط في حساب تاب، ولم يُتحقق منه بعد.';
 </script>

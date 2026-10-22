@@ -19,7 +19,7 @@
   <div class="phdr"><svg class="ic back"><use href="#i-chev-r"/></svg><h1>خيارات الدفع</h1></div>
   <div class="due" id="due"><span class="l">المبلغ المستحق:</span><span class="v"><span class="num"><svg class="sar"><use href="#sar"/></svg>103.10</span></span></div>
   <div class="plist">
-    <div class="prow" id="p-mada"><span class="pic"><svg class="ic"><use href="#i-card"/></svg></span><span class="t">مدى</span><span class="s">ادفع ببطاقة مدى</span><svg class="ic chev"><use href="#i-chev-l"/></svg></div>
+    <div class="prow" id="p-mada"><span class="pic"><svg class="ic"><use href="#i-card"/></svg></span><span class="t">مدى</span><span class="s">بطاقة الصراف البنكية</span><svg class="ic chev"><use href="#i-chev-l"/></svg></div>
     <div class="prow" id="p-apple"><span class="pic"><svg class="ic"><use href="#i-phone"/></svg></span><span class="t" dir="ltr">Apple Pay</span><span class="s">على أجهزة آيفون</span><svg class="ic chev"><use href="#i-chev-l"/></svg></div>
     <div class="prow" id="p-card"><span class="pic"><svg class="ic"><use href="#i-card"/></svg></span><span class="t">بطاقة ائتمانية</span><span class="s">فيزا أو ماستركارد</span><svg class="ic chev"><use href="#i-chev-l"/></svg></div>
     <div class="prow" id="p-cod"><span class="pic"><svg class="ic"><use href="#i-cash"/></svg></span><span class="t">الدفع عند الاستلام</span><span class="s">الدفع نقداً أو اطلب رمز QR</span><svg class="ic chev"><use href="#i-chev-l"/></svg></div>
@@ -28,12 +28,12 @@
 <script>
 window.ANN = [
  {n:1, sel:'#due', kind:'v65', what:'"المبلغ المستحق:" من v65، والقيمة <b>103.10 ﷼ حرفياً</b>. الحالي يقرّب (90.95 تصبح 91)، فيُلغى التقريب.', owner:'Backend (محمد)', cls:'now', src:'B3: <code>total</code> بدقة هللتين، ونفس الرقم في السلة والزر والفاتورة وطلب تاب'},
- {n:2, sel:'#p-mada', what:'<b>مدى</b> عبر تاب. أول القائمة لأنها الأشيع في السعودية (<b>افتراض</b>).', owner:'Backend + Flutter', cls:'now', src:'B1: بوابة تاب (Marketplace). غير موجودة في اللوحة الآن'},
- {n:3, sel:'#p-apple', what:'<b>Apple Pay</b> يظهر على iOS فقط، ويفتح ورقة النظام من Apple (لا نصممها). يُستخدم شعار Apple Pay الرسمي حسب إرشادات Apple في التطبيق، لا الأيقونة العامة هنا.', owner:'Backend + Flutter', cls:'now', src:'B1: تاب + Apple Merchant ID ونطاق موثّق'},
- {n:4, sel:'#p-card', what:'<b>بطاقة ائتمانية</b> (فيزا، ماستركارد) عبر تاب، مع حفظ البطاقة (لوحة 05). البطاقة المحفوظة تظهر لاحقاً كسطر مستقل فوق القائمة.', owner:'Backend + Flutter', cls:'now', src:'B1: Tap Card SDK و<code>customer_id</code> لحفظ البطاقة'},
+ {n:2, sel:'#p-mada', what:'<b>مدى</b> عبر تاب، أول القائمة (<b>افتراض</b>: الأشيع). <b>سؤال لتاب</b>: بطاقات مدى المشتركة مع فيزا أو ماستركارد، كيف تُوجَّه إذا أُدخلت في صف البطاقة الائتمانية؟ البديل: صف واحد "بطاقة (مدى، فيزا، ماستركارد)".', owner:'Backend + Flutter', cls:'now', src:'B1: بوابة تاب (Marketplace). غير موجودة في اللوحة الآن'},
+ {n:3, sel:'#p-apple', what:'<b>Apple Pay</b> على iOS فقط، بورقة النظام من Apple. على أندرويد يختفي الصف (لوحة 07). يُستخدم شعار Apple Pay الرسمي في موضع الأيقونة.', owner:'Backend + Flutter', cls:'now', src:'B1: تاب + Apple Merchant ID ونطاق موثّق'},
+ {n:4, sel:'#p-card', what:'<b>بطاقة ائتمانية</b> (فيزا، ماستركارد) عبر تاب. البطاقة المحفوظة تظهر صفاً مستقلاً في أعلى القائمة (لوحة 07).', owner:'Backend + Flutter', cls:'now', src:'B1: Tap Card SDK و<code>customer_id</code> لحفظ البطاقة'},
  {n:5, sel:'#p-cod', kind:'v65', what:'"الدفع عند الاستلام" من v65 كما هو (النص والموضع)، ونُقل آخر القائمة. إبقاؤه في الإطلاق قرار فضل.', owner:'إعداد اللوحة', cls:'dec', src:'Payment Methods › COD (مفعّل الآن)'}
 ];
-window.ANN_FOOT = 'أيقونات الطرق في النموذج عامة عمداً (لا شعارات حقيقية كأصول). في التطبيق تُستخدم شعارات مدى وApple Pay وفيزا وماستركارد الرسمية من حزمة تاب وحسب إرشاد كل علامة. صف كل طريقة سهم كما في v65: الضغط يختار ويعود إلى السلة في حالة المراجعة (04).';
+window.ANN_FOOT = 'الأيقونات عامة عمداً، بلا شعارات حقيقية كأصول، وبلا حاوية خلفها كما في v65. في التطبيق تحل الشعارات الرسمية (مدى، وApple Pay، وفيزا، وماستركارد) محلها في الموضع نفسه، بلا خلفية. صف كل طريقة سهم كما في v65: الضغط يختار ويعود إلى السلة في حالة المراجعة (04).';
 </script>
 <script src="annotate.js"></script>
 </body>

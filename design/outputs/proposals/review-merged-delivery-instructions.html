@@ -1,0 +1,54 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=390, initial-scale=1">
+<title>دمج تعليمات التوصيل</title>
+<meta name="description" content="مقترح Next (J8): دمج بطاقة إضافة ملاحظة للطلب في بطاقة تعليمات التوصيل. قبل وبعد.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../system/tokens.css">
+<link rel="stylesheet" href="../screens/cart.css">
+<link rel="stylesheet" href="../checkout-journey/journey.css">
+<style>
+body{width:820px;padding:20px 20px 24px}
+.cols{display:flex;gap:40px;align-items:flex-start}
+.col{width:390px}
+.col h2{font-size:15px;font-weight:700;margin:0 15px 10px;color:var(--jarna-text)}
+.col h2 small{display:block;font-size:12px;font-weight:400;color:var(--jarna-text-secondary)}
+.top{font-size:18px;font-weight:700;color:var(--jarna-text);margin:0 15px 4px}
+.meta{margin:0 15px 18px;font-size:12.5px;line-height:19px;color:var(--jarna-text-secondary)}
+.meta b{color:var(--jarna-text)}
+</style>
+</head>
+<body>
+<script src="../checkout-journey/icons.js"></script>
+<div class="top">مقترح J8: دمج "إضافة ملاحظة للطلب" في "تعليمات التوصيل" <span class="mock-tag">Next — يحتاج اعتماد فضل</span></div>
+<div class="meta"><b>الفائدة للعميل:</b> مكان واحد لكل ما يخص التسليم، وزر "ملاحظة" بدل حقل مفتوح دائماً. <b>التكلفة على عبيد:</b> بطاقة جديدة تحل محل بطاقة v65 (نحو يوم). <b>المخاطرة:</b> تغيير تخطيط، ويسقط النص التوضيحي الأصلي. <b>الأساس المعتمد في النماذج</b> هو اليمين.</div>
+<div class="cols">
+  <div class="col">
+    <h2>الأساس (04): بطاقة v65 كما هي<small>زرا التعليمات داخلها فوق الحقل</small></h2>
+    <section class="card note-card open">
+      <div class="note-row"><svg class="ic nicon"><use href="#i-note"/></svg><h3>إضافة ملاحظة للطلب</h3><svg class="ic chev"><use href="#i-chev-u"/></svg></div>
+      <div class="nbody">
+        <p class="hint">أي تعليمات خاصة للمتجر (مثل وقت التوصيل، مواد قابلة للكسر، إلخ.)</p>
+        <div class="ichips"><span class="ichip sel"><svg class="ic tick"><use href="#i-check"/></svg>اتركه عند الباب</span><span class="ichip"><svg class="ic"><use href="#i-bell-off"/></svg>لا تطرق الباب</span></div>
+        <div class="field2"><span>اكتب ملاحظتك هنا...</span><i>0/300</i></div>
+      </div>
+    </section>
+  </div>
+  <div class="col">
+    <h2>الخيار (Next): بطاقة "تعليمات التوصيل"<small>ثلاثة أزرار، و"ملاحظة" يفتح الحقل</small></h2>
+    <section class="card dcard">
+      <h3><svg class="ic"><use href="#i-note"/></svg>تعليمات التوصيل</h3>
+      <div class="ichips">
+        <span class="ichip sel"><svg class="ic tick"><use href="#i-check"/></svg>اتركه عند الباب</span>
+        <span class="ichip"><svg class="ic"><use href="#i-bell-off"/></svg>لا تطرق الباب</span>
+        <span class="ichip sel"><svg class="ic tick"><use href="#i-check"/></svg>ملاحظة</span>
+      </div>
+      <div class="dnote"><span>اكتب ملاحظتك هنا...</span><i>0/300</i></div>
+    </section>
+  </div>
+</div>
+</body>
+</html>

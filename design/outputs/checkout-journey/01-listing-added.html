@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=390, initial-scale=1">
 <title>01 بعد الإضافة</title>
-<meta name="description" content="قائمة منتجات الفئة بعد الضغط على +: تخطيط v65 (CATEGORY-01/02) وكبسولة السلة البيضاوية كما هي، مع المبلغ وتأكيد إضافة خفيف.">
+<meta name="description" content="قائمة منتجات الفئة بعد الضغط على +: تخطيط v65 (CATEGORY-01/02)، وكبسولة السلة كما هي تماماً، و+ مرجاني حسب Policy v1، وتأكيد إضافة خفيف (Next).">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../system/tokens.css">
@@ -57,19 +57,20 @@
       <span class="eta"><svg><use href="#i-bolt"/></svg>18 دقيقة</span>
     </div>
   </div>
-  <div class="toast" id="toast" role="status"><svg class="ic"><use href="#i-check"/></svg><span>أُضيف إلى السلة: <b>هتيل قطع تمر خلاص 200 جم</b></span></div>
-  <div class="capsule" id="capsule" aria-label="السلة: عنصران، 39.90 ريال">
+  <div class="toast" id="toast" role="status"><span class="mock-tag" style="position:absolute;left:8px;top:-11px">Next — قرار فضل</span><svg class="ic"><use href="#i-check"/></svg><span>أُضيف إلى السلة: <b>هتيل قطع تمر خلاص 200 جم</b></span></div>
+  <div class="capsule" id="capsule" aria-label="السلة: عنصران">
     <div class="thumb"><svg viewBox="0 0 40 40"><rect width="40" height="40" fill="var(--jarna-white)"/><rect x="10" y="7" width="20" height="4" rx="1.5" fill="var(--jarna-secondary)"/><rect x="9" y="10" width="22" height="24" rx="4" fill="var(--jarna-border-subtle)"/><rect x="12" y="17" width="16" height="9" rx="2" fill="var(--jarna-white)"/></svg></div>
-    <div class="txt"><b>عنصران</b><span class="num"><svg class="sar"><use href="#sar"/></svg>39.90</span></div>
+    <div class="txt"><b>عنصران</b></div>
     <div class="arrow"><svg class="ic"><use href="#i-chev-r"/></svg></div>
   </div>
 </div>
 <script>
 window.ANN = [
- {n:1, sel:'#capsule', what:'<b>كبسولة السلة البيضاوية كما هي في v65</b> (الشكل، والموضع، وصورة آخر منتج، والعدد، والسهم). <b>الإضافة الوحيدة</b>: سطر المبلغ تحت العدد. الألوان: بترولي، وسهم مرجاني بأيقونة حبرية.', owner:'Flutter', cls:'now', src:'مجموع السلة بعد الخصم (نفس <code>subtotal</code> في السلة). العدد = عدد الأسطر كما في v65 ("عنصر واحد"، "عنصران")'},
- {n:2, sel:'#toast', what:'<b>تأكيد إضافة خفيف</b>: لوحة نعناعية فوق الكبسولة بعلامة صح بترولية، تختفي بعد ثانيتين، بلا زر وبلا اهتزاز. تظهر عند أول إضافة للمنتج فقط، لا عند زيادة الكمية.', owner:'Flutter', cls:'now', src:'نجاح طلب الإضافة للسلة (استجابة API). عند الفشل: لا تأكيد، ويعود المحدد كما كان'},
- {n:3, sel:'#step', kind:'v65', what:'محدد الكمية على البطاقة كما في v65 (لون فقط: بترولي بنص أبيض، AUD-C9).', owner:'Flutter', cls:'now', src:'—'},
- {n:4, sel:'#eta', kind:'issue', what:'<b>تعارض</b>: شارة "18 دقيقة" موجودة في v65 على كل بطاقة، وهي رقم ثابت لا ETA فعلي. تخالف "بلا وعد رقمي". بقيت كما هي في النموذج حتى يقرر فضل (انظر CONFLICTS).', owner:'قرار فضل ثم Backend', cls:'dec', src:'قيمة ثابتة في الحزمة (2 دقيقة/كم + 10 احتياط حسب إعداد المنطقة)'}
+ {n:1, sel:'#capsule', kind:'v65', what:'<b>كبسولة السلة كما هي في v65 تماماً</b>: الشكل، والموضع، وصورة آخر منتج، والعدد ("عنصر واحد"، "عنصران")، والسهم. التغيير لون فقط: بترولي، وسهم مرجاني بأيقونة حبرية. <b>المبلغ داخل الكبسولة ليس هنا</b>، وهو مقترح Next منفصل في HANDOFF.', owner:'Flutter', cls:'now', src:'العدد = عدد الأسطر في السلة كما في v65'},
+ {n:2, sel:'.pcard .add', what:'<b>زر "+" مرجاني برمز حبري</b> حسب Policy v1 (<code>primaryPurchaseAction</code>)، كما في "قد يعجبك" في 02. في v65 أبيض برمز بترولي (J15).', owner:'Flutter', cls:'now', src:'—'},
+ {n:3, sel:'#toast', what:'<b>تأكيد إضافة خفيف</b>: لوحة نعناعية بعلامة صح، لمدة ثانيتين، بلا زر. عند أول إضافة فقط. ليس في القائمة المعتمدة، فهو Next حتى يقرر فضل.', owner:'Flutter', cls:'next', clsText:'Next — قرار فضل', src:'نجاح طلب الإضافة. عند الفشل لا يظهر، ويعود المحدد كما كان'},
+ {n:4, sel:'#step', kind:'v65', what:'محدد الكمية على البطاقة كما في v65، والتغيير لون فقط (AUD-C9).', owner:'Flutter', cls:'now', src:'—'},
+ {n:5, sel:'#eta', kind:'issue', what:'<b>تعارض J3</b>: شارة "18 دقيقة" رقم ثابت على كل بطاقة. بقيت كما هي. في v65 نص بتدرّج بلا كبسولة، والنموذج كبسولة نعناعية مصمتة (CR-N5، AUD-C8).', owner:'قرار فضل ثم Backend', cls:'dec', src:'قيمة ثابتة في الحزمة'}
 ];
 </script>
 <script src="annotate.js"></script>

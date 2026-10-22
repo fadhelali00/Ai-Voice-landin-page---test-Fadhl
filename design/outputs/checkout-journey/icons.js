@@ -13,6 +13,7 @@
   '<symbol id="i-truck" viewBox="0 0 24 24"><path d="M1.5 5.5h12.5v10H1.5zM14.8 8.5h4.2l3.5 3.8v3.2h-7.7z"/><circle cx="6" cy="17.5" r="2.4" stroke="var(--jarna-white)" stroke-width="1.3"/><circle cx="18" cy="17.5" r="2.4" stroke="var(--jarna-white)" stroke-width="1.3"/></symbol>' +
   '<symbol id="i-chev-l" viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></symbol>' +
   '<symbol id="i-chev-r" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></symbol>' +
+  '<symbol id="i-chev-u" viewBox="0 0 24 24"><path d="M5 15l7-7 7 7"/></symbol>' +
   '<symbol id="i-chev-d" viewBox="0 0 24 24"><path d="M5 9l7 7 7-7"/></symbol>' +
   '<symbol id="i-note" viewBox="0 0 24 24"><path d="M4 4.5A1.5 1.5 0 0 1 5.5 3h13A1.5 1.5 0 0 1 20 4.5V14l-7 7H5.5A1.5 1.5 0 0 1 4 19.5zM13 21v-5.5a1.5 1.5 0 0 1 1.5-1.5H20"/></symbol>' +
   '<symbol id="i-receipt" viewBox="0 0 24 24"><path d="M5 2.5h14v19l-2.3-1.6-2.3 1.6-2.4-1.6-2.3 1.6-2.4-1.6L5 21.5zM8.5 7.5h7M8.5 11h7M8.5 14.5h4"/></symbol>' +

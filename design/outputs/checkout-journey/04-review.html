@@ -36,21 +36,20 @@
     <div class="qty"><svg class="ic"><use href="#i-plus"/></svg><b>2</b><svg class="ic"><use href="#i-minus"/></svg></div>
     <div class="price"><span class="num"><svg class="sar"><use href="#sar"/></svg>24.00</span></div>
   </div>
-  <div class="item short">
+  <div class="item">
     <svg class="thumb" viewBox="0 0 42 42"><circle cx="21" cy="21" r="18" fill="var(--jarna-secondary)"/><rect x="7" y="16" width="28" height="10" fill="var(--jarna-ink)"/><rect x="9" y="18" width="11" height="6" fill="var(--jarna-white)"/></svg>
     <div class="name" dir="rtl">تمارا تمر سكري رطب 1 كجم</div>
-    <div class="sub" style="top:35px" dir="rtl">1 كجم</div>
+    <div class="sub" style="top:54px" dir="rtl">1 كجم</div>
     <div class="qty"><svg class="ic"><use href="#i-plus"/></svg><b>1</b><svg class="ic"><use href="#i-minus"/></svg></div>
     <div class="price"><span class="num"><svg class="sar"><use href="#sar"/></svg>18.00</span><span class="was">21.00</span></div>
   </div>
-  <div class="item short last">
+  <div class="item last">
     <svg class="thumb" viewBox="0 0 42 42"><path d="M14 9l3-5h8l3 5v31H14z" fill="var(--jarna-white)" stroke="var(--jarna-border-control)" stroke-width="1.5"/><rect x="14" y="18" width="14" height="12" fill="var(--jarna-mint)"/><rect x="17" y="1" width="8" height="3" rx="1" fill="var(--jarna-petrol)"/></svg>
     <div class="name" dir="rtl">حليب طازج كامل الدسم 1 لتر</div>
-    <div class="sub" style="top:35px" dir="rtl">1 لتر</div>
+    <div class="sub" style="top:54px" dir="rtl">1 لتر</div>
     <div class="qty"><svg class="ic"><use href="#i-plus"/></svg><b>4</b><svg class="ic"><use href="#i-minus"/></svg></div>
     <div class="price"><span class="num"><svg class="sar"><use href="#sar"/></svg>30.20</span><span class="was">35.00</span></div>
   </div>
-  <div class="saved" id="saved"><svg class="ic"><use href="#i-tag"/></svg><span>وفّرت <b class="num"><svg class="sar"><use href="#sar"/></svg>11.80</b> على هذا الطلب</span></div>
   <div class="add-more"><svg class="ic"><use href="#i-plus-c"/></svg><span>إضافة المزيد من العناصر</span></div>
 </section>
 <section class="card fd-card" style="height:170px">
@@ -70,17 +69,21 @@
       <div class="rprice"><span class="num"><svg class="sar"><use href="#sar"/></svg>9.50</span></div><div class="rname">خبز بر شرائح 600 جم</div></div>
   </div>
 </section>
-<section class="card dcard" id="review-start">
-  <h3><svg class="ic"><use href="#i-note"/></svg>تعليمات التوصيل</h3>
-  <div class="eta-row" id="eta"><svg class="ic"><use href="#i-clock"/></svg><div><b>موعد الوصول</b><span>يظهر الوقت المتوقع في صفحة تتبع الطلب بعد تأكيده.</span></div></div>
-  <div class="ichips" id="ichips">
-    <span class="ichip sel"><svg class="ic tick"><use href="#i-check"/></svg>اتركه عند الباب</span>
-    <span class="ichip"><svg class="ic"><use href="#i-bell-off"/></svg>لا تطرق الباب</span>
-    <span class="ichip sel" id="chip-note"><svg class="ic tick"><use href="#i-check"/></svg>ملاحظة</span>
-  </div>
-  <div class="dnote" id="dnote"><span>اكتب ملاحظتك هنا...</span><i>0/300</i></div>
+<section class="card tagged" id="review-start"><span class="mock-tag">Next — قرار فضل</span>
+  <div class="eta-row" id="eta" style="margin:14px 15px;border:0;padding:0"><svg class="ic"><use href="#i-clock"/></svg><div><b>موعد الوصول</b><span class="eta-ph">من مصدر ETA تشغيلي عند توفّره</span></div></div>
 </section>
-<section class="card" id="oos"><div class="oos"><svg class="ic"><use href="#i-basket-x"/></svg><div><h3>إذا كان المنتج غير متوفر</h3><p>نسترد قيمة المنتج الناقص ونكمل توصيل بقية طلبك.</p></div></div></section>
+<section class="card note-card open" id="note">
+  <div class="note-row"><svg class="ic nicon"><use href="#i-note"/></svg><h3>إضافة ملاحظة للطلب</h3><svg class="ic chev"><use href="#i-chev-u"/></svg></div>
+  <div class="nbody">
+    <p class="hint">أي تعليمات خاصة للمتجر (مثل وقت التوصيل، مواد قابلة للكسر، إلخ.)</p>
+    <div class="ichips" id="ichips">
+      <span class="ichip sel"><svg class="ic tick"><use href="#i-check"/></svg>اتركه عند الباب</span>
+      <span class="ichip"><svg class="ic"><use href="#i-bell-off"/></svg>لا تطرق الباب</span>
+    </div>
+    <div class="field2" id="dnote"><span>اكتب ملاحظتك هنا...</span><i>0/300</i></div>
+  </div>
+</section>
+<section class="card tagged" id="oos"><span class="mock-tag">بعد A7 — قرار فضل</span><div class="oos"><svg class="ic"><use href="#i-basket-x"/></svg><div><h3>إذا كان المنتج غير متوفر</h3><p>لو تعذّر منتج نكمل طلبك ونتواصل معك بشأنه.</p></div></div></section>
 <section class="card tips" id="tips">
   <svg class="art" viewBox="0 0 58 32"><rect x="18" y="2" width="38" height="20" rx="2" transform="rotate(-10 37 12)" fill="var(--jarna-grey-disabled)" stroke="var(--jarna-secondary)" stroke-width="1"/><circle cx="37" cy="12" r="4" fill="none" stroke="var(--jarna-secondary)"/><rect x="38" y="14" width="13" height="12" rx="1" fill="var(--jarna-white)" stroke="var(--jarna-secondary)"/><path d="M2 22c6-2 10-3 16-2l10 2c2 1 1 4-2 4h-8l10 1c3 0 5-3 7-3" fill="var(--jarna-border-subtle)" stroke="var(--jarna-secondary)" stroke-width="1.3" stroke-linejoin="round"/><rect x="0" y="22" width="7" height="10" fill="var(--jarna-secondary)"/></svg>
   <h3>اشكر شريك التوصيل الخاص بك</h3>
@@ -92,8 +95,8 @@
   <div class="irow" id="r-sub"><svg class="ic ric"><use href="#i-receipt"/></svg><span class="l">إجمالي العناصر (4 منتجات)</span><span class="a"><span class="was">111.90</span><span class="num"><svg class="sar"><use href="#sar"/></svg>100.10</span></span></div>
   <div class="irow" id="r-del"><svg class="ic ric"><use href="#i-scooter"/></svg><span class="l">رسوم التوصيل</span><span class="a"><span class="was">7.00</span><span class="free">مجاناً</span></span></div>
   <div class="irow" id="r-tip"><svg class="ic ric"><use href="#i-cash"/></svg><span class="l">إكرامية شريك التوصيل</span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>3.00</span></span></div>
-  <div class="irow save" id="r-save"><svg class="ic ric"><use href="#i-tag"/></svg><span class="l">وفّرت<small>خصومات 11.80 + توصيل مجاني 7.00</small></span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>18.80</span></span></div>
   <div class="irow total" id="r-total"><span class="l">الإجمالي<small>شامل ضريبة القيمة المضافة 15% (<span class="num"><svg class="sar"><use href="#sar"/></svg>13.06</span>)</small></span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>103.10</span></span></div>
+  <div class="saved-under" id="saved"><span>وفّرت في هذا الطلب<small>خصومات المنتجات + توفير التوصيل (لا يُطرح من الإجمالي)</small></span><b class="num"><svg class="sar"><use href="#sar"/></svg>18.80</b></div>
 </section>
 </main>
 <footer class="footer">
@@ -106,19 +109,19 @@
 </div>
 <script>
 window.ANN = [
- {n:1, sel:'#eta', what:'<b>موعد الوصول بلا رقم</b>: "يظهر الوقت المتوقع في صفحة تتبع الطلب بعد تأكيده." لا دقائق ولا نافذة زمنية حتى يوجد مصدر ETA تشغيلي.', owner:'Flutter (نص ثابت)', cls:'now', src:'نص ثابت الآن. لاحقاً (Next): ETA من الخادم بعد قياس زمن التوصيل الفعلي'},
- {n:2, sel:'#ichips', what:'<b>تعليمات التوصيل كأزرار</b>: اتركه عند الباب، لا تطرق الباب، ملاحظة. اختيار متعدد. "ملاحظة" يفتح حقل الملاحظة الموجود في v65 (300 حرف). يُطوى قسم "إضافة ملاحظة للطلب" في v65 داخل هذه البطاقة.', owner:'Flutter + Backend', cls:'now', src:'حقل <code>delivery_instructions</code> (مصفوفة) في الطلب، ويظهر في تطبيق المندوب. <b>افتراض</b>: إن لم يوجد الحقل تُضاف كنص في بداية <code>order_note</code>'},
- {n:3, sel:'#dnote', kind:'v65', what:'حقل الملاحظة نفسه من v65 (النص والعدّاد 0/300)، يظهر فقط عند اختيار "ملاحظة".', owner:'Flutter', cls:'now', src:'<code>order_note</code> الحالي'},
- {n:4, sel:'#oos', what:'<b>"إذا كان المنتج غير متوفر"</b>: "نسترد قيمة المنتج الناقص ونكمل توصيل بقية طلبك." سطر معلومات بلا خيارات. <b>لا يُنشر قبل اعتماد سياسة A7</b> ووجود إجراء استرداد فعلي.', owner:'Flutter + Backend + محتوى', cls:'dec', clsText:'MVP Now بعد اعتماد A7', src:'صفحة السياسات (Settings › Web)، واسترداد جزئي عبر تاب (Refund API) أو خصم من مبلغ الدفع عند الاستلام'},
- {n:5, sel:'#tips', what:'<b>الإكرامية 1 / 3 / 5 / أخرى، وبدون إكرامية</b>. نفس شكل شرائح v65 (10/20/50/مخصص). المبلغ يُضاف للإجمالي كسطر مستقل. لا اختيار مسبق.', owner:'إعداد اللوحة + Flutter', cls:'now', src:'Settings › Delivery Boy: الحد الأدنى 1، والخيارات 1/3/5 (A3). شريحة "بدون إكرامية" وتسمية "أخرى" في Flutter'},
- {n:6, sel:'#r-del', what:'<b>التوصيل مشطوباً وبجانبه "مجاناً"</b> عند تجاوز الحد. تحت الحد يبقى 7.00 مع تلميح v65 "أضف منتجات بقيمة X".', owner:'Flutter', cls:'now', src:'<code>delivery_charge</code> و<code>free_delivery_amount</code> من المنطقة'},
- {n:7, sel:'#r-save', what:'<b>سطر "وفّرت"</b> = خصومات المنتجات + رسوم التوصيل الموفَّرة، بتفصيل صغير تحته.', owner:'Backend + Flutter', cls:'now', src:'<code>original_subtotal − subtotal</code> + <code>delivery_charge</code> إن كان مجانياً'},
- {n:8, sel:'#r-total', what:'<b>الإجمالي "شامل ضريبة القيمة المضافة 15%" مع مبلغ الضريبة، وبلا تقريب</b> (103.10 تبقى 103.10).', owner:'Backend (محمد)', cls:'now', src:'B2 و B3: <code>vat_amount</code> = الأسعار الشاملة × 15/115. الإكرامية خارج الوعاء الضريبي (<b>افتراض</b> يحتاج تأكيد المحاسب)'},
- {n:9, sel:'#paywith', kind:'v65', what:'"الدفع باستخدام ▲" في موضعه من v65، والقيمة الآن "مدى" بدل Cash on Delivery. الضغط يفتح "خيارات الدفع" (لوحة 03).', owner:'Flutter', cls:'now', src:'طريقة الدفع المختارة (Tap: mada / Apple Pay / card) أو COD'},
- {n:10, sel:'#cta', what:'<b>زر "ادفع | 103.10 ﷼"</b> بدل "إتمام الطلب" عند الدفع الإلكتروني، بنفس العرض والموضع. عند الدفع عند الاستلام: "إتمام الطلب | 103.10 ﷼".', owner:'Flutter', cls:'now', src:'<code>total</code> من الخادم حرفياً'},
- {n:11, sel:'#saved', kind:'v65', what:'سطر "وفّرت" والسعر المشطوب كما في لوحة 02.', owner:'Flutter', cls:'now', src:'انظر 02'}
+ {n:1, sel:'#review-start', kind:'issue', what:'<b>صف "موعد الوصول"</b>: يُعرض فقط حين يوجد مصدر ETA تشغيلي، بلا رقم ثابت وبلا إشارة إلى صفحة التتبع. في التحليل §7 هو Next (J14).', owner:'Backend + Flutter', cls:'next', clsText:'Next — قرار فضل', src:'ETA من الخادم بعد قياس زمن التوصيل الفعلي'},
+ {n:2, sel:'#note', kind:'v65', what:'بطاقة "إضافة ملاحظة للطلب" من v65 كما هي (مفتوحة): العنوان، والسهم، والنص التوضيحي، والحقل، والعدّاد 0/300.', owner:'Flutter', cls:'now', src:'<code>order_note</code>'},
+ {n:3, sel:'#ichips', what:'<b>زرا تعليمات التوصيل</b> داخل بطاقة v65، فوق الحقل: "اتركه عند الباب" و"لا تطرق الباب"، باختيار متعدد. الحقل نفسه هو "ملاحظة". مع الدفع عند الاستلام يُعطَّل "اتركه عند الباب". دمج البطاقة في "تعليمات التوصيل" خيار منفصل (Next، J8).', owner:'Flutter + Backend', cls:'now', src:'B6: <code>delivery_instructions[]</code>، ويظهر في تطبيق المندوب. <b>افتراض</b>: إن لم يوجد الحقل تُكتب في بداية <code>order_note</code>'},
+ {n:4, sel:'#oos', kind:'issue', what:'<b>"إذا كان المنتج غير متوفر"</b>: "لو تعذّر منتج نكمل طلبك ونتواصل معك بشأنه." بلا وعد استرداد. موسومة <b>بعد A7</b>، وتُخفى عند الدفع عند الاستلام (J13).', owner:'Flutter + محتوى', cls:'dec', clsText:'بعد A7 — قرار فضل', src:'سياسة A7. الإجراء التشغيلي عند النقص يحدده فضل'},
+ {n:5, sel:'#tips', what:'<b>الإكرامية 1 / 3 / 5 / أخرى، وبدون إكرامية</b>، بشكل شرائح v65. بلا اختيار مسبق. لا تُحسب في حد التوصيل المجاني.', owner:'إعداد اللوحة + Flutter', cls:'now', src:'A3: Settings › Delivery Boy (الحد الأدنى 1، والخيارات 1/3/5)'},
+ {n:6, sel:'#r-del', what:'<b>التوصيل مشطوباً وبجانبه "مجاناً"</b> عند تجاوز الحد.', owner:'Flutter', cls:'now', src:'<code>delivery_charge</code> و<code>free_delivery_amount</code>'},
+ {n:7, sel:'#r-tip', what:'<b>سطر الإكرامية في الفاتورة</b>: جديد في النموذج. لم يُتحقق هل تعرضه الحزمة الآن.', owner:'Backend + Flutter', cls:'now', src:'<code>tip_amount</code> (غير متحقق من اسمه)'},
+ {n:8, sel:'#r-total', what:'<b>الإجمالي "شامل ضريبة القيمة المضافة 15%" بمبلغها، وبلا تقريب.</b> الإجمالي = المجموع + التوصيل + الإكرامية.', owner:'Backend (محمد)', cls:'now', src:'B2 وB3: <code>vat_amount</code> = 100.10 × 15/115 = 13.06، والإكرامية خارج الوعاء (افتراض J12)'},
+ {n:9, sel:'#saved', what:'<b>"وفّرت في هذا الطلب 18.80"</b> تحت الإجمالي. التعريف الواحد = خصومات المنتجات 11.80 + توفير التوصيل 7.00. لا يظهر رقم توفير آخر في الصفحة (J16).', owner:'Backend + Flutter', cls:'now', src:'<code>original_subtotal − subtotal</code> + <code>delivery_charge</code>'},
+ {n:10, sel:'#paywith', kind:'v65', what:'"الدفع باستخدام ▲" في موضعه من v65، والقيمة "مدى". الضغط يفتح "خيارات الدفع" (03).', owner:'Flutter', cls:'now', src:'الطريقة المختارة'},
+ {n:11, sel:'#cta', what:'<b>"ادفع | 103.10"</b> بدل "إتمام الطلب" عند الدفع الإلكتروني، بالعرض والموضع نفسيهما. عند الدفع عند الاستلام: "إتمام الطلب | 103.10" (لوحة 07).', owner:'Flutter', cls:'now', src:'<code>total</code>'}
 ];
-window.ANN_FOOT = 'الأرقام مثال متسق: رز 2×13.95، وتمر 2×12.00، وتمارا 1×18.00 (الأصلي 21.00)، وحليب 4×7.55 (الأصلي 8.75) = 100.10؛ والأصلي 111.90؛ + إكرامية 3.00 = 103.10. الضريبة 100.10×15/115 = 13.06. طرق الدفع الأربع في لوحة 03 (شاشة "خيارات الدفع" في v65)، لا داخل هذه الصفحة.';
+window.ANN_FOOT = 'الأرقام: رز 2 × 13.95 (الأصلي 15.95)، وتمر 2 × 12.00، وتمارا 1 × 18.00 (21.00)، وحليب 4 × 7.55 (8.75). المجموع 100.10، والأصلي 111.90، والإكرامية 3.00، فالإجمالي 103.10. السعر المشطوب تحت سعر السطر كما في 02. طرق الدفع في 03.';
 </script>
 <script src="annotate.js"></script>
 </body>

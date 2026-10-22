@@ -15,6 +15,7 @@ const SCREENS = [
   { id: '04-review', full: true, scroll: 'review-start' },
   { id: '05-pay-sheet' },
   { id: '06-order-placed' },
+  { id: '07-edge-states', tall: true },
 ];
 
 async function waitReady(page, needsFlag) {
@@ -25,7 +26,7 @@ async function waitReady(page, needsFlag) {
 
 (async () => {
   const args = process.argv.slice(2);
-  const only = args.filter((a) => a !== 'overview');
+  const only = args.filter((a) => a !== 'overview' && a !== 'proposal');
   const list = only.length ? SCREENS.filter((s) => only.includes(s.id)) : SCREENS;
   const browser = await chromium.launch();
   const phone = await browser.newPage({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2, locale: 'ar-SA' });
@@ -35,7 +36,7 @@ async function waitReady(page, needsFlag) {
     const url = 'file://' + path.join(DIR, s.id + '.html');
     await phone.goto(url + (s.scroll ? '?scroll=' + s.scroll : ''), { waitUntil: 'networkidle' });
     await waitReady(phone, !!s.scroll);
-    await phone.screenshot({ path: path.join(DIR, s.id + '.png') });
+    await phone.screenshot({ path: path.join(DIR, s.id + '.png'), fullPage: !!s.tall });
     if (s.full) {
       await phone.goto(url + '?full', { waitUntil: 'networkidle' });
       await waitReady(phone, false);
@@ -45,6 +46,15 @@ async function waitReady(page, needsFlag) {
     await waitReady(board, true);
     await board.screenshot({ path: path.join(DIR, s.id + '-annotated.png'), fullPage: true });
     console.log('ok', s.id);
+  }
+
+  if (!only.length || args.includes('proposal')) {
+    const pp = await browser.newPage({ viewport: { width: 820, height: 600 }, deviceScaleFactor: 2, locale: 'ar-SA' });
+    const f = path.join(DIR, '..', 'proposals', 'review-merged-delivery-instructions.html');
+    await pp.goto('file://' + f, { waitUntil: 'networkidle' });
+    await waitReady(pp, false);
+    await pp.screenshot({ path: f.replace(/\.html$/, '.png'), fullPage: true });
+    console.log('ok proposal');
   }
 
   if (!only.length || args.includes('overview')) {

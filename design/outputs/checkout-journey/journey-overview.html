@@ -27,19 +27,19 @@ h1{font-size:28px;font-weight:700}
 </head>
 <body>
 <h1>رحلة العميل بعد إضافة منتج للسلة</h1>
-<div class="sub">تخطيط النسخة 65 كما هو، والتغيير لون وإضافات بسيطة ترفع المبيعات (استثناء 2026-10-21). كل شاشة لها لوحة توضيحية مرقّمة <code>&lt;id&gt;-annotated.png</code>. الأرقام مثال متسق.</div>
+<div class="sub">تخطيط النسخة 65 كما هو، والتغيير لون وإضافات بسيطة ترفع المبيعات (استثناء 2026-10-21). كل شاشة لها لوحة توضيحية مرقّمة (<span dir="ltr">&lt;id&gt;-annotated.png</span>)، والحالات الحدّية في <span dir="ltr">07-edge-states.png</span>. الأرقام مثال متسق.</div>
 <div class="row">
-  <div class="step"><h2><span class="no">1</span>قائمة المنتجات بعد الإضافة</h2><img src="01-listing-added.png" alt=""><p><b>جديد:</b> المبلغ تحت العدد في الكبسولة، وتأكيد إضافة خفيف.</p></div>
+  <div class="step"><h2><span class="no">1</span>قائمة المنتجات بعد الإضافة</h2><img src="01-listing-added.png" alt=""><p><b>جديد:</b> "+" مرجاني (Policy v1). الكبسولة كما هي تماماً. تأكيد الإضافة موسوم Next.</p></div>
   <div class="arrow"><svg viewBox="0 0 60 24"><path d="M58 12H6M14 4 6 12l8 8" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg><span>يضغط الكبسولة</span></div>
-  <div class="step"><h2><span class="no">2</span>السلة</h2><img src="02-cart.png" alt=""><p><b>جديد:</b> السعر المشطوب، و"وفّرت 4.00"، والمبلغ في الزر. شريط التوصيل المجاني من v65 يقرأ الحد من المنطقة.</p></div>
-  <div class="arrow"><svg viewBox="0 0 60 24"><path d="M58 12H6M14 4 6 12l8 8" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg><span>يضيف منتجين ويختار إكرامية 3، ثم "اختر طريقة الدفع"</span></div>
+  <div class="step"><h2><span class="no">2</span>السلة</h2><img src="02-cart.png" alt=""><p><b>جديد:</b> السعر المشطوب، والإجمالي شامل الضريبة و"وفّرت" تحته، والمبلغ في الزر. شريط التوصيل المجاني من v65 يقرأ الحد من المنطقة.</p></div>
+  <div class="arrow"><svg viewBox="0 0 60 24"><path d="M58 12H6M14 4 6 12l8 8" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg><span>يضيف منتجين، ويزيد التمر إلى 2، ويختار إكرامية 3، ثم "اختر طريقة الدفع"</span></div>
   <div class="step"><h2><span class="no">3</span>خيارات الدفع</h2><img src="03-payment-options.png" alt=""><p><b>جديد:</b> مدى وApple Pay والبطاقة عبر تاب، والمبلغ المستحق بلا تقريب.</p></div>
   <div class="arrow"><svg viewBox="0 0 60 24"><path d="M58 12H6M14 4 6 12l8 8" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg><span>يختار مدى ويعود للسلة</span></div>
-  <div class="step"><h2><span class="no">4</span>مراجعة الطلب (حالة من السلة)</h2><img src="04-review.png" alt=""><p><b>جديد:</b> موعد بلا رقم، وتعليمات التوصيل، والمنتج غير المتوفر، والإكرامية 1/3/5، والإجمالي شامل الضريبة، وزر "ادفع 103.10".</p></div>
+  <div class="step"><h2><span class="no">4</span>مراجعة الطلب (حالة من السلة)</h2><img src="04-review.png" alt=""><p><b>جديد:</b> زرا التعليمات داخل بطاقة الملاحظة من v65، والإكرامية 1/3/5، والإجمالي شامل الضريبة و"وفّرت 18.80" تحته، وزر "ادفع 103.10". موعد الوصول (Next) والمنتج غير المتوفر (بعد A7) موسومان.</p></div>
   <div class="arrow"><svg viewBox="0 0 60 24"><path d="M58 12H6M14 4 6 12l8 8" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg><span>يضغط "ادفع"</span></div>
   <div class="step"><h2><span class="no">5</span>الدفع (تاب)</h2><img src="05-pay-sheet.png" alt=""><p><b>جديد:</b> ورقة بطاقة تاب بنفس المبلغ. Apple Pay يفتح ورقة النظام.</p></div>
   <div class="arrow"><svg viewBox="0 0 60 24"><path d="M58 12H6M14 4 6 12l8 8" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg><span>نجح الدفع</span></div>
-  <div class="step"><h2><span class="no">6</span>تم تقديم الطلب</h2><img src="06-order-placed.png" alt=""><p><b>جديد:</b> رقم الطلب والمبلغ المدفوع. "وفّرت" (Next).</p></div>
+  <div class="step"><h2><span class="no">6</span>تم تقديم الطلب</h2><img src="06-order-placed.png" alt=""><p>تخطيط v65 ونصه. رقم الطلب والمبلغ و"وفّرت" إضافات موسومة Next.</p></div>
 </div>
 <div class="legend"><span><b>عبيد (Flutter):</b> 01، 02، 04، 05، 06</span><span><b>محمد (Backend):</b> تاب (B1)، والضريبة (B2)، وإلغاء التقريب (B3)، وتعليمات التوصيل (B6)</span><span><b>اللوحة:</b> الإكرامية 1/3/5 (A3)، وحد التوصيل المجاني (A2)، وسياسة الناقص (A7)</span></div>
 </body>

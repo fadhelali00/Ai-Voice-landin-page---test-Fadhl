@@ -64,10 +64,12 @@
 .irow .l{flex:1;font-size:13.5px;line-height:20px;color:var(--jarna-text)}
 .irow .l small{display:block;font-size:11px;line-height:16px;color:var(--jarna-text-secondary)}
 .irow .a{flex:none;text-align:left;font-size:13px;font-weight:700;line-height:20px;color:var(--jarna-price);direction:ltr}
-.irow .a .was{font-size:11.5px;margin-left:6px}
+.irow .a .was{font-size:11.5px;margin-right:8px}
 .irow .a .free{font-weight:700;color:var(--jarna-link)}
-.irow.save .l,.irow.save .a{color:var(--jarna-link)}
-.irow.save .ric{color:var(--jarna-link)}
+/* J16: "وفّرت" sits UNDER the total, outside the summed rows: one definition = product discounts + delivery saved */
+.saved-under{display:flex;justify-content:space-between;align-items:center;margin-top:8px;padding:8px 10px;border-radius:8px;background:var(--jarna-supportive-panel);font-size:12.5px;line-height:18px;color:var(--jarna-text)}
+.saved-under b{color:var(--jarna-link);font-weight:700;direction:ltr}
+.saved-under small{display:block;font-size:11px;color:var(--jarna-text-secondary)}
 .irow.total{border-top:1px solid var(--jarna-border);margin-top:6px;padding-top:12px}
 .irow.total .l{font-size:15px;font-weight:700}
 .irow.total .a{font-size:16px}
@@ -79,7 +81,7 @@
 /* ---------- 01: category listing (v65 CATEGORY-01/02 geometry) ---------- */
 .lhdr{position:relative;height:56px;border-bottom:1px solid var(--jarna-border)}
 .lhdr .back{position:absolute;right:20px;top:20px;width:16px;height:16px;color:var(--jarna-text);stroke-width:2}
-.lhdr .cat{position:absolute;right:52px;top:6px;width:42px;height:42px;border-radius:10px;background:var(--jarna-surface);border:1px solid var(--jarna-border)}
+.lhdr .cat{position:absolute;right:52px;top:6px;width:42px;height:42px;border-radius:10px;background:var(--jarna-surface)}
 .lhdr h1{position:absolute;right:104px;top:6px;font-size:15.5px;font-weight:700;line-height:24px;color:var(--jarna-text)}
 .lhdr .n{position:absolute;right:104px;top:29px;font-size:11.5px;color:var(--jarna-text-secondary)}
 .lhdr .srch{position:absolute;left:20px;top:17px;width:21px;height:21px;color:var(--jarna-text);stroke-width:2}
@@ -95,8 +97,9 @@
 .pcard .bm{position:absolute;left:7px;top:7px;width:24px;height:24px;border-radius:50%;background:var(--jarna-surface);box-shadow:var(--cart-shadow-control);
   display:flex;align-items:center;justify-content:center}
 .pcard .bm svg{width:12px;height:12px;fill:none;stroke:var(--jarna-icon-neutral);stroke-width:2}
-.pcard .add{position:absolute;left:5px;bottom:6px;width:32px;height:32px;border-radius:50%;background:var(--jarna-surface);box-shadow:var(--cart-shadow-control);
-  display:flex;align-items:center;justify-content:center;color:var(--jarna-link)}
+/* J15: Policy v1 primaryPurchaseAction — coral fill, ink symbol (same as "+" in "قد يعجبك") */
+.pcard .add{position:absolute;left:5px;bottom:6px;width:32px;height:32px;border-radius:50%;background:var(--jarna-primary-action);box-shadow:var(--cart-shadow-control);
+  display:flex;align-items:center;justify-content:center;color:var(--jarna-on-primary-action)}
 .pcard .add svg{width:15px;height:15px;stroke-width:2.2}
 .pcard .step{position:absolute;left:5px;bottom:6px;width:82px;height:28px;border-radius:14px;background:var(--jarna-quantity-stepper);color:var(--jarna-on-quantity-stepper);
   direction:ltr;display:flex;align-items:center;justify-content:space-between;padding:0 9px;font-size:12.5px;font-weight:600}
@@ -112,9 +115,8 @@
   background:var(--jarna-floating-basket);color:var(--jarna-on-floating-basket);box-shadow:0 3px 10px color-mix(in srgb,var(--jarna-ink) 22%,transparent)}
 .capsule .thumb{position:absolute;left:5px;top:5px;width:40px;height:40px;border-radius:50%;background:var(--jarna-surface);overflow:hidden}
 .capsule .thumb svg{width:40px;height:40px}
-.capsule .txt{position:absolute;left:48px;right:48px;top:6px;text-align:center;line-height:1}
-.capsule .txt b{display:block;font-size:15px;font-weight:700;line-height:20px}
-.capsule .txt .num{font-size:12.5px;font-weight:500;line-height:17px;justify-content:center}
+.capsule .txt{position:absolute;left:48px;right:48px;top:14px;text-align:center}
+.capsule .txt b{display:block;font-size:15px;font-weight:700;line-height:22px}
 .capsule .arrow{position:absolute;right:9px;top:9px;width:32px;height:32px;border-radius:50%;
   background:var(--jarna-basket-arrow-surface);color:var(--jarna-basket-arrow-icon);display:flex;align-items:center;justify-content:center}
 .capsule .arrow svg{width:16px;height:16px;stroke-width:2.4}
@@ -135,9 +137,9 @@
 .due .v{position:absolute;left:14px;top:12px;height:32px;min-width:96px;padding:0 10px;border-radius:6px;display:flex;align-items:center;justify-content:center;
   font-size:16px;font-weight:700;color:var(--jarna-price)}
 .prow{position:relative;margin:0 18px 12px;height:88px;border-radius:14px;border:1px solid var(--jarna-border);background:var(--jarna-surface)}
-.prow .pic{position:absolute;right:16px;top:23px;width:40px;height:40px;border-radius:10px;background:var(--jarna-supportive-panel);color:var(--jarna-link);
-  display:flex;align-items:center;justify-content:center}
-.prow .pic svg{width:22px;height:22px;stroke-width:1.7}
+/* no container behind the icon (v65 PAYMENT-01: bare illustration). Official marks replace these icons in place */
+.prow .pic{position:absolute;right:16px;top:25px;width:36px;height:36px;color:var(--jarna-icon-action);display:flex;align-items:center;justify-content:center}
+.prow .pic svg{width:32px;height:32px;stroke-width:1.5}
 .prow .t{position:absolute;right:68px;top:24px;font-size:14.5px;font-weight:500;line-height:22px;color:var(--jarna-text)}
 .prow .s{position:absolute;right:68px;top:47px;font-size:11.5px;line-height:17px;color:var(--jarna-text-secondary)}
 .prow .chev{position:absolute;left:18px;top:36px;width:15px;height:15px;color:var(--jarna-icon-neutral);stroke-width:2}
@@ -164,7 +166,7 @@
 .fld2{display:flex;gap:10px}
 .fld2 .fld{flex:1}
 .save-card{display:flex;align-items:center;gap:10px;margin-top:14px;min-height:44px;font-size:13px;color:var(--jarna-text)}
-.save-card .cb{flex:none;width:22px;height:22px;border-radius:6px;background:var(--jarna-selection-indicator);color:var(--jarna-white);display:flex;align-items:center;justify-content:center}
+.save-card .cb{flex:none;width:22px;height:22px;border-radius:6px;border:2px solid var(--jarna-control-border);background:var(--jarna-surface)}
 .save-card .cb svg{width:15px;height:15px;stroke-width:3}
 .psheet .btn-primary{position:static;width:100%;margin-top:10px;height:50px}
 .psheet .via{display:flex;align-items:center;justify-content:center;gap:6px;margin-top:12px;font-size:11.5px;line-height:17px;color:var(--jarna-text-secondary);text-align:center}
@@ -175,14 +177,14 @@
 .succ .badge{position:absolute;left:128px;top:258px;width:134px;height:134px;border-radius:50%;background:var(--jarna-link);color:var(--jarna-white);
   display:flex;align-items:center;justify-content:center}
 .succ .badge svg{width:62px;height:62px;stroke-width:3.4}
-.succ h1{position:absolute;left:0;right:0;top:410px;text-align:center;font-size:19px;font-weight:500;line-height:28px;color:var(--jarna-text)}
+.succ h1{position:absolute;left:0;right:0;top:410px;text-align:center;font-size:19px;font-weight:400;line-height:28px;color:var(--jarna-text)}
 .succ .to{position:absolute;left:0;right:0;top:446px;text-align:center;font-size:16px;line-height:24px;color:var(--jarna-text)}
-.succ .abox{position:absolute;left:28px;right:28px;top:481px;height:76px;border-radius:4px;background:var(--jarna-disabled);
-  display:flex;align-items:center;justify-content:center;padding:0 14px;text-align:center;font-size:12.5px;line-height:19px;color:var(--jarna-text)}
-.succ .meta{position:absolute;left:28px;right:28px;top:570px;border:1px solid var(--jarna-border);border-radius:12px;padding:10px 14px}
+/* v65 grey box = "PRIVATE DATA HIDDEN" capture mask, not UI: address is plain text */
+.succ .abox{position:absolute;left:28px;right:28px;top:481px;text-align:center;font-size:13.5px;line-height:21px;color:var(--jarna-text-secondary)}
+.succ .meta{position:absolute;left:28px;right:28px;top:532px;border:1px solid var(--jarna-border);border-radius:12px;padding:10px 14px}
 .succ .meta div{display:flex;justify-content:space-between;font-size:13px;line-height:24px;color:var(--jarna-text)}
 .succ .meta div span:last-child{font-weight:700;direction:ltr}
-.succ .saved{position:absolute;left:28px;right:28px;top:658px;margin:0}
+.succ .saved{position:absolute;left:28px;right:28px;top:622px;margin:0}
 
 /* ---------- annotation board (?annotate) ---------- */
 body.annot{width:auto;background:var(--jarna-white)}
@@ -209,9 +211,41 @@ body.annot{width:auto;background:var(--jarna-white)}
 .panel td.n span.issue{background:var(--jarna-warning)}
 .panel td.own{white-space:nowrap}
 .panel code{font-family:ui-monospace,Menlo,monospace;font-size:11px;direction:ltr;unicode-bidi:isolate;background:var(--jarna-disabled);padding:0 4px;border-radius:4px}
-.cls{display:inline-block;padding:1px 7px;border-radius:6px;font-size:11px;font-weight:700;white-space:nowrap}
+.cls{display:inline-block;padding:1px 7px;border-radius:6px;font-size:11px;font-weight:700;white-space:normal;line-height:16px}
 .cls.now{background:var(--jarna-mint);color:var(--jarna-link)}
 .cls.next{background:var(--jarna-disabled);color:var(--jarna-text)}
 .cls.dec{background:var(--jarna-warning-surface);color:var(--jarna-warning)}
 .panel .foot{margin-top:14px;font-size:12px;line-height:19px;color:var(--jarna-text-secondary)}
 .ann-svg{position:absolute;inset:0;pointer-events:none;overflow:visible;z-index:60}
+
+/* mock tags placed on the phone (decision / Next markers, not app UI) */
+.tagged{position:relative}
+.tagged > .mock-tag{position:absolute;left:10px;top:8px;z-index:5}
+.eta-ph{display:block;margin-top:4px;height:18px;border:1px dashed var(--jarna-control-border);border-radius:5px;font-size:11px;line-height:16px;color:var(--jarna-text-secondary);padding:0 6px;width:max-content}
+/* v65 note card (CART-05/06) with the two instruction chips inside */
+.note-card .note-row{height:61px}
+.note-card .nbody{padding:0 19px 16px}
+.note-card .nbody .hint{font-size:13px;line-height:19px;color:var(--jarna-text-secondary)}
+.note-card .ichips{margin-top:10px}
+.note-card .field2{position:relative;margin-top:12px;height:103px;border:1px solid var(--jarna-control-border);border-radius:10px}
+.note-card .field2 span{position:absolute;right:10px;top:15px;font-size:13px;color:var(--jarna-text-secondary)}
+.note-card .field2 i{position:absolute;left:0;bottom:-22px;font-style:normal;font-size:12px;color:var(--jarna-text-secondary);direction:ltr}
+.note-card.open .nbody{padding-bottom:30px}
+/* 07 edge states */
+.edge-sec{margin:0 0 6px;padding:14px 0 6px;border-top:6px solid var(--jarna-mint)}
+.edge-sec > h4{margin:0 15px 10px;font-size:13px;font-weight:700;color:var(--jarna-text)}
+.edge-sec > h4 span{display:inline-flex;width:22px;height:22px;border-radius:50%;background:var(--jarna-ink);color:var(--jarna-white);align-items:center;justify-content:center;font-size:11.5px;margin-left:6px}
+.frag-footer{position:relative;box-shadow:var(--cart-shadow-footer);background:var(--jarna-footer)}
+.btn-primary[disabled] .spin,.spin{display:inline-block;width:16px;height:16px;border-radius:50%;border:2px solid currentColor;border-right-color:transparent;margin-left:8px}
+.skel{display:inline-block;width:64px;height:14px;border-radius:4px;background:var(--jarna-disabled)}
+.notice{margin:0 15px 10px;padding:12px 14px;border-radius:12px;font-size:13px;line-height:20px}
+.notice b{display:block;font-size:14px;margin-bottom:2px}
+.notice.warn{background:var(--jarna-warning-surface);color:var(--jarna-warning)}
+.notice.err{background:var(--jarna-error-surface);color:var(--jarna-error)}
+.notice.info{background:var(--jarna-supportive-panel);color:var(--jarna-text)}
+.addr .err{display:block;margin-top:4px;font-size:12px;line-height:17px;color:var(--jarna-error);font-weight:500}
+.center-state{padding:26px 20px 22px;text-align:center}
+.center-state .ring{width:56px;height:56px;margin:0 auto 14px;border-radius:50%;border:5px solid var(--jarna-mint);border-top-color:var(--jarna-link)}
+.center-state h3{font-size:17px;font-weight:500;color:var(--jarna-text)}
+.center-state p{margin-top:6px;font-size:13px;line-height:20px;color:var(--jarna-text-secondary)}
+.btn-sec{display:flex;align-items:center;justify-content:center;height:46px;margin:10px 15px 0;border-radius:9px;border:1px solid var(--jarna-link);color:var(--jarna-link);font-size:14px;font-weight:600}
