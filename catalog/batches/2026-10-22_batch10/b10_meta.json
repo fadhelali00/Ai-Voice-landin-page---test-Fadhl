@@ -1,0 +1,3796 @@
+[
+{
+"sku": "JRN00003300",
+"barcode": "6281015007244",
+"cat": 42,
+"ar": "موج قفازات ذات الاستخدام الواحد وسط 100 حبة",
+"en": "Maog Household Disposable Gloves Medium 100 pcs",
+"price": 25.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19356085",
+"img_src": "ninja",
+"images": [
+"6281015007244.webp",
+"6281015007244-1.webp",
+"6281015007244-2.webp"
+]
+},
+{
+"sku": "JRN00003301",
+"barcode": "6281015007251",
+"cat": 42,
+"ar": "موج قفازات ذات الاستخدام الواحد كبير 100 حبة",
+"en": "Maog Household Disposable Gloves Large 100 pcs",
+"price": 26.25,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19356084",
+"img_src": "ninja",
+"images": [
+"6281015007251.webp",
+"6281015007251-1.webp",
+"6281015007251-2.webp"
+]
+},
+{
+"sku": "JRN00003302",
+"barcode": "6281015000917",
+"cat": 43,
+"ar": "شراع أكياس نفايات سميك أبو ربطة 50 جالون 25 حبة",
+"en": "Shiraa Trash Thick Tie Bag 50 Gallon 25 Pcs",
+"price": 24.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-4166326",
+"img_src": "ninja",
+"images": [
+"6281015000917.webp",
+"6281015000917-1.webp"
+]
+},
+{
+"sku": "JRN00003303",
+"barcode": "6281101545551",
+"cat": 40,
+"ar": "مشوار مناديل وجه 160 منديل مجموعة 10 حبات",
+"en": "Mouchoir Facial Tissue 160 Sheets Pack of 10 PCs",
+"price": 29.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-13124818",
+"img_src": "ninja",
+"images": [
+"6281101545551.webp",
+"6281101545551-1.webp",
+"6281101545551-2.webp"
+]
+},
+{
+"sku": "JRN00003304",
+"barcode": "6251001300741",
+"cat": 40,
+"ar": "فاين سمايل مناديل وجة 150 منديل 2 طبقة مجموعة 10 حبات",
+"en": "Fine Smile Facial Tissue Soft Pack 150 Sheets 2 Ply Pack 10 Pcs",
+"price": 27.25,
+"special": 18.75,
+"src": "ninja",
+"ninja_id": "5-17246470",
+"img_src": "ninja",
+"images": [
+"6251001300741.webp",
+"6251001300741-1.webp"
+]
+},
+{
+"sku": "JRN00003305",
+"barcode": "6281015004489",
+"cat": 42,
+"ar": "يو دو قفازات مطاط مقاس وسط",
+"en": "U-Do Rubber Gloves Medium Size",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4184890",
+"img_src": "ninja",
+"images": [
+"6281015004489.webp",
+"6281015004489-1.webp"
+]
+},
+{
+"sku": "JRN00003306",
+"barcode": "6281002507795",
+"cat": 40,
+"ar": "كلينكس مناديل سيلك للوجه 50 منديل",
+"en": "Kleenex Silk Cube Facial Tissue 50 Sheets",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19346084",
+"img_src": "ninja",
+"images": [
+"6281002507795.webp"
+]
+},
+{
+"sku": "JRN00003307",
+"barcode": "6281002508204",
+"cat": 40,
+"ar": "كلينكس المناديل الورقية اكسترا دراي للحمامات 9 + 3 مجانا 160 ورقة",
+"en": "Kleenex Extra Dry Toilet Tissue Paper 9+3 Rolls 160 Sheets",
+"price": 33.5,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19317000",
+"img_src": "ninja",
+"images": [
+"6281002508204.webp",
+"6281002508204-1.webp"
+]
+},
+{
+"sku": "JRN00003308",
+"barcode": "6281017403730",
+"cat": 43,
+"ar": "سانيتا كيس مهملات 50 جالون * 25 كيس",
+"en": "Sanita Trash Bag 50 Gallon × 25 Bag",
+"price": 24.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-5991",
+"img_src": "ninja",
+"images": [
+"6281017403730.webp",
+"6281017403730-1.webp",
+"6281017403730-2.webp"
+]
+},
+{
+"sku": "JRN00003309",
+"barcode": "6251001310429",
+"cat": 40,
+"ar": "فاين مناديل تواليت ديلوكس 140 منديل 3 طبقات مجموعة 12 رول",
+"en": "Fine Deluxe Toilet Paper Tissue 140 Sheets 3 Ply Pack 12 Rolls",
+"price": 27.95,
+"special": 21.95,
+"src": "ninja",
+"ninja_id": "5-17246831",
+"img_src": "ninja",
+"images": [
+"6251001310429.webp",
+"6251001310429-1.webp"
+]
+},
+{
+"sku": "JRN00003310",
+"barcode": "6294018809739",
+"cat": 40,
+"ar": "مناديل فاين للمطبخ سوبر تاول 40 ورقة (8 رول +2 مجانا )",
+"en": "Fine Kitchen Paper Super Towel Tissue 40 sheets (8 Rolls +2 Free )",
+"price": 20.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19356580",
+"img_src": "ninja",
+"images": [
+"6294018809739.webp",
+"6294018809739-1.webp"
+]
+},
+{
+"sku": "JRN00003311",
+"barcode": "6251001213027",
+"cat": 40,
+"ar": "فاين مناديل جيب 10 عبوات",
+"en": "Fine Tissue Pocket 10 Pcs",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19295202",
+"img_src": "ninja",
+"images": [
+"6251001213027.webp"
+]
+},
+{
+"sku": "JRN00003312",
+"barcode": "6281002507887",
+"cat": 40,
+"ar": "كلينكس مناديل المطبخ متعددة الاستخدام 10 + 2 مجانًا 40 ورقة",
+"en": "Kleenex Multi Purpose Kitchen Tissue Paper Towel 10+2 Free Rolls 40 Sheets",
+"price": 32.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19316986",
+"img_src": "ninja",
+"images": [
+"6281002507887.webp",
+"6281002507887-1.webp"
+]
+},
+{
+"sku": "JRN00003313",
+"barcode": "6281002508716",
+"cat": 40,
+"ar": "كلينكس مناديل 8 + 2 مجانا مناديل 130 منديل",
+"en": "Kleenex Ultra Strong Facial Tissue 8+2 free Soft Packs 130 Sheets",
+"price": 31.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19316991",
+"img_src": "ninja",
+"images": [
+"6281002508716.webp",
+"6281002508716-1.webp",
+"6281002508716-2.webp"
+]
+},
+{
+"sku": "JRN00003314",
+"barcode": "6281015000924",
+"cat": 43,
+"ar": "شراع أكياس نفايات سميك أبو ربطة 30 جالون 25 حبة",
+"en": "Shiraa Trash Thick Tie Bag 30 Gallon 25 Pcs",
+"price": 22.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-4168529",
+"img_src": "ninja",
+"images": [
+"6281015000924.webp",
+"6281015000924-1.webp",
+"6281015000924-2.webp"
+]
+},
+{
+"sku": "JRN00003315",
+"barcode": "6281101542697",
+"cat": 40,
+"ar": "مشوار مناديل وجه جيب 10 منديل 12 عبوة",
+"en": "Mouchoir Velvet Pocket Tissue 10 Sheets Box of 12",
+"price": 8.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-13126795",
+"img_src": "ninja",
+"images": [
+"6281101542697.webp",
+"6281101542697-1.webp",
+"6281101542697-2.webp"
+]
+},
+{
+"sku": "JRN00003316",
+"barcode": "6281015012613",
+"cat": 43,
+"ar": "موج أكياس نفايات قابل لتحلل 5 جالون 3+1 مجانا 120 كيس",
+"en": "Maog Trash Bags 5 Gallon 3+1 Free 120 Bags",
+"price": 14.95,
+"special": 12.75,
+"src": "ninja",
+"ninja_id": "5-19356072",
+"img_src": "ninja",
+"images": [
+"6281015012613.webp"
+]
+},
+{
+"sku": "JRN00003317",
+"barcode": "6281101542420",
+"cat": 40,
+"ar": "مشوار ماكسي رول 300 متر 1500 ورقة",
+"en": "Mouchoir Maxi Roll 300 M 1500 Sheet",
+"price": 18.95,
+"special": 14.25,
+"src": "ninja",
+"ninja_id": "5-13122670",
+"img_src": "ninja",
+"images": [
+"6281101542420.webp"
+]
+},
+{
+"sku": "JRN00003318",
+"barcode": "6281017340158",
+"cat": 44,
+"ar": "سانيتا أكواب قهوة ورقية 4 أونصة 50 كوب 118 مل",
+"en": "Sanita Paper Coffee Cups 4 Oz 50 Cups 118 ml",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1550578",
+"img_src": "ninja",
+"images": [
+"6281017340158.webp",
+"6281017340158-1.webp"
+]
+},
+{
+"sku": "JRN00003319",
+"barcode": "6281015003482",
+"cat": 43,
+"ar": "موج رقائق ألومنيوم 2 حبه + 1 رول حفظ الطعام مجاناً",
+"en": "Maog Aluminum Foil 2 Rolls + 1 Roll Cling Film Free",
+"price": 17.5,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-4177656",
+"img_src": "ninja",
+"images": [
+"6281015003482.webp",
+"6281015003482-1.webp",
+"6281015003482-2.webp"
+]
+},
+{
+"sku": "JRN00003320",
+"barcode": "6281017213582",
+"cat": 40,
+"ar": "سانيتا كلوب مناديل وجه أرابيسك أبيض بنعومة الحرير76 منديل عبوة 6 حبات",
+"en": "Sanita Club Facial Tissue 76 Sheets 6 Pcs",
+"price": 17.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-5562577",
+"img_src": "ninja",
+"images": [
+"6281017213582.webp",
+"6281017213582-1.webp",
+"6281017213582-2.webp"
+]
+},
+{
+"sku": "JRN00003321",
+"barcode": "6281002507566",
+"cat": 40,
+"ar": "كلينكس مناديل سيلك للوجه 6 قطع 50 مناديل",
+"en": "Kleenex Silk Facial Tissue 6 Boxes 50 Sheets",
+"price": 31.95,
+"special": 20.95,
+"src": "ninja",
+"ninja_id": "5-19316988",
+"img_src": "ninja",
+"images": [
+"6281002507566.webp",
+"6281002507566-1.webp",
+"6281002507566-2.webp"
+]
+},
+{
+"sku": "JRN00003322",
+"barcode": "6281002400973",
+"cat": 40,
+"ar": "كلينكس المناديل الورقية دراي سوفت للحمامات 9 + 3 مجانا 200 ورقة",
+"en": "Kleenex Dry Soft Toilet Tissue Paper 9+3 Free Rolls 200 Sheets",
+"price": 34.95,
+"special": 22.95,
+"src": "ninja",
+"ninja_id": "5-19316983",
+"img_src": "ninja",
+"images": [
+"6281002400973.webp",
+"6281002400973-1.webp",
+"6281002400973-2.webp"
+]
+},
+{
+"sku": "JRN00003323",
+"barcode": "6281017203316",
+"cat": 40,
+"ar": "سانيتا ورق حمام 8+2 رول 200 ورقة",
+"en": "Sanita Toilet Paper 8+2 Rolls 200 Sheets",
+"price": 22.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-2898171",
+"img_src": "ninja",
+"images": [
+"6281017203316.webp"
+]
+},
+{
+"sku": "JRN00003324",
+"barcode": "6281101539338",
+"cat": 40,
+"ar": "سيتي مناديل وجه 150 منديل مجموعة 10 حبات",
+"en": "City Facial Tissue 150 Sheets Pack of 10 pcs",
+"price": 29.95,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-13125399",
+"img_src": "ninja",
+"images": [
+"6281101539338.webp",
+"6281101539338-1.webp",
+"6281101539338-2.webp"
+]
+},
+{
+"sku": "JRN00003325",
+"barcode": "6281101533862",
+"cat": 40,
+"ar": "مشوار ورق حمام 200 ورقة مجموعة 9+3 رول مجاناً",
+"en": "Mouchoir Toilet Paper 200 Sheets Pack of 9+3 Free Rolls",
+"price": 20.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-13128469",
+"img_src": "ninja",
+"images": [
+"6281101533862.webp",
+"6281101533862-1.webp",
+"6281101533862-2.webp"
+]
+},
+{
+"sku": "JRN00003326",
+"barcode": "6281142005922",
+"cat": 41,
+"ar": "موبي معطر جو موبي برائحة العود 300 مل",
+"en": "Mobi Air Freshener Oud 300 ml",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19343175",
+"img_src": "ninja",
+"images": [
+"6281142005922.webp",
+"6281142005922-1.webp"
+]
+},
+{
+"sku": "JRN00003327",
+"barcode": "6281017298282",
+"cat": 43,
+"ar": "سانيتا أكياس حفظ الطعام قابلة للتحلّل كبير 20 كيس",
+"en": "Sanita Food Storage Bags Biodegradable Large 20 Bags",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1549024",
+"img_src": "ninja",
+"images": [
+"6281017298282.webp",
+"6281017298282-1.webp"
+]
+},
+{
+"sku": "JRN00003328",
+"barcode": "6281015012774",
+"cat": 43,
+"ar": "شراع اكياس نفايات رول قابل للتحلل صغير 5 جالون 90 كيس",
+"en": "Shiraa Trash Bags Roll 5 Gallon 90 bags",
+"price": 10.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19356064",
+"img_src": "ninja",
+"images": [
+"6281015012774.webp",
+"6281015012774-1.webp"
+]
+},
+{
+"sku": "JRN00003329",
+"barcode": "6281015012620",
+"cat": 43,
+"ar": "موج أكياس نفايات قابل لتحلل 8 جالون 3+1 مجانا 120 كيس",
+"en": "Maog Trash Bags 8 Gallon 3+1 Free 120 Bags",
+"price": 14.95,
+"special": 12.75,
+"src": "ninja",
+"ninja_id": "5-19356079",
+"img_src": "ninja",
+"images": [
+"6281015012620.webp"
+]
+},
+{
+"sku": "JRN00003330",
+"barcode": "6281015012873",
+"cat": 44,
+"ar": "شراع مفارش سفرة العائلية 100 كيس",
+"en": "Shiraa Table Cover Family Pack 100 bags",
+"price": 19.75,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19356093",
+"img_src": "ninja",
+"images": [
+"6281015012873.webp",
+"6281015012873-1.webp"
+]
+},
+{
+"sku": "JRN00003331",
+"barcode": "6281015004816",
+"cat": 44,
+"ar": "موج مفرش سفره رول 100 حبة",
+"en": "Maog Table Cover Roll 100 Pcs",
+"price": 32.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-4123217",
+"img_src": "ninja",
+"images": [
+"6281015004816.webp",
+"6281015004816-1.webp",
+"6281015004816-2.webp"
+]
+},
+{
+"sku": "JRN00003332",
+"barcode": "6281015001204",
+"cat": 44,
+"ar": "موج مفرش سفره رول مجموعة 2 رول 30 حبه + 1 رول 10 حبات مجاناً",
+"en": "Maog Table Cover Pack 2 Roll 30 pcs + 1 Roll 10 pcs Free",
+"price": 23.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-4167346",
+"img_src": "ninja",
+"images": [
+"6281015001204.webp",
+"6281015001204-1.webp"
+]
+},
+{
+"sku": "JRN00003333",
+"barcode": "6281017306581",
+"cat": 40,
+"ar": "سانيتا جيبسي ورق نشّاف ماكسي رول 1 رول 1500 ورقة",
+"en": "Sanita Gipsy Maxi Roll 1 Roll 1500 Sheets",
+"price": 20.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-13314586",
+"img_src": "ninja",
+"images": [
+"6281017306581.webp",
+"6281017306581-1.webp",
+"6281017306581-2.webp"
+]
+},
+{
+"sku": "JRN00003334",
+"barcode": "6281142005915",
+"cat": 41,
+"ar": "موبي معطر جو برائحة الخزامى 300 مل",
+"en": "Mobi Air Freshener Lavender 300 ml",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19343171",
+"img_src": "ninja",
+"images": [
+"6281142005915.webp",
+"6281142005915-1.webp"
+]
+},
+{
+"sku": "JRN00003335",
+"barcode": "6251001310764",
+"cat": 40,
+"ar": "فاين مناديل تواليت كومفورت 180 منديل 2 طبقة مجموعة 32 رول",
+"en": "Fine Comfort Toilet Paper Tissue 180 Sheets 2 Ply Pack 32 Rolls",
+"price": 49.95,
+"special": 41.25,
+"src": "ninja",
+"ninja_id": "5-17246562",
+"img_src": "ninja",
+"images": [
+"6251001310764.webp",
+"6251001310764-1.webp",
+"6251001310764-2.webp"
+]
+},
+{
+"sku": "JRN00003336",
+"barcode": "6281017298268",
+"cat": 43,
+"ar": "سانيتا أكياس حفظ الطعام قابلة للتحلّل واسطة 25 كيس",
+"en": "Sanita Food Storage Bags Biodegradable Medium 25 Bags",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1549209",
+"img_src": "ninja",
+"images": [
+"6281017298268.webp",
+"6281017298268-1.webp",
+"6281017298268-2.webp"
+]
+},
+{
+"sku": "JRN00003337",
+"barcode": "6281015012781",
+"cat": 43,
+"ar": "شراع اكياس نفايات رول قابل للتحلل وسط 10 جالون 90 كيس",
+"en": "Shiraa Trash Bags Roll 10 Gallon 90 bags",
+"price": 10.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19356070",
+"img_src": "ninja",
+"images": [
+"6281015012781.webp",
+"6281015012781-1.webp"
+]
+},
+{
+"sku": "JRN00003338",
+"barcode": "6281015004472",
+"cat": 42,
+"ar": "يو دو قفازات مطاط مقاس كبير",
+"en": "U-Do Rubber Gloves Big Size",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4185161",
+"img_src": "ninja",
+"images": [
+"6281015004472.webp",
+"6281015004472-1.webp"
+]
+},
+{
+"sku": "JRN00003339",
+"barcode": "6251001222098",
+"cat": 40,
+"ar": "فاين مناديل حمام كومفورت 20 منديل",
+"en": "Fine Comfort Toilet Tissue 20 Rolls",
+"price": 38.95,
+"special": 29.5,
+"src": "ninja",
+"ninja_id": "5-19319008",
+"img_src": "ninja",
+"images": [
+"6251001222098.webp"
+]
+},
+{
+"sku": "JRN00003340",
+"barcode": "6281017216002",
+"cat": 43,
+"ar": "سانيتا النايلون اللاصق للتغليف العبوة الاقتصادية 45 سم 1 رول",
+"en": "Sanita Cling Film Economy Pack 45 cm 1 Roll",
+"price": 40.95,
+"special": 33.75,
+"src": "ninja",
+"ninja_id": "5-19313601",
+"img_src": "ninja",
+"images": [
+"6281017216002.webp",
+"6281017216002-1.webp",
+"6281017216002-2.webp"
+]
+},
+{
+"sku": "JRN00003341",
+"barcode": "6294018804680",
+"cat": 40,
+"ar": "فاين مناديل وجه فلافي 130 منديل × طبقتين 10عبوات +4 مجانا",
+"en": "Fine Facial Tissues Fluffy 130X2 Ply 10 Pcs+4 Free",
+"price": 34.95,
+"special": 27.5,
+"src": "ninja",
+"ninja_id": "5-19287888",
+"img_src": "ninja",
+"images": [
+"6294018804680.webp",
+"6294018804680-1.webp"
+]
+},
+{
+"sku": "JRN00003342",
+"barcode": "6253500497762",
+"cat": 40,
+"ar": "فاين مناديل المطبخ رول 2* 150 متر",
+"en": "Fine Kitchen Paper Towel Roll 2*150 Meter",
+"price": 18.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-14808380",
+"img_src": "ninja",
+"images": [
+"6253500497762.webp",
+"6253500497762-1.webp",
+"6253500497762-2.webp"
+]
+},
+{
+"sku": "JRN00003343",
+"barcode": "6281142007001",
+"cat": 43,
+"ar": "موبي أكياس نفايات ذات سماكة عالية 55 جالون",
+"en": "Mobi Trash Bag 55 Gallon",
+"price": 18.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19343162",
+"img_src": "ninja",
+"images": [
+"6281142007001.webp",
+"6281142007001-1.webp"
+]
+},
+{
+"sku": "JRN00003344",
+"barcode": "6281142007018",
+"cat": 43,
+"ar": "موبي اكياس نفايات ذات سماكة عالية 30 جالون",
+"en": "Mobi Trash Bag 30 Gallon",
+"price": 17.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19343168",
+"img_src": "ninja",
+"images": [
+"6281142007018.webp",
+"6281142007018-1.webp"
+]
+},
+{
+"sku": "JRN00003345",
+"barcode": "6281142005892",
+"cat": 41,
+"ar": "موبي معطر جو موبي برائحة الورد 300 مل",
+"en": "Mobi Air Freshener Rose 300 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19343166",
+"img_src": "ninja",
+"images": [
+"6281142005892.webp",
+"6281142005892-1.webp"
+]
+},
+{
+"sku": "JRN00003346",
+"barcode": "6281015012637",
+"cat": 43,
+"ar": "موج أكياس نفايات قابل لتحلل 10 جالون 2+1 مجانا 90 كيس",
+"en": "Maog Trash Bags 10 Gallon 2+1 Free 90 Bags",
+"price": 14.95,
+"special": 12.75,
+"src": "ninja",
+"ninja_id": "5-19356080",
+"img_src": "ninja",
+"images": [
+"6281015012637.webp",
+"6281015012637-1.webp"
+]
+},
+{
+"sku": "JRN00003347",
+"barcode": "8700216185615",
+"cat": 41,
+"ar": "فبريز بخاخ معطر جو برائحة نسيم الزهر 185 مل",
+"en": "Febreze Blossom and Breeze Air Freshener Spray 185 ml",
+"price": 19.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19368943",
+"img_src": "ninja",
+"images": [
+"8700216185615.webp",
+"8700216185615-1.webp"
+]
+},
+{
+"sku": "JRN00003348",
+"barcode": "8700216186063",
+"cat": 41,
+"ar": "فبريز بخاخ معطر جو برائحة اللافندر 185 مل",
+"en": "Febreze Lavender Air Freshener Spray 185 ml",
+"price": 21.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19368944",
+"img_src": "ninja",
+"images": [
+"8700216186063.webp",
+"8700216186063-1.webp",
+"8700216186063-2.webp"
+]
+},
+{
+"sku": "JRN00003349",
+"barcode": "8700216185783",
+"cat": 41,
+"ar": "فبريز بخاخ معطر جو برائحة الياسمين الأبيض 185 مل",
+"en": "Febreze White Jasmine Air Freshener Spray 185 ml",
+"price": 19.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19368940",
+"img_src": "ninja",
+"images": [
+"8700216185783.webp",
+"8700216185783-1.webp"
+]
+},
+{
+"sku": "JRN00003350",
+"barcode": "8700216185691",
+"cat": 41,
+"ar": "فبريز بخاخ معطر جو برائحة الأوركيد الذهبي 185 مل",
+"en": "Febreze Gold Orchid Air Freshener Spray 185 ml",
+"price": 19.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19368942",
+"img_src": "ninja",
+"images": [
+"8700216185691.webp",
+"8700216185691-1.webp"
+]
+},
+{
+"sku": "JRN00003351",
+"barcode": "6283250012861",
+"cat": 41,
+"ar": "عود لافر مبسوس مسك 70 جم",
+"en": "Oud Lover Mabsoos Musk 70 g",
+"price": 21.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19374695",
+"img_src": "ninja",
+"images": [
+"6283250012861.webp",
+"6283250012861-1.webp"
+]
+},
+{
+"sku": "JRN00003352",
+"barcode": "6285651445514",
+"cat": 41,
+"ar": "عود لافر معمول عود الذهب 185 جم",
+"en": "Oud Lover Maamool Oud Aldhab 185 g",
+"price": 41.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19374721",
+"img_src": "ninja",
+"images": [
+"6285651445514.webp",
+"6285651445514-1.webp"
+]
+},
+{
+"sku": "JRN00003353",
+"barcode": "6280325787716",
+"cat": 41,
+"ar": "عود لافر معمول امير العود 185 جم",
+"en": "Oud Lover Maamool Ameer Al-Oud 185 g",
+"price": 41.95,
+"special": 34.95,
+"src": "ninja",
+"ninja_id": "5-19374709",
+"img_src": "ninja",
+"images": [
+"6280325787716.webp",
+"6280325787716-1.webp",
+"6280325787716-2.webp"
+]
+},
+{
+"sku": "JRN00003354",
+"barcode": "6923543911128",
+"cat": 41,
+"ar": "كوالتي معطر حمام برائحة الورد كبير 160 جم",
+"en": "Quality Bathroom Air Freshener Rose Large 160 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19375929",
+"img_src": "ninja",
+"images": [
+"6923543911128.webp"
+]
+},
+{
+"sku": "JRN00003355",
+"barcode": "8692229091765",
+"cat": 41,
+"ar": "كريزون كريشن معطر المنزل والمفروشات توباكو باتشولي 500 مل",
+"en": "Kreasyon Creation Tobacco Patchouli Home and Furniture Freshener 500 ml",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387682",
+"img_src": "ninja",
+"images": [
+"8692229091765.webp",
+"8692229091765-1.webp"
+]
+},
+{
+"sku": "JRN00003356",
+"barcode": "8692229089410",
+"cat": 41,
+"ar": "كريزون كريشن معطر المنزل والمفروشات ياسمين 500 مل",
+"en": "Kreasyon Creation Jasmine Home and Furniture Freshener 500 ml",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387683",
+"img_src": "ninja",
+"images": [
+"8692229089410.webp",
+"8692229089410-1.webp"
+]
+},
+{
+"sku": "JRN00003357",
+"barcode": "8700216185813",
+"cat": 41,
+"ar": "فبريز بخاخ معطر جو برائحة الفواكه الأستوائية 185 مل",
+"en": "Febreze Fruity Tropics Air Freshener Spray 185 ml",
+"price": 19.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-19368941",
+"img_src": "ninja",
+"images": [
+"8700216185813.webp",
+"8700216185813-1.webp"
+]
+},
+{
+"sku": "JRN00003358",
+"barcode": "6215000404077",
+"cat": 41,
+"ar": "شيخ الكار بخور هرمي اللافندر 12 حبة",
+"en": "Shaykh AlKar Lavender Pyramid Incense 12 pcs",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395200",
+"img_src": "ninja",
+"images": [
+"6215000404077.webp",
+"6215000404077-1.webp",
+"6215000404077-2.webp"
+]
+},
+{
+"sku": "JRN00003359",
+"barcode": "6215000404183",
+"cat": 41,
+"ar": "شيخ الكار بخور هرمي نسائم عود كشميري 12 حبة",
+"en": "Shaykh AlKar Kashmiri Oud Breeze Pyramid Incense 12 pcs",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395207",
+"img_src": "ninja",
+"images": [
+"6215000404183.webp",
+"6215000404183-1.webp",
+"6215000404183-2.webp"
+]
+},
+{
+"sku": "JRN00003360",
+"barcode": "6282307003210",
+"cat": 41,
+"ar": "لاكوتاج معطر جو انتعاش الزهور 300 مل",
+"en": "Le Cottage Air Freshener Flower Scent 300 ml",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291103",
+"img_src": "ninja",
+"images": [
+"6282307003210.webp",
+"6282307003210-1.webp",
+"6282307003210-2.webp"
+]
+},
+{
+"sku": "JRN00003361",
+"barcode": "6222021801204",
+"cat": 41,
+"ar": "جليد بخاخ معطر متعدد الاستخدامات برائحة صن شاين 460 مل",
+"en": "Glade Air Freshener Multi Spray Sunshine 460 ml",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401234",
+"img_src": "ninja",
+"images": [
+"6222021801204.webp",
+"6222021801204-1.webp"
+]
+},
+{
+"sku": "JRN00003362",
+"barcode": "6215000404145",
+"cat": 41,
+"ar": "شيخ الكار بخور هرمي نسائم عود وصال 12 حبة",
+"en": "Shaykh AlKar Oud Wessal Breeze Pyramid Incense 12 pcs",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401270",
+"img_src": "ninja",
+"images": [
+"6215000404145.webp"
+]
+},
+{
+"sku": "JRN00003363",
+"barcode": "5000204134872",
+"cat": 41,
+"ar": "جليد جل عبق الورد و التوت البري 180 جم",
+"en": "Glade Large Gel Peony Mena 180 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-17078336",
+"img_src": "ninja",
+"images": [
+"5000204134872.webp",
+"5000204134872-1.webp",
+"5000204134872-2.webp"
+]
+},
+{
+"sku": "JRN00003364",
+"barcode": "6287011831036",
+"cat": 41,
+"ar": "أي عود بيلسان 8 حبات",
+"en": "Ioud Bilasan 8 pcs",
+"price": 101.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19375160",
+"img_src": "ninja",
+"images": [
+"6287011831036.webp",
+"6287011831036-1.webp",
+"6287011831036-2.webp"
+]
+},
+{
+"sku": "JRN00003365",
+"barcode": "6283250011444",
+"cat": 41,
+"ar": "مبسوس تولة اسود 70 جم",
+"en": "Oud Lover Mabsoos Tola Aswad 70 g",
+"price": 21.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19374702",
+"img_src": "ninja",
+"images": [
+"6283250011444.webp",
+"6283250011444-1.webp"
+]
+},
+{
+"sku": "JRN00003366",
+"barcode": "6285651254444",
+"cat": 41,
+"ar": "عود لافر معمول المجلس 185 جم",
+"en": "Oud Lover Maamoul Almajlis 185 g",
+"price": 41.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19374707",
+"img_src": "ninja",
+"images": [
+"6285651254444.webp",
+"6285651254444-1.webp"
+]
+},
+{
+"sku": "JRN00003367",
+"barcode": "6287767456682",
+"cat": 41,
+"ar": "عود لافر بخور المجلس ميني 12 حبة",
+"en": "Oud Lover Almajlis Mini 12 pcs",
+"price": 128.95,
+"special": 109.95,
+"src": "ninja",
+"ninja_id": "5-19374714",
+"img_src": "ninja",
+"images": [
+"6287767456682.webp"
+]
+},
+{
+"sku": "JRN00003368",
+"barcode": "6283250011222",
+"cat": 41,
+"ar": "عود لافر مبسوس عود الذهب 70 جم",
+"en": "Oud Lover Mabsoos Oud Aldahab 70 g",
+"price": 21.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19374738",
+"img_src": "ninja",
+"images": [
+"6283250011222.webp",
+"6283250011222-1.webp"
+]
+},
+{
+"sku": "JRN00003369",
+"barcode": "6285789955633",
+"cat": 41,
+"ar": "عود لافر معمول عطر الفنادق 185 جم",
+"en": "Oud Lover Maamool Hotels Perfume 185 g",
+"price": 41.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19374723",
+"img_src": "ninja",
+"images": [
+"6285789955633.webp",
+"6285789955633-1.webp"
+]
+},
+{
+"sku": "JRN00003370",
+"barcode": "5000204160253",
+"cat": 41,
+"ar": "جليد معطر الجو زيوت عطرية برائحة الفانيلا عبوة تعبئة 20 مل",
+"en": "Glade Electric Plugins Air Freshener Vanilla Scented Oil Refill 20 ml",
+"price": 35.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292739",
+"img_src": "ninja",
+"images": [
+"5000204160253.webp",
+"5000204160253-1.webp",
+"5000204160253-2.webp"
+]
+},
+{
+"sku": "JRN00003371",
+"barcode": "6287019370841",
+"cat": 41,
+"ar": "جليد معطر الجو زيوت عطرية برائحة اللافندر جهاز اوتاماتيك مع عبوة تعبئة 20 مل",
+"en": "Glade Electric Plugins Air Freshener Lavender Scented Oil Holder With Refill 20 ml",
+"price": 46.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292744",
+"img_src": "ninja",
+"images": [
+"6287019370841.webp",
+"6287019370841-1.webp",
+"6287019370841-2.webp"
+]
+},
+{
+"sku": "JRN00003372",
+"barcode": "8690784817110",
+"cat": 41,
+"ar": "جليد معطر جو لإعادة التعبئة برائحة اللافندر والفانيليا 269 مل",
+"en": "Glade Freshener Spray Refill Lavender & Vanilla Scent 269 ml",
+"price": 47.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-361",
+"img_src": "ninja",
+"images": [
+"8690784817110.webp",
+"8690784817110-1.webp"
+]
+},
+{
+"sku": "JRN00003373",
+"barcode": "6223001346760",
+"cat": 41,
+"ar": "جليد معطر جو برائحة الفانيليا 300 مل",
+"en": "Glade Air Freshener Vanilla Scent 300 ml",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-368",
+"img_src": "ninja",
+"images": [
+"6223001346760.webp",
+"6223001346760-1.webp"
+]
+},
+{
+"sku": "JRN00003374",
+"barcode": "6282227555660",
+"cat": 41,
+"ar": "عود لافر معطر اميرال 500 مل",
+"en": "Oud Lover Amiral Freshener 500 ml",
+"price": 44.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19386231",
+"img_src": "ninja",
+"images": [
+"6282227555660.webp",
+"6282227555660-1.webp",
+"6282227555660-2.webp"
+]
+},
+{
+"sku": "JRN00003375",
+"barcode": "8692229077035",
+"cat": 41,
+"ar": "كريزون كريشن ريد معطر للغرف والمكاتب لافندروالشاي 115 مل",
+"en": "Kreasyon Creation Red Room and Office Air Freshener Lavender and Tea 115 ml",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387684",
+"img_src": "ninja",
+"images": [
+"8692229077035.webp",
+"8692229077035-1.webp",
+"8692229077035-2.webp"
+]
+},
+{
+"sku": "JRN00003376",
+"barcode": "8692229077004",
+"cat": 41,
+"ar": "كريزون كريشن ريد معطر للغرف والمكاتب بلاك بيري 115 مل",
+"en": "Kreasyon Creation Red Room and Office Air Freshener Blackberry 115 ml",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387686",
+"img_src": "ninja",
+"images": [
+"8692229077004.webp",
+"8692229077004-1.webp",
+"8692229077004-2.webp"
+]
+},
+{
+"sku": "JRN00003377",
+"barcode": "8692229089519",
+"cat": 41,
+"ar": "كريزون كريشن معطر المنزل والمفروشات نسيم الجبل 500 مل",
+"en": "Kreasyon Creation Mountain Breeze Home and Furniture Freshener 500 ml",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387691",
+"img_src": "ninja",
+"images": [
+"8692229089519.webp",
+"8692229089519-1.webp"
+]
+},
+{
+"sku": "JRN00003378",
+"barcode": "8692229090089",
+"cat": 41,
+"ar": "كريزون كريشن ريد معطر للغرف والمكاتب بيبي باودر 115 مل",
+"en": "Kreasyon Creation Red Room and Office Air Freshener Baby Powder 115 ml",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387692",
+"img_src": "ninja",
+"images": [
+"8692229090089.webp",
+"8692229090089-1.webp",
+"8692229090089-2.webp"
+]
+},
+{
+"sku": "JRN00003379",
+"barcode": "6223001346784",
+"cat": 41,
+"ar": "جليد معطر جو لإعادة التعبئة برائحة الفانيليا 269 مل",
+"en": "Glade Freshener Spray Refill Vanilla Scent 269 ml",
+"price": 47.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-372",
+"img_src": "ninja",
+"images": [
+"6223001346784.webp",
+"6223001346784-1.webp"
+]
+},
+{
+"sku": "JRN00003380",
+"barcode": "6215000403162",
+"cat": 41,
+"ar": "شيخ الكار أعواد بخور مسك وعنبر 18 حبة",
+"en": "Shaykh AlKar Musk & Amber Incense Sticks 18 pcs",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395197",
+"img_src": "ninja",
+"images": [
+"6215000403162.webp",
+"6215000403162-1.webp",
+"6215000403162-2.webp"
+]
+},
+{
+"sku": "JRN00003381",
+"barcode": "6215000404022",
+"cat": 41,
+"ar": "شيخ الكار أعواد بخور نسائم عود كشميري 18 حبة",
+"en": "Shaykh AlKar Kashmiri Oud Breeze Incense Sticks 18 pcs",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395199",
+"img_src": "ninja",
+"images": [
+"6215000404022.webp",
+"6215000404022-1.webp",
+"6215000404022-2.webp"
+]
+},
+{
+"sku": "JRN00003382",
+"barcode": "6215000404091",
+"cat": 41,
+"ar": "شيخ الكار بخور هرمي خشب العود 12 حبة",
+"en": "Shaykh AlKar Oud Wood Pyramid Incense 12 pcs",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395201",
+"img_src": "ninja",
+"images": [
+"6215000404091.webp",
+"6215000404091-1.webp",
+"6215000404091-2.webp"
+]
+},
+{
+"sku": "JRN00003383",
+"barcode": "6215000404107",
+"cat": 41,
+"ar": "شيخ الكار بخور هرمي فانيلا 12 حبة",
+"en": "Shaykh AlKar Vanilla Pyramid Incense 12 pcs",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395202",
+"img_src": "ninja",
+"images": [
+"6215000404107.webp",
+"6215000404107-1.webp",
+"6215000404107-2.webp"
+]
+},
+{
+"sku": "JRN00003384",
+"barcode": "6215000404121",
+"cat": 41,
+"ar": "شيخ الكار بخور هرمي مسك وعنبر 12 حبة",
+"en": "Shaykh AlKar Musk & Amber Pyramid Incense 12 pcs",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395203",
+"img_src": "ninja",
+"images": [
+"6215000404121.webp",
+"6215000404121-1.webp",
+"6215000404121-2.webp"
+]
+},
+{
+"sku": "JRN00003385",
+"barcode": "6215000404169",
+"cat": 41,
+"ar": "شيخ الكار بخور هرمي مسك أبيض 12 حبة",
+"en": "Shaykh AlKar White Musk Pyramid Incense 12 pcs",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395205",
+"img_src": "ninja",
+"images": [
+"6215000404169.webp",
+"6215000404169-1.webp",
+"6215000404169-2.webp"
+]
+},
+{
+"sku": "JRN00003386",
+"barcode": "6215000404244",
+"cat": 41,
+"ar": "شيخ الكار بخور مبثوث مباخر عود كشميري 30 جم",
+"en": "Shaykh AlKar Kashmiri Oud Loose Mabsoos Incense 30 g",
+"price": 28.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19395211",
+"img_src": "ninja",
+"images": [
+"6215000404244.webp"
+]
+},
+{
+"sku": "JRN00003387",
+"barcode": "6215000403186",
+"cat": 41,
+"ar": "شيخ الكار أعواد بخور نسائم عود وصال 18 حبة",
+"en": "Shaykh AlKar Oud Wessal Breeze Incense Sticks 18 pcs",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401260",
+"img_src": "ninja",
+"images": [
+"6215000403186.webp"
+]
+},
+{
+"sku": "JRN00003388",
+"barcode": "6215000403209",
+"cat": 41,
+"ar": "شيخ الكار أعواد بخور ليالي الشرق 18 حبة",
+"en": "Shaykh AlKar Nights of the East Incense Sticks 18 pcs",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401261",
+"img_src": "ninja",
+"images": [
+"6215000403209.webp"
+]
+},
+{
+"sku": "JRN00003389",
+"barcode": "6223001342182",
+"cat": 41,
+"ar": "جليد مالتي سبراي انتعاش النظافة 460 مل",
+"en": "Glade Multi Spray New Clean Linen 460 ml",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380377",
+"img_src": "ninja",
+"images": [
+"6223001342182.webp",
+"6223001342182-1.webp"
+]
+},
+{
+"sku": "JRN00003390",
+"barcode": "6271004200657",
+"cat": 41,
+"ar": "كويك ملطف جو عنب 300 مل",
+"en": "Kwik Grape Air Freshener 300 ml",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380103",
+"img_src": "ninja",
+"images": [
+"6271004200657.webp"
+]
+},
+{
+"sku": "JRN00003391",
+"barcode": "6271004964320",
+"cat": 41,
+"ar": "هلا رشوش العود الذهبي 195 مل",
+"en": "Hala Home Rashoosh Golden Oud 195 ml",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380113",
+"img_src": "ninja",
+"images": [
+"6271004964320.webp",
+"6271004964320-1.webp"
+]
+},
+{
+"sku": "JRN00003392",
+"barcode": "8690784317115",
+"cat": 41,
+"ar": "جليد بخاخ اتوماتيكي عطر الغابات غيار 269 مل",
+"en": "Glade Automatic Spray Refill Cashmere Woods 269 ml",
+"price": 47.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-17079100",
+"img_src": "ninja",
+"images": [
+"8690784317115.webp",
+"8690784317115-1.webp"
+]
+},
+{
+"sku": "JRN00003393",
+"barcode": "6281115923475",
+"cat": 42,
+"ar": "بس باك قفازات فنيل لاستخدام المرة الواحدة وسط",
+"en": "Bes Pack vinyl Gloves M",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369704",
+"img_src": "ninja",
+"images": [
+"6281115923475.webp",
+"6281115923475-1.webp",
+"6281115923475-2.webp"
+]
+},
+{
+"sku": "JRN00003394",
+"barcode": "6281015006063",
+"cat": 42,
+"ar": "موج سلك بالاسفنجة لغسيل الصحون 6 + 3 مجانا",
+"en": "Maog Sponge Wire for Washing Dishes 6 +3 Free",
+"price": 18.75,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-4377",
+"img_src": "ninja",
+"images": [
+"6281015006063.webp",
+"6281015006063-1.webp",
+"6281015006063-2.webp"
+]
+},
+{
+"sku": "JRN00003395",
+"barcode": "6291015463773",
+"cat": 42,
+"ar": "سوبريكس اسفنج غسيل الصحون والمواعين 6+3 مجانا 9 قطع",
+"en": "Suprex Dishwash Sponge 6+3 Free 9 pcs",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376891",
+"img_src": "ninja",
+"images": [
+"6291015463773.webp",
+"6291015463773-1.webp",
+"6291015463773-2.webp"
+]
+},
+{
+"sku": "JRN00003396",
+"barcode": "4023103192577",
+"cat": 42,
+"ar": "فيليدا مايكروفايبر الوان 4 قطع",
+"en": "Vileda Microfiber Colors All Purpose Wiping Cloth 4 pcs",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290493",
+"img_src": "ninja",
+"images": [
+"4023103192577.webp",
+"4023103192577-1.webp",
+"4023103192577-2.webp"
+]
+},
+{
+"sku": "JRN00003397",
+"barcode": "6281115923468",
+"cat": 42,
+"ar": "بس باك قفازات فنيل لاستخدام المرة الواحدة كبير",
+"en": "Bes Pack vinyl Gloves L",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369695",
+"img_src": "ninja",
+"images": [
+"6281115923468.webp",
+"6281115923468-1.webp",
+"6281115923468-2.webp"
+]
+},
+{
+"sku": "JRN00003398",
+"barcode": "6291101712976",
+"cat": 42,
+"ar": "هوت باك قفازات فينيل خالية من البودرة كبير 100 قطعة",
+"en": "Hotpack Powder-Free Vinyl Gloves Large 100 Pcs",
+"price": 21.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19370105",
+"img_src": "ninja",
+"images": [
+"6291101712976.webp",
+"6291101712976-1.webp",
+"6291101712976-2.webp"
+]
+},
+{
+"sku": "JRN00003399",
+"barcode": "4023103217263",
+"cat": 42,
+"ar": "فيليدا اسفنج لغسيل الاطباق تيب توبب عبوة من 9 قطع",
+"en": "Vileda Tip Top Dishwashing Sponge Pack Of 9 pcs",
+"price": 12.2,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294282",
+"img_src": "ninja",
+"images": [
+"4023103217263.webp",
+"4023103217263-1.webp",
+"4023103217263-2.webp"
+]
+},
+{
+"sku": "JRN00003400",
+"barcode": "8695122001589",
+"cat": 42,
+"ar": "تيتيز طقم مكنسة وجاروف بمقبض الوان متنوعه",
+"en": "Titiz Foldable Dustpan Set Assorted Color",
+"price": 25.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316959",
+"img_src": "ninja",
+"images": [
+"8695122001589.webp",
+"8695122001589-1.webp"
+]
+},
+{
+"sku": "JRN00003401",
+"barcode": "4023103196506",
+"cat": 42,
+"ar": "فيليدا مماسح مايكروفايبر قطعة اللوان",
+"en": "Vileda Microfibre Color Floor Cloth",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290502",
+"img_src": "ninja",
+"images": [
+"4023103196506.webp",
+"4023103196506-1.webp",
+"4023103196506-2.webp"
+]
+},
+{
+"sku": "JRN00003402",
+"barcode": "6928769400258",
+"cat": 42,
+"ar": "ركسو سلك ستانلس ستيل 12 حبة",
+"en": "Rexo Stainless Steel Scrubber 12 pcs",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19375947",
+"img_src": "ninja",
+"images": [
+"6928769400258.webp",
+"6928769400258-1.webp",
+"6928769400258-2.webp"
+]
+},
+{
+"sku": "JRN00003403",
+"barcode": "6932501012883",
+"cat": 42,
+"ar": "ركسو مساحة جلد بلاستيك 35 سم عصا حديد",
+"en": "Rexo Rubber Wiper Plastic 35 cm Iron Handle",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19375932",
+"img_src": "ninja",
+"images": [
+"6932501012883.webp"
+]
+},
+{
+"sku": "JRN00003404",
+"barcode": "6971432148018",
+"cat": 42,
+"ar": "ركسو مكانس اقتصادية",
+"en": "Rexo Economy Brooms",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19375942",
+"img_src": "ninja",
+"images": [
+"6971432148018.webp"
+]
+},
+{
+"sku": "JRN00003405",
+"barcode": "6291015463872",
+"cat": 42,
+"ar": "سوبريكس اسفنج الأطباق والمواعين 15+5 مجانا 20 حبة",
+"en": "Suprex Dishwash Cleaning Sponge 15+5 Free 20 pcs",
+"price": 18.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19376882",
+"img_src": "ninja",
+"images": [
+"6291015463872.webp"
+]
+},
+{
+"sku": "JRN00003406",
+"barcode": "6920240608269",
+"cat": 42,
+"ar": "قفازات استعمال مرة واحدة لون اسود",
+"en": "Disposable Glove TPE Black 100 Pcs",
+"price": 15.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19371614",
+"img_src": "ninja",
+"images": [
+"6920240608269.webp",
+"6920240608269-1.webp",
+"6920240608269-2.webp"
+]
+},
+{
+"sku": "JRN00003407",
+"barcode": "6980576030158",
+"cat": 42,
+"ar": "ركسو فرشاة تنظيف",
+"en": "Rexo Scrubbing Brush",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19320370",
+"img_src": "ninja",
+"images": [
+"6980576030158.webp",
+"6980576030158-1.webp",
+"6980576030158-2.webp"
+]
+},
+{
+"sku": "JRN00003408",
+"barcode": "6980579120030",
+"cat": 42,
+"ar": "ركسو سلك 20 جم 3 قطع",
+"en": "Rexo Steel Scrubber 20 g 3 pcs",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19320326",
+"img_src": "ninja",
+"images": [
+"6980579120030.webp",
+"6980579120030-1.webp",
+"6980579120030-2.webp"
+]
+},
+{
+"sku": "JRN00003409",
+"barcode": "8695122001442",
+"cat": 42,
+"ar": "تيتيز طقم فرشاة تنظيف مرحاض مع غلاف الوان متنوعه",
+"en": "Titiz Classic Toilet Brush Set Shrink Wrapped Assorted Color",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316951",
+"img_src": "ninja",
+"images": [
+"8695122001442.webp",
+"8695122001442-1.webp",
+"8695122001442-2.webp"
+]
+},
+{
+"sku": "JRN00003410",
+"barcode": "6287007060235",
+"cat": 42,
+"ar": "منشفة مطبخ 3 قطع",
+"en": "Kitchen Towel 3 pcs",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19344111",
+"img_src": "ninja",
+"images": [
+"6287007060235.webp"
+]
+},
+{
+"sku": "JRN00003411",
+"barcode": "6930863257034",
+"cat": 42,
+"ar": "ركسو فرشاة لتنظيف الارضيات مع عصا متعددة الالوان",
+"en": "Rexo Cleaning Brush with Handle assorted Color",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19320313",
+"img_src": "ninja",
+"images": [
+"6930863257034.webp",
+"6930863257034-1.webp",
+"6930863257034-2.webp"
+]
+},
+{
+"sku": "JRN00003412",
+"barcode": "6281063441625",
+"cat": 42,
+"ar": "أورينكس سلك للتلميع مقاوم للصدأ 1 حبه",
+"en": "Orinex Anti-Rust Scourer 1 pcs",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368155",
+"img_src": "ninja",
+"images": [
+"6281063441625.webp"
+]
+},
+{
+"sku": "JRN00003413",
+"barcode": "6281063441656",
+"cat": 42,
+"ar": "أورينكس سلك للتلميع مقاوم للصدأ 5 حبه",
+"en": "Orinex Anti-Rust Scourer 5 pcs",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368177",
+"img_src": "ninja",
+"images": [
+"6281063441656.webp",
+"6281063441656-1.webp",
+"6281063441656-2.webp"
+]
+},
+{
+"sku": "JRN00003414",
+"barcode": "6215000660602",
+"cat": 42,
+"ar": "العائلة فرشة حمام مدورة",
+"en": "Alaila Round Bathroom Brush",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19375945",
+"img_src": "ninja",
+"images": [
+"6215000660602.webp",
+"6215000660602-1.webp"
+]
+},
+{
+"sku": "JRN00003415",
+"barcode": "6291015240138",
+"cat": 42,
+"ar": "سوبريكس اسفنج تربل أكشن لا يترك خدوش 2 قطعتين",
+"en": "Suprex Triple Non Scratch Sponge 2 pcs",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376879",
+"img_src": "ninja",
+"images": [
+"6291015240138.webp"
+]
+},
+{
+"sku": "JRN00003416",
+"barcode": "6291015070087",
+"cat": 42,
+"ar": "سوبريكس مايكروفايبر قماش وممسحة 6 قطع",
+"en": "Suprex Microfiber Cleaning Cloth 6 pcs",
+"price": 23.95,
+"special": 21.95,
+"src": "ninja",
+"ninja_id": "5-19376886",
+"img_src": "ninja",
+"images": [
+"6291015070087.webp",
+"6291015070087-1.webp",
+"6291015070087-2.webp"
+]
+},
+{
+"sku": "JRN00003417",
+"barcode": "4023103234130",
+"cat": 42,
+"ar": "فيليدا سبينو الترا الدوارة لتنظيف الارضيات",
+"en": "Vileda Spino Ultra Set for Floor Cleaning",
+"price": 153.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290524",
+"img_src": "ninja",
+"images": [
+"4023103234130.webp",
+"4023103234130-1.webp",
+"4023103234130-2.webp"
+]
+},
+{
+"sku": "JRN00003418",
+"barcode": "4023103086869",
+"cat": 42,
+"ar": "فيليدا مكنسة داخلية عادي مع عصا بلاستيك",
+"en": "Vileda Indoor Broom Standard With Longhandle",
+"price": 40.3,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290509",
+"img_src": "ninja",
+"images": [
+"4023103086869.webp",
+"4023103086869-1.webp",
+"4023103086869-2.webp"
+]
+},
+{
+"sku": "JRN00003419",
+"barcode": "4023103251540",
+"cat": 42,
+"ar": "فيليدا نظام ممسحة H2Pro المسطحة",
+"en": "Vileda H2Pro Flat Mop System",
+"price": 229.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19389574",
+"img_src": "ninja",
+"images": [
+"4023103251540.webp"
+]
+},
+{
+"sku": "JRN00003420",
+"barcode": "6980576030066",
+"cat": 42,
+"ar": "ركسو مكنسة مع جاروف الوان متنوعه",
+"en": "Rexo Broom With Dustpan Assorted Color",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19320356",
+"img_src": "ninja",
+"images": [
+"6980576030066.webp",
+"6980576030066-1.webp"
+]
+},
+{
+"sku": "JRN00003421",
+"barcode": "8695122003316",
+"cat": 42,
+"ar": "تيتيز فرشاة المغسلة والحوض الوان متنوعه",
+"en": "Titiz Soften Sink and Bathtub Brush Assorted Color",
+"price": 8.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316938",
+"img_src": "ninja",
+"images": [
+"8695122003316.webp",
+"8695122003316-1.webp"
+]
+},
+{
+"sku": "JRN00003422",
+"barcode": "6291015079417",
+"cat": 42,
+"ar": "سوبريكس بريميوم فوطة مايكروفايبر للتنظيف كبيرة 3 قطع",
+"en": "Suprex Premium Microfiber Cleaning Cloth Large 3 pcs",
+"price": 20.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19331779",
+"img_src": "ninja",
+"images": [
+"6291015079417.webp",
+"6291015079417-1.webp",
+"6291015079417-2.webp"
+]
+},
+{
+"sku": "JRN00003423",
+"barcode": "6932501416056",
+"cat": 42,
+"ar": "ركسو مساحة سيراميك ازرق 40 سم",
+"en": "Rexo Bleach mop blue 40 cm",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19320303",
+"img_src": "ninja",
+"images": [
+"6932501416056.webp",
+"6932501416056-1.webp",
+"6932501416056-2.webp"
+]
+},
+{
+"sku": "JRN00003424",
+"barcode": "6281017340059",
+"cat": 44,
+"ar": "سانيتا أكواب الشاي الورقية 9 أونصة 50 كوب 266 مل",
+"en": "Sanita Paper Tea Cups 9 Oz Carton 50 Cups 266 ml",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1550311",
+"img_src": "ninja",
+"images": [
+"6281017340059.webp",
+"6281017340059-1.webp"
+]
+},
+{
+"sku": "JRN00003425",
+"barcode": "6291101711375",
+"cat": 44,
+"ar": "هوت باك ملاعق بلاستيك 50 حبة",
+"en": "Hotpack Plastic Spoon 50 Pcs",
+"price": 6.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293934",
+"img_src": "ninja",
+"images": [
+"6291101711375.webp",
+"6291101711375-1.webp",
+"6291101711375-2.webp"
+]
+},
+{
+"sku": "JRN00003426",
+"barcode": "6291101711689",
+"cat": 44,
+"ar": "هوت باك كوب بلاستيك 7 أونصة 50 قطعة 207 مل",
+"en": "Hotpack Plastic Cup 7 Oz 50 pcs 207 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293936",
+"img_src": "ninja",
+"images": [
+"6291101711689.webp",
+"6291101711689-1.webp",
+"6291101711689-2.webp"
+]
+},
+{
+"sku": "JRN00003427",
+"barcode": "5056141896281",
+"cat": 44,
+"ar": "هوت باك أكواب بلاستيكية شفافة 8 أونصات 25 قطعة 237 مل",
+"en": "Hotpack Clear Plastic Cup 8 Oz 25 pcs 237 ml",
+"price": 12.25,
+"special": 7.5,
+"src": "ninja",
+"ninja_id": "5-19386201",
+"img_src": "ninja",
+"images": [
+"5056141896281.webp",
+"5056141896281-1.webp"
+]
+},
+{
+"sku": "JRN00003428",
+"barcode": "6281102040598",
+"cat": 44,
+"ar": "وطنية صحن واسطة مدور 50 حبة",
+"en": "Watania Plate Medium Round 50 Pcs",
+"price": 16.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19286968",
+"img_src": "ninja",
+"images": [
+"6281102040598.webp",
+"6281102040598-1.webp"
+]
+},
+{
+"sku": "JRN00003429",
+"barcode": "6287037420467",
+"cat": 44,
+"ar": "ريتكو ملاعق بيضاء كبيرة 50 قطعة",
+"en": "Ritco Large White Spoons 50 Pcs",
+"price": 10.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19286972",
+"img_src": "ninja",
+"images": [
+"6287037420467.webp",
+"6287037420467-1.webp"
+]
+},
+{
+"sku": "JRN00003430",
+"barcode": "6291101711122",
+"cat": 44,
+"ar": "هوت باك طبق بلاستيك دائري 7 بوصة 25 قطعة",
+"en": "Hotpack Plastic Round Plate 25 Pcs",
+"price": 17.5,
+"special": 9.75,
+"src": "ninja",
+"ninja_id": "5-19293948",
+"img_src": "ninja",
+"images": [
+"6291101711122.webp",
+"6291101711122-1.webp",
+"6291101711122-2.webp"
+]
+},
+{
+"sku": "JRN00003431",
+"barcode": "6287037421303",
+"cat": 44,
+"ar": "ريتكو ملاعق بلاستيك صغيرة 100 حبة",
+"en": "Ritco Plastic Small Spoon 100 pcs",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376831",
+"img_src": "ninja",
+"images": [
+"6287037421303.webp",
+"6287037421303-1.webp"
+]
+},
+{
+"sku": "JRN00003432",
+"barcode": "6291101712037",
+"cat": 44,
+"ar": "هوت باك مصاص بلاستيكية مغلفة للاستعمال مرة واحدة 6 ملم 250 قطعة",
+"en": "Hotpack Disposable Wrapped Plastic Drinking Straws 6Mm 250 pcs",
+"price": 13.95,
+"special": 9.5,
+"src": "ninja",
+"ninja_id": "5-19386205",
+"img_src": "ninja",
+"images": [
+"6291101712037.webp",
+"6291101712037-1.webp"
+]
+},
+{
+"sku": "JRN00003433",
+"barcode": "6281102040031",
+"cat": 44,
+"ar": "وطنية صحن مستطيل 50 حبة",
+"en": "Watania Plate Rectangular 50 Pcs",
+"price": 13.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19286960",
+"img_src": "ninja",
+"images": [
+"6281102040031.webp",
+"6281102040031-1.webp",
+"6281102040031-2.webp"
+]
+},
+{
+"sku": "JRN00003434",
+"barcode": "6281063141808",
+"cat": 44,
+"ar": "أورينكس صحون ورق أبيض 9 انش100 حبه",
+"en": "Orinex Paper Plates 100 Pcs 9 Inch",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368168",
+"img_src": "ninja",
+"images": [
+"6281063141808.webp"
+]
+},
+{
+"sku": "JRN00003435",
+"barcode": "6281102040161",
+"cat": 44,
+"ar": "وطنية صحن صغير جدًا بيضاوي 50 حبة",
+"en": "Watania Plate Number Extra Small Oval 50 Pcs",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19286962",
+"img_src": "ninja",
+"images": [
+"6281102040161.webp",
+"6281102040161-1.webp"
+]
+},
+{
+"sku": "JRN00003436",
+"barcode": "6291101710446",
+"cat": 43,
+"ar": "هوت باك علب مايكروويف مستديرة 450 ملي 5 قطع",
+"en": "Hotpack Micro Wave Container Round 450 ml 5 Pcs",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293971",
+"img_src": "ninja",
+"images": [
+"6291101710446.webp",
+"6291101710446-1.webp",
+"6291101710446-2.webp"
+]
+},
+{
+"sku": "JRN00003437",
+"barcode": "6291101711115",
+"cat": 44,
+"ar": "هوت باك طبق بلاستيك دائري 9 بوصة 25 قطعة",
+"en": "Hotpack Plastic Round Plate 9 25 pcs",
+"price": 16.95,
+"special": 11.5,
+"src": "ninja",
+"ninja_id": "5-19293954",
+"img_src": "ninja",
+"images": [
+"6291101711115.webp",
+"6291101711115-1.webp",
+"6291101711115-2.webp"
+]
+},
+{
+"sku": "JRN00003438",
+"barcode": "6281063442257",
+"cat": 44,
+"ar": "أورينكس كاسات بلاستيكية بالغطاء 16 اوز 473 مل",
+"en": "Orinex Plastic On Go Cups 16 Oz 473 ml",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368131",
+"img_src": "ninja",
+"images": [
+"6281063442257.webp"
+]
+},
+{
+"sku": "JRN00003439",
+"barcode": "6281102040024",
+"cat": 44,
+"ar": "وطنية صحن رقم1 مستطيل 50 حبة",
+"en": "Watania Plate Small Rectangular 50 Pcs",
+"price": 9.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19288060",
+"img_src": "ninja",
+"images": [
+"6281102040024.webp",
+"6281102040024-1.webp"
+]
+},
+{
+"sku": "JRN00003440",
+"barcode": "6287037420283",
+"cat": 44,
+"ar": "وطنية صحن قصدير كيك كبير 10 حبة",
+"en": "Watania Cake Plate Large 10 Pcs",
+"price": 14.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19288074",
+"img_src": "ninja",
+"images": [
+"6287037420283.webp",
+"6287037420283-1.webp",
+"6287037420283-2.webp"
+]
+},
+{
+"sku": "JRN00003441",
+"barcode": "6281102040628",
+"cat": 44,
+"ar": "وطنية طبق دائري متوسط مقسم إلى 3 أقسام 50 قطعة",
+"en": "Watania Plate Medium Divided Into 3 Sections Round 50 Pcs",
+"price": 26.95,
+"special": 22.95,
+"src": "ninja",
+"ninja_id": "5-19288082",
+"img_src": "ninja",
+"images": [
+"6281102040628.webp",
+"6281102040628-1.webp",
+"6281102040628-2.webp"
+]
+},
+{
+"sku": "JRN00003442",
+"barcode": "5056141853765",
+"cat": 44,
+"ar": "هوت باك أغطية قبة شفافة لأكواب حجم 12 أونصة 25 قطعة 355 مل",
+"en": "Hotpack Clear Pet Cup Dome Lid 12 Oz 25 Pcs 355 ml",
+"price": 23.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19386195",
+"img_src": "ninja",
+"images": [
+"5056141853765.webp",
+"5056141853765-1.webp"
+]
+},
+{
+"sku": "JRN00003443",
+"barcode": "6291101712471",
+"cat": 44,
+"ar": "هوت باك عيدان خيزران 6 إنش 100 قطعة",
+"en": "Hotpack Bamboo Skewer 6 Inches 100 pcs",
+"price": 4.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19386218",
+"img_src": "ninja",
+"images": [
+"6291101712471.webp",
+"6291101712471-1.webp",
+"6291101712471-2.webp"
+]
+},
+{
+"sku": "JRN00003444",
+"barcode": "6281102040192",
+"cat": 44,
+"ar": "وطنية صحن رقم 15 شوربة كبير 50 حبة",
+"en": "Watania Plate Soup Large 50 Pcs",
+"price": 15.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19288084",
+"img_src": "ninja",
+"images": [
+"6281102040192.webp",
+"6281102040192-1.webp"
+]
+},
+{
+"sku": "JRN00003445",
+"barcode": "6281102040185",
+"cat": 44,
+"ar": "وطنية صحن شوربة صغير 50 حبة",
+"en": "Watania Bowl Soup Small 50 Pcs",
+"price": 9.95,
+"special": 6.95,
+"src": "ninja",
+"ninja_id": "5-19286957",
+"img_src": "ninja",
+"images": [
+"6281102040185.webp",
+"6281102040185-1.webp",
+"6281102040185-2.webp"
+]
+},
+{
+"sku": "JRN00003446",
+"barcode": "5056141896434",
+"cat": 43,
+"ar": "هوت باك قدر ألومنيوم بغطاء 21 سم 5 قطع",
+"en": "Hotpack Aluminium Pot with Hood 21 cm 5 Pcs",
+"price": 18.95,
+"special": 13.5,
+"src": "ninja",
+"ninja_id": "5-19370109",
+"img_src": "ninja",
+"images": [
+"5056141896434.webp",
+"5056141896434-1.webp",
+"5056141896434-2.webp"
+]
+},
+{
+"sku": "JRN00003447",
+"barcode": "6291101713775",
+"cat": 43,
+"ar": "هوت باك حاوية قابلة للميكروويف بقاعدة سوداء مستطيلة مع أغطية 28 أونصة 5 قطع",
+"en": "Hotpack Black Base Rectangular Microwavable Container with Lids 28 Oz 5 Pcs",
+"price": 19.95,
+"special": 16.5,
+"src": "ninja",
+"ninja_id": "5-19370101",
+"img_src": "ninja",
+"images": [
+"6291101713775.webp",
+"6291101713775-1.webp",
+"6291101713775-2.webp"
+]
+},
+{
+"sku": "JRN00003448",
+"barcode": "5056141857732",
+"cat": 43,
+"ar": "هوت باك حاوية ميكروويف 750 مل مع غطاء ملون 10 قطع 5",
+"en": "Hotpack HD Microwave Container 750 ml with Colour Lid 10 Pcs",
+"price": 19.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19370102",
+"img_src": "ninja",
+"images": [
+"5056141857732.webp",
+"5056141857732-1.webp",
+"5056141857732-2.webp"
+]
+},
+{
+"sku": "JRN00003449",
+"barcode": "6291101710033",
+"cat": 43,
+"ar": "هوت باك حافظة طعام المنيوم 10 قطع 1200 ملي",
+"en": "Hotpack Aluminium Container 10 pcs 1200 ml",
+"price": 20.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19293935",
+"img_src": "ninja",
+"images": [
+"6291101710033.webp",
+"6291101710033-1.webp",
+"6291101710033-2.webp"
+]
+},
+{
+"sku": "JRN00003450",
+"barcode": "6287037420344",
+"cat": 44,
+"ar": "ريتكو صحن شوي المنيوم وسط 5 قطع",
+"en": "Ritco Aluminium Grills Plate Medium 5 Pcs",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19288062",
+"img_src": "ninja",
+"images": [
+"6287037420344.webp",
+"6287037420344-1.webp"
+]
+},
+{
+"sku": "JRN00003451",
+"barcode": "6287037420115",
+"cat": 43,
+"ar": "وطنية علب حلا بغطاء مسطح 14 حبة",
+"en": "Watania Dessert boxes with flat lids 14 Pcs",
+"price": 14.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19288078",
+"img_src": "ninja",
+"images": [
+"6287037420115.webp",
+"6287037420115-1.webp",
+"6287037420115-2.webp"
+]
+},
+{
+"sku": "JRN00003452",
+"barcode": "6287037420160",
+"cat": 44,
+"ar": "ريتكو طبق الومنيوم واسطة مربع 15 قطعة",
+"en": "Ritco Aluminium Plate Medium Square 15 Pcs",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19288079",
+"img_src": "ninja",
+"images": [
+"6287037420160.webp",
+"6287037420160-1.webp",
+"6287037420160-2.webp"
+]
+},
+{
+"sku": "JRN00003453",
+"barcode": "6287037420122",
+"cat": 44,
+"ar": "ريتكو طبق الومنيوم صغير مربع 18 قطعة",
+"en": "Ritco Aluminium Plate Small Square 18 Pcs",
+"price": 14.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19288080",
+"img_src": "ninja",
+"images": [
+"6287037420122.webp",
+"6287037420122-1.webp",
+"6287037420122-2.webp"
+]
+},
+{
+"sku": "JRN00003454",
+"barcode": "5056141850849",
+"cat": 44,
+"ar": "هوت باك أكواب ورقية للاستعمال مرة واحدة 6 أونصات عرض 150 قطعة 177 مل",
+"en": "Hotpack Disposable Paper Cup 6 ounce 150 pcs Offer Pack 177 ml",
+"price": 23.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19386204",
+"img_src": "ninja",
+"images": [
+"5056141850849.webp"
+]
+},
+{
+"sku": "JRN00003455",
+"barcode": "5056141851259",
+"cat": 43,
+"ar": "هوت باك أوعية ألومنيوم بغطاء 25 سم 6 قطع 5 + 1 مجانا",
+"en": "Hotpack Aluminium Pot Container with Lid 25 cm 6 Pcs 5 + 1 Free",
+"price": 30.95,
+"special": 21.75,
+"src": "ninja",
+"ninja_id": "5-19370121",
+"img_src": "ninja",
+"images": [
+"5056141851259.webp",
+"5056141851259-1.webp",
+"5056141851259-2.webp"
+]
+},
+{
+"sku": "JRN00003456",
+"barcode": "6291101710545",
+"cat": 44,
+"ar": "هوت باك مصاصات بلاستيك 250 حبة 6 مم",
+"en": "Hotpack Plastic Straw 250 pcs 6 mm",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293945",
+"img_src": "ninja",
+"images": [
+"6291101710545.webp",
+"6291101710545-1.webp",
+"6291101710545-2.webp"
+]
+},
+{
+"sku": "JRN00003457",
+"barcode": "6291101710309",
+"cat": 44,
+"ar": "هوت باك صينية بلاستيك مستطيلة رقم 1-1 كجم",
+"en": "Hotpack Plastic Rectangular Tray No 1 - 1 kg",
+"price": 34.95,
+"special": 21.95,
+"src": "ninja",
+"ninja_id": "5-19293964",
+"img_src": "ninja",
+"images": [
+"6291101710309.webp",
+"6291101710309-1.webp",
+"6291101710309-2.webp"
+]
+},
+{
+"sku": "JRN00003458",
+"barcode": "6281017401514",
+"cat": 43,
+"ar": "سانيتا كلوب أكياس النفايات 50 جالون 45 كيس",
+"en": "Sanita Club Garbage Bags 50 Gallons 45 Bags",
+"price": 28.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19313626",
+"img_src": "ninja",
+"images": [
+"6281017401514.webp",
+"6281017401514-1.webp"
+]
+},
+{
+"sku": "JRN00003459",
+"barcode": "6281017298695",
+"cat": 43,
+"ar": "سانيتا كلوب أكياس النفاية 50 غالون 20 كيس",
+"en": "Sanita Club Garbage Bags 50 Gallons 20 BAGS",
+"price": 18.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-2901134",
+"img_src": "ninja",
+"images": [
+"6281017298695.webp",
+"6281017298695-1.webp"
+]
+},
+{
+"sku": "JRN00003460",
+"barcode": "6281017405284",
+"cat": 44,
+"ar": "هلا مفارش سفرة قابلة للتحلل 75 مفرش عرض 4+1 مجانا",
+"en": "Hala Table Cover Travel Rolls 75 Sheets Promo 4+1 Free",
+"price": 22.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1552586",
+"img_src": "ninja",
+"images": [
+"6281017405284.webp",
+"6281017405284-1.webp"
+]
+},
+{
+"sku": "JRN00003461",
+"barcode": "6291101711931",
+"cat": 43,
+"ar": "هوت باك اكياس قفل سحاب 10*19 سم 50 قطعة",
+"en": "Hotpack Zipper Lock Bag 10*19Cm 50 pcs",
+"price": 13.95,
+"special": 8.5,
+"src": "ninja",
+"ninja_id": "5-19293952",
+"img_src": "ninja",
+"images": [
+"6291101711931.webp",
+"6291101711931-1.webp",
+"6291101711931-2.webp"
+]
+},
+{
+"sku": "JRN00003462",
+"barcode": "6281017217047",
+"cat": 43,
+"ar": "سانيتا رول تغليف بلاستيك 20 * 45 سم",
+"en": "Sanita Cling Film Roll 20 × 45 cm",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5977",
+"img_src": "ninja",
+"images": [
+"6281017217047.webp",
+"6281017217047-1.webp",
+"6281017217047-2.webp"
+]
+},
+{
+"sku": "JRN00003463",
+"barcode": "6281017403754",
+"cat": 43,
+"ar": "سانيتا كيس مهملات 55 جالون * 15 كيس",
+"en": "Sanita Trash Bag 55 Gallon × 15 Bag",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5987",
+"img_src": "ninja",
+"images": [
+"6281017403754.webp",
+"6281017403754-1.webp",
+"6281017403754-2.webp"
+]
+},
+{
+"sku": "JRN00003464",
+"barcode": "6960532910014",
+"cat": 43,
+"ar": "ركسو أكياس نايلون للتبريد قابل للغلق 50 حبة",
+"en": "Rexo Zipper Storage Bag 50 bag",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19320325",
+"img_src": "ninja",
+"images": [
+"6960532910014.webp",
+"6960532910014-1.webp",
+"6960532910014-2.webp"
+]
+},
+{
+"sku": "JRN00003465",
+"barcode": "6287004240395",
+"cat": 43,
+"ar": "سكيب اكياس طعام نايلون صغير 110 حبة",
+"en": "SKP Plastic Food Bags Small 110 Pcs",
+"price": 12.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19292850",
+"img_src": "ninja",
+"images": [
+"6287004240395.webp",
+"6287004240395-1.webp"
+]
+},
+{
+"sku": "JRN00003466",
+"barcode": "6281063141907",
+"cat": 43,
+"ar": "أورينكس اكياس تقفل بالملاج كبير 15 حبه",
+"en": "Orinex Slider Zip-It Lock L Bags 15 pcs",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368149",
+"img_src": "ninja",
+"images": [
+"6281063141907.webp",
+"6281063141907-1.webp",
+"6281063141907-2.webp"
+]
+},
+{
+"sku": "JRN00003467",
+"barcode": "6281017298275",
+"cat": 43,
+"ar": "سانيتا كلوب أكياس حفظ الطعام قابلة للتحلّل 20 كيس",
+"en": "Sanita Food Storage Bags 20 Bag",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291482",
+"img_src": "ninja",
+"images": [
+"6281017298275.webp",
+"6281017298275-1.webp",
+"6281017298275-2.webp"
+]
+},
+{
+"sku": "JRN00003468",
+"barcode": "6281017402580",
+"cat": 43,
+"ar": "سانيتا ورق الطهي والخبز 30 سم 1 رول",
+"en": "Sanita Cooking & Baking Paper 30 Cm 1 Roll",
+"price": 9.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13318694",
+"img_src": "ninja",
+"images": [
+"6281017402580.webp",
+"6281017402580-1.webp"
+]
+},
+{
+"sku": "JRN00003469",
+"barcode": "5056141897547",
+"cat": 43,
+"ar": "هوت باك أكياس قمامة رول مزدوج 65×95 سم",
+"en": "Hotpack Twin Pack Garbage Roll 65X95CM",
+"price": 47.95,
+"special": 31.95,
+"src": "ninja",
+"ninja_id": "5-19386229",
+"img_src": "ninja",
+"images": [
+"5056141897547.webp",
+"5056141897547-1.webp"
+]
+},
+{
+"sku": "JRN00003470",
+"barcode": "5056141855219",
+"cat": 43,
+"ar": "هوت باك أوراق مقلاة هوائية بنية دائرية مقاس 16×4.5 سم 100 قطعة",
+"en": "Hotpack Air Fryer Paper Brown Round Liners 16*4.5 cm 100 pcs",
+"price": 19.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19370104",
+"img_src": "ninja",
+"images": [
+"5056141855219.webp",
+"5056141855219-1.webp",
+"5056141855219-2.webp"
+]
+},
+{
+"sku": "JRN00003471",
+"barcode": "5056141852423",
+"cat": 43,
+"ar": "هوت باك حقيبة بقفل بسحاب 18 * 21 سم 20 كيس",
+"en": "Hotpack Zipper Lock Bag 18*21 cm Twinpack 20 Bags",
+"price": 16.95,
+"special": 11.5,
+"src": "ninja",
+"ninja_id": "5-19370130",
+"img_src": "ninja",
+"images": [
+"5056141852423.webp",
+"5056141852423-1.webp",
+"5056141852423-2.webp"
+]
+},
+{
+"sku": "JRN00003472",
+"barcode": "6291101711627",
+"cat": 43,
+"ar": "هوت باك غلاف حفظ طعام رول 300 قدم مربع",
+"en": "Hotpack Food Wrap Cling Film 300Sqft",
+"price": 24.95,
+"special": 15.5,
+"src": "ninja",
+"ninja_id": "5-19293960",
+"img_src": "ninja",
+"images": [
+"6291101711627.webp",
+"6291101711627-1.webp",
+"6291101711627-2.webp"
+]
+},
+{
+"sku": "JRN00003473",
+"barcode": "6291101710149",
+"cat": 43,
+"ar": "هوت باك حاوية ألومنيوم دائرية 800 ملي 10 قطع",
+"en": "Hotpack Aluminum Round Container 800 ml 10 Pcs",
+"price": 18.95,
+"special": 10.75,
+"src": "ninja",
+"ninja_id": "5-19293932",
+"img_src": "ninja",
+"images": [
+"6291101710149.webp",
+"6291101710149-1.webp",
+"6291101710149-2.webp"
+]
+},
+{
+"sku": "JRN00003474",
+"barcode": "6281017403716",
+"cat": 43,
+"ar": "سانيتا كيس مهملات 30 جالون * 25 كيس",
+"en": "Sanita Trash Bag 30 Gallon × 25 Bag",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5989",
+"img_src": "ninja",
+"images": [
+"6281017403716.webp",
+"6281017403716-1.webp",
+"6281017403716-2.webp"
+]
+},
+{
+"sku": "JRN00003475",
+"barcode": "6281017299418",
+"cat": 43,
+"ar": "سانيتا كلوب أكياس نفايات قابلة للتحلل 10 جالون 88 كيس",
+"en": "Sanita Club Trash Bags Biodegradable 10 Gallons 88 Bags",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1547804",
+"img_src": "ninja",
+"images": [
+"6281017299418.webp",
+"6281017299418-1.webp",
+"6281017299418-2.webp"
+]
+},
+{
+"sku": "JRN00003476",
+"barcode": "6281017400012",
+"cat": 44,
+"ar": "سانيتا مفارش سفرة فاشن كبير 30 مفرش",
+"en": "Sanita Table Cover Fashion Large 30 Sheets",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1548044",
+"img_src": "ninja",
+"images": [
+"6281017400012.webp",
+"6281017400012-1.webp"
+]
+},
+{
+"sku": "JRN00003477",
+"barcode": "6291101713553",
+"cat": 43,
+"ar": "هوت باك أكياس سلة مهملات قوية وقابلة للتحلل رول أبيض 5 جالون 45×55 سم حجم صغير 50 قطعة",
+"en": "Hotpack Disposable Plastic Strong & BioDegradable Dust Bin Liner Bag Roll White 5 Gallon 45x55 cm Small Size 50 pcs",
+"price": 16.95,
+"special": 11.5,
+"src": "ninja",
+"ninja_id": "5-19386192",
+"img_src": "ninja",
+"images": [
+"6291101713553.webp",
+"6291101713553-1.webp",
+"6291101713553-2.webp"
+]
+},
+{
+"sku": "JRN00003478",
+"barcode": "6291101710194",
+"cat": 43,
+"ar": "هوت باك أكياس قمامة 105×130 سم اقتصادي عادي 70 جالون 10 قطع",
+"en": "Hotpack Garbage Bag 105X130 cm Regular Economy 70 Gallon 10 pcs",
+"price": 19.95,
+"special": 13.5,
+"src": "ninja",
+"ninja_id": "5-19386202",
+"img_src": "ninja",
+"images": [
+"6291101710194.webp",
+"6291101710194-1.webp",
+"6291101710194-2.webp"
+]
+},
+{
+"sku": "JRN00003479",
+"barcode": "5056141855226",
+"cat": 43,
+"ar": "هوت باك أوراق مقلاة هوائية بنية دائرية مقاس 20×4.5 سم 100 قطعة",
+"en": "Hotpack Air Fryer Paper Brown Round Liners 20*4.5 cm 100 pcs",
+"price": 21.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19370093",
+"img_src": "ninja",
+"images": [
+"5056141855226.webp",
+"5056141855226-1.webp"
+]
+},
+{
+"sku": "JRN00003480",
+"barcode": "5056141855134",
+"cat": 43,
+"ar": "هوت باك رقائق الألومنيوم المنبثقة 12*10 سم 200 ورقة",
+"en": "Hotpack Aluminium POP-UP Foil 12*10 3/4 200 Sheets",
+"price": 105.95,
+"special": 74.95,
+"src": "ninja",
+"ninja_id": "5-19370128",
+"img_src": "ninja",
+"images": [
+"5056141855134.webp",
+"5056141855134-1.webp",
+"5056141855134-2.webp"
+]
+},
+{
+"sku": "JRN00003481",
+"barcode": "5056141850764",
+"cat": 43,
+"ar": "هوت باك رقائق ألومنيوم 200 قدم مربع عبوة مزدوجة",
+"en": "Hotpack Aluminium Foil 200 Sqft Twin Pack",
+"price": 62.95,
+"special": 49.95,
+"src": "ninja",
+"ninja_id": "5-19370110",
+"img_src": "ninja",
+"images": [
+"5056141850764.webp",
+"5056141850764-1.webp",
+"5056141850764-2.webp"
+]
+},
+{
+"sku": "JRN00003482",
+"barcode": "6960532910311",
+"cat": 43,
+"ar": "ركسو أكياس نايلون للتبريد قابلة للغلق مقاس وسط 15 حبه 30*28+3 سم",
+"en": "Rexo Slider Zipper Bags Medium Size 15 pcs 30*28+3 cm",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348985",
+"img_src": "ninja",
+"images": [
+"6960532910311.webp",
+"6960532910311-1.webp"
+]
+},
+{
+"sku": "JRN00003483",
+"barcode": "6281017403815",
+"cat": 44,
+"ar": "سانيتا كلوب مفارش السفرة ميني جمبو 20 مفرش",
+"en": "Sanita Club Table Cover Mini Jumbo 20 Sheets",
+"price": 20.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19313587",
+"img_src": "ninja",
+"images": [
+"6281017403815.webp",
+"6281017403815-1.webp"
+]
+},
+{
+"sku": "JRN00003484",
+"barcode": "6291101711610",
+"cat": 43,
+"ar": "هوت باك غلاف حفظ طعام رول 100 قدم مربع",
+"en": "Hotpack Food Wrap Cling Film 100 Sqft",
+"price": 11.95,
+"special": 6.95,
+"src": "ninja",
+"ninja_id": "5-19293967",
+"img_src": "ninja",
+"images": [
+"6291101711610.webp",
+"6291101711610-1.webp",
+"6291101711610-2.webp"
+]
+},
+{
+"sku": "JRN00003485",
+"barcode": "6281017214091",
+"cat": 43,
+"ar": "سانيتا مندي ورق القصدير 45 سم 1 رول",
+"en": "Sanita Mandy Aluminum Foil 45 cm 1 Roll",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13318466",
+"img_src": "ninja",
+"images": [
+"6281017214091.webp",
+"6281017214091-1.webp",
+"6281017214091-2.webp"
+]
+},
+{
+"sku": "JRN00003486",
+"barcode": "6291101711047",
+"cat": 43,
+"ar": "هوت باك رقائق المونيوم 37.5 قدم مربع",
+"en": "Hotpack Aluminium Foil Embossed 37.5 Sqft",
+"price": 19.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-19293939",
+"img_src": "ninja",
+"images": [
+"6291101711047.webp",
+"6291101711047-1.webp",
+"6291101711047-2.webp"
+]
+},
+{
+"sku": "JRN00003487",
+"barcode": "6281063442684",
+"cat": 40,
+"ar": "أورينكس منشفة تستخدم مرة واحده صغير",
+"en": "Orinex Disposable Towel Size S",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368167",
+"img_src": "ninja",
+"images": [
+"6281063442684.webp"
+]
+},
+{
+"sku": "JRN00003488",
+"barcode": "6281002508914",
+"cat": 40,
+"ar": "كلينكس مناديل المطبخ متعددة الاستخدام 5 + 1 مجانًا 40 مناديل",
+"en": "Kleenex Multi Purpose Kitchen Tissue Paper Towel 5+1 free Rolls 40 Sheets",
+"price": 16.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19346098",
+"img_src": "ninja",
+"images": [
+"6281002508914.webp",
+"6281002508914-1.webp"
+]
+},
+{
+"sku": "JRN00003489",
+"barcode": "6970530857075",
+"cat": 40,
+"ar": "قوفي مناديل المعلقة على الحائط 5 طبقات 400 سحبة",
+"en": "Govyy Hanging Tissues 5 ply 400 pulls",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381838",
+"img_src": "ninja",
+"images": [
+"6970530857075.webp",
+"6970530857075-1.webp",
+"6970530857075-2.webp"
+]
+},
+{
+"sku": "JRN00003490",
+"barcode": "6970530855125",
+"cat": 40,
+"ar": "قوفي مناديل المعلقة على الحائط مفرد 5 طبقات 5 حبات 400 سحبة مع 6 علاقات",
+"en": "Govyy Hanging Tissues 5ply 5 pcs 400 pulls with 6 Hooks",
+"price": 119.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19381839",
+"img_src": "ninja",
+"images": [
+"6970530855125.webp",
+"6970530855125-1.webp",
+"6970530855125-2.webp"
+]
+},
+{
+"sku": "JRN00003491",
+"barcode": "6294018801658",
+"cat": 40,
+"ar": "نورس مناديل للوجه 160 ورقة 10 عبوات",
+"en": "Nawras Facial Tissue 160 Sheets 10 Pcs",
+"price": 28.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19295198",
+"img_src": "ninja",
+"images": [
+"6294018801658.webp",
+"6294018801658-1.webp"
+]
+},
+{
+"sku": "JRN00003492",
+"barcode": "6285360163662",
+"cat": 40,
+"ar": "غيم مناديل معلقة للوجه 5 طبقات 420 سحبة",
+"en": "Gheem Hanging Facial Tissues 5 Ply 420 Pulls",
+"price": 21.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19425018",
+"img_src": "ninja",
+"images": [
+"6285360163662.webp"
+]
+},
+{
+"sku": "JRN00003493",
+"barcode": "5056141854724",
+"cat": 40,
+"ar": "مرجان مناديل للوجه 4 حبات + 1 مجانا طبقتين × 170 سحبة",
+"en": "Marjaan Facial Tissue 4 pcs + 1 Free 2 Ply × 170 Pulls",
+"price": 29.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19370115",
+"img_src": "ninja",
+"images": [
+"5056141854724.webp",
+"5056141854724-1.webp"
+]
+},
+{
+"sku": "JRN00003494",
+"barcode": "6281101533824",
+"cat": 40,
+"ar": "سيتي ماكسي رول 300 متر",
+"en": "City Maxi Roll 300 m",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19361762",
+"img_src": "ninja",
+"images": [
+"6281101533824.webp",
+"6281101533824-1.webp"
+]
+},
+{
+"sku": "JRN00003495",
+"barcode": "6281002506866",
+"cat": 40,
+"ar": "كلينكس مناشف للوجه واليدين 90 منشفة",
+"en": "Kleenex Hand Towel 1 Box 90 Sheets",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316978",
+"img_src": "ninja",
+"images": [
+"6281002506866.webp",
+"6281002506866-1.webp",
+"6281002506866-2.webp"
+]
+},
+{
+"sku": "JRN00003496",
+"barcode": "6281017200919",
+"cat": 40,
+"ar": "هلا مناديل مطبخ رول 28 سم عرض 6+2 مجاناً",
+"en": "Hala Kitchen Tissue Roll 28 cm Promo 6+2",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5973",
+"img_src": "ninja",
+"images": [
+"6281017200919.webp",
+"6281017200919-1.webp",
+"6281017200919-2.webp"
+]
+},
+{
+"sku": "JRN00003497",
+"barcode": "6285360163709",
+"cat": 40,
+"ar": "غيم منشفة قطنية للاستخدام مرة واحدة 1 منشفة",
+"en": "Gheem Disposable Cotton Towel 1 Towel",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19425020",
+"img_src": "ninja",
+"images": [
+"6285360163709.webp"
+]
+},
+{
+"sku": "JRN00003498",
+"barcode": "6281002508211",
+"cat": 40,
+"ar": "كلينكس المناديل الورقية اكسترا دراي للحمامات 16 + 4 لفات مجانا 160 ورقة",
+"en": "Kleenex Extra Dry Toilet Tissue Paper 16+4 Free Rolls 160 Sheets",
+"price": 59.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316972",
+"img_src": "ninja",
+"images": [
+"6281002508211.webp"
+]
+},
+{
+"sku": "JRN00003499",
+"barcode": "6281002401086",
+"cat": 40,
+"ar": "كلينكس لفات المناديل الورقية دراي سوفت للحمامات 16 + 4 لفات مجانا 200 ورقة",
+"en": "Kleenex Dry Soft Toilet Tissue 16+4 Rolls 200 Sheets",
+"price": 59.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19346096",
+"img_src": "ninja",
+"images": [
+"6281002401086.webp"
+]
+},
+{
+"sku": "JRN00003500",
+"barcode": "5056141854700",
+"cat": 40,
+"ar": "مرجان مناديل للوجه 5 حبات + 1 مجانا طبقتين × 130 سحبة",
+"en": "Marjaan Facial Tissue 5 pcs + 1 Free 2 Ply × 130 Pulls",
+"price": 27.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19370089",
+"img_src": "ninja",
+"images": [
+"5056141854700.webp",
+"5056141854700-1.webp"
+]
+},
+{
+"sku": "JRN00003501",
+"barcode": "6285360082642",
+"cat": 40,
+"ar": "غيم مناشف مطبخ قطنية معلقة 200 ورقة",
+"en": "Gheem Hanging Cotton Kitchen Towels 200 Sheets",
+"price": 29.95,
+"special": 22.95,
+"src": "ninja",
+"ninja_id": "5-19425022",
+"img_src": "ninja",
+"images": [
+"6285360082642.webp"
+]
+},
+{
+"sku": "JRN00003502",
+"barcode": "6281017203644",
+"cat": 40,
+"ar": "هلا مناديل وجه ناعمة طبقتين 10 × 160 منديل",
+"en": "Hala Soft Facial Tissue 2 Ply 10 x 160 Sheets",
+"price": 26.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281017203644.webp",
+"6281017203644-1.webp",
+"6281017203644-2.webp"
+]
+},
+{
+"sku": "JRN00003503",
+"barcode": "6085015561276",
+"cat": 40,
+"ar": "كلينكس مناديل الوجه الجمال 3 طبقات 50 منديل",
+"en": "Kleenex Beauty Facial Tissue 3 Ply 50 Sheets",
+"price": 5.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6085015561276.webp",
+"6085015561276-1.webp",
+"6085015561276-2.webp"
+]
+},
+{
+"sku": "JRN00003504",
+"barcode": "6281002508266",
+"cat": 40,
+"ar": "كلينكس فيفا مناشف مطبخ ماصة للدهون 3+1 رول 50 منديل",
+"en": "Kleenex Viva Calorie Absorb Kitchen Towel 3+1 Rolls 50 Sheets",
+"price": 24.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281002508266.webp",
+"6281002508266-1.webp"
+]
+},
+{
+"sku": "JRN00003505",
+"barcode": "6085015561245",
+"cat": 40,
+"ar": "كلينكس ماكس باور لفة مناديل مطبخ طبقتين 150 منديل",
+"en": "Kleenex Max Power Kitchen Towel Mega Roll 2 Ply 150 Sheets",
+"price": 26.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6085015561245.webp",
+"6085015561245-1.webp",
+"6085015561245-2.webp"
+]
+},
+{
+"sku": "JRN00003506",
+"barcode": "6281063440413",
+"cat": 43,
+"ar": "أورينكس ورق خبز 52 × 40 سم 15 ورقة",
+"en": "Orinex Baking Paper Sheets 52 x 40 cm 15 Sheets",
+"price": 6.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281063440413.webp",
+"6281063440413-1.webp",
+"6281063440413-2.webp"
+]
+},
+{
+"sku": "JRN00003507",
+"barcode": "6251001310566",
+"cat": 40,
+"ar": "فاين سوبر تاول برو مناشف مطبخ 3 طبقات 4 رولات",
+"en": "Fine Super Towel Pro Kitchen Towel 3 Ply 4 Rolls",
+"price": 22.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6251001310566.webp"
+]
+},
+{
+"sku": "JRN00003508",
+"barcode": "6251001310443",
+"cat": 40,
+"ar": "فاين ديلوكس ورق تواليت 3 طبقات 24 رول",
+"en": "Fine Deluxe Toilet Paper 3 Ply 24 Rolls",
+"price": 53.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6251001310443.webp"
+]
+},
+{
+"sku": "JRN00003509",
+"barcode": "6281101531769",
+"cat": 40,
+"ar": "مشوار ميجا رول طبقة واحدة 2 × 250 متر",
+"en": "Mouchoir Mega Roll 1 Ply 2 x 250 m",
+"price": 31.75,
+"special": 26.28,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281101531769.webp",
+"6281101531769-1.webp"
+]
+},
+{
+"sku": "JRN00003510",
+"barcode": "6281015012163",
+"cat": 44,
+"ar": "موج الذهبي مفارش سفرة حريرية 15 مفرش",
+"en": "Maog Gold Silky Table Covers 15 pcs",
+"price": 16.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281015012163.webp",
+"6281015012163-1.webp",
+"6281015012163-2.webp"
+]
+},
+{
+"sku": "JRN00003511",
+"barcode": "6281015012170",
+"cat": 44,
+"ar": "موج الذهبي مفارش سفرة 30 مفرش",
+"en": "Maog Gold Table Covers 30 pcs",
+"price": 36.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281015012170.webp",
+"6281015012170-1.webp",
+"6281015012170-2.webp"
+]
+},
+{
+"sku": "JRN00003512",
+"barcode": "6281063141709",
+"cat": 43,
+"ar": "أورينكس أكياس ساندويتش للأطفال صغير 17 سم 50 كيس",
+"en": "Orinex Sandwich Bags for Kids Small 17 cm 50 Bags",
+"price": 7.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281063141709.webp",
+"6281063141709-1.webp",
+"6281063141709-2.webp"
+]
+},
+{
+"sku": "JRN00003513",
+"barcode": "6281017214015",
+"cat": 43,
+"ar": "سانيتا ورق قصدير 37.5 قدم مربع",
+"en": "Sanita Aluminium Foil 37.5 sq ft",
+"price": 12.5,
+"special": 11.25,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281017214015.webp"
+]
+},
+{
+"sku": "JRN00003514",
+"barcode": "6281063441496",
+"cat": 43,
+"ar": "أورينكس ورق قصدير شديد التحمل 50 قدم مربع",
+"en": "Orinex Heavy Duty Aluminium Foil 50 sq ft",
+"price": 13.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281063441496.webp",
+"6281063441496-1.webp",
+"6281063441496-2.webp"
+]
+},
+{
+"sku": "JRN00003515",
+"barcode": "6281063141570",
+"cat": 43,
+"ar": "أورينكس أكياس ساندويتش 150 كيس",
+"en": "Orinex Sandwich Bags 150 Bags",
+"price": 7.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281063141570.webp",
+"6281063141570-1.webp",
+"6281063141570-2.webp"
+]
+},
+{
+"sku": "JRN00003516",
+"barcode": "6281015012057",
+"cat": 43,
+"ar": "موج بلاستيك تغليف 30 سم × 200 متر",
+"en": "Maog Cling Film 30 cm x 200 m",
+"price": 33.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281015012057.webp",
+"6281015012057-1.webp",
+"6281015012057-2.webp"
+]
+},
+{
+"sku": "JRN00003517",
+"barcode": "6281015012040",
+"cat": 43,
+"ar": "موج ورق قصدير 30 سم × 85 متر",
+"en": "Maog Aluminium Foil 30 cm x 85 m",
+"price": 44.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281015012040.webp",
+"6281015012040-1.webp"
+]
+},
+{
+"sku": "JRN00003518",
+"barcode": "6281015002058",
+"cat": 42,
+"ar": "موج إسفنج تنظيف بالسلك 5 حبات",
+"en": "Maog Laminate Sponge Scourer 5 pcs",
+"price": 9.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281015002058.webp",
+"6281015002058-1.webp",
+"6281015002058-2.webp"
+]
+},
+{
+"sku": "JRN00003519",
+"barcode": "4023103136748",
+"cat": 42,
+"ar": "فيليدا جليتزي كريستال إسفنجة غسيل أطباق 3+1 مجانا",
+"en": "Vileda Glitzi Crystal Dishwashing Sponge 3+1 Free",
+"price": 13.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"4023103136748.webp"
+]
+},
+{
+"sku": "JRN00003520",
+"barcode": "4023103209763",
+"cat": 42,
+"ar": "فيليدا جليتزي كريستال إسفنجة غسيل أطباق 6+3 مجانا",
+"en": "Vileda Glitzi Crystal Dishwashing Sponge 6+3 Free",
+"price": 20.75,
+"special": 17.22,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"4023103209763.webp",
+"4023103209763-1.webp"
+]
+},
+{
+"sku": "JRN00003521",
+"barcode": "6281015002775",
+"cat": 42,
+"ar": "موج سلك ستانلس ستيل 2 حبة",
+"en": "Maog Stainless Steel Scrubber 2 pcs",
+"price": 7.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281015002775.webp",
+"6281015002775-1.webp",
+"6281015002775-2.webp"
+]
+},
+{
+"sku": "JRN00003522",
+"barcode": "6281015004946",
+"cat": 42,
+"ar": "موج فوطة إسفنجية 3 حبات",
+"en": "Maog Sponge Cloth 3 pcs",
+"price": 13,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281015004946.webp",
+"6281015004946-1.webp",
+"6281015004946-2.webp"
+]
+},
+{
+"sku": "JRN00003523",
+"barcode": "6281015004953",
+"cat": 42,
+"ar": "موج قماش تنظيف متعدد الاستخدامات 4 حبات",
+"en": "Maog All Purpose Cleaning Cloth 4 pcs",
+"price": 14,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281015004953.webp",
+"6281015004953-1.webp",
+"6281015004953-2.webp"
+]
+},
+{
+"sku": "JRN00003524",
+"barcode": "6281015009873",
+"cat": 42,
+"ar": "موج سلك ستانلس ستيل للفرك 5 حبات",
+"en": "Maog Stainless Steel Scrubber 5 pcs",
+"price": 15.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281015009873.webp",
+"6281015009873-1.webp",
+"6281015009873-2.webp"
+]
+},
+{
+"sku": "JRN00003525",
+"barcode": "6281015002973",
+"cat": 42,
+"ar": "موج مكنسة ناعمة داخلية مع العصا",
+"en": "Maog Soft Indoor Broom with Handle",
+"price": 25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281015002973.webp",
+"6281015002973-1.webp",
+"6281015002973-2.webp"
+]
+},
+{
+"sku": "JRN00003526",
+"barcode": "5010182800126",
+"cat": 41,
+"ar": "جليد بخاخ معطر جو برائحة اللافندر 300 مل",
+"en": "Glade Air Freshener Spray Lavender 300 ml",
+"price": 16.25,
+"special": 13,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5010182800126.webp"
+]
+},
+{
+"sku": "JRN00003527",
+"barcode": "5010182800119",
+"cat": 41,
+"ar": "جليد بخاخ معطر جو برائحة الياسمين 300 مل",
+"en": "Glade Air Freshener Spray Jasmine 300 ml",
+"price": 14.95,
+"special": 11.96,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5010182800119.webp"
+]
+},
+{
+"sku": "JRN00003528",
+"barcode": "6223001342168",
+"cat": 41,
+"ar": "جليد بخاخ معطر متعدد الاستخدامات برائحة الورد 460 مل",
+"en": "Glade Multi Spray Air Freshener Rose 460 ml",
+"price": 18.5,
+"special": 14.8,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6223001342168.webp",
+"6223001342168-1.webp",
+"6223001342168-2.webp"
+]
+},
+{
+"sku": "JRN00003529",
+"barcode": "8690784316880",
+"cat": 41,
+"ar": "جليد عبوة إعادة تعبئة للبخاخ الأوتوماتيكي برائحة هدوء البحر 269 مل",
+"en": "Glade Automatic Spray Refill Ocean Escape 269 ml",
+"price": 44.75,
+"special": 29.08,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8690784316880.webp",
+"8690784316880-1.webp",
+"8690784316880-2.webp"
+]
+},
+{
+"sku": "JRN00003530",
+"barcode": "6223001346951",
+"cat": 41,
+"ar": "جليد عبوة إعادة تعبئة للبخاخ الأوتوماتيكي برائحة عبق الورد والتوت البري 269 مل",
+"en": "Glade Automatic Spray Refill Blooming Peony & Berries 269 ml",
+"price": 44.75,
+"special": 29.08,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6223001346951.webp"
+]
+},
+{
+"sku": "JRN00003531",
+"barcode": "6281100875116",
+"cat": 41,
+"ar": "جليد جهاز بخاخ أوتوماتيكي مع عبوة إعادة تعبئة برائحة هدوء البحر 269 مل",
+"en": "Glade Automatic Spray Holder with Refill Ocean Escape 269 ml",
+"price": 72.75,
+"special": 41.46,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281100875116.webp",
+"6281100875116-1.webp"
+]
+}
+]
