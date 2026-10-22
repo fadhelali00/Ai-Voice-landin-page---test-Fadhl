@@ -1,0 +1,6021 @@
+[
+{
+"sku": "JRN00004600",
+"barcode": "7613039670385",
+"cat": 57,
+"ar": "سيريلاك طعام أطفال بالتفاح و الكمثرى و البروكلي و الجزر الأبيض 90 جم",
+"en": "Cerelac Baby Food With Apple & Pear & Broccoli & Parsnip 90 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-32298",
+"img_src": "ninja",
+"images": [
+"7613039670385.webp",
+"7613039670385-1.webp",
+"7613039670385-2.webp"
+]
+},
+{
+"sku": "JRN00004601",
+"barcode": "5000207582502",
+"cat": 60,
+"ar": "جونسون بيبي أعواد قطنية 100 حبة",
+"en": "Johnson's Baby Cotton Buds 100 Pcs",
+"price": 19.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19289197",
+"img_src": "ninja",
+"images": [
+"5000207582502.webp",
+"5000207582502-1.webp",
+"5000207582502-2.webp"
+]
+},
+{
+"sku": "JRN00004602",
+"barcode": "7613036691338",
+"cat": 57,
+"ar": "سيريلاك بالفواكة 90 جم",
+"en": "Cerelac Fruits 90 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-34129",
+"img_src": "ninja",
+"images": [
+"7613036691338.webp",
+"7613036691338-1.webp",
+"7613036691338-2.webp"
+]
+},
+{
+"sku": "JRN00004603",
+"barcode": "5000207584506",
+"cat": 60,
+"ar": "جونسون بيبي أعواد قطنية 200 حبة",
+"en": "Johnson's Baby Cotton Buds 200 Pcs",
+"price": 35.95,
+"special": 28.95,
+"src": "ninja",
+"ninja_id": "5-19289205",
+"img_src": "ninja",
+"images": [
+"5000207584506.webp",
+"5000207584506-1.webp",
+"5000207584506-2.webp"
+]
+},
+{
+"sku": "JRN00004604",
+"barcode": "7613036727471",
+"cat": 57,
+"ar": "جربر هريس عضوي يقطين وموز وجزر للأطفال من عمر 6 أشهر 90 جم",
+"en": "Gerber Organic Pumpkin Banana & Carrot From 6 Months 90 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1011",
+"img_src": "ninja",
+"images": [
+"7613036727471.webp",
+"7613036727471-1.webp",
+"7613036727471-2.webp"
+]
+},
+{
+"sku": "JRN00004605",
+"barcode": "8445290269898",
+"cat": 57,
+"ar": "سيريلاك كيدز 3+ تفاح موز وفراولة 110 جم",
+"en": "Cerelac Kids 3+ Apple Banana and Strawberry 110 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19321817",
+"img_src": "ninja",
+"images": [
+"8445290269898.webp",
+"8445290269898-1.webp",
+"8445290269898-2.webp"
+]
+},
+{
+"sku": "JRN00004606",
+"barcode": "7613287762481",
+"cat": 57,
+"ar": "جربر عضوي تفاح قرع جزر 110 جم",
+"en": "Gerber Bio Porridge Apple Pmpkin Carrot 110 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12784867",
+"img_src": "ninja",
+"images": [
+"7613287762481.webp",
+"7613287762481-1.webp",
+"7613287762481-2.webp"
+]
+},
+{
+"sku": "JRN00004607",
+"barcode": "5391522477414",
+"cat": 56,
+"ar": "ابتاميل حليب اطفال المرحلة الثالثة 800 جم",
+"en": "Aptamil Baby Milk Stage 3 Size 800 g",
+"price": 102.5,
+"special": 78.75,
+"src": "ninja",
+"ninja_id": "5-19380098",
+"img_src": "ninja",
+"images": [
+"5391522477414.webp",
+"5391522477414-1.webp",
+"5391522477414-2.webp"
+]
+},
+{
+"sku": "JRN00004608",
+"barcode": "7613036687553",
+"cat": 57,
+"ar": "سريلاك موز و برتقال و بسكويت 90 جم",
+"en": "Cerelac Banana Orange Biscuit 90 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-18204592",
+"img_src": "ninja",
+"images": [
+"7613036687553.webp",
+"7613036687553-1.webp",
+"7613036687553-2.webp"
+]
+},
+{
+"sku": "JRN00004609",
+"barcode": "6009802364260",
+"cat": 57,
+"ar": "هاي بيبي بسكويت التسنين بالموز 50 جم",
+"en": "Hey Baby Banana Teething Biscuits 50 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287308",
+"img_src": "ninja",
+"images": [
+"6009802364260.webp",
+"6009802364260-1.webp",
+"6009802364260-2.webp"
+]
+},
+{
+"sku": "JRN00004610",
+"barcode": "7613036727440",
+"cat": 57,
+"ar": "جربر هريس عضوي تفاح وموز وتوت للأطفال من 6 أشهر 90 جم",
+"en": "Gerber Organic Apple Banana Blueberry Blackberry From 6 Months 90 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1007",
+"img_src": "hs",
+"images": [
+"7613036727440.webp",
+"7613036727440-1.webp"
+]
+},
+{
+"sku": "JRN00004611",
+"barcode": "7613036691307",
+"cat": 57,
+"ar": "سيريلاك طعام أطفال فواكه مشكله والموز والتفاح الشوفان كيس 90 جم",
+"en": "Cerelac Fruit Puree Banana & Apple Oat Pouch 90 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13993768",
+"img_src": "ninja",
+"images": [
+"7613036691307.webp",
+"7613036691307-1.webp",
+"7613036691307-2.webp"
+]
+},
+{
+"sku": "JRN00004612",
+"barcode": "7613035648302",
+"cat": 57,
+"ar": "سيريلاك نوتري بسكويت اطفال الاصلي 180 جم",
+"en": "Cerelac Biscuit Original 180 g",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-18204649",
+"img_src": "ninja",
+"images": [
+"7613035648302.webp",
+"7613035648302-1.webp",
+"7613035648302-2.webp"
+]
+},
+{
+"sku": "JRN00004613",
+"barcode": "8697888017637",
+"cat": 60,
+"ar": "ليونس قفاز الاستحمام من القطن الطبيعي 100% للرضع والأطفال",
+"en": "Lionesse Organic Cotton 100% Bath Mitt For Baby Or Child",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-13394519",
+"img_src": "ninja",
+"images": [
+"8697888017637.webp",
+"8697888017637-1.webp",
+"8697888017637-2.webp"
+]
+},
+{
+"sku": "JRN00004614",
+"barcode": "4103040114426",
+"cat": 59,
+"ar": "سيباميد مناديل تنظيف زيتية للأطفال 70 حبة",
+"en": "Sebamed Baby Oil Wipes 70 pcs",
+"price": 28.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376576",
+"img_src": "ninja",
+"images": [
+"4103040114426.webp",
+"4103040114426-1.webp",
+"4103040114426-2.webp"
+]
+},
+{
+"sku": "JRN00004615",
+"barcode": "7613036691277",
+"cat": 57,
+"ar": "سيريلاك طعام أطفال بالتفاح والجزر والمانجو 90 جم",
+"en": "Cerelac Apple Carrot and Mango Baby Food 90 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14000430",
+"img_src": "ninja",
+"images": [
+"7613036691277.webp",
+"7613036691277-1.webp"
+]
+},
+{
+"sku": "JRN00004616",
+"barcode": "6281008241761",
+"cat": 58,
+"ar": "بيبي جوي حفاضات مضغوطة مقاس 7 34 حفاضة",
+"en": "Baby Joy Compressed Diapers Size 7 34 Diapers",
+"price": 87.5,
+"special": 64.95,
+"src": "ninja",
+"ninja_id": "5-19286631",
+"img_src": "ninja",
+"images": [
+"6281008241761.webp",
+"6281008241761-1.webp",
+"6281008241761-2.webp"
+]
+},
+{
+"sku": "JRN00004617",
+"barcode": "8690504550655",
+"cat": 57,
+"ar": "برطمان هيرو بيبي فواكه مشكلة 125 جم",
+"en": "Hero Baby Jar Mixed Fruits 125 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371554",
+"img_src": "ninja",
+"images": [
+"8690504550655.webp",
+"8690504550655-1.webp",
+"8690504550655-2.webp"
+]
+},
+{
+"sku": "JRN00004618",
+"barcode": "5019090117418",
+"cat": 60,
+"ar": "مانشكن مجموعة من 6 أكياس معقمة أزرق وأبيض",
+"en": "Munchkin Latch Steriliser Bags",
+"price": 107.95,
+"special": 53.95,
+"src": "ninja",
+"ninja_id": "5-6199518",
+"img_src": "ninja",
+"images": [
+"5019090117418.webp",
+"5019090117418-1.webp",
+"5019090117418-2.webp"
+]
+},
+{
+"sku": "JRN00004619",
+"barcode": "7613039371671",
+"cat": 57,
+"ar": "جربر حبوب الرضع العضوية القمح والشوفان والفانيلا 200 جم",
+"en": "Gerber Organic Infant Cereals Wheat Oats & Vanilla 200 g",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1013",
+"img_src": "ninja",
+"images": [
+"7613039371671.webp",
+"7613039371671-1.webp",
+"7613039371671-2.webp"
+]
+},
+{
+"sku": "JRN00004620",
+"barcode": "5391522477407",
+"cat": 56,
+"ar": "ابتاميل حليب اطفال المرحلة الثانية 800 جم",
+"en": "Aptamil Baby Milk Stage 2 Size 800 g",
+"price": 108.5,
+"special": 84.75,
+"src": "ninja",
+"ninja_id": "5-19380099",
+"img_src": "ninja",
+"images": [
+"5391522477407.webp",
+"5391522477407-1.webp",
+"5391522477407-2.webp"
+]
+},
+{
+"sku": "JRN00004621",
+"barcode": "6281008046175",
+"cat": 58,
+"ar": "بيبي جوي كلوت مقاس 7 26 كلوت",
+"en": "Baby Joy Pants Size 7 26 Pants",
+"price": 69.5,
+"special": 56.95,
+"src": "ninja",
+"ninja_id": "5-19286630",
+"img_src": "ninja",
+"images": [
+"6281008046175.webp",
+"6281008046175-1.webp"
+]
+},
+{
+"sku": "JRN00004622",
+"barcode": "3574669907736",
+"cat": 59,
+"ar": "جونسون شامبو للأطفال 750 مل",
+"en": "Johnson's Baby Shampoo 750 ml",
+"price": 47.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-819346",
+"img_src": "ninja",
+"images": [
+"3574669907736.webp",
+"3574669907736-1.webp",
+"3574669907736-2.webp"
+]
+},
+{
+"sku": "JRN00004623",
+"barcode": "3574661429731",
+"cat": 58,
+"ar": "جونسون بيبي مناديل لطيفه لكامل البشرة 20 منديل",
+"en": "Johnson's Baby Wipes Gentle All Over 20 Wipes",
+"price": 8.95,
+"special": 7.25,
+"src": "ninja",
+"ninja_id": "5-19289193",
+"img_src": "ninja",
+"images": [
+"3574661429731.webp",
+"3574661429731-1.webp",
+"3574661429731-2.webp"
+]
+},
+{
+"sku": "JRN00004624",
+"barcode": "5060702875738",
+"cat": 60,
+"ar": "فيتال بيبي نورتشر حلمات رضاعة بسيطة تدفق سريع 3 حبات",
+"en": "Vital Baby Nurture Perfectly Simple Teats Fast Flow 3 pcs",
+"price": 32.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19384837",
+"img_src": "ninja",
+"images": [
+"5060702875738.webp",
+"5060702875738-1.webp"
+]
+},
+{
+"sku": "JRN00004625",
+"barcode": "8445290340993",
+"cat": 57,
+"ar": "سيريلاك قمح 400 جم",
+"en": "Cerelac Wheat 400 g",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10910985",
+"img_src": "ninja",
+"images": [
+"8445290340993.webp",
+"8445290340993-1.webp",
+"8445290340993-2.webp"
+]
+},
+{
+"sku": "JRN00004626",
+"barcode": "5099514400135",
+"cat": 58,
+"ar": "واتر وايبس مناديل خالية من البلاستيك مجموعة 4 حبات 240 منديل",
+"en": "WaterWipes Original Plastic Free Wipes Pack 4 pcs 240 wipes",
+"price": 95.95,
+"special": 74.95,
+"src": "ninja",
+"ninja_id": "5-19327950",
+"img_src": "ninja",
+"images": [
+"5099514400135.webp"
+]
+},
+{
+"sku": "JRN00004627",
+"barcode": "5029053550039",
+"cat": 58,
+"ar": "هجيز مناديل بيور المبللة للأطفال 56 منديل",
+"en": "Huggies Pure Baby Wipes Water Wipes Pack 56 Wipes",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316990",
+"img_src": "ninja",
+"images": [
+"5029053550039.webp",
+"5029053550039-1.webp",
+"5029053550039-2.webp"
+]
+},
+{
+"sku": "JRN00004628",
+"barcode": "6281008346152",
+"cat": 58,
+"ar": "بيبي جوي حفائض كلوت مقاس 6 صندوق جامبو 64 حبة",
+"en": "Baby Joy Diaper Culotte Size 6 Jumbo Box 64 pcs",
+"price": 119.95,
+"special": 109.95,
+"src": "ninja",
+"ninja_id": "5-192951",
+"img_src": "ninja",
+"images": [
+"6281008346152.webp",
+"6281008346152-1.webp",
+"6281008346152-2.webp"
+]
+},
+{
+"sku": "JRN00004629",
+"barcode": "3504105036126",
+"cat": 59,
+"ar": "موستيلا شامبو أطفال 200 مل",
+"en": "Mustela Baby Shampoo 200 ml",
+"price": 58.5,
+"special": 35.25,
+"src": "ninja",
+"ninja_id": "5-401419",
+"img_src": "ninja",
+"images": [
+"3504105036126.webp",
+"3504105036126-1.webp"
+]
+},
+{
+"sku": "JRN00004630",
+"barcode": "8716677006079",
+"cat": 56,
+"ar": "كابريتا حليب ماعز للأطفال المرحلة الأولى 400 جم",
+"en": "Kabrita Goat Baby Milk Stage 1 Size 400 g",
+"price": 109.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349094",
+"img_src": "ninja",
+"images": [
+"8716677006079.webp",
+"8716677006079-1.webp",
+"8716677006079-2.webp"
+]
+},
+{
+"sku": "JRN00004631",
+"barcode": "8716677006086",
+"cat": 56,
+"ar": "كابريتا حليب ماعز للأطفال المرحلة الثانية 400 جم",
+"en": "Kabrita Goat Baby Milk Stage 2 Size 400 g",
+"price": 109.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349092",
+"img_src": "ninja",
+"images": [
+"8716677006086.webp",
+"8716677006086-1.webp",
+"8716677006086-2.webp"
+]
+},
+{
+"sku": "JRN00004632",
+"barcode": "5099864015911",
+"cat": 56,
+"ar": "سيميلاك جولد حليب أطفال المرحلة الثانية 400 جم",
+"en": "Similac Gold Baby Milk Stage 2 Size 400 g",
+"price": 56.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11957799",
+"img_src": "ninja",
+"images": [
+"5099864015911.webp",
+"5099864015911-1.webp",
+"5099864015911-2.webp"
+]
+},
+{
+"sku": "JRN00004633",
+"barcode": "6009802364277",
+"cat": 57,
+"ar": "هاي بيبي بسكويت التسنين بالتوت الأزرق 50 جم",
+"en": "Hey Baby Blueberry Teething Biscuits 50 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287300",
+"img_src": "ninja",
+"images": [
+"6009802364277.webp",
+"6009802364277-1.webp",
+"6009802364277-2.webp"
+]
+},
+{
+"sku": "JRN00004634",
+"barcode": "6009802364284",
+"cat": 57,
+"ar": "هاي بيبي بسكويت التسنين بالتفاح 50 جم",
+"en": "Hey Baby Apple Teething Biscuits 50 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287301",
+"img_src": "ninja",
+"images": [
+"6009802364284.webp",
+"6009802364284-1.webp",
+"6009802364284-2.webp"
+]
+},
+{
+"sku": "JRN00004635",
+"barcode": "6294011894206",
+"cat": 58,
+"ar": "مامي مناديل مبللة للأطفال 25 منديل",
+"en": "Mamy Mamy- Baby Wipes 25 Sheets",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376502",
+"img_src": "ninja",
+"images": [
+"6294011894206.webp",
+"6294011894206-1.webp"
+]
+},
+{
+"sku": "JRN00004636",
+"barcode": "4103040114600",
+"cat": 59,
+"ar": "سيباميد زيت العناية ببشرة الطفل 150 مل",
+"en": "Sebamed Baby Skin Care Oil 150 ml",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376577",
+"img_src": "ninja",
+"images": [
+"4103040114600.webp"
+]
+},
+{
+"sku": "JRN00004637",
+"barcode": "5019090443616",
+"cat": 60,
+"ar": "مانشكين اغطية مقابس 36 قطعة",
+"en": "Munchkin Plug Covers 36Pk",
+"price": 50.95,
+"special": 25.5,
+"src": "ninja",
+"ninja_id": "5-19379492",
+"img_src": "ninja",
+"images": [
+"5019090443616.webp"
+]
+},
+{
+"sku": "JRN00004638",
+"barcode": "735282271458",
+"cat": 60,
+"ar": "مانشكين مصاصة اكواب كليك كلوك 10 اونصة",
+"en": "Munchkin Any Angle Replacement Straw 10Oz",
+"price": 22.95,
+"special": 11.5,
+"src": "ninja",
+"ninja_id": "5-19379497",
+"img_src": "ninja",
+"images": [
+"735282271458.webp",
+"735282271458-1.webp"
+]
+},
+{
+"sku": "JRN00004639",
+"barcode": "735282350443",
+"cat": 60,
+"ar": "منشكين إكسترا غارد قفل مزدوج للأدراج قطعتان",
+"en": "Xrta Guard Dual Locking Drawer Latch",
+"price": 45.95,
+"special": 22.95,
+"src": "ninja",
+"ninja_id": "5-19379501",
+"img_src": "ninja",
+"images": [
+"735282350443.webp"
+]
+},
+{
+"sku": "JRN00004640",
+"barcode": "8901088747608",
+"cat": 59,
+"ar": "باراشوت أدفانسد كريم مغذي للأطفال 100 مل",
+"en": "Parachute Advansed Baby Nourishing Cream 100 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19392356",
+"img_src": "ninja",
+"images": [
+"8901088747608.webp",
+"8901088747608-1.webp",
+"8901088747608-2.webp"
+]
+},
+{
+"sku": "JRN00004641",
+"barcode": "5060702871761",
+"cat": 60,
+"ar": "فيتال بيبي نوريش طبق للأطفال قابل للتثبيت",
+"en": "Vital Baby Nourish Power Suction Plate",
+"price": 54.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289498",
+"img_src": "ninja",
+"images": [
+"5060702871761.webp",
+"5060702871761-1.webp",
+"5060702871761-2.webp"
+]
+},
+{
+"sku": "JRN00004642",
+"barcode": "5060702871532",
+"cat": 60,
+"ar": "فيتال بيبي هيدرات كوب 360 ̊ قابل للدوران 280 مل",
+"en": "Vital Baby Hydrate Edge 360 ̊ Cup 280 ml",
+"price": 57.95,
+"special": 43.5,
+"src": "ninja",
+"ninja_id": "5-19289501",
+"img_src": "ninja",
+"images": [
+"5060702871532.webp",
+"5060702871532-1.webp",
+"5060702871532-2.webp"
+]
+},
+{
+"sku": "JRN00004643",
+"barcode": "8696287062057",
+"cat": 60,
+"ar": "دنيا كرسي طعام مرتفع للأطفال لون أزرق",
+"en": "Dunya Baby Feeding High Chair Blue",
+"price": 349.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400771",
+"img_src": "ninja",
+"images": [
+"8696287062057.webp",
+"8696287062057-1.webp",
+"8696287062057-2.webp"
+]
+},
+{
+"sku": "JRN00004644",
+"barcode": "6286567000774",
+"cat": 59,
+"ar": "كنتا بلس كريم لتهدئة وتفتيح البشرة 60 جم",
+"en": "Kenta Plus Cream for Soothing and Brightening Skin 60 g",
+"price": 29.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19372814",
+"img_src": "ninja",
+"images": [
+"6286567000774.webp",
+"6286567000774-1.webp",
+"6286567000774-2.webp"
+]
+},
+{
+"sku": "JRN00004645",
+"barcode": "8850596998319",
+"cat": 60,
+"ar": "بيور حفاظات الصدر للاستخدام لمرة واحدة 24 حبه",
+"en": "Pur disposable breast pads 24 pk",
+"price": 43.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374010",
+"img_src": "ninja",
+"images": [
+"8850596998319.webp",
+"8850596998319-1.webp",
+"8850596998319-2.webp"
+]
+},
+{
+"sku": "JRN00004646",
+"barcode": "8850596990146",
+"cat": 60,
+"ar": "بيور رضاعة مع المقبض الوان متنوعه 9 أونصة",
+"en": "Pur shape bottle with handle Assorted Colors 9oz",
+"price": 36.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374014",
+"img_src": "ninja",
+"images": [
+"8850596990146.webp",
+"8850596990146-1.webp",
+"8850596990146-2.webp"
+]
+},
+{
+"sku": "JRN00004647",
+"barcode": "8850596998111",
+"cat": 60,
+"ar": "بيورادفانس بلس ذات العنق الواسع 150 مل / 5 أونصة",
+"en": "Pur Advanced Plus Wide Neck Bottle 5 oz./150 ml.",
+"price": 49.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374020",
+"img_src": "ninja",
+"images": [
+"8850596998111.webp",
+"8850596998111-1.webp",
+"8850596998111-2.webp"
+]
+},
+{
+"sku": "JRN00004648",
+"barcode": "8850596990122",
+"cat": 60,
+"ar": "بيورالعلبة الكلاسيكية الدائرية 4 أونصة",
+"en": "Pur Round classic bottle 4oz",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374029",
+"img_src": "ninja",
+"images": [
+"8850596990122.webp",
+"8850596990122-1.webp",
+"8850596990122-2.webp"
+]
+},
+{
+"sku": "JRN00004649",
+"barcode": "8850596918010",
+"cat": 60,
+"ar": "بيورادفانس ذات العنق الرفيع 125 مل / 4 أونصة",
+"en": "Pur Advanced Slim Neck Bottle 4 oz/125 ml.",
+"price": 33.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374011",
+"img_src": "ninja",
+"images": [
+"8850596918010.webp",
+"8850596918010-1.webp",
+"8850596918010-2.webp"
+]
+},
+{
+"sku": "JRN00004650",
+"barcode": "5060702872065",
+"cat": 60,
+"ar": "فيتال بيبي نورتشر أكياس ميكروويف حافظة ومعقمة 5 اكياس",
+"en": "Vital Baby Nurture Microwave Sterilising 5 Bags",
+"price": 54.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289483",
+"img_src": "ninja",
+"images": [
+"5060702872065.webp",
+"5060702872065-1.webp",
+"5060702872065-2.webp"
+]
+},
+{
+"sku": "JRN00004651",
+"barcode": "6281008045352",
+"cat": 58,
+"ar": "بيبي جوي حفائض ميجا كلوت مقاس 6 كيس 40 حبة",
+"en": "Baby Joy Mega Pants Size 6 Bag 40 pcs",
+"price": 87.5,
+"special": 69.95,
+"src": "ninja",
+"ninja_id": "5-867755",
+"img_src": "ninja",
+"images": [
+"6281008045352.webp",
+"6281008045352-1.webp"
+]
+},
+{
+"sku": "JRN00004652",
+"barcode": "8445290876577",
+"cat": 56,
+"ar": "نان اوبتي برو حليب أطفال المرحلة الأولى 800 جم",
+"en": "Nan Optipro Baby Milk Stage 1 Size 800 g",
+"price": 112.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4973587",
+"img_src": "ninja",
+"images": [
+"8445290876577.webp",
+"8445290876577-1.webp",
+"8445290876577-2.webp"
+]
+},
+{
+"sku": "JRN00004653",
+"barcode": "5060702872010",
+"cat": 60,
+"ar": "فيتال بيبي نورتشر حلمة رضاعه تدفق متوسط 2 حبة",
+"en": "Vital Baby NURTURE breast like feeding teats medium flow 2 pack",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5545708",
+"img_src": "ninja",
+"images": [
+"5060702872010.webp",
+"5060702872010-1.webp"
+]
+},
+{
+"sku": "JRN00004654",
+"barcode": "5060702872256",
+"cat": 60,
+"ar": "فيتال بيبي بروتيكت مجموعة العناية بالاظافر",
+"en": "Vital Baby Protect Nailcare Set",
+"price": 47.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5557911",
+"img_src": "ninja",
+"images": [
+"5060702872256.webp",
+"5060702872256-1.webp",
+"5060702872256-2.webp"
+]
+},
+{
+"sku": "JRN00004655",
+"barcode": "5060702872157",
+"cat": 60,
+"ar": "فيتال بيبي نورتشر رضاعه بسيطة 60 مل 1 حبة",
+"en": "Vital Baby NURTURE perfectly simple feeding bottle 60 ml 1pack",
+"price": 22.95,
+"special": 17.25,
+"src": "ninja",
+"ninja_id": "5-5558696",
+"img_src": "ninja",
+"images": [
+"5060702872157.webp",
+"5060702872157-1.webp",
+"5060702872157-2.webp"
+]
+},
+{
+"sku": "JRN00004656",
+"barcode": "7610994461652",
+"cat": 56,
+"ar": "بريمالاك حليب أطفال المرحلة الثالثة 800 جم",
+"en": "Primalac Baby Milk Stage 3 Size 800 g",
+"price": 115.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19329608",
+"img_src": "ninja",
+"images": [
+"7610994461652.webp",
+"7610994461652-1.webp",
+"7610994461652-2.webp"
+]
+},
+{
+"sku": "JRN00004657",
+"barcode": "8720689011747",
+"cat": 60,
+"ar": "فيليبس افنت ناتشورال رضاعة 0.2 لون وردي 260 مل",
+"en": "Avent Philips Natural 2.0 Feeding Bottle Pink 260 ml",
+"price": 96.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19323207",
+"img_src": "ninja",
+"images": [
+"8720689011747.webp",
+"8720689011747-1.webp",
+"8720689011747-2.webp"
+]
+},
+{
+"sku": "JRN00004658",
+"barcode": "634240199134",
+"cat": 60,
+"ar": "بيمبلي كوب سيلكون 4 قطع بنفسجي",
+"en": "Bimbly Silicone Cup 4 Pcs Purple",
+"price": 89.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317008",
+"img_src": "ninja",
+"images": [
+"634240199134.webp",
+"634240199134-1.webp",
+"634240199134-2.webp"
+]
+},
+{
+"sku": "JRN00004659",
+"barcode": "7613200202971",
+"cat": 56,
+"ar": "بريمالاك التيما حليب أطفال المرحلة الثانية 400 جم",
+"en": "Primalac Ultima Baby Milk Stage 2 Size 400 g",
+"price": 54.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11965441",
+"img_src": "ninja",
+"images": [
+"7613200202971.webp",
+"7613200202971-1.webp",
+"7613200202971-2.webp"
+]
+},
+{
+"sku": "JRN00004660",
+"barcode": "5060702875691",
+"cat": 60,
+"ar": "فيتال بيبي نورتشر حلمة بسيطة تدفق متوسط 3 حبة",
+"en": "Vital Baby Nurture Perfectly Simple Teat Medium Flow 3 Pcs",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19384829",
+"img_src": "ninja",
+"images": [
+"5060702875691.webp",
+"5060702875691-1.webp",
+"5060702875691-2.webp"
+]
+},
+{
+"sku": "JRN00004661",
+"barcode": "5060702872027",
+"cat": 60,
+"ar": "فيتال بيبي نورتشر حلمة رضاعه تدفق سريع 2 حبة",
+"en": "Vital Baby Nurture Breast Like Feeding Teats Fast Flow 2 pcs",
+"price": 32.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19384834",
+"img_src": "ninja",
+"images": [
+"5060702872027.webp",
+"5060702872027-1.webp"
+]
+},
+{
+"sku": "JRN00004662",
+"barcode": "5060702875639",
+"cat": 60,
+"ar": "فيتال بيبي نورتشر زجاجة رضاعه بسيطة 75 مل 1 حبة",
+"en": "Vital Baby Nurture Perfectly Simple Feeding Bottle 75 ml 1 pcs",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19384840",
+"img_src": "ninja",
+"images": [
+"5060702875639.webp",
+"5060702875639-1.webp"
+]
+},
+{
+"sku": "JRN00004663",
+"barcode": "3574661599281",
+"cat": 58,
+"ar": "جونسون مناديل للاطفال فائقة الحساسية 168 منديل 2 حبة 1 مجانا",
+"en": "Johnson's Baby Wipes Extra Sensitive 168 Wipes 2 pcs 1 Free",
+"price": 46.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294730",
+"img_src": "ninja",
+"images": [
+"3574661599281.webp",
+"3574661599281-1.webp",
+"3574661599281-2.webp"
+]
+},
+{
+"sku": "JRN00004664",
+"barcode": "3574661728315",
+"cat": 59,
+"ar": "جونسون بودرة اطفال 400 جم",
+"en": "Johnson's Baby Powder 400 g",
+"price": 49.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294749",
+"img_src": "ninja",
+"images": [
+"3574661728315.webp",
+"3574661728315-1.webp",
+"3574661728315-2.webp"
+]
+},
+{
+"sku": "JRN00004665",
+"barcode": "6281008204407",
+"cat": 58,
+"ar": "بيبي جوي مناديل مبللة للبشرة الحساسة العبوة الضخمة 4 × 48 منديل",
+"en": "Baby Joy Wet Wipes Sensitive Skin Mega Pack 4 x 48 Wipes",
+"price": 66.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19309655",
+"img_src": "ninja",
+"images": [
+"6281008204407.webp",
+"6281008204407-1.webp"
+]
+},
+{
+"sku": "JRN00004666",
+"barcode": "3504105035969",
+"cat": 59,
+"ar": "موستيلا هيدرا بيبي كريم للوجه 40 مل",
+"en": "Mustela Hydra Baby Facial Cream 40 ml",
+"price": 51.95,
+"special": 24.25,
+"src": "ninja",
+"ninja_id": "5-19313651",
+"img_src": "ninja",
+"images": [
+"3504105035969.webp",
+"3504105035969-1.webp",
+"3504105035969-2.webp"
+]
+},
+{
+"sku": "JRN00004667",
+"barcode": "3574669908672",
+"cat": 59,
+"ar": "جونسون بيبي سائل استحمام وقت النوم 300 مل",
+"en": "Johnson's Baby Bath Sleep Time 300 ml",
+"price": 41.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289196",
+"img_src": "ninja",
+"images": [
+"3574669908672.webp",
+"3574669908672-1.webp",
+"3574669908672-2.webp"
+]
+},
+{
+"sku": "JRN00004668",
+"barcode": "5060083090348",
+"cat": 56,
+"ar": "فابيميلك حليب أطفال المرحلة الثانية 400 جم",
+"en": "Fabimilk Baby Milk Stage 2 Size 400 g",
+"price": 55.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10920321",
+"img_src": "ninja",
+"images": [
+"5060083090348.webp",
+"5060083090348-1.webp",
+"5060083090348-2.webp"
+]
+},
+{
+"sku": "JRN00004669",
+"barcode": "3575410713057",
+"cat": 56,
+"ar": "رونالاك روناجرو حليب أطفال المرحلة الثالثة 850 جم",
+"en": "Ronlac Ronagow Baby Milk Stage 3 Size 850 g",
+"price": 103.27,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10917253",
+"img_src": "ninja",
+"images": [
+"3575410713057.webp",
+"3575410713057-1.webp",
+"3575410713057-2.webp"
+]
+},
+{
+"sku": "JRN00004670",
+"barcode": "8426594119324",
+"cat": 56,
+"ar": "بليميل اوبتيموم حليب أطفال المرحلة الثالثة 800 جم",
+"en": "Blemil Optimum Baby Milk Stage 3 Size 800 g",
+"price": 98.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11952589",
+"img_src": "ninja",
+"images": [
+"8426594119324.webp",
+"8426594119324-1.webp",
+"8426594119324-2.webp"
+]
+},
+{
+"sku": "JRN00004671",
+"barcode": "8720689016490",
+"cat": 60,
+"ar": "فيليبس أفنت الترا اير لهاية 6 18 أشهرللاولاد",
+"en": "Avent Philips Sthr Sil Ultra Air 6 18 month Boy",
+"price": 85.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19342093",
+"img_src": "ninja",
+"images": [
+"8720689016490.webp",
+"8720689016490-1.webp",
+"8720689016490-2.webp"
+]
+},
+{
+"sku": "JRN00004672",
+"barcode": "8720689017503",
+"cat": 60,
+"ar": "فيليبس أفنت الترا اير لهاية 0 6 أشهرللفتيات",
+"en": "Avent Philips Sthr Sil Ultra Air 0 6 month Girl",
+"price": 85.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19342102",
+"img_src": "ninja",
+"images": [
+"8720689017503.webp",
+"8720689017503-1.webp"
+]
+},
+{
+"sku": "JRN00004673",
+"barcode": "8720689012072",
+"cat": 60,
+"ar": "فيليبس أفنت حلمة رضاعة 6.0 تغذية ذات قوام سميك من 6 أشهر",
+"en": "Avent Philips Natural 60 Feeding Teats Thick Feed",
+"price": 63.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19342127",
+"img_src": "ninja",
+"images": [
+"8720689012072.webp",
+"8720689012072-1.webp",
+"8720689012072-2.webp"
+]
+},
+{
+"sku": "JRN00004674",
+"barcode": "6974180099755",
+"cat": 58,
+"ar": "ماكوكو حفاضات برو كير بشريط مقاس 2 عدد 62 حفاضة",
+"en": "Makuku Pro Care Tape Diapers Size 2 62 Diapers",
+"price": 68.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328049",
+"img_src": "ninja",
+"images": [
+"6974180099755.webp",
+"6974180099755-1.webp",
+"6974180099755-2.webp"
+]
+},
+{
+"sku": "JRN00004675",
+"barcode": "5099514400142",
+"cat": 58,
+"ar": "واتر وايبس مناديل خالية من البلاستيك 60 منديل",
+"en": "WaterWipes Original plastic free wipes 60 wipes",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327938",
+"img_src": "ninja",
+"images": [
+"5099514400142.webp",
+"5099514400142-1.webp"
+]
+},
+{
+"sku": "JRN00004676",
+"barcode": "5099514400043",
+"cat": 58,
+"ar": "واتر وايبس مناديل خالية من البلاستيك أثناء التنقل 28 منديل",
+"en": "WaterWipes Onthego plastic free wipes 28 wipes",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327947",
+"img_src": "ninja",
+"images": [
+"5099514400043.webp",
+"5099514400043-1.webp",
+"5099514400043-2.webp"
+]
+},
+{
+"sku": "JRN00004677",
+"barcode": "4008576110532",
+"cat": 60,
+"ar": "تيتانيا قصاصة أظافر للأطفال",
+"en": "Titania Nail Clipper For Baby",
+"price": 14.29,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327743",
+"img_src": "ninja",
+"images": [
+"4008576110532.webp",
+"4008576110532-1.webp"
+]
+},
+{
+"sku": "JRN00004678",
+"barcode": "6281017821749",
+"cat": 58,
+"ar": "سانيتا بامبي بانتس حجم 6 كبير 16+ كجم 58 حبة",
+"en": "Sanita Bambi Pants Giant 6 Size Box 16+ 58 pcs",
+"price": 97.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-2874869",
+"img_src": "ninja",
+"images": [
+"6281017821749.webp",
+"6281017821749-1.webp",
+"6281017821749-2.webp"
+]
+},
+{
+"sku": "JRN00004679",
+"barcode": "817513015434",
+"cat": 59,
+"ar": "كانتو كريم الشعر المجعد للاطفال 227 مل",
+"en": "Cantu Kids Care Curl Crm 227 ml",
+"price": 45.0,
+"special": 31.25,
+"src": "ninja",
+"ninja_id": "5-13255848",
+"img_src": "ninja",
+"images": [
+"817513015434.webp",
+"817513015434-1.webp",
+"817513015434-2.webp"
+]
+},
+{
+"sku": "JRN00004680",
+"barcode": "817513015458",
+"cat": 59,
+"ar": "كانتو كاسترد التصفيف للاطفال 227 جم",
+"en": "Cantu Kids Care Styling Custard 227 g",
+"price": 45.0,
+"special": 31.5,
+"src": "ninja",
+"ninja_id": "5-13255872",
+"img_src": "ninja",
+"images": [
+"817513015458.webp",
+"817513015458-1.webp",
+"817513015458-2.webp"
+]
+},
+{
+"sku": "JRN00004681",
+"barcode": "6084011840699",
+"cat": 58,
+"ar": "هجيز العناية الفائقة للأطفال مقاس 5 وزن من 12 - 22 كجم صندوق جامبو تحتوي على 76 حفاضة",
+"en": "Huggies Extra Care Size 5 12 22 kg Jumbo Box 76 Diapers",
+"price": 129.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380990",
+"img_src": "ninja",
+"images": [
+"6084011840699.webp",
+"6084011840699-1.webp"
+]
+},
+{
+"sku": "JRN00004682",
+"barcode": "9314839020285",
+"cat": 59,
+"ar": "إيجو كيو في بيبي لوشن مرطب 500 جم",
+"en": "Ego QV Baby Moisturising Lotion 500 g",
+"price": 104.95,
+"special": 72.75,
+"src": "ninja",
+"ninja_id": "5-19381952",
+"img_src": "ninja",
+"images": [
+"9314839020285.webp",
+"9314839020285-1.webp"
+]
+},
+{
+"sku": "JRN00004683",
+"barcode": "6084011840231",
+"cat": 58,
+"ar": "هجيز العناية الفائقة للأطفال مقاس 3 من 4 9 كجم عبوة جامبو تحتوي على 76 حفاضة",
+"en": "Huggies Extra Care Size 3 Jumbo 4 9 kg Pack 76 Diapers",
+"price": 110.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316993",
+"img_src": "ninja",
+"images": [
+"6084011840231.webp",
+"6084011840231-1.webp"
+]
+},
+{
+"sku": "JRN00004684",
+"barcode": "5029053576640",
+"cat": 58,
+"ar": "هجيز كلوتات العناية الفائقة مقاس 5 وزن 17 كجم عبوة جامبو تحتوي على 44 حفاضة",
+"en": "Huggies Extra Care Culottes Size 5 17 kg Jumbo Pack 44 Diaper Pants",
+"price": 101.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316998",
+"img_src": "ninja",
+"images": [
+"5029053576640.webp",
+"5029053576640-1.webp"
+]
+},
+{
+"sku": "JRN00004685",
+"barcode": "4031244003461",
+"cat": 56,
+"ar": "هيومانا حليب أطفال المرحلة الثالثة 800 جم",
+"en": "Humana Baby Milk Stage 3 Size 800 g",
+"price": 98.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19323201",
+"img_src": "ninja",
+"images": [
+"4031244003461.webp",
+"4031244003461-1.webp",
+"4031244003461-2.webp"
+]
+},
+{
+"sku": "JRN00004686",
+"barcode": "3504105035860",
+"cat": 59,
+"ar": "موستيلا بيبي زيت مساج للأطفال 100 مل",
+"en": "Mustela Baby Massage Oil For Kids 100 ml",
+"price": 81.95,
+"special": 49.25,
+"src": "ninja",
+"ninja_id": "5-401029",
+"img_src": "ninja",
+"images": [
+"3504105035860.webp",
+"3504105035860-1.webp"
+]
+},
+{
+"sku": "JRN00004687",
+"barcode": "3504105036058",
+"cat": 59,
+"ar": "موستيلا جل 2 في 1 للتنظيف للشعر و الجسم 200 مل",
+"en": "Mustela 2 In 1 Hair And Body Wash 200 ml",
+"price": 63.95,
+"special": 38.25,
+"src": "ninja",
+"ninja_id": "5-401053",
+"img_src": "ninja",
+"images": [
+"3504105036058.webp",
+"3504105036058-1.webp"
+]
+},
+{
+"sku": "JRN00004688",
+"barcode": "3504105036027",
+"cat": 59,
+"ar": "موستيلا سائل منعش للجسم 200 مل",
+"en": "Mustela Skin Freshener 200 ml",
+"price": 58.95,
+"special": 35.25,
+"src": "ninja",
+"ninja_id": "5-401560",
+"img_src": "ninja",
+"images": [
+"3504105036027.webp",
+"3504105036027-1.webp"
+]
+},
+{
+"sku": "JRN00004689",
+"barcode": "3504105034894",
+"cat": 59,
+"ar": "موستيلا موستي عطر للأطفال بخاخ 50 مل",
+"en": "Mustela Musti Eau Soin Delicate Fragrance 50 ml",
+"price": 84.95,
+"special": 50.95,
+"src": "ninja",
+"ninja_id": "5-401832",
+"img_src": "ninja",
+"images": [
+"3504105034894.webp",
+"3504105034894-1.webp",
+"3504105034894-2.webp"
+]
+},
+{
+"sku": "JRN00004690",
+"barcode": "6294017106488",
+"cat": 56,
+"ar": "نيدو ليتل كيدز 1+ حليب أطفال من 1 3 سنوات 400 جم",
+"en": "Nido Little Kids 1+ Baby Milk 1 3 Years Size 400 g",
+"price": 37.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-817711",
+"img_src": "ninja",
+"images": [
+"6294017106488.webp",
+"6294017106488-1.webp",
+"6294017106488-2.webp"
+]
+},
+{
+"sku": "JRN00004691",
+"barcode": "8716677007458",
+"cat": 56,
+"ar": "كابريتا حليب ماعز للأطفال المرحلة الأولى 800 جم",
+"en": "Kabrita Goat Baby Milk Stage 1 Size 800 g",
+"price": 204.0,
+"special": 174.95,
+"src": "ninja",
+"ninja_id": "5-19349095",
+"img_src": "ninja",
+"images": [
+"8716677007458.webp",
+"8716677007458-1.webp",
+"8716677007458-2.webp"
+]
+},
+{
+"sku": "JRN00004692",
+"barcode": "8410207140409",
+"cat": 59,
+"ar": "جونسون زيت للأطفال 500 مل",
+"en": "Johnson's Oil Baby 500 ml",
+"price": 54.25,
+"special": 45.75,
+"src": "ninja",
+"ninja_id": "5-5591",
+"img_src": "ninja",
+"images": [
+"8410207140409.webp",
+"8410207140409-1.webp",
+"8410207140409-2.webp"
+]
+},
+{
+"sku": "JRN00004693",
+"barcode": "8716677007465",
+"cat": 56,
+"ar": "كابريتا حليب ماعز للأطفال المرحلة الثانية 800 جم",
+"en": "Kabrita Goat Baby Milk Stage 2 Size 800 g",
+"price": 204.0,
+"special": 174.95,
+"src": "ninja",
+"ninja_id": "5-19349090",
+"img_src": "ninja",
+"images": [
+"8716677007465.webp",
+"8716677007465-1.webp",
+"8716677007465-2.webp"
+]
+},
+{
+"sku": "JRN00004694",
+"barcode": "8716677007472",
+"cat": 56,
+"ar": "كابريتا حليب ماعز للأطفال المرحلة الثالثة 800 جم",
+"en": "Kabrita Goat Baby Milk Stage 3 Size 800 g",
+"price": 204.0,
+"special": 174.95,
+"src": "ninja",
+"ninja_id": "5-19349091",
+"img_src": "ninja",
+"images": [
+"8716677007472.webp",
+"8716677007472-1.webp",
+"8716677007472-2.webp"
+]
+},
+{
+"sku": "JRN00004695",
+"barcode": "6291107222714",
+"cat": 58,
+"ar": "هيمالايا مناديل مبللة لتهدئة الطفل وحمايته 224 منديل عرض 2 + 2 مجانًا",
+"en": "Himalaya Baby Wet Wipes Soothing & Protecting 224 Wipes Promo 2 + 2 Free",
+"price": 49.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1524558",
+"img_src": "ninja",
+"images": [
+"6291107222714.webp",
+"6291107222714-1.webp",
+"6291107222714-2.webp"
+]
+},
+{
+"sku": "JRN00004696",
+"barcode": "8445290341242",
+"cat": 57,
+"ar": "سيريلاك قمح 1000 جم",
+"en": "Cerelac Wheat 1000 g",
+"price": 81.95,
+"special": 73.25,
+"src": "ninja",
+"ninja_id": "5-4972171",
+"img_src": "ninja",
+"images": [
+"8445290341242.webp",
+"8445290341242-1.webp",
+"8445290341242-2.webp"
+]
+},
+{
+"sku": "JRN00004697",
+"barcode": "8445290341280",
+"cat": 57,
+"ar": "سيريلاك قمح و تمر 1000 جم",
+"en": "Cerelac Wheat And Dates 1000 g",
+"price": 90.25,
+"special": 79.25,
+"src": "ninja",
+"ninja_id": "5-4972837",
+"img_src": "ninja",
+"images": [
+"8445290341280.webp",
+"8445290341280-1.webp",
+"8445290341280-2.webp"
+]
+},
+{
+"sku": "JRN00004698",
+"barcode": "8445290994455",
+"cat": 56,
+"ar": "نان اوبتي برو حليب أطفال المرحلة الثانية 800 جم",
+"en": "Nan Optipro Baby Milk Stage 2 Size 800 g",
+"price": 112.95,
+"special": 90.25,
+"src": "ninja",
+"ninja_id": "5-4973707",
+"img_src": "ninja",
+"images": [
+"8445290994455.webp",
+"8445290994455-1.webp",
+"8445290994455-2.webp"
+]
+},
+{
+"sku": "JRN00004699",
+"barcode": "3575410727351",
+"cat": 56,
+"ar": "رونالاك حليب اطفال المرحلة الثانية 400 جم",
+"en": "Ronalac Baby Milk Stage 2 Size 400 g",
+"price": 49.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4981593",
+"img_src": "ninja",
+"images": [
+"3575410727351.webp",
+"3575410727351-1.webp",
+"3575410727351-2.webp"
+]
+},
+{
+"sku": "JRN00004700",
+"barcode": "5029053576657",
+"cat": 58,
+"ar": "هجيز كلوتات العناية الفائقة مقاس 6 وزن 25 كجم عبوة جامبو تحتوي على 40 حفاضة",
+"en": "Huggies Extra Care Culottes Size 6 Jumbo 25 kg Pack 40 Diaper Pants",
+"price": 102.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316963",
+"img_src": "ninja",
+"images": [
+"5029053576657.webp",
+"5029053576657-1.webp"
+]
+},
+{
+"sku": "JRN00004701",
+"barcode": "5029053560182",
+"cat": 58,
+"ar": "هجيز دراي نايتس كلوت ليلي للبنات 8 15 سنة 13 كلوت",
+"en": "Huggies DryNites Pyjama Pants Girls 8 15 Years 13 Pants",
+"price": 77.07,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316964",
+"img_src": "hs",
+"images": [
+"5029053560182.webp",
+"5029053560182-1.webp"
+]
+},
+{
+"sku": "JRN00004702",
+"barcode": "6084011840262",
+"cat": 58,
+"ar": "هجيز العناية الفائقة للأطفال مقاس 5 وزن من 12 22 كجم عبوة جامبو تحتوي على 60 حفاضة",
+"en": "Huggies Extra Care Size 5 Jumbo 12 22 kg Pack 60 Diapers",
+"price": 110.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316980",
+"img_src": "ninja",
+"images": [
+"6084011840262.webp",
+"6084011840262-1.webp"
+]
+},
+{
+"sku": "JRN00004703",
+"barcode": "5029053545356",
+"cat": 58,
+"ar": "هجيز العناية الفائقة لحديثي الولادة مقاس 2 وزن من 4 6 كجم عبوة جامبو 64 حفاضة",
+"en": "Huggies Extra Care Newborn Size 2 Jumbo 4 6 kg Pack 64 Diapers",
+"price": 81.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316982",
+"img_src": "ninja",
+"images": [
+"5029053545356.webp",
+"5029053545356-1.webp"
+]
+},
+{
+"sku": "JRN00004704",
+"barcode": "5029053568638",
+"cat": 58,
+"ar": "هجيز العناية الفائقة لحديثي الولادة مقاس 1 وزن حتى 5 كجم عبوة جامبو 64 حفاضة",
+"en": "Huggies Extra Care Newborn Size 1 Up to 5 kg Jumbo Pack 64 Diapers",
+"price": 82.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316981",
+"img_src": "ninja",
+"images": [
+"5029053568638.webp",
+"5029053568638-1.webp"
+]
+},
+{
+"sku": "JRN00004705",
+"barcode": "8700216569385",
+"cat": 58,
+"ar": "بامبرز كلوت للحماية من التسلخات مقاس 7 كريم الصبار 40 كلوت",
+"en": "Pampers Diapers Rash Protection Pants Size 7 Aloe Vera Lotion 40 Pants",
+"price": 75.5,
+"special": 49.95,
+"src": "ninja",
+"ninja_id": "5-19332580",
+"img_src": "ninja",
+"images": [
+"8700216569385.webp",
+"8700216569385-1.webp"
+]
+},
+{
+"sku": "JRN00004706",
+"barcode": "8445290992604",
+"cat": 56,
+"ar": "نان اوبتي برو حليب أطفال المرحلة الثالثة 400 جم",
+"en": "Nan Optipro Baby Milk Stage 3 Size 400 g",
+"price": 53.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-966",
+"img_src": "ninja",
+"images": [
+"8445290992604.webp",
+"8445290992604-1.webp",
+"8445290992604-2.webp"
+]
+},
+{
+"sku": "JRN00004707",
+"barcode": "3574660272031",
+"cat": 59,
+"ar": "جونسون بيبي زيت للاطفال وقت النوم 300 مل",
+"en": "Johnson's Baby Oil Sleep Time 300 ml",
+"price": 48.95,
+"special": 39.25,
+"src": "ninja",
+"ninja_id": "5-19291394",
+"img_src": "ninja",
+"images": [
+"3574660272031.webp",
+"3574660272031-1.webp",
+"3574660272031-2.webp"
+]
+},
+{
+"sku": "JRN00004708",
+"barcode": "8886451000316",
+"cat": 56,
+"ar": "بدياشور حليب أطفال المرحلة الثالثة ومافوق نكهة الفانيليا 900 جم",
+"en": "Pediasure Baby Milk Stage 3+ Vanilla 900 g",
+"price": 122.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292354",
+"img_src": "ninja",
+"images": [
+"8886451000316.webp",
+"8886451000316-1.webp",
+"8886451000316-2.webp"
+]
+},
+{
+"sku": "JRN00004709",
+"barcode": "5011025045001",
+"cat": 59,
+"ar": "سودوكريم كريم مطهر ومرطب 250 جم",
+"en": "Sudocrem Antiseptic Healing Cream 250 g",
+"price": 66.41,
+"special": 49.95,
+"src": "ninja",
+"ninja_id": "5-7222393",
+"img_src": "ninja",
+"images": [
+"5011025045001.webp",
+"5011025045001-1.webp",
+"5011025045001-2.webp"
+]
+},
+{
+"sku": "JRN00004710",
+"barcode": "6281007034180",
+"cat": 56,
+"ar": "نيورالاك بلس حليب أطفال المرحلة الثالثة 900 جم",
+"en": "Nuralac Plus Baby Milk Stage 3 Size 900 g",
+"price": 98.95,
+"special": 84.25,
+"src": "ninja",
+"ninja_id": "5-12041275",
+"img_src": "ninja",
+"images": [
+"6281007034180.webp",
+"6281007034180-1.webp",
+"6281007034180-2.webp"
+]
+},
+{
+"sku": "JRN00004711",
+"barcode": "3574661743240",
+"cat": 59,
+"ar": "جونسون بيبي سائل استحمام الأطفال 500 مل",
+"en": "Johnson's Baby Bath 500 ml",
+"price": 50.95,
+"special": 40.95,
+"src": "ninja",
+"ninja_id": "5-19289187",
+"img_src": "ninja",
+"images": [
+"3574661743240.webp",
+"3574661743240-1.webp",
+"3574661743240-2.webp"
+]
+},
+{
+"sku": "JRN00004712",
+"barcode": "3574661449883",
+"cat": 58,
+"ar": "جونسون بيبي مناديل النظافة المثالية 192 منديل مجموعة 3 حبات 1 مجانا",
+"en": "Johnson's Baby Wipes Ultimate Clean 192 Wipes Pack 3 pcs 1 free",
+"price": 58.95,
+"special": 47.25,
+"src": "ninja",
+"ninja_id": "5-19289190",
+"img_src": "ninja",
+"images": [
+"3574661449883.webp",
+"3574661449883-1.webp",
+"3574661449883-2.webp"
+]
+},
+{
+"sku": "JRN00004713",
+"barcode": "8690504550631",
+"cat": 57,
+"ar": "برطمان هيرو بيبي موز ومندرين وكمثرى 125 جم",
+"en": "Hero Baby Jar Banana Mandarin Pear 125 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371545",
+"img_src": "ninja",
+"images": [
+"8690504550631.webp",
+"8690504550631-1.webp",
+"8690504550631-2.webp"
+]
+},
+{
+"sku": "JRN00004714",
+"barcode": "8427030004792",
+"cat": 56,
+"ar": "سيميلاك ماكس برو حليب أطفال المرحلة الاولي منخفض اللاكتوز 820 جم",
+"en": "Similac MaxPro Baby Milk Stage 1 Low Lactose 820 g",
+"price": 187.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292369",
+"img_src": "ninja",
+"images": [
+"8427030004792.webp",
+"8427030004792-1.webp",
+"8427030004792-2.webp"
+]
+},
+{
+"sku": "JRN00004715",
+"barcode": "8886451008992",
+"cat": 56,
+"ar": "بدياشور حليب أطفال المرحلة الثالثة ومافوق نكهة الفانليا 400 جم",
+"en": "Pediasure Baby Milk Stage 3+ Vanilla 400 g",
+"price": 59.95,
+"special": 41.95,
+"src": "ninja",
+"ninja_id": "5-19292352",
+"img_src": "ninja",
+"images": [
+"8886451008992.webp",
+"8886451008992-1.webp",
+"8886451008992-2.webp"
+]
+},
+{
+"sku": "JRN00004716",
+"barcode": "8886451000279",
+"cat": 56,
+"ar": "بدياشور حليب أطفال المرحلة الأولى ومافوق نكهة الفانيليا 400 جم",
+"en": "Pediasure Baby Milk Stage 1+ Vanilla 400 g",
+"price": 56.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292365",
+"img_src": "ninja",
+"images": [
+"8886451000279.webp",
+"8886451000279-1.webp",
+"8886451000279-2.webp"
+]
+},
+{
+"sku": "JRN00004717",
+"barcode": "3518070313434",
+"cat": 56,
+"ar": "نوفالاك نوفابين حليب أطفال المرحلة الاولي و الثانية 800 جم",
+"en": "Novalac Novabean Baby Milk Stage 1&2 Size 800 g",
+"price": 119.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293014",
+"img_src": "ninja",
+"images": [
+"3518070313434.webp",
+"3518070313434-1.webp",
+"3518070313434-2.webp"
+]
+},
+{
+"sku": "JRN00004718",
+"barcode": "6281007044219",
+"cat": 56,
+"ar": "نيورالاك اتش 8 حليب اطفال 400 جم",
+"en": "Nuralac H8 Baby Milk 400 g",
+"price": 56.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293027",
+"img_src": "ninja",
+"images": [
+"6281007044219.webp",
+"6281007044219-1.webp",
+"6281007044219-2.webp"
+]
+},
+{
+"sku": "JRN00004719",
+"barcode": "878982007665",
+"cat": 60,
+"ar": "بيبي أو ليه وشاح الرضاعة المميز بتصميم خطوط حلوى",
+"en": "Babe Au Lait Premium Muslin Nursing Scarf - Candy Stripes",
+"price": 137.95,
+"special": 68.95,
+"src": "ninja",
+"ninja_id": "5-19379490",
+"img_src": "ninja",
+"images": [
+"878982007665.webp"
+]
+},
+{
+"sku": "JRN00004720",
+"barcode": "878982007573",
+"cat": 60,
+"ar": "بيبي أو ليه غطاء الرضاعة المميز تصميم أفيلا",
+"en": "Babe Au Lait Premium Muslin Nursing Cover - Avila",
+"price": 172.95,
+"special": 86.5,
+"src": "ninja",
+"ninja_id": "5-19379493",
+"img_src": "ninja",
+"images": [
+"878982007573.webp",
+"878982007573-1.webp",
+"878982007573-2.webp"
+]
+},
+{
+"sku": "JRN00004721",
+"barcode": "878982003483",
+"cat": 60,
+"ar": "بيبي أو ليه أي ليت غطاء الرضاعة باللون الاسود",
+"en": "Babe Au Lait Eyelet Black Nursing Cover",
+"price": 183.95,
+"special": 91.95,
+"src": "ninja",
+"ninja_id": "5-19379495",
+"img_src": "ninja",
+"images": [
+"878982003483.webp",
+"878982003483-1.webp",
+"878982003483-2.webp"
+]
+},
+{
+"sku": "JRN00004722",
+"barcode": "878982008860",
+"cat": 60,
+"ar": "بيبي أو ليه غطاء مقعد السيارة بتصميم احجار وردية",
+"en": "Bebe Au Lait Car Seat Cover Rose Quartz",
+"price": 160.95,
+"special": 80.5,
+"src": "ninja",
+"ninja_id": "5-19379498",
+"img_src": "ninja",
+"images": [
+"878982008860.webp"
+]
+},
+{
+"sku": "JRN00004723",
+"barcode": "878982007566",
+"cat": 60,
+"ar": "بيبي أو ليه غطاء الرضاعة تصميم اكابولكو",
+"en": "Babe Au Lait Premium Cotton Nursing Cover Acapulco",
+"price": 160.95,
+"special": 80.5,
+"src": "ninja",
+"ninja_id": "5-19379503",
+"img_src": "ninja",
+"images": [
+"878982007566.webp"
+]
+},
+{
+"sku": "JRN00004724",
+"barcode": "8692241956448",
+"cat": 60,
+"ar": "سيفي بيبي وسادة رضاعة متعددة الاستخدام",
+"en": "Sevi Baby Multi Funcatioal Nursing Cushion",
+"price": 229.95,
+"special": 114.95,
+"src": "ninja",
+"ninja_id": "5-19379506",
+"img_src": "ninja",
+"images": [
+"8692241956448.webp"
+]
+},
+{
+"sku": "JRN00004725",
+"barcode": "878982006712",
+"cat": 60,
+"ar": "بيبي أو ليه ديلوكس وشاح الرضاعة تصميم كاراميل باي",
+"en": "Babe Au Lait Deluxe Muslin Nursing Scarf Carmel Bay",
+"price": 137.95,
+"special": 68.95,
+"src": "ninja",
+"ninja_id": "5-19379520",
+"img_src": "ninja",
+"images": [
+"878982006712.webp"
+]
+},
+{
+"sku": "JRN00004726",
+"barcode": "9421904338104",
+"cat": 60,
+"ar": "حزام أمان للأطفال الصغارمقاوم للقطع",
+"en": "Toddler Safety Harness Cut Proof",
+"price": 114.95,
+"special": 57.5,
+"src": "ninja",
+"ninja_id": "5-19379521",
+"img_src": "ninja",
+"images": [
+"9421904338104.webp",
+"9421904338104-1.webp",
+"9421904338104-2.webp"
+]
+},
+{
+"sku": "JRN00004727",
+"barcode": "878982006514",
+"cat": 60,
+"ar": "بيبي أو ليه غطاء الرضاعة على شكل خضارالبروكلين",
+"en": "Babe Au Lait Premium Muslin Nursing Cover Brooklyn",
+"price": 172.95,
+"special": 86.5,
+"src": "ninja",
+"ninja_id": "5-19379523",
+"img_src": "ninja",
+"images": [
+"878982006514.webp"
+]
+},
+{
+"sku": "JRN00004728",
+"barcode": "878982005883",
+"cat": 60,
+"ar": "بيبي أو ليه وشاح الرضاعة المميزعلى شكل طائر العندليب",
+"en": "Babe Au Lait Premium Muslin Nursing Scarf Nightingale",
+"price": 137.95,
+"special": 68.95,
+"src": "ninja",
+"ninja_id": "5-19379483",
+"img_src": "ninja",
+"images": [
+"878982005883.webp",
+"878982005883-1.webp"
+]
+},
+{
+"sku": "JRN00004729",
+"barcode": "8698694121716",
+"cat": 60,
+"ar": "مايسي وسادة للرضاعة ماجيك ازرق",
+"en": "Mycey Nursing And Support Pillow Magic Blue",
+"price": 195.95,
+"special": 97.95,
+"src": "ninja",
+"ninja_id": "5-19379482",
+"img_src": "ninja",
+"images": [
+"8698694121716.webp"
+]
+},
+{
+"sku": "JRN00004730",
+"barcode": "8698694121754",
+"cat": 60,
+"ar": "مايسي حمالة مامبو احمر",
+"en": "Mycey Sling / Mambo Red",
+"price": 139.95,
+"special": 69.95,
+"src": "ninja",
+"ninja_id": "5-19379484",
+"img_src": "ninja",
+"images": [
+"8698694121754.webp"
+]
+},
+{
+"sku": "JRN00004731",
+"barcode": "735282171093",
+"cat": 60,
+"ar": "مانشكين 14 اونصة اكواب ميراكل 360 متنوعة",
+"en": "Munchkin 14Oz Mirical 360 Cup Assorted",
+"price": 68.95,
+"special": 34.5,
+"src": "ninja",
+"ninja_id": "5-19379485",
+"img_src": "ninja",
+"images": [
+"735282171093.webp",
+"735282171093-1.webp"
+]
+},
+{
+"sku": "JRN00004732",
+"barcode": "014708612687",
+"cat": 60,
+"ar": "مانشكين مظلة نافذة السيارة وايت هوت قابلة للطي قطعتين",
+"en": "Munchkin Cling White Hot Pop Open Shade 2Pk",
+"price": 64.95,
+"special": 32.5,
+"src": "ninja",
+"ninja_id": "5-19379491",
+"img_src": "ninja",
+"images": [
+"014708612687.webp",
+"014708612687-1.webp",
+"014708612687-2.webp"
+]
+},
+{
+"sku": "JRN00004733",
+"barcode": "8698694121709",
+"cat": 60,
+"ar": "مايسي وسادة للرضاعة ماجيك وردية",
+"en": "Mycey Nursing And Support Pillow Magic Pink",
+"price": 195.95,
+"special": 97.95,
+"src": "ninja",
+"ninja_id": "5-19379494",
+"img_src": "ninja",
+"images": [
+"8698694121709.webp"
+]
+},
+{
+"sku": "JRN00004734",
+"barcode": "8698694122294",
+"cat": 60,
+"ar": "مايسي وسادة للرضاعة بتصميم فراشات زرقاء",
+"en": "Mycey Nursing And Support Pillow Dragonfly Blue",
+"price": 195.95,
+"special": 97.95,
+"src": "ninja",
+"ninja_id": "5-19379499",
+"img_src": "ninja",
+"images": [
+"8698694122294.webp"
+]
+},
+{
+"sku": "JRN00004735",
+"barcode": "8698694122119",
+"cat": 60,
+"ar": "مايسي وسادة للرضاعة دراجون فلاي وردي",
+"en": "Mycey Nursing And Support Pillow Dragonfly Pink",
+"price": 195.95,
+"special": 97.95,
+"src": "ninja",
+"ninja_id": "5-19379507",
+"img_src": "ninja",
+"images": [
+"8698694122119.webp"
+]
+},
+{
+"sku": "JRN00004736",
+"barcode": "8698694121761",
+"cat": 60,
+"ar": "مايسي حمالة كحلي",
+"en": "Mycey Sling Navy Blue",
+"price": 137.95,
+"special": 68.95,
+"src": "ninja",
+"ninja_id": "5-19379510",
+"img_src": "ninja",
+"images": [
+"8698694121761.webp"
+]
+},
+{
+"sku": "JRN00004737",
+"barcode": "8698694121556",
+"cat": 60,
+"ar": "مايسي وسادة للرضاعة بورد طائرة زرقاء",
+"en": "Mycey Nursing And Support Pillow Board The Blue Plane",
+"price": 195.95,
+"special": 97.95,
+"src": "ninja",
+"ninja_id": "5-19379513",
+"img_src": "ninja",
+"images": [
+"8698694121556.webp"
+]
+},
+{
+"sku": "JRN00004738",
+"barcode": "014708640116",
+"cat": 60,
+"ar": "مانشكين بريكا حامل زجاجة الشرب ديلوكس سناك بود",
+"en": "Munchkin Brica Deluxe Snack Pod",
+"price": 80.95,
+"special": 40.5,
+"src": "ninja",
+"ninja_id": "5-19379530",
+"img_src": "ninja",
+"images": [
+"014708640116.webp"
+]
+},
+{
+"sku": "JRN00004739",
+"barcode": "735282156632",
+"cat": 60,
+"ar": "مانشكين لاتش 8 اونصة طقم رضاعات مع حلمة حركة طبيعية 3 قطع",
+"en": "Munchkin Latch 8Oz Bottle Natural Movement Teat 3Pk",
+"price": 160.95,
+"special": 80.5,
+"src": "ninja",
+"ninja_id": "5-19379528",
+"img_src": "ninja",
+"images": [
+"735282156632.webp"
+]
+},
+{
+"sku": "JRN00004740",
+"barcode": "8717953117342",
+"cat": 59,
+"ar": "نايف زيت اطفال مهدئ للأطفال يهدئ ويريح البشرة 100 مل",
+"en": "Naif Baby Soothing Oil Sooth Relax Skin 100 ml",
+"price": 92.95,
+"special": 79.25,
+"src": "ninja",
+"ninja_id": "5-19363401",
+"img_src": "ninja",
+"images": [
+"8717953117342.webp",
+"8717953117342-1.webp"
+]
+},
+{
+"sku": "JRN00004741",
+"barcode": "8720254710112",
+"cat": 59,
+"ar": "نايف بلسم الطفل بزبدة الشيا بدون عطر 75 مل",
+"en": "Naif Baby Balm Shea Butter Perfume Free 75 ml",
+"price": 85.95,
+"special": 73.25,
+"src": "ninja",
+"ninja_id": "5-19363405",
+"img_src": "ninja",
+"images": [
+"8720254710112.webp",
+"8720254710112-1.webp",
+"8720254710112-2.webp"
+]
+},
+{
+"sku": "JRN00004742",
+"barcode": "8719325317954",
+"cat": 59,
+"ar": "نايف كريم الحفاضات لتهدئة الألتهابات خالي من العطور 75 مل",
+"en": "Naif Diaper Cream Perfume Free 75 ml",
+"price": 65.95,
+"special": 56.25,
+"src": "ninja",
+"ninja_id": "5-19363407",
+"img_src": "ninja",
+"images": [
+"8719325317954.webp",
+"8719325317954-1.webp",
+"8719325317954-2.webp"
+]
+},
+{
+"sku": "JRN00004743",
+"barcode": "8717953117359",
+"cat": 59,
+"ar": "نايف زيت استحمام ميلكي للأطفال بزيت بذور القطن 100 مل",
+"en": "Naif Baby Milky Bath Oil With Cottonseed Oil 100 ml",
+"price": 76.95,
+"special": 65.5,
+"src": "ninja",
+"ninja_id": "5-19363408",
+"img_src": "ninja",
+"images": [
+"8717953117359.webp",
+"8717953117359-1.webp",
+"8717953117359-2.webp"
+]
+},
+{
+"sku": "JRN00004744",
+"barcode": "5060702872270",
+"cat": 60,
+"ar": "فيتال بيبي بروتيكت مجموعة العناية بشعر الطفل 2 قطعة",
+"en": "Vital Baby Protect Grooming Set 2 Pcs",
+"price": 28.95,
+"special": 21.75,
+"src": "ninja",
+"ninja_id": "5-19289494",
+"img_src": "ninja",
+"images": [
+"5060702872270.webp",
+"5060702872270-1.webp",
+"5060702872270-2.webp"
+]
+},
+{
+"sku": "JRN00004745",
+"barcode": "8029241138824",
+"cat": 59,
+"ar": "ناتورافيردي فقاعات استحمام عضوية للأطفال ديزني بيبي 400 مل",
+"en": "Naturaverde Bubble Bath Organic Disney Baby 400 ml",
+"price": 109.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387825",
+"img_src": "ninja",
+"images": [
+"8029241138824.webp",
+"8029241138824-1.webp"
+]
+},
+{
+"sku": "JRN00004746",
+"barcode": "7893694003609",
+"cat": 59,
+"ar": "كانشوم شامبو الاطفال 300 مل",
+"en": "Kanechom Kids Shampoo 300 ml",
+"price": 36.95,
+"special": 25.95,
+"src": "ninja",
+"ninja_id": "5-19369438",
+"img_src": "ninja",
+"images": [
+"7893694003609.webp",
+"7893694003609-1.webp",
+"7893694003609-2.webp"
+]
+},
+{
+"sku": "JRN00004747",
+"barcode": "8681080610512",
+"cat": 57,
+"ar": "أرز هيرو بيبي المدعم بالحديد 110 جم",
+"en": "Hero Baby Rice Iron Fortified 110 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371542",
+"img_src": "ninja",
+"images": [
+"8681080610512.webp",
+"8681080610512-1.webp",
+"8681080610512-2.webp"
+]
+},
+{
+"sku": "JRN00004748",
+"barcode": "8681080610499",
+"cat": 57,
+"ar": "حبوب هيرو بيبي 8 وخضروات و حليب 150 جم",
+"en": "Hero Baby 8 Cereals & Vegetables & Milk 150 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371552",
+"img_src": "ninja",
+"images": [
+"8681080610499.webp",
+"8681080610499-1.webp",
+"8681080610499-2.webp"
+]
+},
+{
+"sku": "JRN00004749",
+"barcode": "8681080610505",
+"cat": 57,
+"ar": "حبوب هيرو بيبي 8 وفواكه + حليب 150 جم",
+"en": "Hero Baby 8 Cereals & Fruits & Milk 150 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371555",
+"img_src": "ninja",
+"images": [
+"8681080610505.webp",
+"8681080610505-1.webp",
+"8681080610505-2.webp"
+]
+},
+{
+"sku": "JRN00004750",
+"barcode": "8681080610390",
+"cat": 57,
+"ar": "قمح هيرو بيبي + حليب 150 جم",
+"en": "Hero Baby Wheat & Milk 150 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19371557",
+"img_src": "ninja",
+"images": [
+"8681080610390.webp",
+"8681080610390-1.webp",
+"8681080610390-2.webp"
+]
+},
+{
+"sku": "JRN00004751",
+"barcode": "5012909010900",
+"cat": 60,
+"ar": "افينت حلمات كلاسيك بلس من فيليبس بثلاث فتحات 2قطعة",
+"en": "Avent Classic Plus Teats 3 Hole 2 pcs",
+"price": 58.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291250",
+"img_src": "ninja",
+"images": [
+"5012909010900.webp",
+"5012909010900-1.webp",
+"5012909010900-2.webp"
+]
+},
+{
+"sku": "JRN00004752",
+"barcode": "8710103637363",
+"cat": 60,
+"ar": "أفنت أكياس لحفظ الحليب 180 مل 25 قطعة",
+"en": "Avent Breast Milk Storage Bags 180 ml 25 pcs",
+"price": 74.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291252",
+"img_src": "ninja",
+"images": [
+"8710103637363.webp",
+"8710103637363-1.webp",
+"8710103637363-2.webp"
+]
+},
+{
+"sku": "JRN00004753",
+"barcode": "8696287062019",
+"cat": 60,
+"ar": "دنيا كرسي أطفال لون أزرق",
+"en": "Dunya Kids Chair Blue",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400773",
+"img_src": "ninja",
+"images": [
+"8696287062019.webp"
+]
+},
+{
+"sku": "JRN00004754",
+"barcode": "8850596140411",
+"cat": 60,
+"ar": "بيور لهاية السيليكون التقويمية للأسنان مع فتحات التهوية متعددة الألوان 0 6 أشهر",
+"en": "Pur Ventilated Ortho Silicone Soother Assorted Colors : 0 6 months",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374009",
+"img_src": "ninja",
+"images": [
+"8850596140411.webp",
+"8850596140411-1.webp",
+"8850596140411-2.webp"
+]
+},
+{
+"sku": "JRN00004755",
+"barcode": "8850596140190",
+"cat": 60,
+"ar": "بيور لهاية السيليكون التقويمية للأسنان +6 أشهر",
+"en": "Pur Orthodontic Silicone Soother 6M+",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374012",
+"img_src": "ninja",
+"images": [
+"8850596140190.webp",
+"8850596140190-1.webp"
+]
+},
+{
+"sku": "JRN00004756",
+"barcode": "8850596998128",
+"cat": 60,
+"ar": "بيورادفانس بلس ذات العنق الواسع 250 مل / 8 أونصة",
+"en": "Pur Advanced Plus Wide Neck Bottle 8 oz./250 ml.",
+"price": 52.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374013",
+"img_src": "ninja",
+"images": [
+"8850596998128.webp",
+"8850596998128-1.webp",
+"8850596998128-2.webp"
+]
+},
+{
+"sku": "JRN00004757",
+"barcode": "8850596990139",
+"cat": 60,
+"ar": "بيورالعلبة الكلاسيكية الدائرية 8 أونصة 250 مل الوان متنوعه",
+"en": "Pure Round classic bottle 8oz 250 ml assorted Color",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374015",
+"img_src": "ninja",
+"images": [
+"8850596990139.webp",
+"8850596990139-1.webp",
+"8850596990139-2.webp"
+]
+},
+{
+"sku": "JRN00004758",
+"barcode": "8850596713134",
+"cat": 60,
+"ar": "بيوركوب الذكي",
+"en": "Pur Weight Cup",
+"price": 43.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374016",
+"img_src": "ninja",
+"images": [
+"8850596713134.webp",
+"8850596713134-1.webp",
+"8850596713134-2.webp"
+]
+},
+{
+"sku": "JRN00004759",
+"barcode": "8850596912032",
+"cat": 60,
+"ar": "بيورعلبة زجاجية 240 مل / 8 أونصة",
+"en": "Pur Glass bottle 8Oz/240 ml",
+"price": 53.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374018",
+"img_src": "ninja",
+"images": [
+"8850596912032.webp",
+"8850596912032-1.webp",
+"8850596912032-2.webp"
+]
+},
+{
+"sku": "JRN00004760",
+"barcode": "8850596140428",
+"cat": 60,
+"ar": "بيور لهاية السيليكون التقويمية للأسنان مع فتحات التهوية +6 أشهر متعدد الالوان",
+"en": "Pur Ventilated Ortho Silicone Soother : 6 months+ Assorted color",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374021",
+"img_src": "ninja",
+"images": [
+"8850596140428.webp"
+]
+},
+{
+"sku": "JRN00004761",
+"barcode": "8850596980079",
+"cat": 60,
+"ar": "بيورعضاضة المليئة بالمياه - شكل فواكة",
+"en": "Pur Water Filled Teether - Fruit Shaped",
+"price": 28.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374022",
+"img_src": "ninja",
+"images": [
+"8850596980079.webp",
+"8850596980079-1.webp"
+]
+},
+{
+"sku": "JRN00004762",
+"barcode": "8850596912025",
+"cat": 60,
+"ar": "بيورعلبة زجاجية 130 مل / 4 أونصة",
+"en": "Pur Glass bottle 4Oz/130 ml",
+"price": 46.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374023",
+"img_src": "ninja",
+"images": [
+"8850596912025.webp",
+"8850596912025-1.webp",
+"8850596912025-2.webp"
+]
+},
+{
+"sku": "JRN00004763",
+"barcode": "8850596918133",
+"cat": 60,
+"ar": "بيور حلمة ذات عنق رفيع مع ملمس ناعم - 2 قطعة حجم كبير",
+"en": "Pur Gentle Touch Slim Neck Nipple Size L 2pk",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374028",
+"img_src": "ninja",
+"images": [
+"8850596918133.webp",
+"8850596918133-1.webp",
+"8850596918133-2.webp"
+]
+},
+{
+"sku": "JRN00004764",
+"barcode": "8850596918027",
+"cat": 60,
+"ar": "بيورادفانس ذات العنق الرفيع متعدد الالوان 250 مل / 8 أونصة",
+"en": "Pur Advanced Slim Neck Bottle Assorted Colors 8 oz/250 ml.",
+"price": 36.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374031",
+"img_src": "ninja",
+"images": [
+"8850596918027.webp",
+"8850596918027-1.webp",
+"8850596918027-2.webp"
+]
+},
+{
+"sku": "JRN00004765",
+"barcode": "686352601111",
+"cat": 57,
+"ar": "مام مام بسكويت أرز عضوي للأطفال بالتوت خالي من الجلوتين وعضوي 50 جم",
+"en": "MumMum Organic Baby Rice Biscuits Berries Organic and Gluten Free 50 g",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19389677",
+"img_src": "ninja",
+"images": [
+"686352601111.webp",
+"686352601111-1.webp",
+"686352601111-2.webp"
+]
+},
+{
+"sku": "JRN00004766",
+"barcode": "686352601128",
+"cat": 57,
+"ar": "مام مام بسكويت أرز عضوي للأطفال بنكهة استوائية خالي من الجلوتين وعضوي 50 جم",
+"en": "MumMum Organic Baby Rice Biscuits Tropical Organic and Gluten Free 50 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19389678",
+"img_src": "ninja",
+"images": [
+"686352601128.webp",
+"686352601128-1.webp",
+"686352601128-2.webp"
+]
+},
+{
+"sku": "JRN00004767",
+"barcode": "6281008248234",
+"cat": 58,
+"ar": "بيبي جوي ميجاباك بالزيتون رقم 3 56 حفاضة",
+"en": "Babyjoy Olive Size 3 Mega Pack 56 Diaper",
+"price": 96.95,
+"special": 74.95,
+"src": "ninja",
+"ninja_id": "5-19390344",
+"img_src": "ninja",
+"images": [
+"6281008248234.webp"
+]
+},
+{
+"sku": "JRN00004768",
+"barcode": "6281008125313",
+"cat": 58,
+"ar": "بيبي جوي حفائض زيت الزيتون مقاس 2 توفير 13 حبة",
+"en": "Baby Joy Olive Oil Saving Tape Diaper Size 2 Pack 13 pcs",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-860262",
+"img_src": "ninja",
+"images": [
+"6281008125313.webp",
+"6281008125313-1.webp",
+"6281008125313-2.webp"
+]
+},
+{
+"sku": "JRN00004769",
+"barcode": "6281008125351",
+"cat": 58,
+"ar": "بيبي جوي حفائض زيت الزيتون مقاس 5 توفير 8 حبة",
+"en": "Baby Joy Olive Oil Saving Tape Diaper Size 5 Pack 8 pcs",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-865851",
+"img_src": "ninja",
+"images": [
+"6281008125351.webp",
+"6281008125351-1.webp"
+]
+},
+{
+"sku": "JRN00004770",
+"barcode": "6281008045338",
+"cat": 58,
+"ar": "بيبي جوي حفائض ميجا كلوت مقاس 4 كيس 56 حبة",
+"en": "Baby Joy Mega Cullote Size 4 Bag 56 pcs",
+"price": 87.95,
+"special": 69.95,
+"src": "ninja",
+"ninja_id": "5-867234",
+"img_src": "ninja",
+"images": [
+"6281008045338.webp",
+"6281008045338-1.webp"
+]
+},
+{
+"sku": "JRN00004771",
+"barcode": "6281008125368",
+"cat": 58,
+"ar": "بيبي جوي حفائض زيت الزيتون مقاس 6 توفير 7 حبة",
+"en": "Baby Joy Olive Oil Saving Tape Diaper Size 6 Pack 7 pcs",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-888540",
+"img_src": "ninja",
+"images": [
+"6281008125368.webp",
+"6281008125368-1.webp"
+]
+},
+{
+"sku": "JRN00004772",
+"barcode": "6281007044196",
+"cat": 56,
+"ar": "نيورالاك أي ار حليب أطفال مضاد للإرتجاع 400 جم",
+"en": "Nuralac Ar Baby Milk Anti Regurgitation 400 g",
+"price": 56.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19323230",
+"img_src": "ninja",
+"images": [
+"6281007044196.webp",
+"6281007044196-1.webp",
+"6281007044196-2.webp"
+]
+},
+{
+"sku": "JRN00004773",
+"barcode": "8426594119270",
+"cat": 56,
+"ar": "بليميل اوبتميم حليب أطفال المرحلة الأولى 400 جم",
+"en": "Blemil Optimum Baby Milk Stage 1 Size 400 g",
+"price": 52.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4970914",
+"img_src": "ninja",
+"images": [
+"8426594119270.webp",
+"8426594119270-1.webp",
+"8426594119270-2.webp"
+]
+},
+{
+"sku": "JRN00004774",
+"barcode": "8426594119294",
+"cat": 56,
+"ar": "بليميل اوبتميم حليب أطفال المرحلة الثانية 400 جم",
+"en": "Blemil Optimum Baby Milk Stage 2 Size 400 g",
+"price": 52.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4971113",
+"img_src": "ninja",
+"images": [
+"8426594119294.webp",
+"8426594119294-1.webp",
+"8426594119294-2.webp"
+]
+},
+{
+"sku": "JRN00004775",
+"barcode": "8426594119317",
+"cat": 56,
+"ar": "بليميل اوبتميم حليب أطفال المرحلة الثالثة 400 جم",
+"en": "Blemil Optimum Baby Milk Stage 3 Size 400 g",
+"price": 49.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4971379",
+"img_src": "ninja",
+"images": [
+"8426594119317.webp",
+"8426594119317-1.webp",
+"8426594119317-2.webp"
+]
+},
+{
+"sku": "JRN00004776",
+"barcode": "7613287818836",
+"cat": 56,
+"ar": "اس 26 جولد بروميل حليب أطفال المرحلة الثانية 800 جم",
+"en": "S26 Gold Promil Baby Milk Stage 2 Size 800 g",
+"price": 117.95,
+"special": 94.25,
+"src": "ninja",
+"ninja_id": "5-4971885",
+"img_src": "ninja",
+"images": [
+"7613287818836.webp",
+"7613287818836-1.webp",
+"7613287818836-2.webp"
+]
+},
+{
+"sku": "JRN00004777",
+"barcode": "8445290994486",
+"cat": 56,
+"ar": "نان اولتي برو حليب أطفال المرحلة الثالثة 800 جم",
+"en": "Nan Optipro Stage Milk 3 Size 800 g",
+"price": 104.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4975757",
+"img_src": "ninja",
+"images": [
+"8445290994486.webp",
+"8445290994486-1.webp",
+"8445290994486-2.webp"
+]
+},
+{
+"sku": "JRN00004778",
+"barcode": "6974180099908",
+"cat": 58,
+"ar": "ماكوكو حفائض برو كير شريط بوكس 100حفاض مقاس 3",
+"en": "Makuku Diapers Pro Care Tape 100 Diapers Size 3",
+"price": 133.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19329627",
+"img_src": "ninja",
+"images": [
+"6974180099908.webp",
+"6974180099908-1.webp",
+"6974180099908-2.webp"
+]
+},
+{
+"sku": "JRN00004779",
+"barcode": "6976551750456",
+"cat": 58,
+"ar": "ماكوكو حفائض العناية اليومي شريط بوكس 96 حفاض مقاس 4",
+"en": "Makuku Diapers Daily Care Tape 96 Diapers Size 4",
+"price": 123.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19329628",
+"img_src": "ninja",
+"images": [
+"6976551750456.webp",
+"6976551750456-1.webp",
+"6976551750456-2.webp"
+]
+},
+{
+"sku": "JRN00004780",
+"barcode": "6974180099915",
+"cat": 58,
+"ar": "ماكوكو حفائض برو كير شريط بوكس 88 حفاض مقاس 4",
+"en": "Makuku Diapers Pro Care Tape 88 Diapers Size 4",
+"price": 133.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19329630",
+"img_src": "ninja",
+"images": [
+"6974180099915.webp",
+"6974180099915-1.webp",
+"6974180099915-2.webp"
+]
+},
+{
+"sku": "JRN00004781",
+"barcode": "8410207100052",
+"cat": 59,
+"ar": "جونسون زيت للأطفال 200 مل",
+"en": "Johnson's Baby Oil 200 ml",
+"price": 33.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4331",
+"img_src": "ninja",
+"images": [
+"8410207100052.webp",
+"8410207100052-1.webp",
+"8410207100052-2.webp"
+]
+},
+{
+"sku": "JRN00004782",
+"barcode": "3575410594922",
+"cat": 56,
+"ar": "رونالاك روناجرو حليب أطفال المرحلة الثالثة 1700 جم",
+"en": "Ronlac Ronagow Baby Milk Stage 3 Size 1700 g",
+"price": 206.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4977632",
+"img_src": "ninja",
+"images": [
+"3575410594922.webp",
+"3575410594922-1.webp",
+"3575410594922-2.webp"
+]
+},
+{
+"sku": "JRN00004783",
+"barcode": "3575410727344",
+"cat": 56,
+"ar": "رونالاك حليب اطفال المرحلة الأولى 400 جم",
+"en": "Ronalac Baby Milk Stage 1 Size 400 g",
+"price": 49.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4977970",
+"img_src": "ninja",
+"images": [
+"3575410727344.webp",
+"3575410727344-1.webp",
+"3575410727344-2.webp"
+]
+},
+{
+"sku": "JRN00004784",
+"barcode": "5019090116381",
+"cat": 60,
+"ar": "مانشكن مجموعة مكوّنة من حلمتي زجاجة رضاعة شفاف",
+"en": "Munchkin latch natural movement stage 1 nipple 0+ months",
+"price": 44.95,
+"special": 22.5,
+"src": "ninja",
+"ninja_id": "5-6200760",
+"img_src": "ninja",
+"images": [
+"5019090116381.webp",
+"5019090116381-1.webp",
+"5019090116381-2.webp"
+]
+},
+{
+"sku": "JRN00004785",
+"barcode": "8001090677334",
+"cat": 58,
+"ar": "بامبرز حفاضات كلوت مقاس 3 وزن 6 11 كجم 105 حفاضة كلوت",
+"en": "Pampers Aloe Vera Size 3 Midi 6 11 kg Giant Saving Box 105 Pants Diapers",
+"price": 162.95,
+"special": 99.95,
+"src": "ninja",
+"ninja_id": "5-19329349",
+"img_src": "ninja",
+"images": [
+"8001090677334.webp",
+"8001090677334-1.webp"
+]
+},
+{
+"sku": "JRN00004786",
+"barcode": "8710103667018",
+"cat": 60,
+"ar": "فيليبس افنت كوب حليب وردي 200 مل",
+"en": "Philips Avent Baby Bottle Pink 200 ml",
+"price": 59.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19329597",
+"img_src": "ninja",
+"images": [
+"8710103667018.webp",
+"8710103667018-1.webp"
+]
+},
+{
+"sku": "JRN00004787",
+"barcode": "7610994461645",
+"cat": 56,
+"ar": "بريمالاك حليب أطفال المرحلة الثانية 800 جم",
+"en": "Primalac Baby Milk Stage 2 Size 800 g",
+"price": 107.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19329604",
+"img_src": "ninja",
+"images": [
+"7610994461645.webp",
+"7610994461645-1.webp",
+"7610994461645-2.webp"
+]
+},
+{
+"sku": "JRN00004788",
+"barcode": "8710103868743",
+"cat": 60,
+"ar": "فيليبس افنت رضاعة للمغص 330 مل",
+"en": "Philips Avent Anti-Colic Plastic Bottle 330 ml",
+"price": 83.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19329606",
+"img_src": "ninja",
+"images": [
+"8710103868743.webp",
+"8710103868743-1.webp",
+"8710103868743-2.webp"
+]
+},
+{
+"sku": "JRN00004789",
+"barcode": "8710103781837",
+"cat": 60,
+"ar": "فيليبس افنت كوب بمصاصه 200 مل",
+"en": "Avent Philips Straw Cup 200 ml",
+"price": 86.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19329610",
+"img_src": "ninja",
+"images": [
+"8710103781837.webp",
+"8710103781837-1.webp"
+]
+},
+{
+"sku": "JRN00004790",
+"barcode": "5060702871464",
+"cat": 60,
+"ar": "فيتال بيبي هيدرات كوب للأطفال بوب",
+"en": "Vital Baby Hydrate Kids Sipper Pop",
+"price": 70.95,
+"special": 53.25,
+"src": "ninja",
+"ninja_id": "5-5540914",
+"img_src": "ninja",
+"images": [
+"5060702871464.webp",
+"5060702871464-1.webp",
+"5060702871464-2.webp"
+]
+},
+{
+"sku": "JRN00004791",
+"barcode": "5060702871686",
+"cat": 60,
+"ar": "فيتال بيبي نوريش وعاء للوجبات الخفيفة بوب",
+"en": "Vital Baby NOURISH snack on the go pop",
+"price": 43.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5535428",
+"img_src": "ninja",
+"images": [
+"5060702871686.webp",
+"5060702871686-1.webp"
+]
+},
+{
+"sku": "JRN00004792",
+"barcode": "8719925751189",
+"cat": 56,
+"ar": "ايزلاك حليب أطفال المرحلة الثانية 800 جم",
+"en": "Isilac Baby Milk Stage 2 Size 800 g",
+"price": 96.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19323213",
+"img_src": "ninja",
+"images": [
+"8719925751189.webp",
+"8719925751189-1.webp",
+"8719925751189-2.webp"
+]
+},
+{
+"sku": "JRN00004793",
+"barcode": "8720689011662",
+"cat": 60,
+"ar": "فيليبس افنت ناتشورال رضاعة بلاستيك 0.2 260 مل",
+"en": "Avent Philips Natural 2.0 Plastic Feeding Bottle 260 ml",
+"price": 76.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19323214",
+"img_src": "ninja",
+"images": [
+"8720689011662.webp",
+"8720689011662-1.webp",
+"8720689011662-2.webp"
+]
+},
+{
+"sku": "JRN00004794",
+"barcode": "5060083090355",
+"cat": 56,
+"ar": "فابيميلك حليب أطفال المرحلة الثالثة 900 جم",
+"en": "Fabimilk Baby Milk Stage 3 Size 900 g",
+"price": 116.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19323218",
+"img_src": "ninja",
+"images": [
+"5060083090355.webp",
+"5060083090355-1.webp",
+"5060083090355-2.webp"
+]
+},
+{
+"sku": "JRN00004795",
+"barcode": "8720689012645",
+"cat": 60,
+"ar": "فيليبس افنت ناتشورال رضاعة 260 مل",
+"en": "Avent Philips Natural 2.0 Feeding Bottle 260 ml",
+"price": 115.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19323225",
+"img_src": "ninja",
+"images": [
+"8720689012645.webp",
+"8720689012645-1.webp",
+"8720689012645-2.webp"
+]
+},
+{
+"sku": "JRN00004796",
+"barcode": "8720689011945",
+"cat": 60,
+"ar": "فيايبس افنت رضاعه ناتشورال.2 بلاستيك 330 مل",
+"en": "Avent Philips Natural 2.0 Feeding Bottle plastic 330 ml",
+"price": 104.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19323236",
+"img_src": "ninja",
+"images": [
+"8720689011945.webp",
+"8720689011945-1.webp",
+"8720689011945-2.webp"
+]
+},
+{
+"sku": "JRN00004797",
+"barcode": "8710103875680",
+"cat": 60,
+"ar": "فيليبس افنت ناتشورال رضاعة بلاستك 125 مل",
+"en": "Avent Philips Natural 2.0 Plastic Feeding Bottle 125 ml",
+"price": 87.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19323222",
+"img_src": "ninja",
+"images": [
+"8710103875680.webp",
+"8710103875680-1.webp",
+"8710103875680-2.webp"
+]
+},
+{
+"sku": "JRN00004798",
+"barcode": "8720689011761",
+"cat": 60,
+"ar": "فيليبس افنت ناتشورال رضاعة 0.2 لون ازرق 260 مل",
+"en": "Avent Philips Natural 2.0 Feeding Bottle Blue 260 ml",
+"price": 96.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19323232",
+"img_src": "ninja",
+"images": [
+"8720689011761.webp",
+"8720689011761-1.webp",
+"8720689011761-2.webp"
+]
+},
+{
+"sku": "JRN00004799",
+"barcode": "3286011059436",
+"cat": 59,
+"ar": "بيولين ليكويد تالك 100 مل",
+"en": "Biolane Liquid Talc 100 ml",
+"price": 72.95,
+"special": 54.75,
+"src": "ninja",
+"ninja_id": "5-19351975",
+"img_src": "ninja",
+"images": [
+"3286011059436.webp",
+"3286011059436-1.webp",
+"3286011059436-2.webp"
+]
+},
+{
+"sku": "JRN00004800",
+"barcode": "3286010029874",
+"cat": 59,
+"ar": "بيولين كريم تغيير الحفاض 50 مل",
+"en": "Biolane Diaper Cream 50 ml",
+"price": 43.95,
+"special": 32.95,
+"src": "ninja",
+"ninja_id": "5-19351993",
+"img_src": "ninja",
+"images": [
+"3286010029874.webp",
+"3286010029874-1.webp"
+]
+},
+{
+"sku": "JRN00004801",
+"barcode": "5019090116220",
+"cat": 60,
+"ar": "مانشكين لاتش رضاعة مع حلمة متحركة 3 قطع 4 اونصة",
+"en": "Munchkin Latch Bottle Natural Movement Teat 4oz 3 pcs",
+"price": 150.95,
+"special": 75.5,
+"src": "ninja",
+"ninja_id": "5-19318099",
+"img_src": "ninja",
+"images": [
+"5019090116220.webp",
+"5019090116220-1.webp",
+"5019090116220-2.webp"
+]
+},
+{
+"sku": "JRN00004802",
+"barcode": "634240199127",
+"cat": 60,
+"ar": "بيمبلي كوب سيلكون 4 قطع وردي",
+"en": "Bimbly Silicone Cup 4 Pcs Pink",
+"price": 89.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317003",
+"img_src": "ninja",
+"images": [
+"634240199127.webp",
+"634240199127-1.webp",
+"634240199127-2.webp"
+]
+},
+{
+"sku": "JRN00004803",
+"barcode": "634240199141",
+"cat": 60,
+"ar": "بيمبلي كوب سيلكون 4 قطع ازرق",
+"en": "Bimbly Silicone Cup 4 Pcs Blue",
+"price": 89.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317004",
+"img_src": "ninja",
+"images": [
+"634240199141.webp",
+"634240199141-1.webp",
+"634240199141-2.webp"
+]
+},
+{
+"sku": "JRN00004804",
+"barcode": "634240199295",
+"cat": 60,
+"ar": "بيمبلي مجموعة أدوات طعام سيكلون 8 قطع ازرق",
+"en": "Bimbly Silicone Feeding Set 8 Pcs Blue",
+"price": 184.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317005",
+"img_src": "ninja",
+"images": [
+"634240199295.webp",
+"634240199295-1.webp",
+"634240199295-2.webp"
+]
+},
+{
+"sku": "JRN00004805",
+"barcode": "634240199271",
+"cat": 60,
+"ar": "بيمبلي مجموعة أدوات طعام سيكلون 8 قطع وردي",
+"en": "Bimbly Silicone Feeding Set 8 Pcs Pink",
+"price": 184.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317009",
+"img_src": "ninja",
+"images": [
+"634240199271.webp",
+"634240199271-1.webp",
+"634240199271-2.webp"
+]
+},
+{
+"sku": "JRN00004806",
+"barcode": "6281008484526",
+"cat": 58,
+"ar": "بيبي جوي حفائض كلوت جنيور اكس اكس لارج عبوة التوفير الكبيررقم 6 عدد 50 حفائض",
+"en": "Babyjoy Diapers Pants Giant Pack Junior XXL NO 6 count 50 Diapers",
+"price": 103.95,
+"special": 83.95,
+"src": "ninja",
+"ninja_id": "5-19309630",
+"img_src": "ninja",
+"images": [
+"6281008484526.webp",
+"6281008484526-1.webp"
+]
+},
+{
+"sku": "JRN00004807",
+"barcode": "6281008288384",
+"cat": 58,
+"ar": "بيبي جوي حفائض مضغوطة كبير عبوة التوفير الكبير رقم 4 عدد 74 حفائض",
+"en": "Babyjoy Diapers Giant Pack Large No 4 count 74 Diapers",
+"price": 103.95,
+"special": 83.95,
+"src": "ninja",
+"ninja_id": "5-19309648",
+"img_src": "ninja",
+"images": [
+"6281008288384.webp",
+"6281008288384-1.webp"
+]
+},
+{
+"sku": "JRN00004808",
+"barcode": "6281008288483",
+"cat": 58,
+"ar": "بيبي جوي حفائض مضغوطة جنيورعبوة التوفير الكبيررقم 5عدد 66 حفائض",
+"en": "Babyjoy Diapers Giant Pack Junior No 5 count 66 Diapers",
+"price": 103.95,
+"special": 83.95,
+"src": "ninja",
+"ninja_id": "5-19309685",
+"img_src": "ninja",
+"images": [
+"6281008288483.webp",
+"6281008288483-1.webp"
+]
+},
+{
+"sku": "JRN00004809",
+"barcode": "6974180099816",
+"cat": 58,
+"ar": "ماكوكوحفايض برو كير كلوت مقاس 3 عدد 48 حفاض",
+"en": "Makuku Diapers Pro Care Pants Size 3 Count 48 Diapers",
+"price": 79.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328045",
+"img_src": "ninja",
+"images": [
+"6974180099816.webp",
+"6974180099816-1.webp",
+"6974180099816-2.webp"
+]
+},
+{
+"sku": "JRN00004810",
+"barcode": "8901138819262",
+"cat": 59,
+"ar": "هيمالايا مجموعة العناية بالطفل بخلاصة الأعشاب",
+"en": "Himalaya Herbal Baby Care Set",
+"price": 87.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1502739",
+"img_src": "ninja",
+"images": [
+"8901138819262.webp",
+"8901138819262-1.webp",
+"8901138819262-2.webp"
+]
+},
+{
+"sku": "JRN00004811",
+"barcode": "626232131796",
+"cat": 60,
+"ar": "أتيتيود سائل غسيل رضاعة أطفال والصحون خالي من العطور 700 مل",
+"en": "Attitude Baby Bottle and Dishwashing Liquid Fragrancefree 700 ml",
+"price": 51.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328007",
+"img_src": "ninja",
+"images": [
+"626232131796.webp",
+"626232131796-1.webp",
+"626232131796-2.webp"
+]
+},
+{
+"sku": "JRN00004812",
+"barcode": "6281008204209",
+"cat": 58,
+"ar": "بيبي جوي مناديل مبللة للبشرة الحساسة 76 حبة",
+"en": "Babyjoy Wet Wipes Sensitive 76 pcs",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3739875",
+"img_src": "ninja",
+"images": [
+"6281008204209.webp",
+"6281008204209-1.webp",
+"6281008204209-2.webp"
+]
+},
+{
+"sku": "JRN00004813",
+"barcode": "5099864015959",
+"cat": 56,
+"ar": "سيميلاك جولد حليب أطفال المرحلة الثانية 1600 جم",
+"en": "Similac Gold Baby Milk Stage 2 Size 1600 g",
+"price": 204.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11964863",
+"img_src": "ninja",
+"images": [
+"5099864015959.webp",
+"5099864015959-1.webp",
+"5099864015959-2.webp"
+]
+},
+{
+"sku": "JRN00004814",
+"barcode": "5391523057417",
+"cat": 56,
+"ar": "سيميلاك جولد حليب أطفال المرحلة الثالثة 1600 جم",
+"en": "Similac Gold Baby Milk Stage 3 Size 1600 g",
+"price": 198.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11965343",
+"img_src": "ninja",
+"images": [
+"5391523057417.webp",
+"5391523057417-1.webp",
+"5391523057417-2.webp"
+]
+},
+{
+"sku": "JRN00004815",
+"barcode": "7613200203008",
+"cat": 56,
+"ar": "بريمالاك التيما حليب أطفال المرحلة الثالثة 400 جم",
+"en": "Primalac Ultima Baby Milk Stage 3 Size 400 g",
+"price": 54.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11966061",
+"img_src": "ninja",
+"images": [
+"7613200203008.webp",
+"7613200203008-1.webp",
+"7613200203008-2.webp"
+]
+},
+{
+"sku": "JRN00004816",
+"barcode": "7613200202940",
+"cat": 56,
+"ar": "بريمالاك التيما حليب أطفال المرحلة الأولى 400 جم",
+"en": "Primalac Ultima Baby Milk Stage 1 Size 400 g",
+"price": 54.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11966612",
+"img_src": "ninja",
+"images": [
+"7613200202940.webp",
+"7613200202940-1.webp",
+"7613200202940-2.webp"
+]
+},
+{
+"sku": "JRN00004817",
+"barcode": "8437019318215",
+"cat": 56,
+"ar": "لاكتونيك حليب أطفال المرحلة الأولى 400 جم",
+"en": "Lactonic Baby Milk Stage 1 Size 400 g",
+"price": 47.95,
+"special": 43.25,
+"src": "ninja",
+"ninja_id": "5-12040757",
+"img_src": "ninja",
+"images": [
+"8437019318215.webp",
+"8437019318215-1.webp",
+"8437019318215-2.webp"
+]
+},
+{
+"sku": "JRN00004818",
+"barcode": "8437019318239",
+"cat": 56,
+"ar": "لاكتونيك حليب أطفال المرحلة الثالثة 400 جم",
+"en": "Lactonic Baby Milk Stage 3 Size 400 g",
+"price": 49.95,
+"special": 44.95,
+"src": "ninja",
+"ninja_id": "5-12040810",
+"img_src": "ninja",
+"images": [
+"8437019318239.webp",
+"8437019318239-1.webp",
+"8437019318239-2.webp"
+]
+},
+{
+"sku": "JRN00004819",
+"barcode": "3574669907316",
+"cat": 59,
+"ar": "جونسون بيبي شامبو القطرات اللامعة للصغار 300 مل",
+"en": "Johnson's Kids Shampoo Shiny Drops 300 ml",
+"price": 30.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289191",
+"img_src": "ninja",
+"images": [
+"3574669907316.webp",
+"3574669907316-1.webp",
+"3574669907316-2.webp"
+]
+},
+{
+"sku": "JRN00004820",
+"barcode": "3574661449852",
+"cat": 58,
+"ar": "جونسون بيبي مناديل النظافة المثالية 48 منديل",
+"en": "Johnson's Baby Wipes Ultimate Clean 48 Wipes",
+"price": 20.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19289195",
+"img_src": "ninja",
+"images": [
+"3574661449852.webp",
+"3574661449852-1.webp",
+"3574661449852-2.webp"
+]
+},
+{
+"sku": "JRN00004821",
+"barcode": "3574669907347",
+"cat": 59,
+"ar": "جونسون بيبي 2 في 1 شامبو و بلسم 500 مل",
+"en": "Johnson's Baby 2-In 1 Shampoo And Conditioner 500 ml",
+"price": 65.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289192",
+"img_src": "ninja",
+"images": [
+"3574669907347.webp",
+"3574669907347-1.webp"
+]
+},
+{
+"sku": "JRN00004822",
+"barcode": "8710103667025",
+"cat": 60,
+"ar": "فيليبس افينت كوب حليب افنت لون ازرق 200 مل 1 قطعة",
+"en": "Avent Philips Classic Bottle Blue 200 ml 1 pcs",
+"price": 59.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19307236",
+"img_src": "ninja",
+"images": [
+"8710103667025.webp",
+"8710103667025-1.webp"
+]
+},
+{
+"sku": "JRN00004823",
+"barcode": "8710103518327",
+"cat": 60,
+"ar": "فيليبس افينت طقم أدوات تناول الطعام للأطفال 5 قطع",
+"en": "Philips Avent Toddler Mealtime 5 pcs",
+"price": 150.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19307249",
+"img_src": "ninja",
+"images": [
+"8710103518327.webp",
+"8710103518327-1.webp",
+"8710103518327-2.webp"
+]
+},
+{
+"sku": "JRN00004824",
+"barcode": "4031244707833",
+"cat": 56,
+"ar": "هيومانا بروبالانس حليب أطفال المرحلة الثالثة 1100 جم",
+"en": "Humana ProBalance Baby Milk Stage 3 Size 1100 g",
+"price": 124.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19385190",
+"img_src": "ninja",
+"images": [
+"4031244707833.webp"
+]
+},
+{
+"sku": "JRN00004825",
+"barcode": "6251001272178",
+"cat": 58,
+"ar": "فاين بيبي توتال 7 حفاضات مقاس 3 متوسط 52 حفاضة",
+"en": "Fine Baby Total 7 Diapers Size 3 Medium 52 Diapers",
+"price": 57.0,
+"special": 28.75,
+"src": "ninja",
+"ninja_id": "5-19287876",
+"img_src": "ninja",
+"images": [
+"6251001272178.webp",
+"6251001272178-1.webp"
+]
+},
+{
+"sku": "JRN00004826",
+"barcode": "6294015184495",
+"cat": 59,
+"ar": "بيورلايف لوشن للأطفال 500 مل",
+"en": "PureLife Baby Lotion 500 ml",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19304200",
+"img_src": "ninja",
+"images": [
+"6294015184495.webp",
+"6294015184495-1.webp"
+]
+},
+{
+"sku": "JRN00004827",
+"barcode": "5060702875646",
+"cat": 60,
+"ar": "فيتال بيبي نورتشر زجاجة رضاعه بسيطة 100 مل 1 حبة",
+"en": "Vital Baby Nurture Perfectly Simple Feeding Bottle 100 ml 1Pcs",
+"price": 26.95,
+"special": 20.25,
+"src": "ninja",
+"ninja_id": "5-19384836",
+"img_src": "ninja",
+"images": [
+"5060702875646.webp"
+]
+},
+{
+"sku": "JRN00004828",
+"barcode": "8710103943181",
+"cat": 60,
+"ar": "فيليبس افينت لهاية 18 6 شهر الترا سوفت",
+"en": "Avent Philips soft Soother 6 18 Months Girl Mix Deco",
+"price": 86.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19307242",
+"img_src": "ninja",
+"images": [
+"8710103943181.webp",
+"8710103943181-1.webp",
+"8710103943181-2.webp"
+]
+},
+{
+"sku": "JRN00004829",
+"barcode": "8710103868453",
+"cat": 60,
+"ar": "فيليبس افينت رضاعة للمغص 260 مل 2 قطع",
+"en": "Avent Philips Response Baby Bottle With AirFree Valve 2 pcs 260 ml",
+"price": 122.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19307247",
+"img_src": "ninja",
+"images": [
+"8710103868453.webp",
+"8710103868453-1.webp",
+"8710103868453-2.webp"
+]
+},
+{
+"sku": "JRN00004830",
+"barcode": "8710103998020",
+"cat": 60,
+"ar": "فيليبس افينت لهاية الترا اير تصاميم متنوعة 6 18 اشهر",
+"en": "Avent Philips Ultra Air Freeflow Assorted Design 6 18 Month",
+"price": 72.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19307248",
+"img_src": "ninja",
+"images": [
+"8710103998020.webp",
+"8710103998020-1.webp"
+]
+},
+{
+"sku": "JRN00004831",
+"barcode": "8710103868293",
+"cat": 60,
+"ar": "فيليبس افينت رضاعة كلاسيك 125 مل 2 قطع",
+"en": "Philips Avent Classic Bottle 125 ml 2 pcs",
+"price": 116.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19307252",
+"img_src": "ninja",
+"images": [
+"8710103868293.webp",
+"8710103868293-1.webp",
+"8710103868293-2.webp"
+]
+},
+{
+"sku": "JRN00004832",
+"barcode": "3504105034412",
+"cat": 59,
+"ar": "موستيلا كريم غطاء المهد 40 مل",
+"en": "Mustela Baby Cradle Cap Cream 40 ml",
+"price": 69.95,
+"special": 45.5,
+"src": "ninja",
+"ninja_id": "5-19309595",
+"img_src": "ninja",
+"images": [
+"3504105034412.webp",
+"3504105034412-1.webp",
+"3504105034412-2.webp"
+]
+},
+{
+"sku": "JRN00004833",
+"barcode": "9314839014239",
+"cat": 59,
+"ar": "إيجو كيو في بيبي صابون 100 جم",
+"en": "Ego QV Baby Bar 100 g",
+"price": 36.95,
+"special": 27.25,
+"src": "ninja",
+"ninja_id": "5-19381967",
+"img_src": "ninja",
+"images": [
+"9314839014239.webp",
+"9314839014239-1.webp",
+"9314839014239-2.webp"
+]
+},
+{
+"sku": "JRN00004834",
+"barcode": "6281008201413",
+"cat": 58,
+"ar": "بيبي جوي مناديل سميكة معطرة 40 منديل",
+"en": "Babyjoy Wet Wipes Thick Scented 40 Wipes",
+"price": 35.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19309645",
+"img_src": "ninja",
+"images": [
+"6281008201413.webp",
+"6281008201413-1.webp"
+]
+},
+{
+"sku": "JRN00004835",
+"barcode": "6281008204308",
+"cat": 58,
+"ar": "بيبي جوي مناديل مبللة للبشرة الحساسة عبوة عائلية 3 × 48 منديل",
+"en": "Baby Joy Wet Wipes Sensitive Skin Family Pack 3 x 48 Wipes",
+"price": 46.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19309672",
+"img_src": "ninja",
+"images": [
+"6281008204308.webp",
+"6281008204308-1.webp"
+]
+},
+{
+"sku": "JRN00004836",
+"barcode": "8445291537668",
+"cat": 57,
+"ar": "سيريلاك خالي من السكر متعدد الحبوب 400 جم",
+"en": "Cerelac zero Added Sugar Multicereals 400 g",
+"price": 33.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348051",
+"img_src": "ninja",
+"images": [
+"8445291537668.webp",
+"8445291537668-1.webp",
+"8445291537668-2.webp"
+]
+},
+{
+"sku": "JRN00004837",
+"barcode": "634240199325",
+"cat": 60,
+"ar": "بيمبلي مجموعة أدوات طعام سيكلون 5 قطع وردي",
+"en": "Bimbly Silicone Feeding Set 5 Pcs Pink",
+"price": 144.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317006",
+"img_src": "ninja",
+"images": [
+"634240199325.webp",
+"634240199325-1.webp"
+]
+},
+{
+"sku": "JRN00004838",
+"barcode": "8445290341259",
+"cat": 57,
+"ar": "سيريلاك قمح و تمر من 6 أشهر 400 جم",
+"en": "Cerelac With Wheat & Dates 6 months 400 g",
+"price": 39.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1490",
+"img_src": "ninja",
+"images": [
+"8445290341259.webp",
+"8445290341259-1.webp",
+"8445290341259-2.webp"
+]
+},
+{
+"sku": "JRN00004839",
+"barcode": "8700216564687",
+"cat": 58,
+"ar": "بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس +4 كريم الصبار 70 حفاض",
+"en": "Pampers Diapers Rash Protection Taped Size+ 4 Aloe Vera Lotion 70 Diapers",
+"price": 129.95,
+"special": 99.95,
+"src": "ninja",
+"ninja_id": "5-19332567",
+"img_src": "ninja",
+"images": [
+"8700216564687.webp",
+"8700216564687-1.webp"
+]
+},
+{
+"sku": "JRN00004840",
+"barcode": "8700216553735",
+"cat": 58,
+"ar": "بامبرز كلوت للحماية من التسلخات مقاس 6 كريم الصبار 34 كلوت",
+"en": "Pampers Diapers Rash Protection Pants Size 6 Aloe Vera Lotion 34 Pants",
+"price": 96.95,
+"special": 69.95,
+"src": "ninja",
+"ninja_id": "5-19332620",
+"img_src": "ninja",
+"images": [
+"8700216553735.webp"
+]
+},
+{
+"sku": "JRN00004841",
+"barcode": "8445290341860",
+"cat": 57,
+"ar": "سيريلاك قمح و عسل 400 جم",
+"en": "Cerelac Wheat And honey 400 g",
+"price": 39.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10911372",
+"img_src": "ninja",
+"images": [
+"8445290341860.webp",
+"8445290341860-1.webp",
+"8445290341860-2.webp"
+]
+},
+{
+"sku": "JRN00004842",
+"barcode": "3575410727368",
+"cat": 56,
+"ar": "رونالاك روناجرو حليب أطفال المرحلة الثالثة 400 جم",
+"en": "Ronlac Ronagow Baby Milk Stage 3 Size 400 g",
+"price": 49.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10917070",
+"img_src": "ninja",
+"images": [
+"3575410727368.webp",
+"3575410727368-1.webp",
+"3575410727368-2.webp"
+]
+},
+{
+"sku": "JRN00004843",
+"barcode": "3575410716669",
+"cat": 56,
+"ar": "رونالاك حليب أطفال المرحلة الأولى 850 جم",
+"en": "Ronalac Baby Milk Stage 1 Size 850 g",
+"price": 100.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10918306",
+"img_src": "ninja",
+"images": [
+"3575410716669.webp",
+"3575410716669-1.webp",
+"3575410716669-2.webp"
+]
+},
+{
+"sku": "JRN00004844",
+"barcode": "3575410716676",
+"cat": 56,
+"ar": "رونالاك حليب أطفال المرحلة الثانية 850 جم",
+"en": "Ronalac Baby Milk Stage 2 Size 850 g",
+"price": 100.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10919041",
+"img_src": "ninja",
+"images": [
+"3575410716676.webp",
+"3575410716676-1.webp",
+"3575410716676-2.webp"
+]
+},
+{
+"sku": "JRN00004845",
+"barcode": "4031244004093",
+"cat": 56,
+"ar": "هيومانا حليب أطفال المرحلة الثالثة 400 جم",
+"en": "Humana Baby Milk Stage 3 Size 400 g",
+"price": 51.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11954589",
+"img_src": "ninja",
+"images": [
+"4031244004093.webp",
+"4031244004093-1.webp",
+"4031244004093-2.webp"
+]
+},
+{
+"sku": "JRN00004846",
+"barcode": "817513015427",
+"cat": 59,
+"ar": "كانتو بلسم العناية المغذي للاطفال 283 جم",
+"en": "Cantu Kids Care Leave In Condtioner 283 g",
+"price": 45.0,
+"special": 31.5,
+"src": "ninja",
+"ninja_id": "5-13260820",
+"img_src": "ninja",
+"images": [
+"817513015427.webp",
+"817513015427-1.webp",
+"817513015427-2.webp"
+]
+},
+{
+"sku": "JRN00004847",
+"barcode": "817513015441",
+"cat": 59,
+"ar": "كانتو بلسم التصفيف للاطفال 177 مل",
+"en": "Cantu Kids Care Detangler 177 ml",
+"price": 45.0,
+"special": 31.25,
+"src": "ninja",
+"ninja_id": "5-13260827",
+"img_src": "ninja",
+"images": [
+"817513015441.webp",
+"817513015441-1.webp",
+"817513015441-2.webp"
+]
+},
+{
+"sku": "JRN00004848",
+"barcode": "7613036691369",
+"cat": 57,
+"ar": "سيريلاك طعام أطفال موز تفاح اجاص خوخ 90 جم",
+"en": "Cerelac Banana Apple Pear Peach 90 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14003372",
+"img_src": "ninja",
+"images": [
+"7613036691369.webp",
+"7613036691369-1.webp"
+]
+},
+{
+"sku": "JRN00004849",
+"barcode": "8720689012041",
+"cat": 60,
+"ar": "فيليبس أفنت ناتشورال حلمة رضاعة 3.0 من 3 أشهر",
+"en": "Avent Philips Natural 3.0 Feeding Teats",
+"price": 63.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19342097",
+"img_src": "ninja",
+"images": [
+"8720689012041.webp",
+"8720689012041-1.webp",
+"8720689012041-2.webp"
+]
+},
+{
+"sku": "JRN00004850",
+"barcode": "5060068550751",
+"cat": 59,
+"ar": "كول اند كول زيت أطفال 250 مل",
+"en": "Cool and Cool Baby Oil 250 ml",
+"price": 30.95,
+"special": 22.43,
+"src": "ninja",
+"ninja_id": "5-19342100",
+"img_src": "ninja",
+"images": [
+"5060068550751.webp"
+]
+},
+{
+"sku": "JRN00004851",
+"barcode": "8720689012058",
+"cat": 60,
+"ar": "فيليبس أفنت حلمة رضاعة 5.0 من 6 أشهر",
+"en": "Avent Philips Natural 5.0 Feeding Teats 6 month",
+"price": 63.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19342101",
+"img_src": "ninja",
+"images": [
+"8720689012058.webp",
+"8720689012058-1.webp"
+]
+},
+{
+"sku": "JRN00004852",
+"barcode": "5060068554285",
+"cat": 58,
+"ar": "كول اند كول مناديل مبللة للسفر 3 قطع 30 منديل",
+"en": "Cool and Cool Travelling Wipes 3 pcs 30 sheet",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19342116",
+"img_src": "ninja",
+"images": [
+"5060068554285.webp",
+"5060068554285-1.webp",
+"5060068554285-2.webp"
+]
+},
+{
+"sku": "JRN00004853",
+"barcode": "6974180099779",
+"cat": 58,
+"ar": "ماكوكوحفايض برو كير شريط مقاس 3 عدد 50 حفاض",
+"en": "Makuku Diapers Pro Care Tape Size 3 Count 50 Diapers",
+"price": 68.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19328052",
+"img_src": "ninja",
+"images": [
+"6974180099779.webp",
+"6974180099779-1.webp",
+"6974180099779-2.webp"
+]
+},
+{
+"sku": "JRN00004854",
+"barcode": "7613287819406",
+"cat": 56,
+"ar": "إس 26 جولد كيدز حليب أطفال المرحلة الرابعه 800 جم",
+"en": "S26 Gold Kids Baby Milk Stage 4 Size 800 g",
+"price": 79.95,
+"special": 63.95,
+"src": "ninja",
+"ninja_id": "5-19321816",
+"img_src": "ninja",
+"images": [
+"7613287819406.webp",
+"7613287819406-1.webp",
+"7613287819406-2.webp"
+]
+},
+{
+"sku": "JRN00004855",
+"barcode": "6291107220383",
+"cat": 59,
+"ar": "هيمالايا سائل استحمام المرطب للأطفال بزيت الزيتون والصبار 400 مل",
+"en": "Himalaya Moisturizer Shower Liquid For Children With Olive Oil & Aloe Vera 400 ml",
+"price": 38.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-207430",
+"img_src": "ninja",
+"images": [
+"6291107220383.webp",
+"6291107220383-1.webp",
+"6291107220383-2.webp"
+]
+},
+{
+"sku": "JRN00004856",
+"barcode": "5019090116466",
+"cat": 60,
+"ar": "مانشكين طقم حلمات 6 شهور فما فوق",
+"en": "Munchkin Latch Natural Movement Stage 6+ Months",
+"price": 45.95,
+"special": 22.95,
+"src": "ninja",
+"ninja_id": "5-19318049",
+"img_src": "ninja",
+"images": [
+"5019090116466.webp",
+"5019090116466-1.webp"
+]
+},
+{
+"sku": "JRN00004857",
+"barcode": "5019090116428",
+"cat": 60,
+"ar": "مانشكين طقم حلمات 3شهور فما فوق",
+"en": "Munchkin Latch Natural Movement Stage 3+ Months",
+"price": 45.95,
+"special": 22.95,
+"src": "ninja",
+"ninja_id": "5-19318061",
+"img_src": "ninja",
+"images": [
+"5019090116428.webp",
+"5019090116428-1.webp",
+"5019090116428-2.webp"
+]
+},
+{
+"sku": "JRN00004858",
+"barcode": "735282101441",
+"cat": 60,
+"ar": "مانشكين خلاط مازج التركيبات",
+"en": "Munchkin Formula Mixer",
+"price": 45.95,
+"special": 22.95,
+"src": "ninja",
+"ninja_id": "5-19318066",
+"img_src": "ninja",
+"images": [
+"735282101441.webp",
+"735282101441-1.webp"
+]
+},
+{
+"sku": "JRN00004859",
+"barcode": "8445290341372",
+"cat": 57,
+"ar": "سيريلاك طعام أطفال من عمر 6 اشهر بالقمح و الفواكة 400 جم",
+"en": "Cerelac Infant With Wheat & Fruits From 6 Months Tin 400 g",
+"price": 43.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-34113",
+"img_src": "ninja",
+"images": [
+"8445290341372.webp",
+"8445290341372-1.webp",
+"8445290341372-2.webp"
+]
+},
+{
+"sku": "JRN00004860",
+"barcode": "9314839014222",
+"cat": 59,
+"ar": "إيجو كيو في لوشن مرطب للأطفال 250 مل",
+"en": "Ego Qv Baby Moisturising Lotion 250 ml",
+"price": 65.95,
+"special": 46.95,
+"src": "ninja",
+"ninja_id": "5-7039732",
+"img_src": "ninja",
+"images": [
+"9314839014222.webp",
+"9314839014222-1.webp",
+"9314839014222-2.webp"
+]
+},
+{
+"sku": "JRN00004861",
+"barcode": "817513015465",
+"cat": 59,
+"ar": "كانتو شامبو العناية للاطفال 237 مل",
+"en": "Cantu Kids Care Shampoo 237 ml",
+"price": 45.0,
+"special": 31.5,
+"src": "ninja",
+"ninja_id": "5-13256015",
+"img_src": "ninja",
+"images": [
+"817513015465.webp",
+"817513015465-1.webp",
+"817513015465-2.webp"
+]
+},
+{
+"sku": "JRN00004862",
+"barcode": "6976551750289",
+"cat": 58,
+"ar": "ماكوكو حفايض العناية اليومي كلوت مقاس 3 34 حبة",
+"en": "Makuku Diapers Daily Care Pants Size 3 34",
+"price": 41.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19333034",
+"img_src": "ninja",
+"images": [
+"6976551750289.webp",
+"6976551750289-1.webp",
+"6976551750289-2.webp"
+]
+},
+{
+"sku": "JRN00004863",
+"barcode": "6976551750227",
+"cat": 58,
+"ar": "ماكوكو حفايض العناية اليومي شريط مقاس 2 44 حبة",
+"en": "Makuku Diapers Daily Care Tape size 2 44 pcs",
+"price": 41.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19333044",
+"img_src": "ninja",
+"images": [
+"6976551750227.webp",
+"6976551750227-1.webp",
+"6976551750227-2.webp"
+]
+},
+{
+"sku": "JRN00004864",
+"barcode": "4031244792884",
+"cat": 56,
+"ar": "هيومانا حليب أطفال المرحلة الاولى 400 جم",
+"en": "Humana Baby Milk Stage 1 Size 400 g",
+"price": 55.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4973015",
+"img_src": "ninja",
+"images": [
+"4031244792884.webp",
+"4031244792884-1.webp",
+"4031244792884-2.webp"
+]
+},
+{
+"sku": "JRN00004865",
+"barcode": "5029054252406",
+"cat": 58,
+"ar": "هجيز كلوتات العناية الفائقة للأطفال مقاس 4 من 9 - 14 كجم صندوق جامبو تحتوي على 84 حفاضة",
+"en": "Huggies Extra Care Pants Size 4 9 - 14 kg Jumbo Box 84 Diapers",
+"price": 152.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380984",
+"img_src": "ninja",
+"images": [
+"5029054252406.webp",
+"5029054252406-1.webp"
+]
+},
+{
+"sku": "JRN00004866",
+"barcode": "6084011840705",
+"cat": 58,
+"ar": "هجيز العناية الفائقة للأطفال مقاس 6 وزن فوق 15 كجم صندوق جامبو تحتوي على 56 حفاضة",
+"en": "Huggies Extra Care Size 6 15+ kg Jumbo Box 56 Diapers",
+"price": 129.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380985",
+"img_src": "ninja",
+"images": [
+"6084011840705.webp",
+"6084011840705-1.webp"
+]
+},
+{
+"sku": "JRN00004867",
+"barcode": "5029053583198",
+"cat": 58,
+"ar": "هجيز العناية الفائقة للأطفال مقاس 4 وزن من 8 - 14 كجم صندوق جامبو تحتوي على 90 حفاضة",
+"en": "Huggies Extra Care Size 4 8 14 kg Jumbo Box 90 Diapers",
+"price": 129.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380987",
+"img_src": "ninja",
+"images": [
+"5029053583198.webp",
+"5029053583198-1.webp"
+]
+},
+{
+"sku": "JRN00004868",
+"barcode": "8700216575423",
+"cat": 58,
+"ar": "بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 5 كريم الصبار وفيتامين E 56 حفاض",
+"en": "Pampers Diapers Ultimate Comfort Taped Size 5 Aloe Vera Lotion & Vitamin E 56 Diapers",
+"price": 125.95,
+"special": 96.95,
+"src": "ninja",
+"ninja_id": "5-19332625",
+"img_src": "ninja",
+"images": [
+"8700216575423.webp",
+"8700216575423-1.webp"
+]
+},
+{
+"sku": "JRN00004869",
+"barcode": "8700216575973",
+"cat": 58,
+"ar": "بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 7 كريم الصبار وفيتامين E 35 حفاض",
+"en": "Pampers Diapers Ultimate Comfort Taped Size 7 Aloe Vera Lotion & Vitamin E 35 Diapers",
+"price": 129.95,
+"special": 89.95,
+"src": "ninja",
+"ninja_id": "5-19332636",
+"img_src": "ninja",
+"images": [
+"8700216575973.webp",
+"8700216575973-1.webp"
+]
+},
+{
+"sku": "JRN00004870",
+"barcode": "8700216575836",
+"cat": 58,
+"ar": "بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 6 كريم الصبار وفيتامين E 36 حفاض",
+"en": "Pampers Diapers Ultimate Comfort Taped Size 6 Aloe Vera Lotion & Vitamin E 36 Diapers",
+"price": 119.95,
+"special": 84.95,
+"src": "ninja",
+"ninja_id": "5-19332641",
+"img_src": "ninja",
+"images": [
+"8700216575836.webp",
+"8700216575836-1.webp"
+]
+},
+{
+"sku": "JRN00004871",
+"barcode": "8700216564755",
+"cat": 58,
+"ar": "بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 5 كريم الصبار 66 حفاض",
+"en": "Pampers Diapers Rash Protection Taped Size 5 Aloe Vera Lotion 66 Diapers",
+"price": 113.95,
+"special": 74.95,
+"src": "ninja",
+"ninja_id": "5-19332571",
+"img_src": "ninja",
+"images": [
+"8700216564755.webp",
+"8700216564755-1.webp"
+]
+},
+{
+"sku": "JRN00004872",
+"barcode": "6084011840804",
+"cat": 58,
+"ar": "هجيز العناية الفائقة للأطفال مقاس 4 وزن من 8 14 كجم عبوة جامبو تحتوي على 68 حفاضة",
+"en": "Huggies Extra Care Size 4 Jumbo 8 14 kg Pack 68 Diapers",
+"price": 110.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317001",
+"img_src": "ninja",
+"images": [
+"6084011840804.webp",
+"6084011840804-1.webp"
+]
+},
+{
+"sku": "JRN00004873",
+"barcode": "4031244003492",
+"cat": 56,
+"ar": "هيومانا حليب أطفال المرحلة الثانية 800 جم",
+"en": "Humana Baby Milk Stage 2 Size 800 g",
+"price": 101.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19323229",
+"img_src": "ninja",
+"images": [
+"4031244003492.webp",
+"4031244003492-1.webp",
+"4031244003492-2.webp"
+]
+},
+{
+"sku": "JRN00004874",
+"barcode": "6281008346145",
+"cat": 58,
+"ar": "بيبي جوي حفائض كلوت مقاس 5 صندوق جامبو 72 حبة",
+"en": "Baby Joy Diaper Culotte Size 5 Jumbo Box 72 pcs",
+"price": 133.95,
+"special": 109.95,
+"src": "ninja",
+"ninja_id": "5-192810",
+"img_src": "ninja",
+"images": [
+"6281008346145.webp",
+"6281008346145-1.webp",
+"6281008346145-2.webp"
+]
+},
+{
+"sku": "JRN00004875",
+"barcode": "8901138512576",
+"cat": 59,
+"ar": "هيمالايا شامبو جنتل بيبي للأطفال 400 مل",
+"en": "Himalaya Gentle Baby Shampoo 400 ml",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-263171",
+"img_src": "ninja",
+"images": [
+"8901138512576.webp",
+"8901138512576-1.webp",
+"8901138512576-2.webp"
+]
+},
+{
+"sku": "JRN00004876",
+"barcode": "3504105035778",
+"cat": 59,
+"ar": "موستيلا جل الاستحمام للاطفال ديرمو 500 مل",
+"en": "Mustela Dermo Cleansing 500 ml",
+"price": 92.95,
+"special": 55.75,
+"src": "ninja",
+"ninja_id": "5-413209",
+"img_src": "ninja",
+"images": [
+"3504105035778.webp",
+"3504105035778-1.webp"
+]
+},
+{
+"sku": "JRN00004877",
+"barcode": "6297000713762",
+"cat": 59,
+"ar": "هيمالايا شامبو للأطفال مع مضخة 800 مل",
+"en": "Himalaya Baby Shampoo Gentle With Pump Dispenser 800 ml",
+"price": 49.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1502129",
+"img_src": "ninja",
+"images": [
+"6297000713762.webp",
+"6297000713762-1.webp",
+"6297000713762-2.webp"
+]
+},
+{
+"sku": "JRN00004878",
+"barcode": "8716677006093",
+"cat": 56,
+"ar": "كابريتا حليب ماعز للأطفال المرحلة الثالثة 400 جم",
+"en": "Kabrita Goat Baby Milk Stage 3 Size 400 g",
+"price": 109.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349093",
+"img_src": "ninja",
+"images": [
+"8716677006093.webp",
+"8716677006093-1.webp",
+"8716677006093-2.webp"
+]
+},
+{
+"sku": "JRN00004879",
+"barcode": "6281017353103",
+"cat": 58,
+"ar": "سانيتا بامبي حجم 5 كبير 12 22 كجم 54 حبة",
+"en": "Sanita Bambi Size 5 X-Large 12 22 kg 54 pcs",
+"price": 74.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3200773",
+"img_src": "ninja",
+"images": [
+"6281017353103.webp",
+"6281017353103-1.webp"
+]
+},
+{
+"sku": "JRN00004880",
+"barcode": "6281017352854",
+"cat": 58,
+"ar": "سانيتا بامبي حجم 6 أكسترا لارج أكثر من 18 كجم 40 حبة",
+"en": "Sanita Bambi Size 6 XX-Large +18 kg 40 pcs",
+"price": 74.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3200905",
+"img_src": "ninja",
+"images": [
+"6281017352854.webp",
+"6281017352854-1.webp"
+]
+},
+{
+"sku": "JRN00004881",
+"barcode": "5412996111014",
+"cat": 56,
+"ar": "بيوميل بلس حليب أطفال المرحلة الثانية 800 جم",
+"en": "Biomil Plus Baby Milk Stage 2 Size 800 g",
+"price": 85.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4970499",
+"img_src": "ninja",
+"images": [
+"5412996111014.webp",
+"5412996111014-1.webp",
+"5412996111014-2.webp"
+]
+},
+{
+"sku": "JRN00004882",
+"barcode": "5412996110925",
+"cat": 56,
+"ar": "حليب بيوميل المرحلة الثالثه 800 جم",
+"en": "Biomil Baby Milk 3 Size 800 g",
+"price": 85.95,
+"special": 77.5,
+"src": "ninja",
+"ninja_id": "5-4970861",
+"img_src": "ninja",
+"images": [
+"5412996110925.webp",
+"5412996110925-1.webp",
+"5412996110925-2.webp"
+]
+},
+{
+"sku": "JRN00004883",
+"barcode": "8445290342126",
+"cat": 57,
+"ar": "سيريلاك قمح و عسل 1000 جم",
+"en": "Cerelac Wheat And Honey 1000 g",
+"price": 93.95,
+"special": 79.95,
+"src": "ninja",
+"ninja_id": "5-4972873",
+"img_src": "ninja",
+"images": [
+"8445290342126.webp",
+"8445290342126-1.webp",
+"8445290342126-2.webp"
+]
+},
+{
+"sku": "JRN00004884",
+"barcode": "6294017106464",
+"cat": 56,
+"ar": "نيدو ليتل كيدز 1+ حليب أطفال من 1 3 سنوات 900 جم",
+"en": "Nido Little Kids 1+ Baby Milk 1 3 Years Size 900 g",
+"price": 78.75,
+"special": 66.95,
+"src": "ninja",
+"ninja_id": "5-4976593",
+"img_src": "ninja",
+"images": [
+"6294017106464.webp",
+"6294017106464-1.webp",
+"6294017106464-2.webp"
+]
+},
+{
+"sku": "JRN00004885",
+"barcode": "6294017106440",
+"cat": 56,
+"ar": "نيدو ليتل كيدز 1+ حليب أطفال من 1 3 سنوات 1800 جم",
+"en": "Nido Little Kids 1+ Baby Milk 1 3 Years Size 1800 g",
+"price": 141.5,
+"special": 120.5,
+"src": "ninja",
+"ninja_id": "5-4976964",
+"img_src": "ninja",
+"images": [
+"6294017106440.webp",
+"6294017106440-1.webp",
+"6294017106440-2.webp"
+]
+},
+{
+"sku": "JRN00004886",
+"barcode": "7613287819017",
+"cat": 56,
+"ar": "اس 26 جولد بروجرس حليب أطفال المرحلة الثالثة 800 جم",
+"en": "S26 Gold Progess Baby Milk Stage 3 Size 800 g",
+"price": 104.5,
+"special": 78.25,
+"src": "ninja",
+"ninja_id": "5-4977309",
+"img_src": "ninja",
+"images": [
+"7613287819017.webp",
+"7613287819017-1.webp",
+"7613287819017-2.webp"
+]
+},
+{
+"sku": "JRN00004887",
+"barcode": "9314839014192",
+"cat": 59,
+"ar": "ايجو كيو في بيبي غسول لطيف للتنظيف اللطيف 250 جم",
+"en": "Ego Qv Baby Mild Cleansing Gentle Wash 250 g",
+"price": 59.95,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-7038428",
+"img_src": "ninja",
+"images": [
+"9314839014192.webp",
+"9314839014192-1.webp",
+"9314839014192-2.webp"
+]
+},
+{
+"sku": "JRN00004888",
+"barcode": "6294017106624",
+"cat": 56,
+"ar": "نيدو النمو 3+ حليب أطفال من 3 سنوات وفوق 1800 جم",
+"en": "Nido Growing Up 3+ Baby Milk 3+ Years Size 1800 g",
+"price": 129.95,
+"special": 110.5,
+"src": "ninja",
+"ninja_id": "5-14162312",
+"img_src": "ninja",
+"images": [
+"6294017106624.webp",
+"6294017106624-1.webp",
+"6294017106624-2.webp"
+]
+},
+{
+"sku": "JRN00004889",
+"barcode": "3574661422381",
+"cat": 58,
+"ar": "جونسون مناديل مبللة للأطفال لطيفة لكامل البشرة 3 × 72 منديل ( 2+1 مجانا)",
+"en": "Johnson's Baby Wipes Gentle All Over 3 x 72 Wipes (2+1 Free)",
+"price": 48.0,
+"special": 35.95,
+"src": "ninja",
+"ninja_id": "5-4379",
+"img_src": "ninja",
+"images": [
+"3574661422381.webp",
+"3574661422381-1.webp",
+"3574661422381-2.webp"
+]
+},
+{
+"sku": "JRN00004890",
+"barcode": "6084011840811",
+"cat": 58,
+"ar": "هجيز العناية الفائقة للأطفال مقاس +4 وزن من 10 16 كجم عبوة جامبو تحتوي على 64 حفاضة",
+"en": "Huggies Extra Care Size 4+ Jumbo 10 16 kg Pack 64 Diapers",
+"price": 110.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316971",
+"img_src": "ninja",
+"images": [
+"6084011840811.webp",
+"6084011840811-1.webp"
+]
+},
+{
+"sku": "JRN00004891",
+"barcode": "8700216564656",
+"cat": 58,
+"ar": "بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 5 كريم الصبار 52 حفاض",
+"en": "Pampers Diapers Rash Protection Taped Size 5 Aloe Vera Lotion 52 Diapers",
+"price": 95.95,
+"special": 64.95,
+"src": "ninja",
+"ninja_id": "5-19332564",
+"img_src": "ninja",
+"images": [
+"8700216564656.webp",
+"8700216564656-1.webp"
+]
+},
+{
+"sku": "JRN00004892",
+"barcode": "5029053576633",
+"cat": 58,
+"ar": "هجيز كلوتات العناية الفائقة مقاس 4 وزن 14 كجم عبوة جامبو 52 حفاضة",
+"en": "Huggies Extra Care Culottes Size 4 Jumbo 14 kg Pack 52 Diaper",
+"price": 101.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316985",
+"img_src": "ninja",
+"images": [
+"5029053576633.webp",
+"5029053576633-1.webp"
+]
+},
+{
+"sku": "JRN00004893",
+"barcode": "8700216564489",
+"cat": 58,
+"ar": "بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 4 كريم الصبار 74 حفاض",
+"en": "Pampers Diapers Rash Protection Taped Size 4 Aloe Vera Lotion 74 Diapers",
+"price": 113.95,
+"special": 74.95,
+"src": "ninja",
+"ninja_id": "5-19332574",
+"img_src": "ninja",
+"images": [
+"8700216564489.webp",
+"8700216564489-1.webp"
+]
+},
+{
+"sku": "JRN00004894",
+"barcode": "8700216575713",
+"cat": 58,
+"ar": "بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 5 كريم الصبار وفيتامين E 46 حفاض",
+"en": "Pampers Diapers Ultimate Comfort Taped Size 5 Aloe Vera Lotion & Vitamin E 46 Diapers",
+"price": 119.95,
+"special": 84.95,
+"src": "ninja",
+"ninja_id": "5-19332618",
+"img_src": "ninja",
+"images": [
+"8700216575713.webp",
+"8700216575713-1.webp"
+]
+},
+{
+"sku": "JRN00004895",
+"barcode": "5029053576626",
+"cat": 58,
+"ar": "هجيز كلوتات العناية الفائقة مقاس 3 وزن 11 كجم عبوة جامبو تحتوي على 58 حفاضة",
+"en": "Huggies Extra Care Culottes Size 3 Jumbo 11 kg Pack 58 Diaper Pants",
+"price": 101.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316974",
+"img_src": "ninja",
+"images": [
+"5029053576626.webp",
+"5029053576626-1.webp"
+]
+},
+{
+"sku": "JRN00004896",
+"barcode": "5029053550091",
+"cat": 58,
+"ar": "هجيز مناديل بيور المبللة للأطفال 3 عبوات من 56 منديل",
+"en": "Huggies Pure Baby Wipes Pure Water Wipes 3 Pack 56 Wipes 168 Wipes",
+"price": 44.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316976",
+"img_src": "ninja",
+"images": [
+"5029053550091.webp",
+"5029053550091-1.webp"
+]
+},
+{
+"sku": "JRN00004897",
+"barcode": "8700216575553",
+"cat": 58,
+"ar": "بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 4 كريم الصبار وفيتامين E 66 حفاض",
+"en": "Pampers Diapers Ultimate Comfort Taped Size 4 Aloe Vera Lotion & Vitamin E 66 Diapers",
+"price": 119.95,
+"special": 96.95,
+"src": "ninja",
+"ninja_id": "5-19332606",
+"img_src": "ninja",
+"images": [
+"8700216575553.webp",
+"8700216575553-1.webp"
+]
+},
+{
+"sku": "JRN00004898",
+"barcode": "6084011840279",
+"cat": 58,
+"ar": "هجيز حفاضات العناية الفائقة مقاس 6 فوق 15 كجم عبوة جامبو 42 حفاضة",
+"en": "Huggies Extra Care Diapers Size 6 15+ kg Jumbo Pack 42 Diapers",
+"price": 111.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19316999",
+"img_src": "ninja",
+"images": [
+"6084011840279.webp",
+"6084011840279-1.webp"
+]
+},
+{
+"sku": "JRN00004899",
+"barcode": "4031244003447",
+"cat": 56,
+"ar": "هيومانا حليب أطفال المرحلة الأولى 800 جم",
+"en": "Humana Baby Milk Stage 1 Size 800 g",
+"price": 102.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19323237",
+"img_src": "ninja",
+"images": [
+"4031244003447.webp",
+"4031244003447-1.webp",
+"4031244003447-2.webp"
+]
+},
+{
+"sku": "JRN00004900",
+"barcode": "7613287819062",
+"cat": 56,
+"ar": "إس 26 جولد بروجرس حليب أطفال المرحلة الثالثة 400 جم",
+"en": "S26 Gold Progess Baby Milk Stage 3 Size 400 g",
+"price": 55.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-941",
+"img_src": "ninja",
+"images": [
+"7613287819062.webp",
+"7613287819062-1.webp",
+"7613287819062-2.webp"
+]
+},
+{
+"sku": "JRN00004901",
+"barcode": "8445290876591",
+"cat": 56,
+"ar": "نان اوبتي برو حليب أطفال المرحلة الأولى 400 جم",
+"en": "Nan Optipro Baby Milk Stage 1 Size 400 g",
+"price": 59.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-968",
+"img_src": "ninja",
+"images": [
+"8445290876591.webp",
+"8445290876591-1.webp",
+"8445290876591-2.webp"
+]
+},
+{
+"sku": "JRN00004902",
+"barcode": "3574661665795",
+"cat": 59,
+"ar": "جونسون بيبي زيت جل مرطب للبشرة برائحة الزهور المنعشة 200 مل",
+"en": "Johnson's Baby Oil Gel Fresh Blossom 200 ml",
+"price": 37.95,
+"special": 30.5,
+"src": "ninja",
+"ninja_id": "5-19291391",
+"img_src": "ninja",
+"images": [
+"3574661665795.webp",
+"3574661665795-1.webp",
+"3574661665795-2.webp"
+]
+},
+{
+"sku": "JRN00004903",
+"barcode": "3504105035815",
+"cat": 59,
+"ar": "موستيلا بيبي سائل للتنظيف بدون شطف 300م",
+"en": "Mustela Cleansing Water no Rinse300 ml",
+"price": 52.95,
+"special": 31.75,
+"src": "ninja",
+"ninja_id": "5-19309580",
+"img_src": "ninja",
+"images": [
+"3504105035815.webp",
+"3504105035815-1.webp"
+]
+},
+{
+"sku": "JRN00004904",
+"barcode": "6291107225548",
+"cat": 58,
+"ar": "هيمالايا مناديل تلطيف وحماية للأطفال 48 منديل مجموعة من 4",
+"en": "Himalaya soothing and protecting baby wipes 48 wipes set of 4",
+"price": 36.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19312190",
+"img_src": "ninja",
+"images": [
+"6291107225548.webp",
+"6291107225548-1.webp",
+"6291107225548-2.webp"
+]
+},
+{
+"sku": "JRN00004905",
+"barcode": "5391523057271",
+"cat": 56,
+"ar": "سيميلاك جولد حليب أطفال المرحلة الثالثة 800 جم",
+"en": "Similac Gold Baby Milk Stage 3 Size 800 g",
+"price": 105.95,
+"special": 89.95,
+"src": "ninja",
+"ninja_id": "5-9553316",
+"img_src": "ninja",
+"images": [
+"5391523057271.webp",
+"5391523057271-1.webp",
+"5391523057271-2.webp"
+]
+},
+{
+"sku": "JRN00004906",
+"barcode": "5412996101466",
+"cat": 56,
+"ar": "بيوميل حليب أطفال المرحلة الأولى 400 جم",
+"en": "Biomil Plus Baby Milk Stage 1 Size 400 g",
+"price": 47.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10909292",
+"img_src": "ninja",
+"images": [
+"5412996101466.webp",
+"5412996101466-1.webp",
+"5412996101466-2.webp"
+]
+},
+{
+"sku": "JRN00004907",
+"barcode": "5412996101473",
+"cat": 56,
+"ar": "بيوميل حليب أطفال المرحلة الثانية 400 جم",
+"en": "Biomil Plus Baby Milk Stage 2 Size 400 g",
+"price": 44.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10909703",
+"img_src": "ninja",
+"images": [
+"5412996101473.webp",
+"5412996101473-1.webp",
+"5412996101473-2.webp"
+]
+},
+{
+"sku": "JRN00004908",
+"barcode": "7613287818560",
+"cat": 56,
+"ar": "إس 26 حليب أطفال المرحلة الأولى 800 جم",
+"en": "S26 Baby Milk Stage 1 Size 800 g",
+"price": 112.25,
+"special": 89.5,
+"src": "ninja",
+"ninja_id": "5-10919480",
+"img_src": "ninja",
+"images": [
+"7613287818560.webp",
+"7613287818560-1.webp",
+"7613287818560-2.webp"
+]
+},
+{
+"sku": "JRN00004909",
+"barcode": "5060083090324",
+"cat": 56,
+"ar": "فابيميلك حليب أطفال المرحلة الأولى 400 جم",
+"en": "Fabimilk Baby Milk Stage 1 Size 400 g",
+"price": 55.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10919932",
+"img_src": "ninja",
+"images": [
+"5060083090324.webp",
+"5060083090324-1.webp",
+"5060083090324-2.webp"
+]
+},
+{
+"sku": "JRN00004910",
+"barcode": "5412996101480",
+"cat": 56,
+"ar": "بيوميل حليب أطفال المرحلة الثالثة 400 جم",
+"en": "Biomil Plus Baby Milk Stage 3 Size 400 g",
+"price": 46.95,
+"special": 42.5,
+"src": "ninja",
+"ninja_id": "5-11950959",
+"img_src": "ninja",
+"images": [
+"5412996101480.webp",
+"5412996101480-1.webp",
+"5412996101480-2.webp"
+]
+},
+{
+"sku": "JRN00004911",
+"barcode": "5099864015850",
+"cat": 56,
+"ar": "سيميلاك ادفانس جولد حليب أطفال المرحلة الأولى 400 جم",
+"en": "Similac Advance Gold Baby Milk Stage 1 Size 400 g",
+"price": 57.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11957798",
+"img_src": "ninja",
+"images": [
+"5099864015850.webp",
+"5099864015850-1.webp",
+"5099864015850-2.webp"
+]
+},
+{
+"sku": "JRN00004912",
+"barcode": "5099864015874",
+"cat": 56,
+"ar": "سيميلاك جولد حليب أطفال المرحلة الأولى 800 جم",
+"en": "Similac Gold Baby Milk Stage 1 Size 800 g",
+"price": 112.95,
+"special": 94.95,
+"src": "ninja",
+"ninja_id": "5-11960831",
+"img_src": "ninja",
+"images": [
+"5099864015874.webp",
+"5099864015874-1.webp",
+"5099864015874-2.webp"
+]
+},
+{
+"sku": "JRN00004913",
+"barcode": "5099864015935",
+"cat": 56,
+"ar": "سيميلاك جولد حليب أطفال المرحلة الثانية 800 جم",
+"en": "Similac Gold Baby Milk Stage 2 Size 800 g",
+"price": 111.95,
+"special": 94.95,
+"src": "ninja",
+"ninja_id": "5-11963635",
+"img_src": "ninja",
+"images": [
+"5099864015935.webp",
+"5099864015935-1.webp",
+"5099864015935-2.webp"
+]
+},
+{
+"sku": "JRN00004914",
+"barcode": "6281007034135",
+"cat": 56,
+"ar": "نيورلاك حليب أطفال المرحلة الأولى 400 جم",
+"en": "Nuralac Baby Milk Stage 1 Size 400 g",
+"price": 45.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12041320",
+"img_src": "ninja",
+"images": [
+"6281007034135.webp",
+"6281007034135-1.webp",
+"6281007034135-2.webp"
+]
+},
+{
+"sku": "JRN00004915",
+"barcode": "6281007034159",
+"cat": 56,
+"ar": "نيورالاك حليب أطفال المرحلة الثانية 400 جم",
+"en": "Nuralac Baby Milk Stage 2 Size 400 g",
+"price": 48.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12041378",
+"img_src": "ninja",
+"images": [
+"6281007034159.webp",
+"6281007034159-1.webp",
+"6281007034159-2.webp"
+]
+},
+{
+"sku": "JRN00004916",
+"barcode": "6294017106648",
+"cat": 56,
+"ar": "نيدو النمو 3+ حليب أطفال من 3 سنوات وفوق 400 جم",
+"en": "Nido Growing Up 3+ Baby Milk 3+ Years Size 400 g",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12778295",
+"img_src": "ninja",
+"images": [
+"6294017106648.webp",
+"6294017106648-1.webp",
+"6294017106648-2.webp"
+]
+},
+{
+"sku": "JRN00004917",
+"barcode": "7640153866837",
+"cat": 56,
+"ar": "كيوت بيبي حليب ماعز عضوي المرحلة الثانية 400 جم",
+"en": "Cute Baby Baby Milk Stage 2 Organic Goat Milk 400 g",
+"price": 103.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369748",
+"img_src": "ninja",
+"images": [
+"7640153866837.webp",
+"7640153866837-1.webp",
+"7640153866837-2.webp"
+]
+},
+{
+"sku": "JRN00004918",
+"barcode": "7640153866820",
+"cat": 56,
+"ar": "كيوت بيبي حليب ماعز عضوي المرحلة الاولى 400 جم",
+"en": "Cute Baby Baby Milk Stage 1 Organic Goat Milk 400 g",
+"price": 103.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369749",
+"img_src": "ninja",
+"images": [
+"7640153866820.webp",
+"7640153866820-1.webp",
+"7640153866820-2.webp"
+]
+},
+{
+"sku": "JRN00004919",
+"barcode": "3574669908559",
+"cat": 59,
+"ar": "جونسون بيبي سائل الاستحمام سائل استحمام الأطفال 200 مل",
+"en": "Johnson's Baby Bath 200 ml",
+"price": 29.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19289200",
+"img_src": "ninja",
+"images": [
+"3574669908559.webp",
+"3574669908559-1.webp",
+"3574669908559-2.webp"
+]
+},
+{
+"sku": "JRN00004920",
+"barcode": "3574669907262",
+"cat": 59,
+"ar": "جونسون بيبي شامبو أطفال القطرات اللامعة 500 مل",
+"en": "Johnson's Kids Shampoo Shiny Drops 500 ml",
+"price": 44.95,
+"special": 35.95,
+"src": "ninja",
+"ninja_id": "5-19289189",
+"img_src": "ninja",
+"images": [
+"3574669907262.webp",
+"3574669907262-1.webp"
+]
+},
+{
+"sku": "JRN00004921",
+"barcode": "3574669908023",
+"cat": 59,
+"ar": "جونسون بيبي لوشن لوشن ناعم للأطفال 500 مل",
+"en": "Johnson's Baby Soft Lotion 500 ml",
+"price": 70.95,
+"special": 56.95,
+"src": "ninja",
+"ninja_id": "5-19289198",
+"img_src": "ninja",
+"images": [
+"3574669908023.webp",
+"3574669908023-1.webp",
+"3574669908023-2.webp"
+]
+},
+{
+"sku": "JRN00004922",
+"barcode": "6281008049152",
+"cat": 58,
+"ar": "بيبي جوي حفاضات السباحة مقاس 4 ال 5 كبير الي XL من 11 الي 18 كغ عبوة التوفير 11 حفاض",
+"en": "BabyJoy Swim Pants Diaper Size 4 To 5 Large To XL 11 To 18 kg Saving Pack 11 Swim Pants",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19413180",
+"img_src": "ninja",
+"images": [
+"6281008049152.webp"
+]
+},
+{
+"sku": "JRN00004923",
+"barcode": "6281008248135",
+"cat": 58,
+"ar": "بيبي جوي حفاضات بزيت الزيتون مقاس 2 صغير 3.5 حتي 7 كغ عبوة ضخمة 68 حفاض",
+"en": "BabyJoy Olive Tape Diaper Size 2 Small 3.5 To 7 kg Mega Pack 68 Diapers",
+"price": 89.95,
+"special": 69.95,
+"src": "ninja",
+"ninja_id": "5-19413172",
+"img_src": "ninja",
+"images": [
+"6281008248135.webp"
+]
+},
+{
+"sku": "JRN00004924",
+"barcode": "6281008293302",
+"cat": 58,
+"ar": "بيبي جوي حفاضات بزيت الزيتون مقاس 4 كبير من 10 حتي 18 كغ صندوق عملاق 84 حفاض",
+"en": "BabyJoy Olive Tape Diaper Size 4 Large 10 To18 kg Jumbo Box 84 Diapers",
+"price": 141.95,
+"special": 114.95,
+"src": "ninja",
+"ninja_id": "5-19413173",
+"img_src": "ninja",
+"images": [
+"6281008293302.webp"
+]
+},
+{
+"sku": "JRN00004925",
+"barcode": "6281008049138",
+"cat": 58,
+"ar": "بيبي جوي حفاضات السباحة مقاس 3 ال 4 وسط الي كبير من 6 الي 14 كغ عبوة التوفير 12 حفاض",
+"en": "BabyJoy Swim Pants Diaper Size 3 To 4 Medium To Large 6 To 14 kg Saving Pack 12 Swim Pants",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19413179",
+"img_src": "ninja",
+"images": [
+"6281008049138.webp"
+]
+},
+{
+"sku": "JRN00004926",
+"barcode": "6281008049176",
+"cat": 58,
+"ar": "بيبي جوي حفاضات السباحة مقاس 5 الي 7 من XL الي 3XL من 15 الي 25 كغ عبوة التوفير 10 حفاض",
+"en": "BabyJoy Swim Pants Diaper Size 5 To 7 XL To 3XL 15To25 kg Saving Pack 10 Swim Pants",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19413181",
+"img_src": "ninja",
+"images": [
+"6281008049176.webp"
+]
+},
+{
+"sku": "JRN00004927",
+"barcode": "7613037059830",
+"cat": 57,
+"ar": "جربر رقائق عضويه طماطم والجزر للأطفال من عمر 10 أشهر 35 جم",
+"en": "Gerber Organic Nutripuffs Tomato & Carrot For Babies Above 10 Months 35 g",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1006",
+"img_src": "ninja",
+"images": [
+"7613037059830.webp",
+"7613037059830-1.webp",
+"7613037059830-2.webp"
+]
+},
+{
+"sku": "JRN00004928",
+"barcode": "4710962440320",
+"cat": 60,
+"ar": "فارلين منظف رضاعات بغطاء قلاب 300 مل",
+"en": "Farlin Clean 2.0 Bottle Wash Flip Top Cap 300 ml",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19415179",
+"img_src": "ninja",
+"images": [
+"4710962440320.webp",
+"4710962440320-1.webp"
+]
+},
+{
+"sku": "JRN00004929",
+"barcode": "4902508260091",
+"cat": 60,
+"ar": "بيجون رضاعه شفافه عنق ضيق خاليه من BPA سعه 200 مل متعدة الألوان",
+"en": "Pigeon Feeding Bottle Clear Narrow Neck Free BPA 200 ml Multicolor",
+"price": 33.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409187",
+"img_src": "ninja",
+"images": [
+"4902508260091.webp"
+]
+},
+{
+"sku": "JRN00004930",
+"barcode": "6295199803318",
+"cat": 59,
+"ar": "كوزمو بيبي غسول اطفال خالي من السلفات والبرابين 3* 1 500 مل",
+"en": "Cosmo Baby Wash Sulfate and Paraben Free 3 in 1 500 ml",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19406012",
+"img_src": "ninja",
+"images": [
+"6295199803318.webp"
+]
+},
+{
+"sku": "JRN00004931",
+"barcode": "6294015121278",
+"cat": 59,
+"ar": "كوزمو بيبي شامبو اطفال صبار وفيتامين اي 500 مل",
+"en": "Cosmo Baby Shampoo For Kids With Aloe Vera And Vitamin E 500 ml",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19406008",
+"img_src": "ninja",
+"images": [
+"6294015121278.webp"
+]
+},
+{
+"sku": "JRN00004932",
+"barcode": "4710962127870",
+"cat": 60,
+"ar": "فارلين زجاجة رضاعة مع حامل أبيض بيد 250 مل",
+"en": "Farlin Feeding Bottle With Holder White 9Oz",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19415181",
+"img_src": "ninja",
+"images": [
+"4710962127870.webp",
+"4710962127870-1.webp",
+"4710962127870-2.webp"
+]
+},
+{
+"sku": "JRN00004933",
+"barcode": "4710962128068",
+"cat": 60,
+"ar": "فارلين زجاجة رضاعة برقبة واسعة أزرق 360 مل",
+"en": "Farlin Wide Neck Feeding Bottle Blue 360 ml",
+"price": 36.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19415195",
+"img_src": "ninja",
+"images": [
+"4710962128068.webp",
+"4710962128068-1.webp",
+"4710962128068-2.webp"
+]
+},
+{
+"sku": "JRN00004934",
+"barcode": "4902508136235",
+"cat": 60,
+"ar": "بيجون عضاضة تسنين شكل بيانو",
+"en": "Pigeon Cooling Teether Piano",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409176",
+"img_src": "ninja",
+"images": [
+"4902508136235.webp"
+]
+},
+{
+"sku": "JRN00004935",
+"barcode": "4902508136266",
+"cat": 60,
+"ar": "بيجون عضاضة تسنين شكل نجمه",
+"en": "Pigeon Cooling Teether Star",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409177",
+"img_src": "ninja",
+"images": [
+"4902508136266.webp"
+]
+},
+{
+"sku": "JRN00004936",
+"barcode": "4902508136280",
+"cat": 60,
+"ar": "بيجون عضاضة تسنين شكل ورده",
+"en": "Pigeon Cooling Teether Flower",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409178",
+"img_src": "ninja",
+"images": [
+"4902508136280.webp"
+]
+},
+{
+"sku": "JRN00004937",
+"barcode": "4902508173391",
+"cat": 60,
+"ar": "بيجون حلمة سيليكون حجم وسط 2 حبه",
+"en": "Pigeon Silicone Nipple Size Med 2 pcs",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409179",
+"img_src": "ninja",
+"images": [
+"4902508173391.webp"
+]
+},
+{
+"sku": "JRN00004938",
+"barcode": "4902508173414",
+"cat": 60,
+"ar": "بيجون حلمة سيليكون حجم كبير 2 حبه",
+"en": "Pigeon Silicone Nipple Size Large 2 pcs",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409180",
+"img_src": "ninja",
+"images": [
+"4902508173414.webp"
+]
+},
+{
+"sku": "JRN00004939",
+"barcode": "4902508173476",
+"cat": 60,
+"ar": "بيجون حلمة سيليكون حجم وسط 1 حبه",
+"en": "Pigeon Silicone Nipple Size Med 1 pcs",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409182",
+"img_src": "ninja",
+"images": [
+"4902508173476.webp"
+]
+},
+{
+"sku": "JRN00004940",
+"barcode": "4902508173483",
+"cat": 60,
+"ar": "بيجون حلمة سيليكون شكل واي حبه",
+"en": "Pigeon Silicone Nipple Type Y 1 pcs",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409183",
+"img_src": "ninja",
+"images": [
+"4902508173483.webp"
+]
+},
+{
+"sku": "JRN00004941",
+"barcode": "4902508260138",
+"cat": 60,
+"ar": "بيجون رضاعه شفافة عنق ضيق خاليه من BPA سعه 50 مل",
+"en": "Pigeon Feeding Bottle Clear Narrow Neck Free BPA 50 ml",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409190",
+"img_src": "ninja",
+"images": [
+"4902508260138.webp"
+]
+},
+{
+"sku": "JRN00004942",
+"barcode": "4902508260145",
+"cat": 60,
+"ar": "بيجون رضاعه بيضاء عنق ضيق خاليه من BPA سعه 50 مل متعددة الألوان",
+"en": "Pigeon Feeding Bottle White Narrow Neck Free BPA 50 ml Multicolor",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409191",
+"img_src": "ninja",
+"images": [
+"4902508260145.webp"
+]
+},
+{
+"sku": "JRN00004943",
+"barcode": "4902508792998",
+"cat": 60,
+"ar": "بيجون ميني لايت لهايه حجم صغير رسمه طائر 1 حبه",
+"en": "Pigeon Minilight Pacifier Size Small Bird 1 pcs",
+"price": 28.95,
+"special": 23.25,
+"src": "ninja",
+"ninja_id": "5-19409208",
+"img_src": "ninja",
+"images": [
+"4902508792998.webp"
+]
+},
+{
+"sku": "JRN00004944",
+"barcode": "4902508793018",
+"cat": 60,
+"ar": "بيجون ميني لايت لهايه حجم متوسط رسمه الديناصور 1 حبه",
+"en": "Pigeon Minilight Pacifier Size Med Dino 1 pcs",
+"price": 28.95,
+"special": 21.75,
+"src": "ninja",
+"ninja_id": "5-19409210",
+"img_src": "ninja",
+"images": [
+"4902508793018.webp"
+]
+},
+{
+"sku": "JRN00004945",
+"barcode": "4902508002912",
+"cat": 60,
+"ar": "بيجون رضاعه حليب زجاجية 200 مل 6 اونصه متعددة الألوان",
+"en": "Pigeon Feeding Bottle Glass 200 ml 6 Oz Multicolor",
+"price": 47.95,
+"special": 38.25,
+"src": "ninja",
+"ninja_id": "5-19409174",
+"img_src": "ninja",
+"images": [
+"4902508002912.webp"
+]
+},
+{
+"sku": "JRN00004946",
+"barcode": "4902508260060",
+"cat": 60,
+"ar": "بيجون رضاعه عنق ضيق خاليه من BPA سعه 240 مل متعددة الألوان",
+"en": "Pigeon Feeding Bottle Narrow Neck Free BPA 240 ml Multicolor",
+"price": 32.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409185",
+"img_src": "ninja",
+"images": [
+"4902508260060.webp"
+]
+},
+{
+"sku": "JRN00004947",
+"barcode": "4902508260084",
+"cat": 60,
+"ar": "بيجون رضاعه بيضاء عنق ضيق مع ماسك سعه 240 مل متعدة الألوان",
+"en": "Pigeon Feeding Bottle Narrow Neck With Mask Free BPA 240 ml Multicolor",
+"price": 41.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409186",
+"img_src": "ninja",
+"images": [
+"4902508260084.webp"
+]
+},
+{
+"sku": "JRN00004948",
+"barcode": "4902508260107",
+"cat": 60,
+"ar": "بيجون رضاعه بيضاء عنق ضيق خاليه من BPA سعه 200 مل",
+"en": "Pigeon Feeding Bottle White Narrow Neck Free BPA 200 ml Multicolor",
+"price": 33.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409188",
+"img_src": "ninja",
+"images": [
+"4902508260107.webp"
+]
+},
+{
+"sku": "JRN00004949",
+"barcode": "8411114095202",
+"cat": 59,
+"ar": "ديزني باربي بيبي شامبو وجل استحمام 2 في 1 400 مل",
+"en": "Disney Barbie Baby Shampoo And Shower Gel 2 In 1 400 ml",
+"price": 20.0,
+"special": 16.75,
+"src": "ninja",
+"ninja_id": "5-19368278",
+"img_src": "ninja",
+"images": [
+"8411114095202.webp",
+"8411114095202-1.webp"
+]
+},
+{
+"sku": "JRN00004950",
+"barcode": "6291018100026",
+"cat": 59,
+"ar": "جونسون كرات قطن 50 قطعة",
+"en": "Johnson's Pure Cotton 50 Balls",
+"price": 18.95,
+"special": 15.25,
+"src": "ninja",
+"ninja_id": "5-19291399",
+"img_src": "ninja",
+"images": [
+"6291018100026.webp",
+"6291018100026-1.webp"
+]
+},
+{
+"sku": "JRN00004951",
+"barcode": "6295199802779",
+"cat": 59,
+"ar": "كوزمو بيبي معطر الجسم للاطفال برائحة الزهور 100 مل",
+"en": "Cosmo Baby Body Mist For Kids Floral 100 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19406005",
+"img_src": "ninja",
+"images": [
+"6295199802779.webp"
+]
+},
+{
+"sku": "JRN00004952",
+"barcode": "8850596924011",
+"cat": 59,
+"ar": "بيور زجاجة سائل تنظيف الحلمات 500 مل",
+"en": "Pur Bottle & Nipple Liquid Cleanser 500 ml",
+"price": 55.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374019",
+"img_src": "ninja",
+"images": [
+"8850596924011.webp",
+"8850596924011-1.webp"
+]
+},
+{
+"sku": "JRN00004953",
+"barcode": "4902508173452",
+"cat": 60,
+"ar": "بيجون حلمة سيليكون حجم كبير 3 حبه",
+"en": "Pigeon Silicone Nipple Size Large 3 pcs",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409181",
+"img_src": "ninja",
+"images": [
+"4902508173452.webp"
+]
+},
+{
+"sku": "JRN00004954",
+"barcode": "5010415333858",
+"cat": 60,
+"ar": "تومي تيبي طقم لهايات حبتين مودا للأطفال 6 إلى 18 شهر",
+"en": "Tommee Tippee Moda Soother 2 pcs 6 to 18 Months",
+"price": 50.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19408252",
+"img_src": "ninja",
+"images": [
+"5010415333858.webp",
+"5010415333858-1.webp",
+"5010415333858-2.webp"
+]
+},
+{
+"sku": "JRN00004955",
+"barcode": "5010415211163",
+"cat": 60,
+"ar": "تومي تيبي فرشاة تنظيف الرضاعة",
+"en": "Tommee Tippee Closer To Nature Feeding Bottle And Teat Brush",
+"price": 54.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19408258",
+"img_src": "ninja",
+"images": [
+"5010415211163.webp"
+]
+},
+{
+"sku": "JRN00004956",
+"barcode": "8850596918065",
+"cat": 60,
+"ar": "بيور رضاعة متطورة للحماية من المغص عنق رفيع 8 أونصة 250 مل 3 قطع",
+"en": "Pur Advanced Slim Neck Bottle To Protect Against Colic 8 Oz/250 ml 3Pcs",
+"price": 93.95,
+"special": 65.75,
+"src": "ninja",
+"ninja_id": "5-19406002",
+"img_src": "ninja",
+"images": [
+"8850596918065.webp"
+]
+},
+{
+"sku": "JRN00004957",
+"barcode": "4902508260121",
+"cat": 60,
+"ar": "بيجون رضاعه بيضاء عنق ضيق خاليه من BPA سعه 120 مل",
+"en": "Pigeon Feeding Bottle White Narrow Neck Free BPA 120 ml",
+"price": 30.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409189",
+"img_src": "ninja",
+"images": [
+"4902508260121.webp"
+]
+},
+{
+"sku": "JRN00004958",
+"barcode": "8700216574372",
+"cat": 58,
+"ar": "بامبرز حفاضات الحماية من التسلخات مقاس 3 من 6 إلى 10 كجم العبوة الضخمة 68 حفاضة",
+"en": "Pampers Rash Protection Diapers Size 3 6 10 kg Mega Pack 68 Diapers",
+"price": 105,
+"special": 85.05,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8700216574372.webp"
+]
+},
+{
+"sku": "JRN00004959",
+"barcode": "8700216559027",
+"cat": 58,
+"ar": "بامبرز كلوت الحماية من التسلخات مقاس 4 من 9 إلى 14 كجم العبوة الضخمة 52 كلوت",
+"en": "Pampers Rash Protection Pants Size 4 9 14 kg Mega Pack 52 Pants",
+"price": 103,
+"special": 83.43,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8700216559027.webp"
+]
+},
+{
+"sku": "JRN00004960",
+"barcode": "5029053560151",
+"cat": 58,
+"ar": "هجيز دراي نايتس كلوت ليلي للأولاد 4 7 سنوات 16 كلوت",
+"en": "Huggies DryNites Pyjama Pants Boys 4 7 Years 16 Pants",
+"price": 89.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5029053560151.webp",
+"5029053560151-1.webp"
+]
+},
+{
+"sku": "JRN00004961",
+"barcode": "6281008203516",
+"cat": 58,
+"ar": "بيبي جوي مناديل مبللة للبشرة الصحية العبوة الضخمة 4 × 50 منديل",
+"en": "Baby Joy Wet Wipes Healthy Skin Mega Pack 4 x 50 Wipes",
+"price": 51.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281008203516.webp",
+"6281008203516-1.webp"
+]
+},
+{
+"sku": "JRN00004962",
+"barcode": "8445290667915",
+"cat": 57,
+"ar": "نستله سيريلاك أرز مع الحليب خالي من الجلوتين 400 جم",
+"en": "Nestle Cerelac Rice Infant Cereal Gluten Free 400 g",
+"price": 41.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8445290667915.webp",
+"8445290667915-1.webp"
+]
+},
+{
+"sku": "JRN00004963",
+"barcode": "7613287762474",
+"cat": 57,
+"ar": "جربر أورجانيك فواكه وحبوب تفاح ومانجو وشوفان 110 جم",
+"en": "Gerber Organic Fruits & Cereals Apple, Mango & Oats 110 g",
+"price": 9.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7613287762474.webp",
+"7613287762474-1.webp"
+]
+},
+{
+"sku": "JRN00004964",
+"barcode": "6294017139585",
+"cat": 57,
+"ar": "جربر أورجانيك عبوة نهاية الأسبوع بالفواكه 235 جم",
+"en": "Gerber Organic My Weekend Pack Fruits 235 g",
+"price": 29.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6294017139585.webp",
+"6294017139585-1.webp"
+]
+},
+{
+"sku": "JRN00004965",
+"barcode": "3574669909853",
+"cat": 59,
+"ar": "جونسون بخاخ بلسم قطرات اللمعان للأطفال 200 مل",
+"en": "Johnson's Kids Shiny Drops Conditioner Spray 200 ml",
+"price": 31.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"3574669909853.webp"
+]
+}
+]

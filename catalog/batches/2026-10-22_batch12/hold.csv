@@ -1,0 +1,527 @@
+tile_id,source,source_id,name,price,special_price,status,reason,candidate_barcode
+57,ninja,5-32337,سيريلاك طعام أطفال بالتفاح 90 جم,6.95,,HOLD,"No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Tamimi 7613039670217 (Cerelac apple puree 90 g, older pouch) shows a different pack design than Ninja; with no Ninja barcode the match cannot be confirmed)",
+58,ninja,5-190698,بيبي جوي حفائض مقاس 6 6 حفائض + 1 مجانا,18.25,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309622,بيبي جوي حفائض كلوت جونيور عبوة التوفير رقم 5 عدد 9 حفائض,18.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19294759,جونسون شامبو للأطفال 200 مل,16.25,,HOLD,Ninja image barcode 3574690752 has 10 digits (invalid); Tamimi Johnson's Baby Shampoo 200 ml (3574669907552) shows a newer bottle design,3574690752
+58,ninja,5-19309679,تيمو حفاضات مقاس جونيور عبوة التوفير رقم 5 عدد 10 حفائض,13.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332589,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 2 كريم الصبار 23 حفاض,19.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بامبرز حفاضات بشريط لاصق حماية صغيرة مقاس2 23قطعة),
+58,ninja,5-189958,بيبي جوي حفائض مقاس 3 ميديم 12 حفاضة,15.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بيبي جوي حفاضات مقاس 3 وسط 12قطعة),
+58,ninja,5-190043,بيبي جوي حفائض مقاس 2 12 حفائض + 3 مجانا,15.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بيبي جوي حفاضات الحشوة الماسية المضغوطة مقاس 2 صغير 3.5-7كيلو 15قطعة),
+57,ninja,5-32456,سيريلاك طعام أطفال بالتوت و الكمثرى و الموز و الشوفان 90 جم,7.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332619,بامبرز كلوت للحماية من التسلخات مقاس 8 كريم الصبار 26 كلوت,94.75,64.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309680,بيبي جوي حفائض مضغوطة كبير العبوة الاقتصادية رقم 4 عدد 32 حفائض,47.5,37.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309686,بيبي جوي حفائض مضغوطة وسط العبوة الاقتصادية رقم 3 عدد 34 حفائض,44.95,37.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بيبي جوي حفاضات مقاس 3 وسط عبوة عملاقة 34قطعة),
+58,ninja,5-19309621,بيبي جوي حفائض مضغوطة جنيور العبوة الضخمة رقم 5 عدد 52 حفائض,87.5,64.95,HOLD,"No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Tamimi 6281008247459 (Baby Joy Giant Pack size 5, 52, older bag) shows a different pack design than Ninja; with no Ninja barcode the match cannot be confirmed) (also on HS: بيبي جوي حفاضات العبوة الضخمة مقاس 5 كبير جدا 52قطعة)",
+58,ninja,5-19309670,تيمو حفاضات مقاس جونيور العبوة الضخمة رقم 5 - 48 حفائض,49.95,36.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309631,بيبي جوي حفائض كلوت جنيورالعبوة العملاقة رقم 5 - 36 حفائض,69.5,56.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بيبي جوي كلوت مقاس 5 كبير جداً 36قطعة),
+58,ninja,5-189894,بيبي جوي حفائض مقاس 1 13 حفائض و 3 مجانا,15.95,,HOLD,"No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Tamimi 6281008257076 (Baby Joy size 1, 16, older bag) shows a different pack design than Ninja; with no Ninja barcode the match cannot be confirmed) (also on HS: بيبي جوي حفاضات حديث الولادة 16قطعة)",
+58,ninja,5-190494,بيبي جوي حفائض مقاس 5 7 حفايض+2 مجاناً,18.25,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-7238985,جونسون فيتا ريتش سائل استحمام بالتوت 250 مل,22.75,18.25,HOLD,Belongs to another section: adult body wash (Johnson's Vita Rich). Suggested tile 48 Body & Bath,3574661093680
+58,ninja,5-19332643,بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 4 كريم الصبار وفيتامين E 100 حفاض,169.95,99.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-192227,بيبي جوي حفائض مقاس 6 صندوق جامبو 60 حبة,129.25,109.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332611,بامبرز كلوت للحماية من التسلخات مقاس 6 كريم الصبار 44 كلوت,95.95,79.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19291223,بامبرز مناديل مبللة للأطفال نظيفة ومنعشة 2 حبة 1مجانا 192 منديل,30.95,28.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+56,ninja,5-10921827,ابتاميل حليب اطفال المرحلة الثانية 400 جم,58.75,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19291214,بامبرز مناديل كومبليت كلين مبللة للأطفال 0% كحول 64 منديل,15.95,13.95,HOLD,"Variant conflict on barcode 4015400439110: Ninja image is Pampers Aloe Vera wipes 64, Tamimi lists the barcode as Pampers Fresh / Complete Clean 64",4015400439110
+57,ninja,5-19389676,مام مام بسكويت أرز عضوي للأطفال الصغار بنكهة الفراولة خالي من الجلوتين وعضوي 60 جم,14.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19388098,سانوسان شامبو و سائل استحمام 500 مل,69.0,34.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19388103,سانوسان لوشن العناية500مل,79.35,39.75,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309682,بيبي جوي حفائض كلوت جنيورعبوة التوفير الكبير رقم 5 56 حفائض,103.95,83.95,HOLD,"No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Ninja image shows the taped Compressed size 5 / 66 pack, not Pants 56; Tamimi 6281008484427 is Pants size 5 / 56 (name and image disagree)) (also on HS: بيبي جوي حفاضات كلوت مقاس 5 كبير جداً 12-18كيلو 56قطعة)",
+58,ninja,5-19309690,بيبي جوي حفائض أوليف زيت الزيتون كلوت جنيور العبوة الضخمة رقم 5 عدد 40 حفائض,89.95,69.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+60,ninja,5-19327984,أتيتيود غسول فواكه وخضروات عديم الرائحة مضاد للحساسية 800 مل,31.95,,HOLD,Belongs to another section: fruit and vegetable wash (Attitude). Suggested tile 39 Cleaning Supplies,
+60,ninja,5-19384833,فيتال بيبي نورتشر حلمة بسيطة تدفق سريع 3 حبة,32.95,,HOLD,"Same name as Ninja 5-19384837 (blister pack, kept); this is the boxed 3-pack with a different barcode 5060702875721. Keep one listing or rename (Fadhl)",5060702875721
+58,ninja,5-19309633,بيبي جوي حفائض مضغوطة جونيور العبوة الاقتصادية رقم 5 - 27 حفائض,44.95,37.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309638,بيبي جوي حفائض مضغوطة جونيورالعبوة الاقتصادية رقم 6 عدد 19 حفائض,46.3,37.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309652,بيبي جوي حفائض كلوت وسط عبوة التوفير رقم 3 عدد 12 حفائض,18.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309660,بيبي جوي حفائض أوليف زيت الزيتون كلوت كبير العبوة الضخمة رقم 4 عدد 48 حفائض,89.95,69.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19313577,سانيتا بامبي المناديل المبللة 2 حبة 1 مجانا 168 منديل,50.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332583,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 1 كريم الصبار 172 حفاض,171.95,109.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332563,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 4 كريم الصبار 16 حفاض,19.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332581,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 3 كريم الصبار 17 حفاض,19.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332594,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 5 كريم الصبار 14 حفاض,19.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332630,بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 1 كريم الصبار وفيتامين E 108 حفاض,145.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+57,ninja,5-14002993,سيريلاك طعام أطفال بالتفاح و الموز 90 جم,7.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-190429,بيبي جوي حفائض مقاس 4 8 حفائض + 2 مجانا,15.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-7020292,سيتافيل لوشن يومي من بيبي بالكاليندولا 400 مل,86.95,47.75,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19313578,سانيتا بامبي حفاضات بانتس العبوة العملاقة حجم 6 كبير جدا 40 حفاض,69.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+56,ninja,5-14162469,نيدو حليب عبوه 1800 جم,84.95,,HOLD,"Belongs to another section: regular fortified milk powder pouch (Nido), not infant formula. Suggested tile 103 Milk",
+56,ninja,5-19380097,ابتاميل حليب اطفال المرحلة الأولى 800 جم,109.25,84.75,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332559,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 7 كريم الصبار 56 حفاض,128.75,84.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332624,بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 3 كريم الصبار وفيتامين E 62 حفاض,109.5,84.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بامبرز بشريط لاصق راحة متكاملة ميجا مقاس3 62قطعة),
+58,ninja,5-191658,بيبي جوي حفائض مقاس 4 صندوق جامبو 96 حبة,129.5,109.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-191959,بيبي جوي حفائض مقاس +4 صندوق جامبو 88 حبة,133.95,109.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-192020,بيبي جوي حفائض مقاس 5 صندوق جامبو 80 حبة,129.25,109.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-192310,بيبي جوي حفائض مقاس 7 صندوق جامبو 54 حبة,129.25,109.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19313652,موستيلا هيدرا بيبي لوشن للجسم 300 مل,89.95,53.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332613,بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 5 كريم الصبار وفيتامين E 84 حفاض,169.25,99.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332615,بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 6 كريم الصبار وفيتامين E 60 حفاض,169.25,99.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332622,بامبرز حفاضات كلوت لراحة متكاملة مقاس 5 بكريم الصبار وفيتامين E نعومة قطنية 76 كلوت,165.95,111.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332552,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 3 كريم الصبار 136 حفاض,171.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332562,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 7 كريم الصبار 68 حفاض,171.95,109.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332608,بامبرز حفاضات كلوت لراحة متكاملة مقاس 7 بكريم الصبار وفيتامين E نعومة قطنية 32 كلوت,124.95,89.95,HOLD,"No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Tamimi 8700216583022 (Pampers Ultimate Comfort Pants size 7, 32) has no image to compare)",
+58,ninja,5-19332631,بامبرز كلوت للحماية من التسلخات مقاس 6 كريم الصبار 68 كلوت,154.5,104.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19313648,موستيلا سيكاستيلا لاصلاح بشرة الاطفال والترطيب 40 مل,77.95,50.75,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+56,ninja,5-10921572,ابتاميل حليب اطفال المرحلة الأولى 400 جم,57.5,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+56,ninja,5-11957908,سيميلاك جولد حليب أطفال المرحلة الثالثة 400 جم,53.95,,HOLD,Already on Jarna (name/barcode): سيميلاك جولد حليب أطفال المرحلة الثالثة 400 جم,5391523057264
+59,ninja,5-19313649,موستيلا كولد كريم وجه مغذي وملطف للأطفال 40 مل,52.95,34.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19361161,ماكوكو حفاضات العناية اليومية جامبو شريطية مقاس 5 عدد 44 حفائض,65.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19361166,ماكوكو حفاضات العناية اليومية جامبو شريطية مقاس 3 عدد 52 حفائض,65.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19362393,حفاضات بامبرز للحماية من التسلخات مع الأشرطة مقاس 3 صندوق توفيري 228 حفاضة,248.95,149.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19362395,بامبرز حفاضات كلوت للحماية من التسلخات مقاس 6 صندوق توفيري 126 حفاضة,248.95,149.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+56,ninja,5-19391440,ابتاميل ادفانس سيزار حليب أطفال المرحلة الأولى للمولودين قيصريا 800 جم,124.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+56,ninja,5-19391461,بيبيلاك حليب أطفال المرحلة الاولى 800 جم,89.95,71.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+56,ninja,5-19391462,بيبيلاك حليب أطفال المرحلة الثانية 800 جم,89.95,69.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19387837,ناتورافيردي فقاعات استحمام ميني ديزني كلاسيك 200 مل,99.0,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+60,ninja,5-19366713,اوبتيمال مقعد سيارة للأطفال 0-13 كجم أحمر,568.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19291466,سانيتا جيبسي مناديل مبللة متعددة الاستعمالات 1+3 عبوة 400 منديل,51.95,,HOLD,"Belongs to another section: multipurpose household wet wipes (Sanita Gipsy), not baby wipes. Suggested tile 40 Tissues & Paper Products",6281017404614
+59,ninja,5-19388102,سانوسان زيت العناية والترطيب 100 مل,57.5,28.75,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19388104,سانوسان لوشن العناية 200مل,51.75,25.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19388105,سانوسان كريم العناية 100مل,57.5,28.75,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19388107,سانوسان كريم للحماية من التشققات 200مل,120.75,60.25,HOLD,Belongs to another section: maternity anti-stretch-mark cream for mothers (Sanosan Mama). Suggested tile 46 Skin Care,4003583207190
+59,ninja,5-19388109,مرهم بانثينول لالتهابات الحفاضات من سانوسان,63.25,31.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19329625,ماكوكو حفائض العناية اليومي كلوت بوكس  88 حفاض مقاس 4 ,123.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19329632,ماكوكو حفائض برو كير كلوت 84 حفاض مقاس 4,144.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19329634,ماكوكو حفائض العناية اليومي شريط بوكس  108 حفاض مقاس 3,123.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+60,ninja,5-5541751,فيتال بيبي هيدرات كوب فليب للأطفال فيز,85.95,64.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+60,ninja,5-19318064,مايسي مريلة الرضاعة مع وسادة بتصميم شفرات ورق الشجر,98.95,49.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+60,ninja,5-19318070,مانشكين كوشن وسادة دعم الرقبة والرأس للطفل,52.95,26.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309650,بيبي جوي حفائض مضغوطة صغير العبوة الضخمة رقم 2 عدد 84 حفائض,87.95,64.95,HOLD,"No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Tamimi 6281008248197 (Baby Joy Dry All Night size 2, 84, older bag) shows a different pack design than Ninja; with no Ninja barcode the match cannot be confirmed) (also on HS: بيبي جوي حفاضات مقاس 2 صغير 84قطعة)",
+58,ninja,5-19309659,بيبي جوي حفائض مضغوطة وسط العبوة الضخمة رقم 3 عدد 68 حفائض,87.5,64.95,HOLD,"No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Tamimi 6281008247251 (Baby Joy size 3, 68, older bag) shows a different pack design than Ninja; with no Ninja barcode the match cannot be confirmed) (also on HS: بيبي جوي حفاضات مقاس 3 (متوسط) العبوة الضخمة 68قطعة)",
+58,ninja,5-19309668,بيبي جوي حفائض مضغوطة كبير عبوة التوفير الكبيررقم 4- 70 حفائض,103.95,83.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309677,بيبي جوي حفائض مضغوطة كبير العبوة الضخمة رقم 4 عدد 60 حفائض,87.95,64.95,HOLD,"No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Tamimi 6281008247350 (Baby Joy size 4, 60, older bag) shows a different pack design than Ninja; with no Ninja barcode the match cannot be confirmed) (also on HS: بيبي جوي حفاضات اطفال رقم 4 كبير 60قطعة)",
+56,ninja,5-19312889,هيومانا حليب أطفال المرحلة الثالثة عبوه مزدوجة 2*800 جم,176.0,,HOLD,Ninja image barcode 0703558912855 (twin pack) has a US prefix that does not fit Humana; verify on the pack,703558912855
+60,ninja,5-19312240,بابل فرشاة لشعر الأطفال ,22.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309684,بيبي جوي حفائض مضغوطة كبيرالعبوة الاقتصادية رقم 4 عدد 29 حفائض,44.95,37.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309688,بيبي جوي حفائض مضغوطة كبير جداً العبوة العملاقة رقم 5 - 40 حفائض,69.5,54.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+60,ninja,5-19327993,أتيتيود منظف الألعاب والأسطح عديم الرائحة مضاد للحساسية 800 مل,42.95,,HOLD,Belongs to another section: toy and surface cleaner (Attitude). Suggested tile 39 Cleaning Supplies,626232101690
+56,ninja,5-19385191,هيومانا بروبالانس حليب أطفال المرحلة الثانية 1100 جم,132.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309627,تيمو حفاضات مقاس جونيور العبوة العملاقه رقم 5 عدد 28 حفائض,30.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309623,بيبي جوي حفائض أوليف زيت الزيتون كلوت جنيور العبوة الضخمة رقم 6 عدد 32 حفائض,89.95,69.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309629,بيبي جوي حفائض مضغوطة صغير العبوة الاقتصادية رقم 2 - 44 حفائض,44.95,37.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309632,بيبي جوي حفائض كلوت عبوة التوفيررقم 6 عدد 8 حفائض,16.25,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309641,بيبي جوي حفائض مضغوطة جنيور اكس اكس لارج العبوة الضخمة رقم 6 عدد 38 حفائض,87.5,64.95,HOLD,"No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Tamimi 6281008247572 (Baby Joy size 6, 38, older bag) shows a different pack design than Ninja; with no Ninja barcode the match cannot be confirmed) (also on HS: بيبي جوي العبوة الضخمة مقاس كبير جدا رقم 6 16+ كيلو حفائض 38قطعة)",
+58,ninja,5-19309642,بيبي جوي حفائض مضغوطة مولود جديد العبوة العملاقة رقم 1 عدد 68 حفائض,62.5,54.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309647,بيبي جوي حفائض كلوت وسط العبوة الضخمة رقم 3 عدد 60 حفائض,87.95,69.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309657,بيبي جوي حفائض أوليف كلوت وسط العبوة االضخمة زيت الزيتون رقم 3 عدد 54 حفائض,89.95,69.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309665,بيبي جوي حفائض مضغوطة مولود جديد العبوة الاقتصادية رقم 1 عدد 44 حفائض,44.95,37.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19309673,بيبي جوي حفائض كلوت كبير عبوة التوفير رقم 4 عدد 11 حفائض,18.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19351808,سيتافيل بيبى لوشن يومى 300 مل,67.95,33.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19351812,سيتافيل بيبى غسول وشامبو بالكالينديولا 400 مل,86.95,43.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19313580,سانيتا بامبي المناديل المبللة 56 منديل,24.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19341477,فاين بيبي توتال 7 حفاضات مقاس 3 متوسط 104 حفاضة,102.95,51.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19341480,فاين بيبي توتال 7 حفاضات مقاس 5 ماكسي 80 حفاضة,102.95,51.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332569,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 2 كريم الصبار 168 حفاض,171.95,109.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332570,بامبرز كلوت للحماية من التسلخات مقاس 3 كريم الصبار 60 كلوت,96.95,69.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332591,بامبرز كلوت للحماية من التسلخات مقاس 4 كريم الصبار 68 كلوت,114.95,79.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332595,بامبرزكلوت للحماية من التسلخات مقاس 4 كريم الصبار 24 كلوت,49.95,42.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بامبرز كلوت حماية تسلخات مقاس4 24قطعة),
+58,ninja,5-19332597,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 1 كريم الصبار 136 حفاض,143.95,99.25,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332605,بامبرز كلوت للحماية من التسلخات مقاس 3 كريم الصبار 26 كلوت,49.95,42.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332642,بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 2 كريم الصبار وفيتامين E 108 حفاض,145.95,85.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332578,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 6 كريم الصبار 10 حفاض,19.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332592,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 7 كريم الصبار 30 حفاض,90.95,64.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332599,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 1 كريم الصبار 21 حفاض,19.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بامبرز حفاضات بشريط لاصق حماية صغيرة مقاس1 21قطعة),
+60,ninja,5-19318146,فيتال بيبي نورتشر رضاعة زجاجية 60 مل 1 حبة,37.95,28.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+60,ninja,5-19318150,فيتال بيبي نورتشر رضاعة زجاجية 120 مل 1 حبة ,41.95,31.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+57,ninja,5-14006109,سيريلاك طعام أطفال قمح وقطع تمر 400 جم,42.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Tamimi 8445290341402 can says 'from 6 months'; Ninja can says 'from 8 months' (different pack)),
+58,ninja,5-190330,بيبي جوي حفائض مقاس 4 9 حفائض + 2 مجانا,18.25,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بيبي جوي حفاضات مقاس 4 كبير 11قطعة),
+58,ninja,5-190818,بيبي جوي حفائض مقاس 1 صندوق جامبو 136 حبة,133.95,109.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-7022380,سيتافيل لوشن ديلي ادفانس للترطيب الفائق 225 جم,120.75,78.5,HOLD,Belongs to another section: adult body lotion (Cetaphil Daily Advance). Suggested tile 46 Skin Care,
+59,ninja,5-7238558,جونسون فيتا ريتش لوشن مع خلاصة التوت 400 مل,36.25,,HOLD,Belongs to another section: adult body lotion (Johnson's Vita Rich); also page barcode 103021002797 fails the check digit. Suggested tile 46 Skin Care,103021002797
+58,ninja,5-19332616,بامبرز حفاضات كلوت لراحة متكاملة مقاس 4 9-14 كجم بكريم الصبار وفيتامين E نعومة قطنية 50 كلوت,106.95,74.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332626,بامبرز حفاضات كلوت لراحة متكاملة مقاس 3 بكريم الصبار وفيتامين E نعومة قطنية 56 كلوت,106.95,74.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بامبرز كلوت راحة متكاملة مقاس3 56قطعة),
+58,ninja,5-19355449,سانيتا بامبي حفاضات الأطفال مقاس 3 وسط سوبر بوكس 140 حفائض,131.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19355440,سانيتا بامبي حفاضات أطفال مقاس 6 سوبر بوكس 72 حفائض,131.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19355442,سانيتا بامبي حفاضات الاطفال مقاس 1 للمواليد الجدد الصندوق الكبير 168 حفائض,131.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-7169408,جونسون سائل استحمام فيتا ريتش مع خلاصة التوت 400 مل,30.5,24.5,HOLD,Belongs to another section: adult body wash (Johnson's Vita Rich). Suggested tile 48 Body & Bath,3574661093697
+58,ninja,5-19332632,بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 1 كريم الصبار وفيتامين E 50 حفاض,55.95,44.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332633,بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 3 كريم الصبار وفيتامين E 84 حفاض,125.95,96.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Tamimi 8700216574327 is listed as Rash Protection size 3 / 84 but its image shows Ultimate Comfort size 3 / 84 (Tamimi conflict)),
+58,ninja,5-19332637,بامبرز حفاضات كلوت لراحة متكاملة مقاس 5 بكريم الصبار وفيتامين E نعومة قطنية 42 كلوت,106.95,74.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بامبرز كلوت راحة متكاملة مقاس5 42قطعة),
+58,ninja,5-19332639,بامبرز حفاضات كلوت لراحة متكاملة مقاس 6 بكريم الصبار وفيتامين E نعومة قطنية 34 كِلوت,106.95,74.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Only Tamimi candidate 8700216553735 is Rash Protection Pants size 6 / 34; Ninja item is Ultimate Comfort Pants),
+58,ninja,5-19332640,بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 6 كريم الصبار وفيتامين E 42 حفاض,125.95,96.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بامبرز بشريط لاصق راحة متكاملة مقاس6 42قطعة),
+58,ninja,5-19332584,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 3 كريم الصبار 84 حفاض,113.95,74.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Tamimi 8700216574327 is listed as Rash Protection size 3 / 84 but its image shows Ultimate Comfort size 3 / 84 (Tamimi conflict)),
+58,ninja,5-19332549,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 7 كريم الصبار 42 حفاض,116.95,74.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Tamimi 8700216614498 is listed as taped Rash Protection size 7 / 42 but its image shows Pants size 7 / 40),
+58,ninja,5-191113,بيبي جوي حفائض مقاس 2 صندوق جامبو 136 حبة,129.5,109.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-191233,بيبي جوي حفائض مقاس 3 صندوق جامبو 104 حبة,129.5,109.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332635,بامبرز حفاضات كلوت لراحة متكاملة مقاس 6 بكريم الصبار وفيتامين E نعومة قطنية 54 كلوت,165.95,111.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19351686,كيوفي بيبي كريم مرطب 250 جم,159.95,87.75,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-7038815,إيجو كيو في كريم مرطب للأطفال 100 جم,71.95,49.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332621,بامبرز حفاضات راحة متكاملة الجديدة والمطورة مع الأشرطة مقاس 7 كريم الصبار وفيتامين E 52 حفاض,169.25,99.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332551,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 4 كريم الصبار 120 حفاض,171.95,109.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332558,بامبرز حفاضات للحماية من التسلخات مع الأشرطة مقاس 5 كريم الصبار 80 حفاض,143.95,99.25,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332582,بامبرز كلوت للحماية من التسلخات مقاس 4 كريم الصبار 112 كلوت,155.95,104.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332610,بامبرز كلوت للحماية من التسلخات مقاس 5 كريم الصبار 96 كلوت,154.5,104.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19332627,بامبرز كلوت للحماية من التسلخات مقاس 5 كريم الصبار 60 كلوت,114.95,79.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19313631,سانيتا بامبي حفاضات بانتس الصندوق الجامبو حجم 6 كبير 80 حفاض,122.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+56,ninja,5-12042399,ابتاميل حليب اطفال المرحلة الثالثة 400 جم,53.75,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19313650,موستيلا كريم الحفاض فيتامين باريير 100 مل,75.95,45.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19289199,جونسون بيبي لوشن لوشن ناعم للأطفال 200 مل,35.95,28.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (Tamimi candidate rejected: Tamimi 3574669908030 is the Soft Lotion jar; Ninja item is the 200 ml bottle),
+58,ninja,5-19401127,سانيتا بامبي حفاضات أفضل عناية العبوة العادية حجم 2 صغير 3-6 كيلو 15 حفاض,14.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: سانيتا بامبي حفاضات أفضل عناية العبوة العادية- حجم 2، صغير،    6-3 كيلو، 15قطعة),
+58,ninja,5-19401126,سانيتا بامبي حفاضات أفضل عناية العبوة العادية حجم 1 المولود الجديد 2-4 كيلو 16 حفاض,13.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: سانيتا بامبي حفاضات أفضل عناية العبوة العادية - حجم 1، المولود الجديد، 2-4 كيلو، 16قطعة),
+58,ninja,5-19401135,سانيتا بامبي حفاضات العبوة الضخمة حجم +4 كبير 10-18 كيلو 70 حفاض,101.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بامبى حفاضات الأطفال مقاس 4+ العبوة الميجا 70قطعة),
+58,ninja,5-19401141,سانيتا بامبي حفاضات الصندوق الكبير حجم 5 كبير جدًّا 12-22 كيلو 104 حفاضات,149.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بامبى حفاضات أطفال مقاس 5 صندوق 104قطعة),
+58,ninja,5-19401133,سانيتا بامبي حفاضات العبوة الضخمة حجم 3 وسط 6-11 كيلو 84 حفاض,101.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19401134,سانيتا بامبي حفاضات العبوة الضخمة حجم 4 كبير 8-16 كيلو 74 حفاض,101.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بامبى حفاضات الأطفال مقاس 4 العبوة الميجا 74قطعة),
+58,ninja,5-19401136,سانيتا بامبي حفاضات العبوة الضخمة حجم 5 كبير جدًّا 12-22 كيلو 66 حفاض,101.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: بامبى حفاضات الأطفال مقاس 5 العبوة الميجا 66قطعة),
+58,ninja,5-19401137,سانيتا بامبي حفاضات العبوة الضخمة حجم 6 كبير أكسترا أكسترا لارج أكثر من 16 كيلو 46 حفاض,101.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match (also on HS: سانيتا بامبي حفاضات أطفال، مقاس 6، كبير جدا، 16+ كيلو غرام، عبوة ميجا، 46قطعة),
+58,ninja,5-19401138,سانيتا بامبي حفاضات الصندوق الكبير حجم 3 وسط 6-11 كيلو 136 حفاض,149.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19401139,سانيتا بامبي حفاضات الصندوق الكبير حجم 4 كبير جدًّا 8-16 كيلو 120 حفاض,149.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+58,ninja,5-19401140,سانيتا بامبي حفاضات الصندوق الكبير حجم 4 كبير 10-18 كيلو 112 حفاض,149.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19406009,كوزمو بيبي زيت اطفال مغذي 500 مل,21.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+60,ninja,5-19406000,بيور منظف آمن لملابس الأطفال 500 مل,41.95,,HOLD,Belongs to another section: baby laundry detergent (Pur). Suggested tile 37 Laundry,8850596924059
+59,ninja,5-19406006,كوزمو بيبي معطر الجسم للاطفال باراديس 100 مل,11.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19425765,بيور شفاط أنف,43.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+60,ninja,5-19409194,بيجون رضاعة سوفت تتش بلاستيك 240 مل,67.95,50.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+60,ninja,5-19409199,بيجون رضاعة سوفت تتش بلاستيك رسمه دولفين 240 مل,69.95,55.95,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+60,ninja,5-19409213,بيجون ميني لايت لهايه حجم كبير رسمه الفراشة 1 حبه,28.95,23.25,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19406007,كوزمو بيبي بودرة للاطفال 200 جم,16.95,,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+59,ninja,5-19318060,فريندلي اورجانيك بودرة منظفة لملابس الأطفال 1 كجم,56.95,,HOLD,Belongs to another section: baby laundry powder (Friendly Organic). Suggested tile 37 Laundry,8680088181598
+60,ninja,5-19409201,بيجون رضاعة سوفت تتش زجاجية 240 مل,85.95,64.5,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+60,ninja,5-19409193,بيجون رضاعة سوفت تتش بلاستيك 160 مل,62.95,47.25,HOLD,No barcode: not in Ninja image/page names and no strict Tamimi match,
+NEW:الأطفال والرضع:الألعاب,ninja,5-19294202,لعبة اونو كلاسيك,9.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6987596450058
+NEW:الأطفال والرضع:الألعاب,ninja,5-19293047,اونو ورق لعب مع علبة معدنية,33.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19411751,لعبة كفك,28.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",26034010
+NEW:الأطفال والرضع:الألعاب,ninja,5-19411753,لعبة لخمة,28.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",000249745540
+NEW:الأطفال والرضع:الألعاب,ninja,5-19417687,فلك ورق لعب بلوت بتصميم حديث,19.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19396906,صكه ورق لعب بلوت 32 احمر 2 بكت,32.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19336822,لعبة روميكوب,43.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6283319416852
+NEW:الأطفال والرضع:الألعاب,ninja,5-19336825,اونو فليب بعلبة كرتونية بنفسجية,12.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",887961751062
+NEW:الأطفال والرضع:الألعاب,ninja,5-19393271,ورق لعب كوندور,9.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6950852888896
+NEW:الأطفال والرضع:الألعاب,ninja,5-19393280,ناب بوكر اسود ورق لعب,8.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6950473421090
+NEW:الأطفال والرضع:الألعاب,ninja,5-19293042,لعبة سوكر طاولة خشبية,40.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6955550105897
+NEW:الأطفال والرضع:الألعاب,ninja,5-19293043,جنقا مكعبات خشبية,27.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19293044,ورق لعب,30.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19293046,اونو ورق لعب بلاستيكي,31.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19293049,لعبة شطرنج في صندوق خشبي,70.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",7903282203783
+NEW:الأطفال والرضع:الألعاب,ninja,5-19411741,لعبة أكفش 1,20.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",671860013624
+NEW:الأطفال والرضع:الألعاب,ninja,5-19411742,لعبة أكفش 2,20.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",2050000358746
+NEW:الأطفال والرضع:الألعاب,ninja,5-19396905,صكه ورق لعب بلوت 32 ورقة احمر,16.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6287015690028
+NEW:الأطفال والرضع:الألعاب,ninja,5-19396907,سيكونس لعبة الطاولة الاستراتيجية الأصلية لجميع الأعمار من 7 سنوات فما فوق,37.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6932003060207
+NEW:الأطفال والرضع:الألعاب,ninja,5-19396908,جكارو لعبة خشبية بالكرات وأوراق اللعب 4 اشخاص,88.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6281139503403
+NEW:الأطفال والرضع:الألعاب,ninja,5-19396909,لعبة البنتاقو الذهنية لعبة استراتيجية ممتعة للأطفال والكبار 2 لاعبين,39.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19396910,لعبة أبالون الاستراتيجية لعبة لوحية ذهنية ممتعة للكبار والأطفال 2 لاعبين,39.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6920180900614
+NEW:الأطفال والرضع:الألعاب,ninja,5-19368657,ورق لعب صكة بلس ازرق,19.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",4321466155223
+NEW:الأطفال والرضع:الألعاب,ninja,5-19396903,صكه ورق لعب بلوت لنا لهم ازرق,20.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19329905,جكارو طاولة لعبة حجم وسط 6 أشخاص قابلة للطي,89.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19329923,جكارو طاولة لعبة حجم وسط 4 اشخاص قابلة للطي,80.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19329924,جكارو طاولة لعبة حجم وسط 4 اشخاص متعدد الالوان,74.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19329925,جكارو طاولة لعبة حجم وسط 6 اشخاص,83.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19294199,مونوبولي اصلي,58.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6254855420054
+NEW:الأطفال والرضع:الألعاب,ninja,5-19345290,لعبة الكروت الكلاسيكية باتيل شيب,30.95,25.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5010993836338
+NEW:الأطفال والرضع:الألعاب,ninja,5-19345906,كملنا أوراق لعب بحري,26.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19345908,كملنا أوراق لعب أزرق داكن,26.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19309069,كونكت فور لعبة,36.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6975407705343
+NEW:الأطفال والرضع:الألعاب,ninja,5-19336821,قيم سوبر لعبة التوازن لا تلمس السلك,35.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6988805955739
+NEW:الأطفال والرضع:الألعاب,ninja,5-19355889,جكارو أوراق لعب مع 16 كرة,15.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19293039,لعبة لباس الاميرات لوح مغناطيسي 26*19 سم,58.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6924628680724
+NEW:الأطفال والرضع:الألعاب,ninja,5-19422859,جارو مجموعة دمية يونيكورن للعب الإبداعي,22.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19422866,جارو لعبة حصان صغير لطيف,29.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19423084,فاميلي سنتر دمية بيبي مع عربة أطفال,23.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6973564424510
+NEW:الأطفال والرضع:الألعاب,ninja,5-19423088,فاميلي سنتر طقم دمية مع طاولة تجميل وإكسسوارات,27.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6973564424190
+NEW:الأطفال والرضع:الألعاب,ninja,5-19423100,فاميلي سنتر طقم دمية بيوتي مع دراجة ودراجة نارية,34.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6973564424299
+NEW:الأطفال والرضع:الألعاب,ninja,5-19422849,جارو لعبة يونيكورن زنبركية ملون,16.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19422850,جارو بيضة يونيكورن مفاجأة,16.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",075656012295
+NEW:الأطفال والرضع:الألعاب,ninja,5-19400979,مابد كريتيف مجموعة لصنع الأساور إيماجين ستايل فقاعات,55.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19400980,مابد كريتيف مجموعة لصنع الأساور إيماجين ستايل جلام,55.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19325515,طوق سباحة 80 سم,16.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19364171,موستنج كرة قدم لون ميتاليك الأزرق غير مملوءة بالهواء 5 انش,67.95,57.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19356967,لامبورجيني لوح تزلج صغير لون ازرق,94.95,79.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19412058,بيست واي نظارات أكوا,5.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19412059,بيست واي نظارات أكوانوت,6.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19412060,بيست واي نظارات بيرست,5.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19412062,بيست واي نظارات أكوابالز,12.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19412072,بيست واي نظارات أميرات ديزني,19.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19412074,بيست واي درجة دعم الطفل,40.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19412078,بيست واي عوامة سباحة 61 سم,7.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19412121,بيست واي أكياس ملاكمة قابلة للنفخ غلادياتور,23.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19412130,بيست واي مضخة هواء,20.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19412092,بيست واي عوامات ذراع برينسيس,13.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19412096,بيست واي أساور سباحة ديزني جونيور,12.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19357726,كرة ضغط مطاطية ملونة 7 سم 1 الوان متنوعة,5.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6900111336545
+NEW:الأطفال والرضع:الألعاب,ninja,5-19423687,لعبة مسدس ماء للأطفال بخزان كبير رش مياه بألوان متنوعة,11.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5698010198340
+NEW:الأطفال والرضع:الألعاب,ninja,5-19423203,بست واي نظارات سباحة أكسيليرا,12.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6941607330852
+NEW:الأطفال والرضع:الألعاب,ninja,5-19422843,جارو لعبة حبل نط,13.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",075656019959
+NEW:الأطفال والرضع:الألعاب,ninja,5-19371637,انتكس حوض سباحة مربع 86*86*25 سم 33 انش,98.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6941057451008
+NEW:الأطفال والرضع:الألعاب,ninja,5-19325513,مسدس ماء مع خزان صغير للأطفال,15.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",4894103329313
+NEW:الأطفال والرضع:الألعاب,ninja,5-19294822,لامبورجيني كرة قدم غير مملوءة بالهواء 5 انش لون برتقالي,75.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19325520,انتكس عوامات يد قابلة للنفخ 6 الى 12 سنة,21.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6941057409467
+NEW:الأطفال والرضع:الألعاب,ninja,5-19422861,جارو لعبة صغيرة تنس طاولة بالأصابع,24.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19400180,تايني ويل سكوتر بثلاث عجلات متينة ومتوازنة ومضيئة,329.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6500331586890
+NEW:الأطفال والرضع:الألعاب,ninja,5-19364172,موستنج كرة قدم لون أسود وأصفر غير مملوءة بالهواء 5 انش,67.95,57.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",767194769877
+NEW:الأطفال والرضع:الألعاب,ninja,5-19364173,موستنج كرة قدم لون أسود و أحمر غير مملوءة بالهواء 5 انش,67.95,57.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19364174,موستنج كرة قدم لون ابيض و أسود غير مملوءة بالهواء 5 انش,67.95,57.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19364175,موستنج كرة قدم لون ميتاليك فضي غير مملوءة بالهواء 5 انش,67.95,57.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19412142,بلوفيرا مسبح دائري بإطار,131.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19356959,فيراري سكوتر,91.95,77.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19356960,جون بول كرة مطاطية رياضية بيضاء ملونة غير مملوءة بالهواء 9 انش,16.95,13.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19412064,بيست واي قناع غوص أكوانوت,17.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19371613,انتكس طقم للسباحة والغوص لليافعين,96.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6941057403434
+NEW:الأطفال والرضع:الألعاب,ninja,5-19371615,انتكس حوض سباحة دائري للأطفال 86*25 سم,63.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6941057459240
+NEW:الأطفال والرضع:الألعاب,ninja,5-19371617,انتكس قارب سباحة اكسبلورر 147*84*36 سم,123.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6941057402628
+NEW:الأطفال والرضع:الألعاب,ninja,5-19371619,انتكس حوض سباحة دائري 114*25 سم,107.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6941057457413
+NEW:الأطفال والرضع:الألعاب,ninja,5-19371635,انتكس طقم للسباحة والغوص للكبار,111.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6941057413198
+NEW:الأطفال والرضع:الألعاب,ninja,5-19390646,جون بول كرة مطاطية فروزن غير مملوءة بالهواء اشكال متنوعة 9 إنش,13.95,11.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19323178,إم بي عصا سباحة ملونة حجم كبير,30.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19294207,لعبة رمي السهم مغناطيسي,50.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6956661179460
+NEW:الأطفال والرضع:الألعاب,ninja,5-19326304,لامبورجيني كرة سلة مطاطية رمادي 7 بوصة,67.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19325512,انتكس طوق سباحة شكل اطار اسود 91 سم,31.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6941057459257
+NEW:الأطفال والرضع:الألعاب,ninja,5-19325516,انتكس نظارة سباحة قطعة واحدة متنوعة,18.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19325519,غطاء رأس للسباحة ملون متعدد,16.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19325521,انتكس كرة ماء 61 سم,16.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6941057450308
+NEW:الأطفال والرضع:الألعاب,ninja,5-19325523,مسدس ماء مع خزان كبير للأطفال,30.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19349433,اديداس مضرب بادل بوزن 345-360 جم وردي,321.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19349445,باتريك مضرب البادل بقياس 46.5 سم أسود,523.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19349447,أديداس مضرب بادل 38 مم برونز,321.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19349448,باتريك مضرب بادل 38 مم أسود وأزرق,523.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19349450,اديداس مضرب بادل 345-360 جم أزرق,321.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19349453,باتريك مضرب البادل 38 ملم أسود وأخضر,523.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19379862,ديزني ستيتش أنجل بيغي باونسرز مع مضخة 45 انش,283.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",8411936733245
+NEW:الأطفال والرضع:الألعاب,ninja,5-19410949,تولي بلاي مسدس ماء عالي السرعة بتصميم قناص باللون البرتقالي,25.95,21.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6285998006201
+NEW:الأطفال والرضع:الألعاب,ninja,5-19294800,لامبورجيني كرة قدم غير مملوءة بالهواء 5 انش لون ابيض,67.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19294802,لامبورجيني كرة قدم غير مملوءة بالهواء 5 انش لون ازرق,75.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19294833,لامبورجيني كرة قدم غير مملوءة بالهواء 5 انش لون اسود,67.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19325514,انتكس سترة سباحة ولادي 50 سم,33.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6941057408767
+NEW:الأطفال والرضع:الألعاب,ninja,5-19325517,مجموعة العاب رمل الشاطئ للاطفال,30.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6960601846008
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401545,ليغو لعبة سيارات الكارتينج وسباق السيارات 5+,66.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702017566733
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401559,ليغو لعبة سائق مع سيارة سباق 6+,84.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702017812489
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401540,ليغو لعبة سيارة الشرطة 5+,55.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702018031766
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401541,ليغو سيارة الإطفاء 5+,55.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702018031872
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401542,ليغو لعبة بناء 5+,55.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702018031889
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401544,ليغو لعبة مروحية الإنقاذ من الحرائق 5+,55.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702017582931
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401547,ليغو سيتي مطاردة الشرطة على دراجة نارية 4+,55.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702017812458
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401549,ليغو لعبة معركة حمم العالم السفلي 6+,55.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702017815404
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401552,ليغو لعبة نيا ضد مون المتحولين 6+,55.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702018033982
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401553,ليغو لعبة لويد ضد وحوش الأرض 6+,55.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702018033999
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401538,ليغو لعبة نينجا للأولاد 6+,53.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702017399676
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401539,ليغو لعبة نينجا للأولاد 9+,53.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702017815626
+NEW:الأطفال والرضع:الألعاب,ninja,5-19413412,بليتويز بلايبلوكس مكعبات بناء باستيل 52 قطعة في علبة,78.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19413413,بليتويز بلايبلوكس مكعبات بناء شاين 104 قطعة في علبة,130.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19413414,بليتويز بلايبلوكس مكعبات بناء شاين 52 قطعة في علبة,64.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19371609,لعبة اللغز السريع,28.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6913629143543
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401555,ليغو لعبة جرافة المحراث الخلفي 7+,55.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702017802589
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401558,ليغو لعبة قلعة هوجورتس 7+,84.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702018063378
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401563,ليغو الحيوانات البرّية العنكبوت المذهل 7+,84.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702017822242
+NEW:الأطفال والرضع:الألعاب,ninja,5-19409762,ليقو سيارة توصيل كعكة يونيكورن 4+,54.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",5702018054864
+NEW:الأطفال والرضع:الألعاب,ninja,5-19326293,سلوبان تركيب مركبة عسكرية بريموت 412 قطعة,163.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6938242960162
+NEW:الأطفال والرضع:الألعاب,ninja,5-19355511,سلوبان مركبة فضاء جارفيلد 193 قطعة,72.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19355517,سلوبان تركيب سيارة صحراوية احمر 261 قطعة,81.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19355528,سلوبان تركيب سيارة سباق صفراء 182 قطعة,37.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19321522,كلمنتوني لعبة بناء الباجي رباعي السحب,74.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",8005125750566
+NEW:الأطفال والرضع:الألعاب,ninja,5-19321532,كلمنتوني لعبة بناء الحيوانات الصغيرة,81.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19321533,كلمنتوني لعبة بناء دراجة دراجستار,81.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",8005125750306
+NEW:الأطفال والرضع:الألعاب,ninja,5-19321536,سلوبان تركيب دبابة سماوي بريموت 530 قطع,163.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19410928,تولي بلاي شاحنات بهلوانية بشكل عربة حربية تعمل بالاحتكاك 2 قطعة,23.95,19.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19422857,جارو لعبة صانع فقاعات,21.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19396860,نيكولا تسلا مجموعة اصنع بنفسك مصنع الفقاعات,55.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19387081,لعبة تعليمية أربعة الوان,24.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6922000009583
+NEW:الأطفال والرضع:الألعاب,ninja,5-19387049,لعبة خشبية تركيب وتعليم الاشكال الهندسية متعددة الأشكال,35.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6281139503378
+NEW:الأطفال والرضع:الألعاب,ninja,5-19369469,لينو حصالة فخار شكل سيارة مع 6 ألوان 2.2 مل,48.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6281139910703
+NEW:الأطفال والرضع:الألعاب,ninja,5-19368322,نيلكو تعلم الألوان والأشكال ديزني توي ستوري 4,50.95,42.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6223007321778
+NEW:الأطفال والرضع:الألعاب,ninja,5-19368327,نيلكو تعلم الضرب ديزني فلاش كارد ستار وورز,50.95,42.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6223007321723
+NEW:الأطفال والرضع:الألعاب,ninja,5-19368329,نيلكو تعلم الجمع ديزني فلاش كارد سبايدرمان,50.95,42.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6223007321747
+NEW:الأطفال والرضع:الألعاب,ninja,5-19368349,نيلكو تعلم الطرح ديزني فلاش كارد ستار وورز,50.95,42.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6223007321730
+NEW:الأطفال والرضع:الألعاب,ninja,5-19368351,نيلكو تعلم الكلمات (إنجليزي - فرنسي),56.95,47.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6223007320399
+NEW:الأطفال والرضع:الألعاب,ninja,5-19422868,جارو لعبة ضغط حسية,47.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19423113,فاميلي سنتر ميكروفون غناء للأطفال مع قاعدة,39.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6973564424916
+NEW:الأطفال والرضع:الألعاب,ninja,5-19371611,نظارات قناع أطفال ميكي,17.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6924811334014
+NEW:الأطفال والرضع:الألعاب,ninja,5-19371636,كتاب تلوين ثلاثي الأبعاد ماي ميلودي,19.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19404504,عصا فقاعات صابون ملونة ستيتش 4 قطع,15.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19371632,لعبة تعليمية تركيب القطع الخشبية 5 اعمدة للأطفال,22.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6920258130059
+NEW:الأطفال والرضع:الألعاب,ninja,5-19414959,دمية كورومي القطنية الناعمة 30*20 سم,32.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19414961,دمية ستيتش ازرق قطنية ناعمة 25 *18 سم,32.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19414962,دمية ماي ميلودي وردية قطنية ناعمة 30*20 سم,32.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19323161,نظارة شكل قناع الرجل العنكبوت,15.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6980511333962
+NEW:الأطفال والرضع:الألعاب,ninja,5-19323142,نظارة شمسية بشكل قناع أميرة الثلج فروزن,13.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6924811334045
+NEW:الأطفال والرضع:الألعاب,ninja,5-19393275,لوح كتابة LCD كرومي,25.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6920111580601
+NEW:الأطفال والرضع:الألعاب,ninja,5-19396861,بيغ سوربريز بيضة ديناصور,23.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",8699067004346
+NEW:الأطفال والرضع:الألعاب,ninja,5-19396862,بيغ سوربريز بيضة وحيد القرن,23.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19401529,جارا لعبة خشبية لتجميع وتعليم لوحة الأشكال متعددة الوظائف,34.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6281139503426
+NEW:الأطفال والرضع:الألعاب,ninja,5-19387077,لعبة بزل خشبية تعليمية مونتيسوري بأحرف صغيرة,44.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6920190275672
+NEW:الأطفال والرضع:الألعاب,ninja,5-19387083,لعبة قطار خشبية تعليمية للأطفال – متعددة الألوان,21.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19387080,لعبة خشبية تركيب وتعليم الاشكال الهندسية متعددة الأشكال,35.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19387092,لعبة خشبية تركيب وتعليم الاشكال الهندسية والارقام متعددة الأشكال,35.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19393314,لعبة تعليميه2 في 1 صيد خشبية مع اشكال تركيبيه,27.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6926025370222
+NEW:الأطفال والرضع:الألعاب,ninja,5-19369338,مسدس طلقات اسفنجية وبطارية وشاحن 40 طلقة,121.95,103.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",767194792479
+NEW:الأطفال والرضع:الألعاب,ninja,5-19369364,كليمنتوني مختبر الحيوانات الأليفة,228.95,194.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",8005125613410
+NEW:الأطفال والرضع:الألعاب,ninja,5-19369382,كليمنتوني مركبات استكشاف المريخ,193.95,164.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",8005125615452
+NEW:الأطفال والرضع:الألعاب,ninja,5-19368300,نيلكو تعلم جدول الضرب,56.95,47.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6223007320405
+NEW:الأطفال والرضع:الألعاب,ninja,5-19368330,نيلكو تعلم الأشكال,56.95,47.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6223007320412
+NEW:الأطفال والرضع:الألعاب,ninja,5-19368304,نيلكو تعلم الوقت,56.95,47.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6223007320375
+NEW:الأطفال والرضع:الألعاب,ninja,5-19368319,نيلكو تعلم الأشياء اليومية,56.95,47.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6223007320344
+NEW:الأطفال والرضع:الألعاب,ninja,5-19368323,نيلكو تعلم العكس,56.95,47.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6223007320276
+NEW:الأطفال والرضع:الألعاب,ninja,5-19368328,نيلكو تعلم العد جيبو فلاش كارد,27.95,22.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6223007321686
+NEW:الأطفال والرضع:الألعاب,ninja,5-19368336,نيلكو تعلم الكلمات المتشابهة صوتياً,56.95,47.95,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6223007320351
+NEW:الأطفال والرضع:الألعاب,ninja,5-19422846,جارو لعبة يويو,14.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19371606,نظارات قناع أطفال كورومي,17.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6953111336343
+NEW:الأطفال والرضع:الألعاب,ninja,5-19371616,لعبة تعليمية تركيب القطع الخشبية مربع للأطفال,14.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",1967011601321
+NEW:الأطفال والرضع:الألعاب,ninja,5-19371629,لعبة تعليمية صغيرة خشبية الساعة وترتيب الحيوانات,17.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6900011570049
+NEW:الأطفال والرضع:الألعاب,ninja,5-19414960,دمية انجل الوردية القطنية الناعمة 25 *18 سم,32.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19414965,لعبة خشبية توازن بشخصيات حيوانات ملونة 21*16 سم,40.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,ninja,5-19323160,نظارة شكل قناع الدعسوقة,12.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6925311335372
+NEW:الأطفال والرضع:الألعاب,ninja,5-19323162,نظارة شكل قناع باتمان,13.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",6924811334205
+NEW:الأطفال والرضع:الألعاب,ninja,5-19385208,مابد كريتيف لوحة أفاتار مضيئة لرسم صور المانجا,187.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",3154149070763
+NEW:الأطفال والرضع:الألعاب,ninja,5-19321528,كلمنتوني لعبة معمل التشريح,97.95,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",8005125615209
+58,hs,476252ce-8314-4152-b298-ed42e08bafab,بيبي جوي حفاضات مقاس 6 كبير جداً 16كيلو 7قطعة,14.95,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,f7807dc9-aff6-480f-8a06-b2719d3f05ea,بيبي جوي حفائض مضغوطة مقاس +4 عبوة 10قطعة,14.75,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,3aed1454-b2d8-45eb-be5b-48f4406944f7,بيبي جوي حفاضات مقاس 4 كبير 11قطعة,14.75,,HOLD,"Same product as Ninja 5-190330, which is on HOLD (see its row)",
+58,hs,607fc7df-dc52-49d5-83b4-9afe404aaca6,بيبي جوي حفاضات حشوة ماسية مضغوطة كبير 9قطعة,14.75,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,a319fe6f-4d2a-4770-9ef1-f0d77349e91e,بامبرز مناديل مبللة منعشة للتنظيف 64قطعة,15.25,13.72,HOLD,"HS pack (Pampers complete clean 64, blue) does not match the Tamimi Fresh 64 image (4015400439110); Ninja 4015400439110 is itself in conflict",
+58,hs,11f7a334-3d14-4af5-a6da-cc6d566ff6a2,بيبي جوي حفاضات مقاس 3 وسط 12قطعة,14.75,,HOLD,"Same product as Ninja 5-189958, which is on HOLD (see its row)",
+58,hs,e920fcf8-b64b-4a84-9b8e-dd4003d27e2e,بيبي جوي حفاضات العبوة الضخمة مقاس 5 كبير جدا 52قطعة,87.5,,HOLD,"Same product as Ninja 5-19309621, which is on HOLD (see its row)",
+58,hs,416fc0d0-d08e-4c86-9245-07c8f9459371,سانيتا بامبي حفاضات العبوة العادية - حجم 6، كبير أكسترا أكسترا لارج، أكثر من 16 كيلو، 9قطعة,16,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,e129e397-dc90-4f52-b256-05611d2fd3fa,بيبي جوي حفاضات الحشوة الماسية المضغوطة مقاس 2 صغير 3.5-7كيلو 15قطعة,14.75,,HOLD,"Same product as Ninja 5-190043, which is on HOLD (see its row)",
+58,hs,f7edff4c-4f57-4edb-b04b-546cca52127c,بيبي جوي حفاضات اطفال رقم 4 كبير 60قطعة,87.5,,HOLD,"Same product as Ninja 5-19309677, which is on HOLD (see its row)",
+58,hs,f3f92f54-3c66-4870-9dc3-312bff310ada,بامبرز كلوت راحة متكاملة مقاس5 42قطعة,109.25,77.56,HOLD,"Same product as Ninja 5-19332637, which is on HOLD (see its row)",
+58,hs,9aa8f916-16a8-41f8-ae9a-632cfab5ad5c,بامبرز بشريط لاصق راحة متكاملة حديثي الولادة مقاس0 30قطعة,31.95,27.15,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,9e6ed367-13b5-4b06-8130-08f3e9be9874,بيبي جوي العبوة الضخمة مقاس كبير جدا رقم 6 16+ كيلو حفائض 38قطعة,87.5,,HOLD,"Same product as Ninja 5-19309641, which is on HOLD (see its row)",
+58,hs,2c4b194b-74fb-4f73-a099-0044ee219bdd,بيبي جوي كلوت مقاس 5 كبير جداً 36قطعة,74.5,,HOLD,"Same product as Ninja 5-19309631, which is on HOLD (see its row)",
+58,hs,881e629d-0a7a-433a-b8e6-e8844838289f,بيبي جوي حفاضات حديث الولادة 16قطعة,14.75,,HOLD,"Same product as Ninja 5-189894, which is on HOLD (see its row)",
+58,hs,3b7a1198-db81-464e-b3d0-cbf8efb48098,سانيتا بامبي حفاضات العبوة العادية - حجم 4، كبير 16-8 كيلو، 11قطعة,16,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,997a19d6-c5d7-4116-9577-4f1130c7c77a,بيبى جوى، حفاضات أطفال مقاس 6 عبوة ضخمة 46 قطعة,100,,HOLD,"Pack design differs from the Tamimi listing (6281008288582 Baby Joy Giant Pack size 6 / 46); no barcode on the HS item, so the match cannot be confirmed",
+58,hs,7e69ac55-812a-40de-a8fa-9e0dc3ea8148,بامبرز كلوت حماية تسلخات مقاس5 22قطعة,51.25,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,fea23bbe-f80f-4484-aa7e-b33c753b9f02,بامبرز بشريط لاصق راحة متكاملة مقاس2 46قطعة,59,41.3,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,69d53386-125e-4d3b-894c-c8c330b6bdca,بيبي جوي حفاضات مقاس 3 (متوسط) العبوة الضخمة 68قطعة,87.5,,HOLD,"Same product as Ninja 5-19309659, which is on HOLD (see its row)",
+58,hs,5f65f0e5-97bf-4f80-8045-2da16e3085b6,بيبي جوي كلوت مقاس 5 كبير جداً 32قطعة,74.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,8410cbbf-8012-43f5-b9e4-74912eff94ae,هجيز مناديل مبللة للأطفال العناية الطبيعية 56قطعة,24.95,,HOLD,Tamimi has two different Huggies Aloe Vera 56 rows (5029053529493/5029053550176 and 5029053528861/5029053550152); cannot tell which is this pack; no Ninja match,
+58,hs,8b49409e-af9e-4c65-9e44-a3568f7b27a6,سانيتا بامبي حفاضات مقاس كبير 40قطعة,75.95,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,281cfcb7-d9d4-48e3-906a-59212c667da8,بامبرز حفاضات بشريط لاصق حماية صغيرة مقاس2 23قطعة,21,,HOLD,"Same product as Ninja 5-19332589, which is on HOLD (see its row)",
+58,hs,78c49818-c5e4-4ad2-a939-89137a025faf,بيبي جوي حفاضات مقاس 3 وسط عبوة عملاقة 34قطعة,49,,HOLD,"Same product as Ninja 5-19309686, which is on HOLD (see its row)",
+58,hs,927be0ee-4181-4010-bf91-f81a79b1ff32,بيبي جوي مناديل مبللة لبشرة صحية 150ورقة,35.95,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,690374ef-52c0-4039-8c43-2e0fcf95706e,بامبرز حفاضات بشريط لاصق حماية صغيرة مقاس1 21قطعة,21.25,,HOLD,"Same product as Ninja 5-19332599, which is on HOLD (see its row)",
+58,hs,c3a1675c-8877-43f6-91b3-3b0a3184835d,بامبرز كلوت راحة متكاملة مقاس3 56قطعة,109.25,77.56,HOLD,"Same product as Ninja 5-19332626, which is on HOLD (see its row)",
+58,hs,3e876c67-a193-4cf6-bbbd-a947f98f10f6,بامبرز بشريط لاصق راحة متكاملة ميجا مقاس3 62قطعة,115.25,81.82,HOLD,"Same product as Ninja 5-19332624, which is on HOLD (see its row)",
+58,hs,3e014d60-1a57-4397-9fd4-fbfe2f6c4f00,حفاضات سانيتا بامبي العبوة العادية - حجم 4+، كبير+،  18-10 كيلو، 10قطعة,16,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,09f5ecbe-ebbd-4ca1-95ae-e55bc4f08f95,بيبي جوي اوليف حفاض (5) جونيور كبير 23-14كجم 42قطعة,90.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,184d205a-e24b-45b9-a1e7-d45f9a864b45,هجيز، مناديل العناية الطبيعية المبللة للأطفال بخلاصة الألوفيرا 3×56قطعة,47.75,,HOLD,"No Ninja match (Ninja has Huggies Pure, not Natural Care); no Tamimi 3 x 56 Natural Care row",
+58,hs,1ce6657f-ac29-4d7a-994b-d99f30afb4da,بيبي جوي حفاضات العبوة العملاقة مقاس 4+ كبير بلس 70قطعة,110,,HOLD,"Pack design differs from the Tamimi listing (6281008288681 Baby Joy Giant Pack size 4+ / 70); no barcode on the HS item, so the match cannot be confirmed",
+58,hs,4395ebd7-b11e-42f7-af40-f41b3ca2a5a6,بامبرز كلوت حماية تسلخات مقاس4 24قطعة,51.25,,HOLD,"Same product as Ninja 5-19332595, which is on HOLD (see its row)",
+58,hs,faeb0ca7-7f09-43bc-a2a6-f1bf86e34449,بيبي جوي حفاضات مقاس 4 كبير بلس 56قطعة,92.25,,HOLD,"Pack design differs from the Tamimi listing (6281008248685 Baby Joy Mega Pack size 4+ / 56); no barcode on the HS item, so the match cannot be confirmed",
+58,hs,1a47ba5a-3b96-452d-b30d-df5a31773c0b,سانيتا بامبي حفاضات أفضل عناية العبوة العادية- حجم 2، صغير،    6-3 كيلو، 15قطعة,16,,HOLD,"Same product as Ninja 5-19401127, which is on HOLD (see its row)",
+58,hs,703fbb36-3432-4534-93e4-3f706cff6b44,بيبي جوي حفاضات مقاس 4 كبير 50قطعة,90,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,bfdf70ee-b3f6-409e-9bc5-ac9af43297e8,بامبرز حفاضات بشريط لاصق حماية جامبو مقاس4 44قطعة,80.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,bdd5453c-0a17-498c-94fe-a853653f5279,بامبرز بشريط لاصق راحة متكاملة مقاس6 42قطعة,133.75,108.33,HOLD,"Same product as Ninja 5-19332640, which is on HOLD (see its row)",
+58,hs,7ddcd6e4-8259-4a3c-8510-f8d8cdee50ad,هجيز إكسترا كير حفاضات مقاس 2 21قطعة,32.95,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,10099730-0202-4544-87ba-7d6afb4e0cc3,بيبي جوي حفاضات مضغوطة مقاس 1 لحديثي الولادة لغاية 4كيلو 84قطعة,95,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,d37de5c1-3aef-4fb4-848f-0fb561896786,سانيتا بامبي حفاضات بانتس مقاس 4 كبير 8-14 كيلو 50قطعة,76.75,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,0bfaa8e2-439a-41d6-980d-818e19c8b8ea,بيبي جوي حفاضات كلوت مقاس 5 كبير جداً 12-18كيلو 56قطعة,117.6,,HOLD,"Same product as Ninja 5-19309682, which is on HOLD (see its row)",
+58,hs,4cf048d4-a0f6-4a69-9816-8bfeb3e94ab2,بيبي جوي كلوت مقاس 4 كبير 44قطعة,72.95,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,7ebee131-5510-4ace-9be3-1622e999988d,سانيتا بامبي حفاضات أفضل عناية العبوة العادية - حجم 1، المولود الجديد، 2-4 كيلو، 16قطعة,15.5,,HOLD,"Same product as Ninja 5-19401126, which is on HOLD (see its row)",
+58,hs,c0fc7fa5-9c3c-45a2-86b0-be8fd135b1b1,هجيز دراي نايتس، كلوتات للتبول اللاإرادي للإناث، لـلأعمار بين 4-7 سنوات (17-30 كجم)، عبوة جامبو من 16قطعة,89.95,,HOLD,HS item is DryNites Girls 4-7 years; Tamimi only has Boys 4-7 (5029053560151); no Ninja match,
+58,hs,1a435716-6485-4db1-9a5e-04cf0bc45615,سانيتا بامبي حفاضات العبوة العادية - حجم 3، وسط 11-6 كيلو، 12قطعة,16,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,81705378-afaf-4571-a8c7-9a3e62cc722b,هجيز دراي نايتس كلوتات للتبول اللا إرادي للذكور لـلأعمار بين ٨-١٥ (وزن بين ٢٧ و٥٧ كجم) من 13قطعة,89.95,,HOLD,"Pack design differs from the Tamimi listing (5029053560175 Huggies DryNites Boys Teen 8-15); no barcode on the HS item, so the match cannot be confirmed",
+58,hs,dc80f4ec-6bff-4db3-b4ff-08c722c9eaff,بيبي جوي حفاضات مقاس 3 وسط 84قطعة,113.4,,HOLD,"Pack design differs from the Tamimi listing (6281008288285 Baby Joy Giant Pack size 3 / 84); no barcode on the HS item, so the match cannot be confirmed",
+58,hs,9e8a95a6-5b54-46c9-924f-83ba2e2cd0d8,بامبرز بشريط لاصق راحة متكاملة ميجا مقاس4 54قطعة,115.25,81.82,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,4482e32d-7593-4ac4-a70e-639f612c6150,بامبرز كلوت حماية تسلخات مقاس3 80قطعة,122.5,89.42,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,a119a5d6-f268-46a0-a8c7-7d3350d842ed,بيبي جوي حفاضات مقاس 2 صغير 84قطعة,98.75,,HOLD,"Same product as Ninja 5-19309650, which is on HOLD (see its row)",
+58,hs,bc0c41e7-b6e8-417b-b0a6-c50a55e48d75,بيبي جوي حفاضات مقاس 2 صغير 90قطعة,117.6,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,944b6d02-0ec3-4692-8918-52a14e410069,هجيز إكسترا كير حفاضات +3 سنوات 96قطعة,149.95,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,7bc0c755-9c31-4a0a-a804-d8128ae357ce,بيبي جوي حفاضات XXL بشرة صحية عبوة ضخمة مقاس 6 34قطعة,99,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,087b7aff-c3ce-4d07-890e-105becd3b518,ديتول مناديل معقمة ومضادة للبكتيريا للعناية بالبشرة 10مناديل,69.5,,HOLD,Belongs to another section: Dettol antibacterial skin wipes. Suggested tile 48 Body & Bath; also no barcode,
+58,hs,7074a48d-a63f-47ca-82f4-381045ead561,هجيزكلوت عناية فائقة صندوق الجامبو مقاس ٥  68طعة,166.95,,HOLD,"Pack design differs from the Tamimi listing (5029054252413 Huggies Extra Care Pants size 5 / 68); no barcode on the HS item, so the match cannot be confirmed",
+58,hs,58180a33-b204-4454-a65a-5d6724ca1b03,ديتول مناديل 10حبات,69.5,,HOLD,Belongs to another section: Dettol antibacterial wipes. Suggested tile 48 Body & Bath; also no barcode,
+58,hs,a48a9751-cc54-46fa-a4c8-86361a4fd70c,بامبى حفاضات الأطفال مقاس 5 العبوة الميجا 66قطعة,118,82.6,HOLD,"Same product as Ninja 5-19401136, which is on HOLD (see its row)",
+58,hs,b247b8f9-ab21-4f8f-93fd-6267228cf104,بامبى حفاضات الأطفال مقاس 4 العبوة الميجا 74قطعة,118,82.6,HOLD,"Same product as Ninja 5-19401134, which is on HOLD (see its row)",
+58,hs,75958a3f-0c57-47d8-8d56-4469bbabf1fe,بامبرز حفاضات بشريط لاصق حماية جامبو مقاس1 66قطعة,81,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,769a887b-0b3d-4551-9f56-76f9be506cd1,هجيز كلوت عناية فائقة صندوق الجامبو مقاس ٦  56,166.95,,HOLD,"Pack design differs from the Tamimi listing (5029054252420 Huggies Extra Care Pants size 6 / 56); no barcode on the HS item, so the match cannot be confirmed",
+58,hs,d0c4c72d-f19a-49d7-b381-e2e0e1134f4f,بامبرز حفاضات بشريط لاصق حماية ميجا مقاس2 84قطعة,105,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,9b0d6585-f737-43c4-a9ad-2dab06009fcf,بامبرز حفاضات بشريط لاصق حماية جامبو مقاس5 38قطعة,80.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,1873ef1b-7a19-4aaf-a2ac-f7b83adf5c0e,بيبي جوي حفاضات حديث الولادة 92قطعة,102.99,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,0ea5f0b5-0bc0-4a22-9ddd-cb3fdb7e23ca,بامبى حفاضات أطفال مقاس 5 صندوق 104قطعة,179,,HOLD,"Same product as Ninja 5-19401141, which is on HOLD (see its row)",
+58,hs,3ec9c438-58a1-4b6b-bb06-c030506a4f85,بامبرز حفاضات بشريط لاصق حماية ميجا مقاس1 86قطعة,105,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+58,hs,ba25474e-eb54-4d9d-8faa-60e7ddad4b3a,بامبى حفاضات الأطفال مقاس 4+ العبوة الميجا 70قطعة,118,82.6,HOLD,"Same product as Ninja 5-19401135, which is on HOLD (see its row)",
+58,hs,d2853d5f-c314-4670-9f4f-ccc5f52bd3cd,سانيتا بامبي حفاضات أطفال، مقاس 6، كبير جدا، 16+ كيلو غرام، عبوة ميجا، 46قطعة,118,82.6,HOLD,"Same product as Ninja 5-19401137, which is on HOLD (see its row)",
+57,hs,79c28c10-6f38-4e2e-80c5-ae2b29dba026,سيريلاك تفاح ومشمش 90جرام,6,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+57,hs,5b1c531d-b842-4946-8791-0e2185398b67,جيربر ميلكيز فواكه طبيعية عضوية بالتوت والتفاح وجوز الهند 80جرام,7.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+57,hs,01ee9a21-e89e-499d-8269-d25d9422c59e,سيريلاك مهروس الموز والبرتقال والبسكويت 6+ شهور 5×90جرام,25.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+57,hs,7812beb4-cc0e-457b-8698-3ffdf381bfb8,جربر عضوي يقطين ومانجو وحليب جوز الهند ميلكيز فواكه طبيعية 1قطعة,9.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+57,hs,82108fea-f347-4408-ba02-55b220a44950,جيربر أورجانيك عبوة نهاية الأسبوع بالخضروات وزن 235جرام,29.95,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+57,hs,fce82ef3-214d-40cf-8bfa-aa133e2e6913,سيريلاك قمح وفواكه 1قطعة,93.75,,HOLD,HS name gives no size ('1 piece'); no barcode,
+57,hs,693ad05c-56b8-40e1-9785-928e09e17fcb,جربر طعام عضوي بالمانجو للأطفال من 6 شهور 90جرام,9.25,,HOLD,"Pack design differs from the Tamimi listing (7613036067010 Gerber Organic Mango 90 g, older pouch); no barcode on the HS item, so the match cannot be confirmed",
+57,hs,2e602115-3a63-4c49-91b8-05776f08b61e,جربر عضوي تفاح 6+ شهور 5×90جرام,35.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+57,hs,d48c6c4a-a734-44b0-9068-60333532d8db,جيربر بلانت تاستيك هريس الجزر والموز والحمص 110جرام,9.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+57,hs,8195a3be-73a8-45d4-9edc-7a7b59b0b533,جربر عضوي تفاح وموز وتوت أزرق وتوت أسود 6+ شهور 5×90جرام,35.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+57,hs,86b1a9c1-8582-490a-bd04-95c9e81e93dd,جربر عضوي يقطين وموز وجزر 6+ شهور 5×90جرام,35.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+57,hs,277e9dfe-8c57-47d8-a6be-465be0c89153,سيريلاك مهروس التفاح والجزر والمانجو 6+ شهور 5×90جرام,25.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+57,hs,4d398e5e-60da-4212-a1ca-2b122ae04103,جربر عضوي مانجو 6+ شهور 5×90جرام,40.95,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+57,hs,959f6f89-e959-4e11-afa8-24c02c965989,سيريلاك قطعة السفر وزن 15×90جرام,89,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+57,hs,9161d03a-786e-4fc6-9f05-aa4911c091f7,جربر عضوي كمثرى وتفاح وموز 6+ شهور 5×90جرام,35.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+57,hs,7950aa5b-d437-4ebd-9783-1fb89811f01e,جيربر أورجانيك عبوة السفر وزن 15×90جرام,125,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+56,hs,ba2269db-4aa9-4c5b-a823-6ece871a9135,إس 26 جولد 1 حليب الأطفال 400جرام,55.95,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+56,hs,d3032fff-c2cf-4927-9c7e-a3de622f0c18,اس 26 جولد 2 حليب 400جرام,71.75,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+56,hs,747a2dc5-842d-4598-80b1-881eb6c6d8ba,إس 26 جولد حليب للأطفال مرحلة (3) 1800جرام,261.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+56,hs,e1980f36-88bd-4762-935b-642842ed8226,بيدياشور 3+ حليب أطفال بودرة بنكهة الشوكولاتة 400جرام,55.5,,HOLD,Tamimi lists three barcodes for PediaSure 3+ Chocolate 400 g; cannot tell which is on this pack; not on Ninja,
+56,hs,293d7c7b-e28c-48bb-9fae-20eedc5422b7,بيدياشور 3+ حليب أطفال بودرة بنكهة الشوكولاتة 900جرام,120,96,HOLD,Tamimi lists three barcodes for PediaSure 3+ Chocolate 900 g; cannot tell which is on this pack; not on Ninja,
+56,hs,fb2916f8-65be-4acf-a060-ac31909b071d,بيدياشور 1+ حليب أطفال بودرة بنكهة الفانيليا 900جرام,120,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+56,hs,412aea21-3fa6-40da-a701-c34ea7150421,سيميلاك ماكس برو المرحلة 2 تركيبة حليب أطفال بودرة 360جرام,82.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+56,hs,13d24a29-ef50-48f6-ab8b-a8ce83270f24,سيميلاك ماكس برو المرحلة 3 تركيبة حليب أطفال بودرة 360جرام,79.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+56,hs,35f68ebd-dc2c-4a2d-84a5-0bbd58c7b54a,سيميلاك ماكس برو المرحلة 3 تركيبة حليب أطفال بودرة 820جرام,179.95,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+56,hs,bd45450d-b759-4403-b8bb-519555fc8841,بيدياشور 3+ حليب أطفال بودرة بنكهة الفانيليا 1600جرام,171.75,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+56,hs,0972737b-cd9c-4b70-929d-8aed0542f92f,سيميلاك جولد 4 إتش إم أو تركيبة حليب أطفال رضع بودرة 900جرام,100,,HOLD,Tamimi lists two barcodes for Similac Gold 4 900 g (5099864016079 and 5391523059831); cannot tell which is on this pack; not on Ninja,
+56,hs,97a395ff-6e3e-4ed1-ba0c-00efcbf3f81b,سيميلاك ماكس برو المرحلة 2 تركيبة حليب أطفال بودرة 820جرام,187.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+59,hs,63fd2dca-5ecb-406a-9b73-979b43ec0a2e,جونسون شامبو وبلسم للأطفال 2 في 200مل,24.5,19.6,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+59,hs,1c64b8fb-8169-4f57-84fd-171dce652692,جونسون جلي غير معطر لبشرة الأطفال 100مل,11.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+59,hs,df180775-e953-4bf8-8508-99ce0a80754a,فريندلي منظف غسيل ملابس الأطفال 1000 مل,67.62,,HOLD,Belongs to another section: baby laundry detergent (Friendly Organic). Suggested tile 37 Laundry; also no barcode,
+59,hs,53cae194-6d87-4ea3-a0ed-5af90c46ba67,غالفوس ميت 50/850ملغ 60 قرص,67.62,,HOLD,"Prescription diabetes medicine (Galvus Met 50/850 mg), not a baby product; do not list",
+59,hs,fe2b3edf-e747-41c6-ac70-7baf8b3a46d5,فريندلي شامبو العضوي للأطفال من لاندري خالي من المنظفات والعطور 2000مل,95.22,,HOLD,Belongs to another section: baby laundry liquid (Friendly Organic 2 L). Suggested tile 37 Laundry; also no barcode,
+59,hs,ff0e6957-80d6-41d7-82a7-904665a97c70,جونسون، فقاعات للأطفال، غسول للاستحمام 500مل,62.5,43.75,HOLD,HS item is Johnson's Kids Bubble Bath & Wash 500 ml (orange); Ninja 500 ml is Baby Bath (blue); no Tamimi match,
+59,hs,f4b63118-d625-45eb-9ce7-a9cc8c749a51,فازلين بتروليوم جيلي مرطب، للأطفال، 250مل,22.25,17.8,HOLD,HS pack label is Vaseline Baby 'Moisturizing Jelly'; Tamimi 6281006408784 shows 'Healing Jelly' (different pack),
+59,hs,cd7f9c1c-fb02-46a7-9deb-7c9825caee78,فريش تونج جل طبي ومطهر لتنظيف لسان الأطفال بنكهة الفراولة اللذيذة 85جرام,37.95,,HOLD,Belongs to another section: kids tongue-cleaning gel (Fresh Tongue). Suggested tile 50 Oral Care; also no barcode,
+59,hs,109ee26d-18cd-433e-9d9f-3a1ed7e370d9,جونسون شامبو الأطفال لمنع تعقد وتشابك الشعر بسهولة 500مل,47,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,47571d3a-1905-4c67-a212-8927ada67aef,ووي بيبي لهاية على شكل فراشة للأطفال الصغار خالية من مادة BPA مزودة بنظام تهوية مناسبة للأطفال من عمر 6 إلى 18 شهرًا 1قطعة,23.75,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,f615ac0a-b502-44fe-a46d-7bd993a85e2f,ووي بيبي لهاية سيليكون دائرية كول خالية من مادة BPA مناسبة للأطفال من عمر 0 ​​إلى 6 أشهر 1قطعة,23.75,20.18,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,3b611e5c-0d52-4bf0-bce1-2f331f1397c4,فيتال بيبي ملاعق سيليكون  نوريش ستارت للفطام (عبوة من قطعتين) - فيز 1قطعة,45.54,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,273168fd-b249-42e6-a313-33ae8d98ae81,فيتال بيبي لهاية أطفال 234  6+ 2 كرت 2قطعة,42.78,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,d2725e59-3e22-43ba-848e-9d640d7c1c3b,فيتال بيبي هيدرات كوب مع صنبور بسيط جدا 1قطعة,45.54,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,a2a1e9ba-06fe-4d7b-a332-0d9c37d4bc85,فيتال بيبي بروتكت مجموعة العناية بالأظافر 3قطعة,57.96,,HOLD,HS nail-care set is the blue version; Ninja 5060702872256 is the purple version; no barcode for the blue set,
+60,hs,b3856d39-5ae3-4fba-a747-f19a4da5d38d,فيتال بيبي نوريش اطباق سهلة الاستخدام 5قطع,49.68,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,49199d63-eece-447b-b35c-c44d5dc64b3f,فيتال بيبي كوب تدريب كامل للأطفال هيدرات  فيز 1قطعة,75.9,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,7bb6353a-6991-4ae5-a137-6de27da50faf,فيتال بيبي مجموعة  نوريش لبدء الفطام - فيز 1قطعة,205.62,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,161e81b8-95b6-4539-8f7f-25721db9e77f,فايتال بيبي حلمات تدفق بطيء نيرتشر 3قطعة,38.64,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,46562eae-b338-41aa-8338-61f5ce6cac96,فايتال بيبي طقم بدء الفطام نوريش خالٍ من BPA 1علبة,205.62,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,793ff0fd-5bc1-4143-ad75-e4fb46843418,فيتال بيبي هايدريت كوب شرب للأطفال مع فوهة قابلة للتقليب فيز 1قطعة,103.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,ef15d705-77d5-4ff5-82bc-ad36e6caa9de,فيتال بيبي ضمادات الثدي 208 56قطعة,69,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,845e72fc-7810-4e01-9799-3cf0cc68f680,فايتال بيبي زجاجات إطعام نيرتشر شبيهة بالثدي 2x150مل,88.32,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,7d7c4219-4069-4ed8-9be7-f971b2e78c72,فايتال بيبي وعاء وجبات خفيفة للتنقل نورش وردي 1قطعة,52.44,,HOLD,HS snack pot is pink; Ninja 5060702871686 is the green/teal pot,
+60,hs,7e1eae31-bb89-401e-b603-f70ae5af3b1b,مانشكين بريكا - غطاء مقعد السيارة للحماية من ركلات الأطفال 1قطعة,82.8,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,915646e5-ebeb-44ea-a03b-5816fbee27f8,فيتال بيبي هيدرات إيدج 360 كوب فيز 1قطعة,69,,HOLD,HS Hydrate Edge 360 cup is purple/coral (Fizz); Ninja 5060702871532 is the teal cup,
+60,hs,6ecbf071-06a3-44d4-a303-19f1d6526811,فيتال بيبي أوعية تغذية نوريش سكوب عبوة من 4قطع,63.48,57.13,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,222916ab-9dbe-406c-8b40-4ec4cac2e618,فيتال بيبي نوريش وعاء شفط قوي فيز 1قطعة,80.04,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,4b8f4a8c-94e4-48d7-9b96-348ad3eb2350,فيتال لوحة شفط  بيبي نوريش باور بوب 2قطعة,66.24,,HOLD,HS item is a 2-pack of suction plates; Ninja 5060702871761 is a single plate,
+60,hs,12c1c3e1-cdc2-462f-8e1d-5f64cd6fa4f3,فيتال بيبي مشروب هيدريت للأطفال 1حبة,85.56,,HOLD,HS Hydrate bottle is grey/red; Ninja Hydrate Kids sipper 5060702871464 is grey/teal,
+60,hs,1bb6d9ba-76a5-4a91-a1bb-4bcfb31822a8,ووي بيبي لهاية على شكل فراشة للأطفال الصغار خالية من مادة BPA مزودة بنظام تهوية مناسبة للأطفال من عمر 0 ​​إلى 6 أشهر 1قطعة,23.75,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,24321a22-aa92-468a-bbfd-2417252cdc4d,فيتال لوحة شفط قوية ومغذية من فيتال بيبي فيز 2قطعة,66.24,,HOLD,HS item is a 2-pack of suction plates; Ninja 5060702871761 is a single plate,
+60,hs,8398761f-df26-4d76-bc61-0f855cc772d4,فايتال بيبي طقم نوريش للأطفال لعمر +3 سنوات 1علبة,271.86,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,0aa8d519-d8e4-49c8-93e4-b1554c023b6d,فيتال بيبي هايدريت كوب شرب للأطفال مع غطاء سوبر سيل فيز 1قطعة,92.46,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,569cd35c-274f-4ef3-90de-af3dc57d3524,فيتال بيبي نوريش وعاء شفط قوي بوب 1قطعة,80.04,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,4d8c7a11-7df7-461e-9c23-7fe85a653a58,فايتال بيبي طقم النمو فيز نورش 1علبة,271.86,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,e710cabc-863a-4b41-b825-058e7ea629a9,فيتال بيبي مجموعة أدوات المائدة نوريش بوب 1حبة,99.36,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,196dbd43-3310-4391-b858-96d2cd82e31f,فايتال بيبي ضمادات ثدي ألترا كومفورت نيرتشر 84قطعة,96.6,86.94,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,787c0138-5b74-413f-948a-0997f4d89006,فايتال بيبي حلمات رضاعة تدفق بطيء نيرتشر 1علبة,69,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,fe039fbd-836a-45d1-ba07-85f1e3b335e5,فيتال بيبي أوعية تغذية مغرفة عبوة 4قطع,63.48,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,8f4a257b-e188-462a-91b8-1a2aa23933fa,فيتال بيبي حلمة بسيطة تدفق بطي 2قطعة,38.64,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,d462c390-42ea-4ce8-9904-404e07facc1c,فايتال بيبي حلمات تدفق بطيء نيرتشر 3قطعة,38.64,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+60,hs,818bed66-271b-4b1c-82e0-c6f6fc33ede8,فيتال بيبي حلمة بسيطة - تدفق بطي 1قطعة,38.64,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+NEW:الأطفال والرضع:الألعاب,hs,df4b1ede-b263-4f03-89a4-d7ef81a2c76b,مجموعة سبايدر مان 1قطعة,135,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,548b7ee8-b5fb-4c50-bd84-74a01ac087ed,مارفل بلاك بانثر 9 إنش 1قطعة,59,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,2c313184-08a7-46f6-ab87-b8dcbca4748d,مارفل كابتن أمريكا 9 إنش 1قطعة,35,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,38e38014-c545-489b-be77-7452ba32087f,مارفل الرجل حديدي 9 إنش 1قطعة,35,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,5e18d5cf-3ad3-49a9-82c3-7edbaef75b75,مارفل مايلز موراليس 9 إنش 1قطعة,59,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,907b7ce6-fa93-451b-9c2c-384b1cbf30b8,مارفل ولفيرين 1قطعة,59,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,6b2227c1-df17-497e-9e9d-ef500f3a2e81,مارفل ثور 9 إنش 1قطعة,59,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,a3601955-0d58-432e-b28f-f70c85f1cc0e,إنتيكس مسابح بإطار ميني 3قطعة,365,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,ce316151-9362-4ecd-88bc-28e9785bdd8e,مسبح قابل للنفخ فضي 152×43سم,169,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,76cd1fb4-8e61-4ba9-905a-b30f717aceda,سدادات أذن ومشبك أنف أزرق 1حزمة,9,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,6ad60455-9546-42b2-a5ae-6273b880e1e3,سترة سباحة قابلة للنفخ صفراء 43×30سم,33.25,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,6623e115-bc8d-4ae8-9de0-0eb0747988c1,نيرف ايليت رينجر,149,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,e277091a-1b57-409c-be93-9b105de4e04a,نيرف ايليت فولت,79,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,e8955a31-7dbe-415c-ab71-dd20e7e5587d,نيرف ايليت كماندر مجموعة 1قطعة 1قطعة,169,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,ae835155-11ad-4a69-9bd7-92c8877f47ae,بي جي ماسكس لعبة جيكو هيرو ماسك 1قطعة,89,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,c55e1a16-bcea-486b-a821-fec43998719f,بي جي ماسكس لعبة كات بوي 1قطعة,129,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,3dfb99b9-2a2e-433f-a9e5-1e409f392f06,بي جي ماسكس سيارة اوليت مع مجسم شخصية اوليت من لعبة 1قطعة,129,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,9491830d-8a75-4c30-a44d-304f55dcb36a,بي جي ماكس كات بوي 1قطعة,89,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,859ef8e7-2484-4e2f-b04d-bc626118b380,بي جي ماسكس لعبة غيكو 1قطعة,129,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+NEW:الأطفال والرضع:الألعاب,hs,2999aa84-4388-44d2-9028-55c25a828173,نيرف ايليت كماندر,125,,HOLD,"Toy / game, not a baby-care product. Suggest new tile 'الألعاب' (Toys) under Babies & Kids (55)",
+58,hs,9e1100a4-6cd9-4959-9c98-f1f6f55842a4,مادا حياة عبوة من 3 مناديل مبللة للأطفال ذوي البشرة الحساسة 240قطعة,27.5,,HOLD,"No strict match in Ninja or Tamimi (name, size and flavour checked); no barcode",
+59,hs,7b5a3824-2db5-4798-bafd-c0715f55a820,جونسون بيبي شامبو لا دموع بعد اليوم 500مل,37.5,,HOLD,"Pack design differs from the Tamimi listing (3574669907545 Johnson's Baby Shampoo 500 ml, newer bottle); no barcode on the HS item, so the match cannot be confirmed",
+56,ninja,5-19293019,لاكتونيك ايزتوجو حليب أطفال المرحلة المرحلة الثانية 800 جم,99.95,89.95,HOLD,"Size conflict inside Ninja: English name says 900 g, Arabic name says 800 g; https://world.openfoodfacts.org/api/v2/product/8437019318321.json not found; no Tamimi row",8437019318321
+56,ninja,5-12040940,لاكتونيك ايزتوجو حليب أطفال المرحلة الثالثة 800 جم,97.95,88.25,HOLD,"Size conflict inside Ninja: English name says 900 g, Arabic name says 800 g; https://world.openfoodfacts.org/api/v2/product/8437019318338.json not found; no Tamimi row",8437019318338
+60,ninja,5-19342111,فيليبس أفنت الترا سوفت لهاية ديكو للاولاد 0-6 أشهر,86.95,,HOLD,Ninja gallery mixes Ultra Soft 0-6 m packs of different colours; page barcode 8720689017107 cannot be tied to the 'boy' variant by image,8720689017107
