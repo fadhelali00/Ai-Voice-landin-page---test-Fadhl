@@ -28,7 +28,7 @@
 
 <!-- 1 recalculation -->
 <section class="edge-sec" id="e1"><h4><span>1</span>إعادة حساب المبلغ (بعد تغيير كمية أو إكرامية)</h4>
-  <section class="card inv"><div class="irow total"><span class="l">الإجمالي<small>شامل ضريبة القيمة المضافة 15%</small></span><span class="a"><span class="skel"></span></span></div></section>
+  <section class="card inv"><div class="irow total"><span class="l">الإجمالي</span><span class="a"><span class="skel"></span></span></div><p class="vat-note">الإجمالي شامل ضريبة القيمة المضافة</p></section>
   <div class="frag-footer"><div class="actionbar review">
     <button class="btn-primary" type="button" disabled><span class="spin"></span>ادفع</button>
     <div class="pay"><svg class="cash" viewBox="0 0 15 17" style="color:var(--jarna-link)"><rect x="0.8" y="3" width="13.4" height="10" rx="2" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M0.8 6.5h13.4" stroke="currentColor" stroke-width="1.4"/></svg><span class="lbl">الدفع باستخدام</span><svg class="caret" viewBox="0 0 9 7"><path d="M0 7L4.5 0 9 7z"/></svg><span class="val" style="direction:rtl">مدى</span></div>
@@ -37,7 +37,7 @@
 
 <!-- 2 confirming payment -->
 <section class="edge-sec" id="e2"><h4><span>2</span>جارٍ تأكيد الدفع (بين نجاح تاب ووصول التأكيد للخادم)</h4>
-  <div class="center-state"><div class="ring"></div><h3>جارٍ تأكيد الدفع</h3><p>لا تغلق التطبيق حتى يكتمل التأكيد.</p></div>
+  <div class="center-state"><div class="ring"></div><h3>جارٍ تأكيد الدفع</h3><p>نؤكد الدفع مع البنك.</p></div>
 </section>
 
 <!-- 3 paid, order not created -->
@@ -54,7 +54,7 @@
     <button class="btn-primary" type="button">إتمام الطلب<span class="sep"></span><span class="amt"><svg class="sar"><use href="#sar"/></svg>103.10</span></button>
     <div class="pay"><svg class="cash" viewBox="0 0 15 17" style="color:var(--jarna-link)"><rect x="0.8" y="4" width="13.4" height="9" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.4"/><circle cx="7.5" cy="8.5" r="2" fill="none" stroke="currentColor" stroke-width="1.3"/></svg><span class="lbl">الدفع باستخدام</span><svg class="caret" viewBox="0 0 9 7"><path d="M0 7L4.5 0 9 7z"/></svg><span class="val" style="direction:rtl">الدفع عند الاستلام</span></div>
   </div></div>
-  <div class="succ" style="height:64px"><div class="meta" style="top:10px"><div><span>المبلغ عند الاستلام</span><span class="num"><svg class="sar"><use href="#sar"/></svg>103.10</span></div></div></div>
+  <div class="succ" style="height:72px"><div class="meta tagged" style="top:18px"><span class="mock-tag" style="top:-11px">Next — قرار فضل</span><div><span>المبلغ عند الاستلام</span><span class="num"><svg class="sar"><use href="#sar"/></svg>103.10</span></div></div></div>
 </section>
 
 <!-- 5 saved card -->
@@ -63,16 +63,19 @@
 </section>
 
 <!-- 6 below free-delivery threshold -->
-<section class="edge-sec" id="e6"><h4><span>6</span>الهبوط تحت حد التوصيل المجاني في المراجعة (حذف منتج)</h4>
+<section class="edge-sec" id="e6"><h4><span>6</span>الهبوط تحت حد التوصيل المجاني (سلة 04 بعد حذف الحليب وتمارا وخفض الرز إلى 1)</h4>
   <section class="card fd-card" style="height:102px;padding-bottom:0">
     <div class="fd"><div class="truck"><svg><use href="#i-truck"/></svg></div>
-      <h3>احصل على توصيل مجاني</h3><p>أضف منتجات بقيمة <span class="num"><svg class="sar"><use href="#sar"/></svg>4.10</span> إضافية</p>
-      <div class="bar"><i style="width:91.8%"></i></div></div>
+      <h3>احصل على توصيل مجاني</h3><p>أضف منتجات بقيمة <span class="num"><svg class="sar"><use href="#sar"/></svg>12.05</span> إضافية</p>
+      <div class="bar"><i style="width:75.9%"></i></div></div>
   </section>
   <section class="card inv">
-    <div class="irow"><svg class="ic ric"><use href="#i-receipt"/></svg><span class="l">إجمالي العناصر (3 منتجات)</span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>45.90</span></span></div>
-    <div class="irow"><svg class="ic ric"><use href="#i-scooter"/></svg><span class="l">رسوم التوصيل</span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>7.00</span></span></div>
-    <div class="irow total"><span class="l">الإجمالي<small>شامل ضريبة القيمة المضافة 15% (<span class="num"><svg class="sar"><use href="#sar"/></svg>6.90</span>)</small></span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>52.90</span></span></div>
+    <div class="irow"><svg class="ic ric"><use href="#i-receipt"/></svg><span class="l">إجمالي العناصر (2 منتجات)</span><span class="a"><span class="was">39.95</span><span class="num"><svg class="sar"><use href="#sar"/></svg>37.95</span></span></div>
+    <div class="irow"><svg class="ic ric"><use href="#i-scooter"/></svg><span class="l">رسوم التوصيل<small class="pos">أضف منتجات بقيمة <span class="num"><svg class="sar"><use href="#sar"/></svg>12.05</span> للحصول على توصيل مجاني</small></span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>7.00</span></span></div>
+    <div class="irow"><svg class="ic ric"><use href="#i-cash"/></svg><span class="l">إكرامية شريك التوصيل</span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>3.00</span></span></div>
+    <div class="irow total"><span class="l">الإجمالي</span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>47.95</span></span></div>
+    <p class="vat-note">الإجمالي شامل ضريبة القيمة المضافة</p>
+    <div class="saved-under"><span>وفّرت في هذا الطلب<small>خصومات المنتجات</small></span><b class="num"><svg class="sar"><use href="#sar"/></svg>2.00</b></div>
   </section>
 </section>
 
@@ -100,12 +103,12 @@
 </div>
 <script>
 window.ANN = [
- {n:1, sel:'#e1', what:'<b>إعادة الحساب</b>: بعد أي تغيير (كمية، أو إكرامية، أو حذف) يتعطّل الزر بلا مبلغ ومعه مؤشر، ويظهر مكان الإجمالي شريط تحميل، حتى يعيد الخادم <code>total</code>. لا يُعرض رقم قديم ولا رقم محسوب في التطبيق.', owner:'Flutter + Backend', cls:'now', src:'استجابة حساب السلة (<code>total</code> و<code>vat_amount</code>)'},
- {n:2, sel:'#e2', what:'<b>"جارٍ تأكيد الدفع"</b>: بعد نجاح تاب وقبل وصول الـ Webhook للخادم. لا رجوع ولا زر. بعد التأكيد تظهر 06.', owner:'Backend + Flutter', cls:'now', src:'Tap Webhook (CAPTURED) قبل إنشاء الطلب، ومهلة انتظار يحددها محمد'},
- {n:3, sel:'#e3', kind:'issue', what:'<b>دُفع المبلغ ولم يُنشأ الطلب</b>: تحذير كهرماني (<code>#805500</code> على <code>#FFF4D6</code>) وزر دعم. لا وعد بموعد استرداد. القرار التشغيلي (استرداد تلقائي أو إنشاء يدوي) لفضل.', owner:'Backend + تشغيل', cls:'dec', clsText:'MVP Now — الإجراء قرار فضل', src:'مطابقة يومية بين Charges تاب والطلبات (Reconciliation)'},
- {n:4, sel:'#e4', what:'<b>الدفع عند الاستلام مختاراً</b>: الزر "إتمام الطلب | 103.10"، و"اتركه عند الباب" معطّل، وبطاقة المنتج غير المتوفر مخفية، وفي النجاح "المبلغ عند الاستلام".', owner:'Flutter', cls:'now', src:'<code>payment_method = cod</code>'},
+ {n:1, sel:'#e1', what:'<b>إعادة الحساب</b>: بعد أي تغيير (كمية، أو إكرامية، أو حذف) يتعطّل الزر بلا مبلغ ومعه مؤشر، ويظهر مكان الإجمالي شريط تحميل، وتبقى ملاحظة "شامل ضريبة القيمة المضافة" بلا مبلغ، حتى يعيد الخادم <code>total</code>. لا يُعرض رقم قديم ولا رقم محسوب في التطبيق.', owner:'Flutter + Backend', cls:'now', src:'استجابة حساب السلة (<code>total</code> و<code>vat_amount</code>)'},
+ {n:2, sel:'#e2', what:'<b>"جارٍ تأكيد الدفع"</b>: "نؤكد الدفع مع البنك." بعد نجاح تاب وقبل وصول الـ Webhook. لا رجوع ولا زر. بعد التأكيد ← 06. <b>بعد المهلة (X ثانية، يحددها محمد) ← 07-3</b>، ويستمر الخادم في المطابقة. <b>عند فتح التطبيق من جديد</b>: إن وُجد Charge ناجح بلا طلب ← 07-3.', owner:'Backend + Flutter', cls:'now', src:'Tap Webhook (CAPTURED)، ومهلة الانتظار، وفحص عند الإقلاع: Charge ناجح بلا <code>order_id</code>'},
+ {n:3, sel:'#e3', kind:'issue', what:'<b>دُفع المبلغ ولم يُنشأ الطلب</b> (يُدخل إليه من 07-2 بعد المهلة، أو عند فتح التطبيق من جديد). عبارة "نتواصل معك" تُربط بقرار الإجراء: تحذير كهرماني (<code>#805500</code> على <code>#FFF4D6</code>) وزر دعم. لا وعد بموعد استرداد. القرار التشغيلي (استرداد تلقائي أو إنشاء يدوي) لفضل.', owner:'Backend + تشغيل', cls:'dec', clsText:'MVP Now — الإجراء قرار فضل', src:'مطابقة يومية بين Charges تاب والطلبات (Reconciliation)'},
+ {n:4, sel:'#e4', what:'<b>الدفع عند الاستلام مختاراً</b>: الزر "إتمام الطلب | 103.10"، و"اتركه عند الباب" معطّل، وبطاقة المنتج غير المتوفر مخفية، وفي النجاح "المبلغ عند الاستلام" (صندوق موسوم Next كما في 06).', owner:'Flutter', cls:'now', src:'<code>payment_method = cod</code>'},
  {n:5, sel:'#e5', what:'<b>البطاقة المحفوظة</b>: صف أول في "خيارات الدفع" بآخر 4 أرقام، يدفع دون إدخال البطاقة مرة ثانية (قد يطلب البنك رمز تحقق).', owner:'Backend + Flutter', cls:'now', src:'بطاقات العميل المحفوظة في تاب (<code>customer_id</code>)'},
- {n:6, sel:'#e6', what:'<b>الهبوط تحت الحد في المراجعة</b>: لوحة v65 تعود إلى "أضف منتجات بقيمة X"، ويعود التوصيل 7.00 بلا شطب، ويتحدّث الإجمالي والزر بعد إعادة الحساب (1). 45.90 + 7.00 = 52.90، والضريبة 6.90.', owner:'Flutter', cls:'now', src:'<code>free_delivery_amount</code> والمجموع بعد الخصم'},
+ {n:6, sel:'#e6', what:'<b>الهبوط تحت الحد</b>: سلة 04 بعد حذف الحليب وتمارا وخفض الرز إلى 1. المجموع 13.95 + 24.00 = 37.95 (الأصلي 39.95)، والمتبقي 12.05، والشريط 75.9%. التوصيل يعود 7.00 بلا شطب، والإكرامية 3.00 باقية، فالإجمالي 47.95. "وفّرت" 2.00 من الخصومات فقط، ولا يُذكر التوصيل لأنه غير مجاني.', owner:'Flutter', cls:'now', src:'<code>free_delivery_amount</code> والمجموع بعد الخصم'},
  {n:7, sel:'#e7', what:'<b>عنوان خارج النطاق</b> (بعد تصغير المنطقة، A1): رسالة حمراء تحت العنوان، والزر "اختر عنواناً آخر" يفتح منتقي العنوان من v65. لا دفع قبل عنوان داخل النطاق.', owner:'Backend + Flutter', cls:'now', src:'فحص العنوان مقابل Delivery Zone (Jeddah)'},
  {n:8, sel:'#e8', what:'<b>أندرويد</b>: لا صف Apple Pay. Google Pay خارج النطاق الآن.', owner:'Flutter', cls:'now', src:'المنصة'},
  {n:9, sel:'#e9', what:'<b>فشل الدفع</b>: رسالة حمراء "لم يكتمل الدفع. جرّب مرة ثانية أو اختر طريقة أخرى." بلا ذكر للخصم. لا يُنشأ الطلب.', owner:'Backend + Flutter', cls:'now', src:'رد تاب FAILED / DECLINED'}

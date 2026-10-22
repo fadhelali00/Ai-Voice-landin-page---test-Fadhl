@@ -67,6 +67,7 @@
 .irow .a .was{font-size:11.5px;margin-right:8px}
 .irow .a .free{font-weight:700;color:var(--jarna-link)}
 /* J16: "وفّرت" sits UNDER the total, outside the summed rows: one definition = product discounts + delivery saved */
+.vat-note{margin:2px 1px 0 0;font-size:11px;line-height:16px;color:var(--jarna-text-secondary)}
 .saved-under{display:flex;justify-content:space-between;align-items:center;margin-top:8px;padding:8px 10px;border-radius:8px;background:var(--jarna-supportive-panel);font-size:12.5px;line-height:18px;color:var(--jarna-text)}
 .saved-under b{color:var(--jarna-link);font-weight:700;direction:ltr}
 .saved-under small{display:block;font-size:11px;color:var(--jarna-text-secondary)}
