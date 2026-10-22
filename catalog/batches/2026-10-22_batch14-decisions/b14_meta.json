@@ -1,0 +1,306 @@
+[
+{
+"sku": "JRN00006000",
+"barcode": "6281142006493",
+"cat": 110,
+"ar": "موبي شوت مبيد حشري للحشرات الطائرة والزاحفة 400 مل",
+"en": "Mobi Shoot Insect Killer for Flying and Crawling Insects 400 ml",
+"price": 8.95,
+"special": 6.95,
+"src": "ninja",
+"ninja_id": "5-19343152",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281142006493.webp",
+"6281142006493-1.webp"
+]
+},
+{
+"sku": "JRN00006001",
+"barcode": "8850273888810",
+"cat": 110,
+"ar": "ارس عبوة غيار سائل لجهاز قاتل الناموس 360 ساعة",
+"en": "Ars Liquid Mosquito Killer Refill 360 Hours",
+"price": 18.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-13578129",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8850273888810.webp",
+"8850273888810-1.webp",
+"8850273888810-2.webp"
+]
+},
+{
+"sku": "JRN00006002",
+"barcode": "6287019370926",
+"cat": 110,
+"ar": "ريد برو بخاخ قاتل البعوض والذباب 300 مل",
+"en": "Raid Pro Mosquito and Fly Killer Spray 300 ml",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292745",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287019370926.webp",
+"6287019370926-1.webp"
+]
+},
+{
+"sku": "JRN00006003",
+"barcode": "6281100870210",
+"cat": 110,
+"ar": "ريد سائل قاتل الناموس عبوة غيار 30 ليلة 21.9 مل",
+"en": "Raid Liquid Mosquito Killer Refill 30 Nights 21.9 ml",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-15680899",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6281100870210.webp",
+"6281100870210-1.webp",
+"6281100870210-2.webp"
+]
+},
+{
+"sku": "JRN00006004",
+"barcode": "6295120061350",
+"cat": 110,
+"ar": "بف باف بخاخ قاتل الحشرات المتعددة 3 × 300 مل",
+"en": "Pif Paf Multi Insect Killer Spray 3 x 300 ml",
+"price": 38.95,
+"special": 27.95,
+"src": "ninja",
+"ninja_id": "5-19387402",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6295120061350.webp",
+"6295120061350-1.webp"
+]
+},
+{
+"sku": "JRN00006005",
+"barcode": "6295120021774",
+"cat": 110,
+"ar": "بف باف بخاخ قاتل الحشرات 2 × 400 مل",
+"en": "Pif Paf Insect Killer Spray 2 x 400 ml",
+"price": 43.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318475",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6295120021774.webp",
+"6295120021774-1.webp"
+]
+},
+{
+"sku": "JRN00006006",
+"barcode": "6281100870036",
+"cat": 110,
+"ar": "ريد بخاخ مبيد الحشرات المتعددة 400 مل",
+"en": "Raid Multi Insect Killer Spray 400 ml",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-15679785",
+"hs_ids": [
+"6034524f-0c26-4cf5-83a5-c11fb269435e"
+],
+"img_src": "hs",
+"images": [
+"6281100870036.webp",
+"6281100870036-1.webp"
+]
+},
+{
+"sku": "JRN00006007",
+"barcode": "6287045830449",
+"cat": 110,
+"ar": "فوجيكا صاعق ناموس كهربائي مقاس كبير 35 واط",
+"en": "Fujika Electric Mosquito Killer Large 35 W",
+"price": 153.95,
+"special": 130.95,
+"src": "ninja",
+"ninja_id": "5-19406176",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287045830449.webp",
+"6287045830449-1.webp"
+]
+},
+{
+"sku": "JRN00006008",
+"barcode": "6287045830432",
+"cat": 110,
+"ar": "فوجيكا صاعق ناموس كهربائي مقاس وسط 30 واط",
+"en": "Fujika Electric Mosquito Killer Medium 30 W",
+"price": 130.95,
+"special": 111.95,
+"src": "ninja",
+"ninja_id": "5-19406177",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"6287045830432.webp",
+"6287045830432-1.webp"
+]
+},
+{
+"sku": "JRN00006009",
+"barcode": "638936992962",
+"cat": 110,
+"ar": "كيون صائد وصاعق حشرات كهربائي 2 × 10 واط",
+"en": "Kion Electric Insect Killer UV Lamp 2 x 10 W",
+"price": 199.95,
+"special": 99.99,
+"src": "ninja",
+"ninja_id": "5-19404484",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"638936992962.webp",
+"638936992962-1.webp"
+]
+},
+{
+"sku": "JRN00006010",
+"barcode": "6281100870012",
+"cat": 110,
+"ar": "ريد بخاخ مبيد الحشرات المتعددة 300 مل",
+"en": "Raid Multi Insect Killer Spray 300 ml",
+"price": 17.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"hs_ids": [
+"6f2d29da-0ec6-4098-9abb-65896a5b82cb"
+],
+"img_src": "hs",
+"images": [
+"6281100870012.webp",
+"6281100870012-1.webp"
+]
+},
+{
+"sku": "JRN00006011",
+"barcode": "6287019370889",
+"cat": 110,
+"ar": "ريد برو بخاخ قاتل الحشرات المتعددة 300 مل",
+"en": "Raid Pro Multi Insect Killer Spray 300 ml",
+"price": 20.0,
+"special": 16.0,
+"src": "hs",
+"ninja_id": null,
+"hs_ids": [
+"3c0c9cb9-ff50-4655-bc65-1b8aefc4b256"
+],
+"img_src": "hs",
+"images": [
+"6287019370889.webp",
+"6287019370889-1.webp"
+]
+},
+{
+"sku": "JRN00006012",
+"barcode": "6281100870197",
+"cat": 110,
+"ar": "ريد جهاز كهربائي قاتل الناموس مع عبوة سائل 30 ليلة",
+"en": "Raid Liquid Mosquito Killer Electric Device with Refill 30 Nights",
+"price": 30.75,
+"special": 24.6,
+"src": "hs",
+"ninja_id": null,
+"hs_ids": [
+"682b1c57-1cc2-4fbe-bde7-bcd19bbe26b8"
+],
+"img_src": "hs",
+"images": [
+"6281100870197.webp",
+"6281100870197-1.webp"
+]
+},
+{
+"sku": "JRN00006013",
+"barcode": "6281100874171",
+"cat": 110,
+"ar": "ريد سائل قاتل الناموس عبوة غيار 60 ليلة 43.8 مل",
+"en": "Raid Liquid Mosquito Killer Refill 60 Nights 43.8 ml",
+"price": 24.75,
+"special": 19.8,
+"src": "hs",
+"ninja_id": null,
+"hs_ids": [
+"410ae976-c27a-4ea3-9fb5-b70cd49f2247"
+],
+"img_src": "hs",
+"images": [
+"6281100874171.webp",
+"6281100874171-1.webp"
+]
+},
+{
+"sku": "JRN00006014",
+"barcode": "6001106106270",
+"cat": 110,
+"ar": "بف باف بودرة قاتل الصراصير والنمل 100 جم",
+"en": "Pif Paf Cockroach and Ant Killer Powder 100 g",
+"price": 15.0,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"hs_ids": [
+"7a575d38-2d7e-4c3a-95a5-3bd9323c7914"
+],
+"img_src": "hs",
+"images": [
+"6001106106270.webp",
+"6001106106270-1.webp"
+]
+},
+{
+"sku": "JRN00006015",
+"barcode": "8006530163521",
+"cat": 37,
+"ar": "اريال مسحوق غسيل بلاتينيوم بلمسة داوني نسيم الزهور 5.5 كجم",
+"en": "Ariel Platinum Clean Laundry Powder Downy Floral Breeze 5.5 kg",
+"price": 77.95,
+"special": 54.95,
+"src": "ninja",
+"ninja_id": "5-19383514",
+"hs_ids": [],
+"img_src": "ninja",
+"images": [
+"8006530163521.webp",
+"8006530163521-1.webp"
+]
+},
+{
+"sku": "JRN00006016",
+"barcode": "6285602012147",
+"cat": 30,
+"ar": "ديمة بسكويت دايجستيف بالنخالة 340 جم",
+"en": "Deemah Digestive Bran Biscuits 340 g",
+"price": 11.8,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"hs_ids": [
+"afa964c2-e962-4826-baa3-29dc40341356"
+],
+"img_src": "hs",
+"images": [
+"6285602012147.webp"
+]
+}
+]

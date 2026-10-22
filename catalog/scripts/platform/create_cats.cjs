@@ -21,7 +21,7 @@ const fs = require('fs');
       multipart: {
         _token: token, title: c.title_ar, title_en: c.title_en, description: '', description_en: '',
         parent_id: String(c.parent_id), store_type_id: '1', commission: '0', status: 'active',
-        font_color: '#000000', background_color_web: '#ffffff', background_color_app: '#0066cc',
+        font_color: '#000000', background_color_web: '#ffffff', background_color_app: '#006b63',
         image: { name: c.image_file.split('/').pop(), mimeType: 'image/webp', buffer: img },
       },
     });
