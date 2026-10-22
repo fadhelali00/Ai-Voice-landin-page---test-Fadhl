@@ -1,0 +1,40 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=390, initial-scale=1">
+<title>03 خيارات الدفع</title>
+<meta name="description" content="شاشة خيارات الدفع من v65 (PAYMENT-01) بنفس التخطيط: المبلغ المستحق بلا تقريب، وأربع طرق بدل الدفع عند الاستلام وحده.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../system/tokens.css">
+<link rel="stylesheet" href="../screens/cart.css">
+<link rel="stylesheet" href="journey.css">
+<style>.app{height:844px;overflow:hidden}.plist{padding-top:20px}</style>
+</head>
+<body>
+<script src="icons.js"></script>
+<div class="app">
+  <div class="status" aria-hidden="true"><span class="time">9:13</span><span class="cam"></span><span class="sys"><svg width="16" height="12" viewBox="0 0 16 12"><path d="M8 12L0 3.5a11.5 11.5 0 0 1 16 0z"/></svg><svg width="13" height="12" viewBox="0 0 13 12"><path d="M13 0v12H0z"/></svg><svg width="8" height="13" viewBox="0 0 8 13"><rect x="0" y="1.5" width="8" height="11.5" rx="1.3"/><rect x="2.5" y="0" width="3" height="2"/></svg></span></div>
+  <div class="phdr"><svg class="ic back"><use href="#i-chev-r"/></svg><h1>خيارات الدفع</h1></div>
+  <div class="due" id="due"><span class="l">المبلغ المستحق:</span><span class="v"><span class="num"><svg class="sar"><use href="#sar"/></svg>103.10</span></span></div>
+  <div class="plist">
+    <div class="prow" id="p-mada"><span class="pic"><svg class="ic"><use href="#i-card"/></svg></span><span class="t">مدى</span><span class="s">ادفع ببطاقة مدى</span><svg class="ic chev"><use href="#i-chev-l"/></svg></div>
+    <div class="prow" id="p-apple"><span class="pic"><svg class="ic"><use href="#i-phone"/></svg></span><span class="t" dir="ltr">Apple Pay</span><span class="s">على أجهزة آيفون</span><svg class="ic chev"><use href="#i-chev-l"/></svg></div>
+    <div class="prow" id="p-card"><span class="pic"><svg class="ic"><use href="#i-card"/></svg></span><span class="t">بطاقة ائتمانية</span><span class="s">فيزا أو ماستركارد</span><svg class="ic chev"><use href="#i-chev-l"/></svg></div>
+    <div class="prow" id="p-cod"><span class="pic"><svg class="ic"><use href="#i-cash"/></svg></span><span class="t">الدفع عند الاستلام</span><span class="s">الدفع نقداً أو اطلب رمز QR</span><svg class="ic chev"><use href="#i-chev-l"/></svg></div>
+  </div>
+</div>
+<script>
+window.ANN = [
+ {n:1, sel:'#due', kind:'v65', what:'"المبلغ المستحق:" من v65، والقيمة <b>103.10 ﷼ حرفياً</b>. الحالي يقرّب (90.95 تصبح 91)، فيُلغى التقريب.', owner:'Backend (محمد)', cls:'now', src:'B3: <code>total</code> بدقة هللتين، ونفس الرقم في السلة والزر والفاتورة وطلب تاب'},
+ {n:2, sel:'#p-mada', what:'<b>مدى</b> عبر تاب. أول القائمة لأنها الأشيع في السعودية (<b>افتراض</b>).', owner:'Backend + Flutter', cls:'now', src:'B1: بوابة تاب (Marketplace). غير موجودة في اللوحة الآن'},
+ {n:3, sel:'#p-apple', what:'<b>Apple Pay</b> يظهر على iOS فقط، ويفتح ورقة النظام من Apple (لا نصممها). يُستخدم شعار Apple Pay الرسمي حسب إرشادات Apple في التطبيق، لا الأيقونة العامة هنا.', owner:'Backend + Flutter', cls:'now', src:'B1: تاب + Apple Merchant ID ونطاق موثّق'},
+ {n:4, sel:'#p-card', what:'<b>بطاقة ائتمانية</b> (فيزا، ماستركارد) عبر تاب، مع حفظ البطاقة (لوحة 05). البطاقة المحفوظة تظهر لاحقاً كسطر مستقل فوق القائمة.', owner:'Backend + Flutter', cls:'now', src:'B1: Tap Card SDK و<code>customer_id</code> لحفظ البطاقة'},
+ {n:5, sel:'#p-cod', kind:'v65', what:'"الدفع عند الاستلام" من v65 كما هو (النص والموضع)، ونُقل آخر القائمة. إبقاؤه في الإطلاق قرار فضل.', owner:'إعداد اللوحة', cls:'dec', src:'Payment Methods › COD (مفعّل الآن)'}
+];
+window.ANN_FOOT = 'أيقونات الطرق في النموذج عامة عمداً (لا شعارات حقيقية كأصول). في التطبيق تُستخدم شعارات مدى وApple Pay وفيزا وماستركارد الرسمية من حزمة تاب وحسب إرشاد كل علامة. صف كل طريقة سهم كما في v65: الضغط يختار ويعود إلى السلة في حالة المراجعة (04).';
+</script>
+<script src="annotate.js"></script>
+</body>
+</html>

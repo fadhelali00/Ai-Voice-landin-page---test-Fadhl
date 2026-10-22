@@ -1,0 +1,41 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=390, initial-scale=1">
+<title>06 تم تقديم الطلب</title>
+<meta name="description" content="شاشة النجاح من v65 (ORDER-03) بنفس التخطيط والنص، مع رقم الطلب والمبلغ المدفوع وطريقته.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../system/tokens.css">
+<link rel="stylesheet" href="../screens/cart.css">
+<link rel="stylesheet" href="journey.css">
+<style>.app{height:844px;overflow:hidden}</style>
+</head>
+<body>
+<script src="icons.js"></script>
+<div class="app">
+  <div class="status" aria-hidden="true"><span class="cam"></span></div>
+  <div class="succ">
+    <div class="badge" id="badge"><svg class="ic"><use href="#i-check"/></svg></div>
+    <h1>تم تقديم الطلب</h1>
+    <div class="to">التوصيل إلى المنزل</div>
+    <div class="abox">جدة، أبرق الرغامة (بيانات مثال)</div>
+    <div class="meta" id="meta">
+      <div><span>رقم الطلب</span><span>#10482</span></div>
+      <div><span>المبلغ المدفوع (مدى)</span><span class="num"><svg class="sar"><use href="#sar"/></svg>103.10</span></div>
+    </div>
+    <div class="saved" id="saved"><svg class="ic"><use href="#i-tag"/></svg><span>وفّرت <b class="num"><svg class="sar"><use href="#sar"/></svg>18.80</b> في هذا الطلب</span></div>
+  </div>
+</div>
+<script>
+window.ANN = [
+ {n:1, sel:'#badge', kind:'v65', what:'الدائرة والعلامة، و"تم تقديم الطلب"، و"التوصيل إلى المنزل"، وصندوق العنوان: كما في v65. الدائرة بترولية بعلامة بيضاء (6.40:1).', owner:'Flutter', cls:'now', src:'—'},
+ {n:2, sel:'#meta', what:'<b>رقم الطلب والمبلغ المدفوع وطريقته</b>. يطمئن العميل أن الدفع تم بالمبلغ نفسه، ويفيد عند التواصل مع الدعم. عند الدفع عند الاستلام: "المبلغ عند الاستلام".', owner:'Flutter + Backend', cls:'now', src:'<code>order_id</code> و<code>total</code> و<code>payment_method</code> من استجابة إنشاء الطلب'},
+ {n:3, sel:'#saved', what:'<b>"وفّرت 18.80 ﷼ في هذا الطلب"</b> تذكير أخير بالتوفير.', owner:'Flutter', cls:'next', src:'نفس قيمة "وفّرت" في الفاتورة'},
+ {n:4, sel:null, kind:'issue', what:'لا وقت وصول ولا "سيصلك خلال…" هنا. v65 لا يعرض زراً في هذه الشاشة، ولم يُتحقق هل ينتقل تلقائياً إلى التتبع (ORDER-02). لم نُضف زراً.', owner:'—', cls:'dec', clsText:'للتحقق', src:'لقطة فيديو أو تسجيل للانتقال بعد النجاح'}
+];
+</script>
+<script src="annotate.js"></script>
+</body>
+</html>

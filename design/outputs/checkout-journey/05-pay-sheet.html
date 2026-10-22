@@ -1,0 +1,64 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=390, initial-scale=1">
+<title>05 الدفع</title>
+<meta name="description" content="ورقة دفع تاب المبسطة فوق حالة المراجعة بعد الضغط على ادفع (مدى). Apple Pay يستخدم ورقة النظام بدلها.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../system/tokens.css">
+<link rel="stylesheet" href="../screens/cart.css">
+<link rel="stylesheet" href="journey.css">
+<style>.app{height:844px;overflow:hidden}.app .footer{position:absolute;left:0;right:0;bottom:0}</style>
+</head>
+<body>
+<script src="icons.js"></script>
+<div class="app">
+<header class="hdr">
+  <div class="status" aria-hidden="true"><span class="time">9:13</span><span class="cam"></span><span class="sys"><svg width="16" height="12" viewBox="0 0 16 12"><path d="M8 12L0 3.5a11.5 11.5 0 0 1 16 0z"/></svg><svg width="13" height="12" viewBox="0 0 13 12"><path d="M13 0v12H0z"/></svg><svg width="8" height="13" viewBox="0 0 8 13"><rect x="0" y="1.5" width="8" height="11.5" rx="1.3"/><rect x="2.5" y="0" width="3" height="2"/></svg></span></div>
+  <div class="hdr-row"><svg class="ic back"><use href="#i-back"/></svg><h1>عربة التسوق</h1></div>
+</header>
+<main class="content">
+<section class="card inv">
+  <h3>تفاصيل الفاتورة</h3>
+  <div class="irow"><svg class="ic ric"><use href="#i-receipt"/></svg><span class="l">إجمالي العناصر (4 منتجات)</span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>100.10</span></span></div>
+  <div class="irow"><svg class="ic ric"><use href="#i-scooter"/></svg><span class="l">رسوم التوصيل</span><span class="a"><span class="free">مجاناً</span></span></div>
+</section>
+</main>
+<footer class="footer">
+  <div class="addr"><svg class="pin"><use href="#i-pin"/></svg><span class="to">التوصيل إلى</span><span class="line">جدة، أبرق الرغامة (بيانات مثال)</span><span class="change">تغيير</span></div>
+  <div class="actionbar review"><button class="btn-primary" type="button">ادفع<span class="sep"></span><span class="amt"><svg class="sar"><use href="#sar"/></svg>103.10</span></button></div>
+</footer>
+<div class="scrim2"></div>
+<div class="psheet" id="sheet">
+  <div class="handle"></div>
+  <div class="top"><h2>الدفع ببطاقة مدى</h2><svg class="ic close"><use href="#i-close"/></svg></div>
+  <div class="psum" id="sum"><span class="l">المبلغ<small>شامل ضريبة القيمة المضافة</small></span><span class="v"><span class="num"><svg class="sar"><use href="#sar"/></svg>103.10</span></span></div>
+  <div id="fields">
+    <div class="fld"><label>رقم البطاقة</label><div class="box focus"><span>4321 •••• •••• 5884</span><svg class="ic"><use href="#i-card"/></svg></div></div>
+    <div class="fld2">
+      <div class="fld"><label>تاريخ الانتهاء</label><div class="box ph"><span>MM / YY</span></div></div>
+      <div class="fld"><label>رمز التحقق</label><div class="box ph"><span>CVV</span></div></div>
+    </div>
+  </div>
+  <div class="save-card" id="savecard"><span class="cb"><svg class="ic"><use href="#i-check"/></svg></span>احفظ البطاقة للطلبات القادمة</div>
+  <button class="btn-primary" type="button" id="paybtn">ادفع<span class="sep"></span><span class="amt"><svg class="sar"><use href="#sar"/></svg>103.10</span></button>
+  <div class="via" id="via"><svg class="ic"><use href="#i-lock"/></svg>تتم معالجة الدفع عبر تاب، وقد يطلب بنكك رمز تحقق.</div>
+</div>
+</div>
+<script>
+window.ANN = [
+ {n:1, sel:'#sum', what:'<b>المبلغ في رأس الورقة</b> = نفس رقم الزر والفاتورة (103.10)، ويُرسل لتاب بنفس القيمة بلا تقريب.', owner:'Backend + Flutter', cls:'now', src:'<code>total</code> للطلب. إنشاء Charge في تاب بالمبلغ والعملة SAR'},
+ {n:2, sel:'#fields', what:'<b>حقول البطاقة من تاب</b> (Card SDK)، لا حقول نبنيها نحن. نضبط ألوانها فقط: حد التحكم <code>#6B8179</code>، والتركيز بترولي. لا يمر رقم البطاقة بخوادمنا.', owner:'Flutter (حزمة تاب)', cls:'now', src:'Tap Card SDK (توكن البطاقة). <b>غير متحقق</b>: مدى قابلية تخصيص الحزمة بالعربية وRTL'},
+ {n:3, sel:'#savecard', what:'<b>حفظ البطاقة</b>: مختار افتراضياً؟ <b>قرار فضل</b>. النموذج يعرضه مختاراً.', owner:'Backend + Flutter', cls:'dec', src:'Tap <code>customer</code> + <code>save_card</code>'},
+ {n:4, sel:'#paybtn', what:'زر "ادفع | 103.10 ﷼" المرجاني. أثناء المعالجة: معطّل مع مؤشر تحميل ونص "جارٍ الدفع…"، ولا يُضغط مرتين.', owner:'Flutter', cls:'now', src:'حالة Charge في تاب (INITIATED / CAPTURED / FAILED)'},
+ {n:5, sel:'#via', what:'سطر معالجة الدفع: يذكر تاب ورمز التحقق، بلا وعد "آمن 100%". بعده قد تفتح صفحة 3-D Secure من البنك (ليست من تصميمنا).', owner:'Flutter', cls:'now', src:'—'},
+ {n:6, sel:null, what:'<b>Apple Pay</b>: لا تظهر هذه الورقة. تفتح ورقة النظام من Apple بالمبلغ 103.10 واسم التاجر. لا نصممها ولا نحاكيها.', owner:'Flutter', cls:'now', src:'Apple Pay عبر تاب'},
+ {n:7, sel:null, what:'<b>فشل الدفع</b>: تبقى الورقة مفتوحة برسالة حمراء <code>#B42318</code> على <code>#FFF0ED</code>: "لم يكتمل الدفع، ولم يُخصم المبلغ. جرّب مرة ثانية أو اختر طريقة أخرى." لا يُنشأ الطلب. (<b>افتراض</b>: لا خصم عند الفشل؛ يحتاج تأكيد سلوك تاب)', owner:'Backend + Flutter', cls:'now', src:'رد تاب FAILED / DECLINED'}
+];
+window.ANN_FOOT = 'المستفيد: كل المبالغ تُحصَّل في حساب إيفيكسا عبر تاب (قرار فضل 2026-10-22)، والمتجر هو البائع ويصدر الفاتورة. اسم التاجر الظاهر في كشف البطاقة وفي ورقة Apple Pay يُضبط في حساب تاب، ولم يُتحقق منه بعد.';
+</script>
+<script src="annotate.js"></script>
+</body>
+</html>

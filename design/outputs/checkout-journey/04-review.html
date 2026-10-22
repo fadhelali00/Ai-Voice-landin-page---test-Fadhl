@@ -1,0 +1,125 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=390, initial-scale=1">
+<title>04 مراجعة الطلب</title>
+<meta name="description" content="حالة المراجعة من شاشة السلة نفسها (v65 CHECKOUT-02/03): بعد اختيار طريقة الدفع يتغيّر الشريط السفلي فقط، وتُضاف أقسام التوصيل والإكرامية والفاتورة.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../system/tokens.css">
+<link rel="stylesheet" href="../screens/cart.css">
+<link rel="stylesheet" href="journey.css">
+</head>
+<body>
+<script src="icons.js"></script>
+<div class="app">
+<header class="hdr">
+  <div class="status" aria-hidden="true"><span class="time">9:12</span><span class="cam"></span><span class="sys"><svg width="16" height="12" viewBox="0 0 16 12"><path d="M8 12L0 3.5a11.5 11.5 0 0 1 16 0z"/></svg><svg width="13" height="12" viewBox="0 0 13 12"><path d="M13 0v12H0z"/></svg><svg width="8" height="13" viewBox="0 0 8 13"><rect x="0" y="1.5" width="8" height="11.5" rx="1.3"/><rect x="2.5" y="0" width="3" height="2"/></svg></span></div>
+  <div class="hdr-row"><svg class="ic back"><use href="#i-back"/></svg><h1>عربة التسوق</h1></div>
+</header>
+<main class="content">
+<section class="card" id="items">
+  <div class="items-head"><h2>عناصر</h2><div class="count">4 منتجات</div>
+    <button class="clear-btn" type="button"><svg class="ic"><use href="#i-trash"/></svg>مسح</button></div>
+  <div class="item short">
+    <svg class="thumb" viewBox="0 0 42 42"><rect x="2" y="9" width="38" height="24" rx="5" fill="var(--jarna-grey-disabled)" stroke="var(--jarna-border-subtle)"/><rect x="12" y="15" width="18" height="12" rx="6" fill="var(--jarna-white)"/><circle cx="21" cy="21" r="3" fill="var(--jarna-border-subtle)"/></svg>
+    <div class="name" dir="rtl">Sunwhite Rice 1 kg</div>
+    <div class="sub" style="top:35px" dir="rtl">Sunwhite Rice 1 kg</div>
+    <div class="qty"><svg class="ic"><use href="#i-plus"/></svg><b>2</b><svg class="ic"><use href="#i-minus"/></svg></div>
+    <div class="price"><span class="num"><svg class="sar"><use href="#sar"/></svg>27.90</span><span class="was">31.90</span></div>
+  </div>
+  <div class="item">
+    <svg class="thumb" viewBox="0 0 42 42"><rect x="6" y="1" width="30" height="6" rx="2" fill="var(--jarna-secondary)"/><rect x="5" y="6" width="32" height="35" rx="5" fill="var(--jarna-border-subtle)" stroke="var(--jarna-border-subtle)"/><rect x="8" y="16" width="26" height="14" rx="2" fill="var(--jarna-white)"/><g fill="var(--jarna-secondary)"><ellipse cx="12" cy="11" rx="3" ry="2"/><ellipse cx="22" cy="11" rx="3" ry="2"/><ellipse cx="31" cy="11" rx="2.5" ry="2"/><ellipse cx="12" cy="35" rx="3" ry="2"/><ellipse cx="22" cy="35" rx="3" ry="2"/><ellipse cx="30" cy="35" rx="3" ry="2"/></g></svg>
+    <div class="name" dir="rtl">Hateel Chopped Dates Khalas 200 gm</div>
+    <div class="sub" style="top:54px" dir="rtl">Hateel Chopped Dates Khalas 200 gm</div>
+    <div class="qty"><svg class="ic"><use href="#i-plus"/></svg><b>2</b><svg class="ic"><use href="#i-minus"/></svg></div>
+    <div class="price"><span class="num"><svg class="sar"><use href="#sar"/></svg>24.00</span></div>
+  </div>
+  <div class="item short">
+    <svg class="thumb" viewBox="0 0 42 42"><circle cx="21" cy="21" r="18" fill="var(--jarna-secondary)"/><rect x="7" y="16" width="28" height="10" fill="var(--jarna-ink)"/><rect x="9" y="18" width="11" height="6" fill="var(--jarna-white)"/></svg>
+    <div class="name" dir="rtl">تمارا تمر سكري رطب 1 كجم</div>
+    <div class="sub" style="top:35px" dir="rtl">1 كجم</div>
+    <div class="qty"><svg class="ic"><use href="#i-plus"/></svg><b>1</b><svg class="ic"><use href="#i-minus"/></svg></div>
+    <div class="price"><span class="num"><svg class="sar"><use href="#sar"/></svg>18.00</span><span class="was">21.00</span></div>
+  </div>
+  <div class="item short last">
+    <svg class="thumb" viewBox="0 0 42 42"><path d="M14 9l3-5h8l3 5v31H14z" fill="var(--jarna-white)" stroke="var(--jarna-border-control)" stroke-width="1.5"/><rect x="14" y="18" width="14" height="12" fill="var(--jarna-mint)"/><rect x="17" y="1" width="8" height="3" rx="1" fill="var(--jarna-petrol)"/></svg>
+    <div class="name" dir="rtl">حليب طازج كامل الدسم 1 لتر</div>
+    <div class="sub" style="top:35px" dir="rtl">1 لتر</div>
+    <div class="qty"><svg class="ic"><use href="#i-plus"/></svg><b>4</b><svg class="ic"><use href="#i-minus"/></svg></div>
+    <div class="price"><span class="num"><svg class="sar"><use href="#sar"/></svg>30.20</span><span class="was">35.00</span></div>
+  </div>
+  <div class="saved" id="saved"><svg class="ic"><use href="#i-tag"/></svg><span>وفّرت <b class="num"><svg class="sar"><use href="#sar"/></svg>11.80</b> على هذا الطلب</span></div>
+  <div class="add-more"><svg class="ic"><use href="#i-plus-c"/></svg><span>إضافة المزيد من العناصر</span></div>
+</section>
+<section class="card fd-card" style="height:170px">
+  <div class="fd done" id="fd"><div class="truck"><svg><use href="#i-truck"/></svg></div>
+    <h3>أصبح التوصيل مجانيًا!</h3><p>تهانينا! ستحصل على توصيل مجاني.</p>
+    <div class="bar"><i style="width:100%"></i></div></div>
+  <div class="coupon-row"><svg class="badge"><use href="#i-coupon"/></svg><span>عرض الكوبونات والعروض</span><svg class="ic chev"><use href="#i-chev-l"/></svg></div>
+</section>
+<section class="card recs" id="recs">
+  <h2>قد يعجبك أيضاً</h2><span class="mock-tag">Next: منطق الاقتراح</span>
+  <div class="rec-row">
+    <div class="rec"><div class="tile"><svg class="art" viewBox="0 0 119 139" preserveAspectRatio="none"><rect width="119" height="139" fill="var(--jarna-white)"/><rect x="6" y="34" width="107" height="72" rx="8" fill="var(--jarna-border-subtle)"/><rect x="40" y="38" width="48" height="40" rx="3" fill="var(--jarna-white)"/><g fill="var(--jarna-ink)"><circle cx="20" cy="60" r="7"/><circle cx="24" cy="80" r="7"/><circle cx="96" cy="58" r="7"/><circle cx="100" cy="80" r="7"/><circle cx="60" cy="94" r="7"/></g></svg><span class="bm on"><svg class="ic"><use href="#i-bm"/></svg></span><span class="plus"><svg class="ic"><use href="#i-plus"/></svg></span></div>
+      <div class="rprice"><span class="num"><svg class="sar"><use href="#sar"/></svg>42</span></div><div class="rname">أطياب البوادي تمر عجوة المدينة فله ...</div></div>
+    <div class="rec"><div class="tile"><svg class="art" viewBox="0 0 119 139" preserveAspectRatio="none"><rect width="119" height="139" fill="var(--jarna-white)"/><path d="M14 4h92l4 132H10z" fill="var(--jarna-border-subtle)" stroke="var(--jarna-border-subtle)"/><rect x="14" y="4" width="92" height="12" fill="var(--jarna-secondary)"/><rect x="40" y="58" width="64" height="70" rx="6" fill="var(--jarna-white)" opacity=".8"/><circle cx="70" cy="90" r="12" fill="var(--jarna-secondary)"/></svg><span class="plus"><svg class="ic"><use href="#i-plus"/></svg></span></div>
+      <div class="rprice"><span class="num"><svg class="sar"><use href="#sar"/></svg>24</span></div><div class="rname">جمارة تمر محشي مغلف 3 أنواع 180 ...</div></div>
+    <div class="rec"><div class="tile"><svg class="art" viewBox="0 0 119 139" preserveAspectRatio="none"><rect width="119" height="139" fill="var(--jarna-white)"/><rect x="30" y="20" width="60" height="104" rx="10" fill="var(--jarna-border-subtle)"/><rect x="38" y="48" width="44" height="40" rx="4" fill="var(--jarna-white)"/></svg><span class="plus"><svg class="ic"><use href="#i-plus"/></svg></span></div>
+      <div class="rprice"><span class="num"><svg class="sar"><use href="#sar"/></svg>9.50</span></div><div class="rname">خبز بر شرائح 600 جم</div></div>
+  </div>
+</section>
+<section class="card dcard" id="review-start">
+  <h3><svg class="ic"><use href="#i-note"/></svg>تعليمات التوصيل</h3>
+  <div class="eta-row" id="eta"><svg class="ic"><use href="#i-clock"/></svg><div><b>موعد الوصول</b><span>يظهر الوقت المتوقع في صفحة تتبع الطلب بعد تأكيده.</span></div></div>
+  <div class="ichips" id="ichips">
+    <span class="ichip sel"><svg class="ic tick"><use href="#i-check"/></svg>اتركه عند الباب</span>
+    <span class="ichip"><svg class="ic"><use href="#i-bell-off"/></svg>لا تطرق الباب</span>
+    <span class="ichip sel" id="chip-note"><svg class="ic tick"><use href="#i-check"/></svg>ملاحظة</span>
+  </div>
+  <div class="dnote" id="dnote"><span>اكتب ملاحظتك هنا...</span><i>0/300</i></div>
+</section>
+<section class="card" id="oos"><div class="oos"><svg class="ic"><use href="#i-basket-x"/></svg><div><h3>إذا كان المنتج غير متوفر</h3><p>نسترد قيمة المنتج الناقص ونكمل توصيل بقية طلبك.</p></div></div></section>
+<section class="card tips" id="tips">
+  <svg class="art" viewBox="0 0 58 32"><rect x="18" y="2" width="38" height="20" rx="2" transform="rotate(-10 37 12)" fill="var(--jarna-grey-disabled)" stroke="var(--jarna-secondary)" stroke-width="1"/><circle cx="37" cy="12" r="4" fill="none" stroke="var(--jarna-secondary)"/><rect x="38" y="14" width="13" height="12" rx="1" fill="var(--jarna-white)" stroke="var(--jarna-secondary)"/><path d="M2 22c6-2 10-3 16-2l10 2c2 1 1 4-2 4h-8l10 1c3 0 5-3 7-3" fill="var(--jarna-border-subtle)" stroke="var(--jarna-secondary)" stroke-width="1.3" stroke-linejoin="round"/><rect x="0" y="22" width="7" height="10" fill="var(--jarna-secondary)"/></svg>
+  <h3>اشكر شريك التوصيل الخاص بك</h3>
+  <p>الإكرامية اختيارية، ويصل كامل مبلغها إلى شريك التوصيل تقديرًا لجهده.</p>
+  <div class="chips"><span class="chip" style="width:54px"><span class="e">😀</span><span class="num"><svg class="sar"><use href="#sar"/></svg>1</span></span><span class="chip sel" style="width:54px"><span class="e">☺️</span><span class="num"><svg class="sar"><use href="#sar"/></svg>3</span></span><span class="chip" style="width:54px"><span class="e">😍</span><span class="num"><svg class="sar"><use href="#sar"/></svg>5</span></span><span class="chip" style="width:62px"><span class="e">👏</span><span>أخرى</span></span><span class="chip none" style="width:84px">بدون إكرامية</span></div>
+</section>
+<section class="card inv" id="invoice">
+  <h3>تفاصيل الفاتورة</h3>
+  <div class="irow" id="r-sub"><svg class="ic ric"><use href="#i-receipt"/></svg><span class="l">إجمالي العناصر (4 منتجات)</span><span class="a"><span class="was">111.90</span><span class="num"><svg class="sar"><use href="#sar"/></svg>100.10</span></span></div>
+  <div class="irow" id="r-del"><svg class="ic ric"><use href="#i-scooter"/></svg><span class="l">رسوم التوصيل</span><span class="a"><span class="was">7.00</span><span class="free">مجاناً</span></span></div>
+  <div class="irow" id="r-tip"><svg class="ic ric"><use href="#i-cash"/></svg><span class="l">إكرامية شريك التوصيل</span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>3.00</span></span></div>
+  <div class="irow save" id="r-save"><svg class="ic ric"><use href="#i-tag"/></svg><span class="l">وفّرت<small>خصومات 11.80 + توصيل مجاني 7.00</small></span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>18.80</span></span></div>
+  <div class="irow total" id="r-total"><span class="l">الإجمالي<small>شامل ضريبة القيمة المضافة 15% (<span class="num"><svg class="sar"><use href="#sar"/></svg>13.06</span>)</small></span><span class="a"><span class="num"><svg class="sar"><use href="#sar"/></svg>103.10</span></span></div>
+</section>
+</main>
+<footer class="footer">
+  <div class="addr" id="addr"><svg class="pin"><use href="#i-pin"/></svg><span class="to">التوصيل إلى</span><span class="line">جدة، أبرق الرغامة (بيانات مثال)</span><span class="change">تغيير</span></div>
+  <div class="actionbar review">
+    <button class="btn-primary" type="button" id="cta">ادفع<span class="sep"></span><span class="amt"><svg class="sar"><use href="#sar"/></svg>103.10</span></button>
+    <div class="pay" id="paywith"><svg class="cash" viewBox="0 0 15 17" style="color:var(--jarna-link)"><rect x="0.8" y="3" width="13.4" height="10" rx="2" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M0.8 6.5h13.4" stroke="currentColor" stroke-width="1.4"/></svg><span class="lbl">الدفع باستخدام</span><svg class="caret" viewBox="0 0 9 7"><path d="M0 7L4.5 0 9 7z"/></svg><span class="val" style="direction:rtl">مدى</span></div>
+  </div>
+</footer>
+</div>
+<script>
+window.ANN = [
+ {n:1, sel:'#eta', what:'<b>موعد الوصول بلا رقم</b>: "يظهر الوقت المتوقع في صفحة تتبع الطلب بعد تأكيده." لا دقائق ولا نافذة زمنية حتى يوجد مصدر ETA تشغيلي.', owner:'Flutter (نص ثابت)', cls:'now', src:'نص ثابت الآن. لاحقاً (Next): ETA من الخادم بعد قياس زمن التوصيل الفعلي'},
+ {n:2, sel:'#ichips', what:'<b>تعليمات التوصيل كأزرار</b>: اتركه عند الباب، لا تطرق الباب، ملاحظة. اختيار متعدد. "ملاحظة" يفتح حقل الملاحظة الموجود في v65 (300 حرف). يُطوى قسم "إضافة ملاحظة للطلب" في v65 داخل هذه البطاقة.', owner:'Flutter + Backend', cls:'now', src:'حقل <code>delivery_instructions</code> (مصفوفة) في الطلب، ويظهر في تطبيق المندوب. <b>افتراض</b>: إن لم يوجد الحقل تُضاف كنص في بداية <code>order_note</code>'},
+ {n:3, sel:'#dnote', kind:'v65', what:'حقل الملاحظة نفسه من v65 (النص والعدّاد 0/300)، يظهر فقط عند اختيار "ملاحظة".', owner:'Flutter', cls:'now', src:'<code>order_note</code> الحالي'},
+ {n:4, sel:'#oos', what:'<b>"إذا كان المنتج غير متوفر"</b>: "نسترد قيمة المنتج الناقص ونكمل توصيل بقية طلبك." سطر معلومات بلا خيارات. <b>لا يُنشر قبل اعتماد سياسة A7</b> ووجود إجراء استرداد فعلي.', owner:'Flutter + Backend + محتوى', cls:'dec', clsText:'MVP Now بعد اعتماد A7', src:'صفحة السياسات (Settings › Web)، واسترداد جزئي عبر تاب (Refund API) أو خصم من مبلغ الدفع عند الاستلام'},
+ {n:5, sel:'#tips', what:'<b>الإكرامية 1 / 3 / 5 / أخرى، وبدون إكرامية</b>. نفس شكل شرائح v65 (10/20/50/مخصص). المبلغ يُضاف للإجمالي كسطر مستقل. لا اختيار مسبق.', owner:'إعداد اللوحة + Flutter', cls:'now', src:'Settings › Delivery Boy: الحد الأدنى 1، والخيارات 1/3/5 (A3). شريحة "بدون إكرامية" وتسمية "أخرى" في Flutter'},
+ {n:6, sel:'#r-del', what:'<b>التوصيل مشطوباً وبجانبه "مجاناً"</b> عند تجاوز الحد. تحت الحد يبقى 7.00 مع تلميح v65 "أضف منتجات بقيمة X".', owner:'Flutter', cls:'now', src:'<code>delivery_charge</code> و<code>free_delivery_amount</code> من المنطقة'},
+ {n:7, sel:'#r-save', what:'<b>سطر "وفّرت"</b> = خصومات المنتجات + رسوم التوصيل الموفَّرة، بتفصيل صغير تحته.', owner:'Backend + Flutter', cls:'now', src:'<code>original_subtotal − subtotal</code> + <code>delivery_charge</code> إن كان مجانياً'},
+ {n:8, sel:'#r-total', what:'<b>الإجمالي "شامل ضريبة القيمة المضافة 15%" مع مبلغ الضريبة، وبلا تقريب</b> (103.10 تبقى 103.10).', owner:'Backend (محمد)', cls:'now', src:'B2 و B3: <code>vat_amount</code> = الأسعار الشاملة × 15/115. الإكرامية خارج الوعاء الضريبي (<b>افتراض</b> يحتاج تأكيد المحاسب)'},
+ {n:9, sel:'#paywith', kind:'v65', what:'"الدفع باستخدام ▲" في موضعه من v65، والقيمة الآن "مدى" بدل Cash on Delivery. الضغط يفتح "خيارات الدفع" (لوحة 03).', owner:'Flutter', cls:'now', src:'طريقة الدفع المختارة (Tap: mada / Apple Pay / card) أو COD'},
+ {n:10, sel:'#cta', what:'<b>زر "ادفع | 103.10 ﷼"</b> بدل "إتمام الطلب" عند الدفع الإلكتروني، بنفس العرض والموضع. عند الدفع عند الاستلام: "إتمام الطلب | 103.10 ﷼".', owner:'Flutter', cls:'now', src:'<code>total</code> من الخادم حرفياً'},
+ {n:11, sel:'#saved', kind:'v65', what:'سطر "وفّرت" والسعر المشطوب كما في لوحة 02.', owner:'Flutter', cls:'now', src:'انظر 02'}
+];
+window.ANN_FOOT = 'الأرقام مثال متسق: رز 2×13.95، وتمر 2×12.00، وتمارا 1×18.00 (الأصلي 21.00)، وحليب 4×7.55 (الأصلي 8.75) = 100.10؛ والأصلي 111.90؛ + إكرامية 3.00 = 103.10. الضريبة 100.10×15/115 = 13.06. طرق الدفع الأربع في لوحة 03 (شاشة "خيارات الدفع" في v65)، لا داخل هذه الصفحة.';
+</script>
+<script src="annotate.js"></script>
+</body>
+</html>

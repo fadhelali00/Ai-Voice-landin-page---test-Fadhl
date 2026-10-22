@@ -1,0 +1,217 @@
+/*
+ * Jarna — checkout journey (2026-10-22). Additions on top of ../screens/cart.css (v65 geometry).
+ * Every colour is a var(--jarna-*) from ../system/tokens.css. No raw hex.
+ * New elements are kept inside existing v65 cards/rows where possible (exception: "simple changes
+ * that raise sales / customer experience", CLAUDE.md 2026-10-21).
+ */
+
+/* ---------- shared bits ---------- */
+.was{color:var(--jarna-text-secondary);text-decoration:line-through;text-decoration-thickness:1px;font-weight:400}
+.pos{color:var(--jarna-link)}
+.mock-tag{display:inline-flex;align-items:center;height:20px;padding:0 7px;border:1px dashed var(--jarna-text);border-radius:6px;
+  font-size:10.5px;font-weight:600;color:var(--jarna-text);background:var(--jarna-surface);white-space:nowrap}
+.app{background:var(--jarna-background)}
+
+/* cart item: original price under the paid price (v65 price slot, no move) */
+.item .price{text-align:left}
+.item .price .was{display:block;font-size:11px;line-height:15px;margin-top:1px;direction:ltr}
+
+/* savings strip inside the items card, above "إضافة المزيد من العناصر" */
+.saved{margin:10px 12px 0;height:38px;border-radius:10px;background:var(--jarna-supportive-panel);
+  display:flex;align-items:center;gap:8px;padding:0 12px;font-size:13px;line-height:20px;color:var(--jarna-text)}
+.saved .ic{width:16px;height:16px;color:var(--jarna-link);stroke-width:2}
+.saved b{font-weight:700;color:var(--jarna-link)}
+
+/* "قد يعجبك أيضاً" Next tag */
+.recs .mock-tag{position:absolute;left:15px;top:16px}
+
+/* ---------- delivery card (review): arrival + instructions + note ---------- */
+.dcard{padding:14px 15px 15px}
+.dcard h3{font-size:15px;font-weight:600;line-height:24px;color:var(--jarna-text);display:flex;align-items:center;gap:10px}
+.dcard h3 .ic{width:22px;height:22px;color:var(--jarna-icon-action);stroke-width:1.8}
+.eta-row{display:flex;gap:10px;align-items:flex-start;margin-top:10px;padding:10px 12px;border-radius:10px;border:1px solid var(--jarna-border)}
+.eta-row .ic{flex:none;width:20px;height:20px;color:var(--jarna-icon-action);stroke-width:1.8;margin-top:1px}
+.eta-row b{display:block;font-size:13.5px;font-weight:600;line-height:20px;color:var(--jarna-text)}
+.eta-row span{display:block;font-size:12px;line-height:18px;color:var(--jarna-text-secondary)}
+.ichips{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.ichip{height:44px;padding:0 12px;border-radius:12px;border:1px solid var(--jarna-control-border);background:var(--jarna-surface);
+  display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:500;color:var(--jarna-text)}
+.ichip .ic{width:17px;height:17px;color:var(--jarna-icon-action);stroke-width:1.8}
+.ichip.sel{border:2px solid var(--jarna-selection-indicator);background:var(--jarna-selection-surface);color:var(--jarna-selection-label);padding:0 11px}
+.ichip.sel .tick{width:15px;height:15px;color:var(--jarna-selection-indicator);stroke-width:2.6}
+.dnote{margin-top:12px;position:relative;height:84px;border:1px solid var(--jarna-control-border);border-radius:10px}
+.dnote span{position:absolute;right:10px;top:12px;font-size:13px;color:var(--jarna-text-secondary)}
+.dnote i{position:absolute;left:10px;bottom:8px;font-style:normal;font-size:12px;color:var(--jarna-text-secondary);direction:ltr}
+
+/* out-of-stock policy row */
+.oos{display:flex;gap:12px;align-items:flex-start;padding:15px}
+.oos .ic{flex:none;width:22px;height:22px;color:var(--jarna-icon-action);stroke-width:1.8;margin-top:2px}
+.oos h3{font-size:15px;font-weight:600;line-height:24px;color:var(--jarna-text)}
+.oos p{font-size:12.5px;line-height:19px;color:var(--jarna-text-secondary);margin-top:2px}
+.oos .tick{flex:none;margin-right:auto;width:22px;height:22px;color:var(--jarna-selection-indicator);stroke-width:2;margin-top:2px}
+
+/* tips: 5 chips (1 / 3 / 5 / أخرى / بدون إكرامية) in the v65 chip row */
+.tips .chips{right:14px;left:14px;gap:6px}
+.tips .chip{flex:none;padding:0 4px;font-size:13.5px}
+.tips .chip.sel{border:2px solid var(--jarna-selection-indicator);background:var(--jarna-selection-surface);color:var(--jarna-selection-label)}
+.tips .chip.none{font-size:12px;font-weight:500}
+
+/* invoice (flow layout; v65 rows: icon + label + amount) */
+.inv{padding:12px 13px 14px 13px}
+.inv h3{font-size:16.5px;font-weight:700;line-height:26px;color:var(--jarna-text);margin:0 2px 8px 0}
+.irow{position:relative;display:flex;align-items:flex-start;gap:12px;padding:8px 1px 8px 0}
+.irow .ric{flex:none;width:16px;height:16px;color:var(--jarna-icon-neutral);stroke-width:1.7;margin-top:2px}
+.irow .l{flex:1;font-size:13.5px;line-height:20px;color:var(--jarna-text)}
+.irow .l small{display:block;font-size:11px;line-height:16px;color:var(--jarna-text-secondary)}
+.irow .a{flex:none;text-align:left;font-size:13px;font-weight:700;line-height:20px;color:var(--jarna-price);direction:ltr}
+.irow .a .was{font-size:11.5px;margin-left:6px}
+.irow .a .free{font-weight:700;color:var(--jarna-link)}
+.irow.save .l,.irow.save .a{color:var(--jarna-link)}
+.irow.save .ric{color:var(--jarna-link)}
+.irow.total{border-top:1px solid var(--jarna-border);margin-top:6px;padding-top:12px}
+.irow.total .l{font-size:15px;font-weight:700}
+.irow.total .a{font-size:16px}
+
+/* primary button with amount (v65 button, label + amount) */
+.btn-primary .amt{direction:ltr;unicode-bidi:isolate;display:inline-flex;align-items:center;gap:3px}
+.btn-primary .sep{display:inline-block;width:1px;height:18px;background:var(--jarna-on-primary-action);opacity:.35;margin:0 10px}
+
+/* ---------- 01: category listing (v65 CATEGORY-01/02 geometry) ---------- */
+.lhdr{position:relative;height:56px;border-bottom:1px solid var(--jarna-border)}
+.lhdr .back{position:absolute;right:20px;top:20px;width:16px;height:16px;color:var(--jarna-text);stroke-width:2}
+.lhdr .cat{position:absolute;right:52px;top:6px;width:42px;height:42px;border-radius:10px;background:var(--jarna-surface);border:1px solid var(--jarna-border)}
+.lhdr h1{position:absolute;right:104px;top:6px;font-size:15.5px;font-weight:700;line-height:24px;color:var(--jarna-text)}
+.lhdr .n{position:absolute;right:104px;top:29px;font-size:11.5px;color:var(--jarna-text-secondary)}
+.lhdr .srch{position:absolute;left:20px;top:17px;width:21px;height:21px;color:var(--jarna-text);stroke-width:2}
+.lfilters{display:flex;gap:9px;padding:14px 18px 0}
+.pill{height:32px;padding:0 10px;border-radius:9px;border:1px solid var(--jarna-control-border);display:inline-flex;align-items:center;gap:6px;
+  font-size:12.5px;color:var(--jarna-text)}
+.pill .ic{width:16px;height:16px;stroke-width:1.8;color:var(--jarna-text)}
+.pill .ic.sm{width:11px;height:11px}
+.grid{position:relative;height:640px}
+.pcard{position:absolute;width:107px}
+.pcard .tile{position:relative;height:114px;border-radius:12px;border:1px solid var(--jarna-border);background:var(--jarna-surface);overflow:hidden}
+.pcard .tile .art{position:absolute;inset:0;width:100%;height:100%}
+.pcard .bm{position:absolute;left:7px;top:7px;width:24px;height:24px;border-radius:50%;background:var(--jarna-surface);box-shadow:var(--cart-shadow-control);
+  display:flex;align-items:center;justify-content:center}
+.pcard .bm svg{width:12px;height:12px;fill:none;stroke:var(--jarna-icon-neutral);stroke-width:2}
+.pcard .add{position:absolute;left:5px;bottom:6px;width:32px;height:32px;border-radius:50%;background:var(--jarna-surface);box-shadow:var(--cart-shadow-control);
+  display:flex;align-items:center;justify-content:center;color:var(--jarna-link)}
+.pcard .add svg{width:15px;height:15px;stroke-width:2.2}
+.pcard .step{position:absolute;left:5px;bottom:6px;width:82px;height:28px;border-radius:14px;background:var(--jarna-quantity-stepper);color:var(--jarna-on-quantity-stepper);
+  direction:ltr;display:flex;align-items:center;justify-content:space-between;padding:0 9px;font-size:12.5px;font-weight:600}
+.pcard .step svg{width:13px;height:13px;stroke-width:2.4}
+.pcard .pp{margin-top:10px;font-size:15px;font-weight:700;line-height:22px;color:var(--jarna-price);text-align:right}
+.pcard .pn{margin-top:3px;font-size:12.5px;line-height:19px;color:var(--jarna-text);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.pcard .eta{margin-top:5px;display:inline-flex;align-items:center;gap:3px;height:18px;padding:0 5px;border-radius:5px;background:var(--jarna-supportive-panel);
+  font-size:10.5px;color:var(--jarna-text)}
+.pcard .eta svg{width:10px;height:10px;color:var(--jarna-text)}
+
+/* floating basket capsule — v65 shape, position, image, arrow kept. Only change: amount line under the count */
+.capsule{position:absolute;left:92px;bottom:30px;width:206px;height:50px;border-radius:25px;z-index:25;
+  background:var(--jarna-floating-basket);color:var(--jarna-on-floating-basket);box-shadow:0 3px 10px color-mix(in srgb,var(--jarna-ink) 22%,transparent)}
+.capsule .thumb{position:absolute;left:5px;top:5px;width:40px;height:40px;border-radius:50%;background:var(--jarna-surface);overflow:hidden}
+.capsule .thumb svg{width:40px;height:40px}
+.capsule .txt{position:absolute;left:48px;right:48px;top:6px;text-align:center;line-height:1}
+.capsule .txt b{display:block;font-size:15px;font-weight:700;line-height:20px}
+.capsule .txt .num{font-size:12.5px;font-weight:500;line-height:17px;justify-content:center}
+.capsule .arrow{position:absolute;right:9px;top:9px;width:32px;height:32px;border-radius:50%;
+  background:var(--jarna-basket-arrow-surface);color:var(--jarna-basket-arrow-icon);display:flex;align-items:center;justify-content:center}
+.capsule .arrow svg{width:16px;height:16px;stroke-width:2.4}
+
+/* add confirmation: light, 2 s, no button, sits above the capsule */
+.toast{position:absolute;left:30px;right:30px;bottom:92px;z-index:24;min-height:44px;border-radius:12px;padding:10px 12px;
+  background:var(--jarna-supportive-panel);border:1px solid var(--jarna-border);box-shadow:var(--cart-shadow-card);
+  display:flex;align-items:center;gap:8px;font-size:13px;line-height:19px;color:var(--jarna-text)}
+.toast .ic{flex:none;width:18px;height:18px;color:var(--jarna-link);stroke-width:2.6}
+.toast b{font-weight:600}
+
+/* ---------- 03: payment options (v65 PAYMENT-01 geometry) ---------- */
+.phdr{position:relative;height:56px}
+.phdr .back{position:absolute;right:18px;top:19px;width:18px;height:18px;color:var(--jarna-text);stroke-width:2.2}
+.phdr h1{position:absolute;left:0;right:0;top:14px;text-align:center;font-size:17px;font-weight:700;line-height:26px;color:var(--jarna-text)}
+.due{position:relative;height:62px;box-shadow:0 4px 6px -4px color-mix(in srgb,var(--jarna-ink) 14%,transparent)}
+.due .l{position:absolute;right:16px;top:14px;font-size:16px;font-weight:700;line-height:26px;color:var(--jarna-text)}
+.due .v{position:absolute;left:14px;top:12px;height:32px;min-width:96px;padding:0 10px;border-radius:6px;display:flex;align-items:center;justify-content:center;
+  font-size:16px;font-weight:700;color:var(--jarna-price)}
+.prow{position:relative;margin:0 18px 12px;height:88px;border-radius:14px;border:1px solid var(--jarna-border);background:var(--jarna-surface)}
+.prow .pic{position:absolute;right:16px;top:23px;width:40px;height:40px;border-radius:10px;background:var(--jarna-supportive-panel);color:var(--jarna-link);
+  display:flex;align-items:center;justify-content:center}
+.prow .pic svg{width:22px;height:22px;stroke-width:1.7}
+.prow .t{position:absolute;right:68px;top:24px;font-size:14.5px;font-weight:500;line-height:22px;color:var(--jarna-text)}
+.prow .s{position:absolute;right:68px;top:47px;font-size:11.5px;line-height:17px;color:var(--jarna-text-secondary)}
+.prow .chev{position:absolute;left:18px;top:36px;width:15px;height:15px;color:var(--jarna-icon-neutral);stroke-width:2}
+.prow .soon{position:absolute;left:44px;top:33px}
+
+/* ---------- 05: Tap card sheet (over the review state) ---------- */
+.scrim2{position:absolute;inset:0;z-index:40;background:var(--jarna-overlay)}
+.psheet{position:absolute;left:0;right:0;bottom:0;z-index:41;background:var(--jarna-surface);border-radius:20px 20px 0 0;padding:0 18px 22px}
+.psheet .handle{width:43px;height:4px;border-radius:2px;background:var(--jarna-border);margin:12px auto 0}
+.psheet .top{position:relative;height:56px}
+.psheet h2{position:absolute;right:0;top:14px;font-size:18px;font-weight:700;line-height:28px;color:var(--jarna-text)}
+.psheet .close{position:absolute;left:4px;top:20px;width:17px;height:17px;color:var(--jarna-text);stroke-width:2}
+.psum{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;border-radius:12px;background:var(--jarna-supportive-panel)}
+.psum .l{font-size:13px;color:var(--jarna-text)}
+.psum .l small{display:block;font-size:11.5px;color:var(--jarna-text-secondary)}
+.psum .v{font-size:18px;font-weight:700;color:var(--jarna-price);direction:ltr}
+.fld{margin-top:12px}
+.fld label{display:block;font-size:12.5px;line-height:18px;color:var(--jarna-text);margin-bottom:5px}
+.fld .box{height:48px;border-radius:10px;border:1px solid var(--jarna-control-border);display:flex;align-items:center;gap:8px;padding:0 12px;
+  font-size:14px;color:var(--jarna-text);direction:ltr;justify-content:flex-end}
+.fld .box.ph{color:var(--jarna-text-secondary)}
+.fld .box.focus{border:2px solid var(--jarna-focus-border);padding:0 11px}
+.fld .box .ic{width:20px;height:20px;color:var(--jarna-icon-neutral);stroke-width:1.7}
+.fld2{display:flex;gap:10px}
+.fld2 .fld{flex:1}
+.save-card{display:flex;align-items:center;gap:10px;margin-top:14px;min-height:44px;font-size:13px;color:var(--jarna-text)}
+.save-card .cb{flex:none;width:22px;height:22px;border-radius:6px;background:var(--jarna-selection-indicator);color:var(--jarna-white);display:flex;align-items:center;justify-content:center}
+.save-card .cb svg{width:15px;height:15px;stroke-width:3}
+.psheet .btn-primary{position:static;width:100%;margin-top:10px;height:50px}
+.psheet .via{display:flex;align-items:center;justify-content:center;gap:6px;margin-top:12px;font-size:11.5px;line-height:17px;color:var(--jarna-text-secondary);text-align:center}
+.psheet .via .ic{width:13px;height:13px;stroke-width:2}
+
+/* ---------- 06: order placed (v65 ORDER-03 geometry) ---------- */
+.succ{position:relative;height:798px}
+.succ .badge{position:absolute;left:128px;top:258px;width:134px;height:134px;border-radius:50%;background:var(--jarna-link);color:var(--jarna-white);
+  display:flex;align-items:center;justify-content:center}
+.succ .badge svg{width:62px;height:62px;stroke-width:3.4}
+.succ h1{position:absolute;left:0;right:0;top:410px;text-align:center;font-size:19px;font-weight:500;line-height:28px;color:var(--jarna-text)}
+.succ .to{position:absolute;left:0;right:0;top:446px;text-align:center;font-size:16px;line-height:24px;color:var(--jarna-text)}
+.succ .abox{position:absolute;left:28px;right:28px;top:481px;height:76px;border-radius:4px;background:var(--jarna-disabled);
+  display:flex;align-items:center;justify-content:center;padding:0 14px;text-align:center;font-size:12.5px;line-height:19px;color:var(--jarna-text)}
+.succ .meta{position:absolute;left:28px;right:28px;top:570px;border:1px solid var(--jarna-border);border-radius:12px;padding:10px 14px}
+.succ .meta div{display:flex;justify-content:space-between;font-size:13px;line-height:24px;color:var(--jarna-text)}
+.succ .meta div span:last-child{font-weight:700;direction:ltr}
+.succ .saved{position:absolute;left:28px;right:28px;top:658px;margin:0}
+
+/* ---------- annotation board (?annotate) ---------- */
+body.annot{width:auto;background:var(--jarna-white)}
+.board{padding:28px 32px 36px;width:1160px;font-family:'Readex Pro',system-ui,sans-serif}
+.board-head{display:flex;align-items:baseline;gap:14px;margin-bottom:6px}
+.board-head h1{white-space:nowrap;font-size:22px;font-weight:700;color:var(--jarna-text)}
+.board-head .sub{font-size:13px;color:var(--jarna-text-secondary)}
+.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12px;color:var(--jarna-text);margin:6px 0 18px}
+.legend i{display:inline-block;width:18px;height:12px;border:2px dashed var(--jarna-link);border-radius:3px;vertical-align:-2px;margin-left:5px}
+.legend i.v65{border-color:var(--jarna-secondary)}
+.legend i.issue{border-color:var(--jarna-warning)}
+.board-row{position:relative;display:flex;align-items:flex-start;gap:0}
+.phone{flex:none;width:392px;border:1px solid var(--jarna-border);border-radius:22px;overflow:hidden;background:var(--jarna-background)}
+.phone .app{min-height:0}
+.gutter{flex:none;width:58px}
+.panel{flex:1;min-width:0}
+.panel table{width:100%;table-layout:fixed;border-collapse:collapse;font-size:12.5px;line-height:18px;color:var(--jarna-text)}
+.panel th{text-align:right;font-weight:700;font-size:12px;padding:8px 6px;border-bottom:2px solid var(--jarna-text);white-space:nowrap}
+.panel td{vertical-align:top;padding:9px 6px;border-bottom:1px solid var(--jarna-border)}
+.panel th:nth-child(1){width:34px}.panel th:nth-child(2){width:44%}.panel th:nth-child(3){width:124px}.panel th:nth-child(4){width:92px}
+.panel td.own{white-space:normal;overflow-wrap:anywhere}
+.panel td.n span{display:inline-flex;width:24px;height:24px;border-radius:50%;background:var(--jarna-text);color:var(--jarna-white);font-weight:700;font-size:12px;align-items:center;justify-content:center}
+.panel td.n span.v65{background:var(--jarna-secondary)}
+.panel td.n span.issue{background:var(--jarna-warning)}
+.panel td.own{white-space:nowrap}
+.panel code{font-family:ui-monospace,Menlo,monospace;font-size:11px;direction:ltr;unicode-bidi:isolate;background:var(--jarna-disabled);padding:0 4px;border-radius:4px}
+.cls{display:inline-block;padding:1px 7px;border-radius:6px;font-size:11px;font-weight:700;white-space:nowrap}
+.cls.now{background:var(--jarna-mint);color:var(--jarna-link)}
+.cls.next{background:var(--jarna-disabled);color:var(--jarna-text)}
+.cls.dec{background:var(--jarna-warning-surface);color:var(--jarna-warning)}
+.panel .foot{margin-top:14px;font-size:12px;line-height:19px;color:var(--jarna-text-secondary)}
+.ann-svg{position:absolute;inset:0;pointer-events:none;overflow:visible;z-index:60}
