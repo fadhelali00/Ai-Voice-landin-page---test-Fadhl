@@ -1,0 +1,7126 @@
+[
+{
+"sku": "JRN00002200",
+"barcode": "6281100173489",
+"cat": 109,
+"ar": "فوشية معمول 12 حبة 23 جم",
+"en": "Fuchsia Maamoul 12 pcs 23 g",
+"price": 14.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380327",
+"img_src": "ninja",
+"images": [
+"6281100173489.webp",
+"6281100173489-1.webp",
+"6281100173489-2.webp"
+]
+},
+{
+"sku": "JRN00002201",
+"barcode": "6281041271824",
+"cat": 109,
+"ar": "حلواني معمول بالتمر صغير 18 حبة 180 جم",
+"en": "Halwani Maamoul With Dates Small 18 pcs 180 g",
+"price": 8.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287904",
+"img_src": "ninja",
+"images": [
+"6281041271824.webp",
+"6281041271824-1.webp",
+"6281041271824-2.webp"
+]
+},
+{
+"sku": "JRN00002202",
+"barcode": "6287005201333",
+"cat": 109,
+"ar": "ريتاج الغلا معمول الذرة الصفراء بدون جلوتين وبدون سكر مضاف 400 جم",
+"en": "Retaj Alghala Maamoul Yellow Corn Gluten Free No Added Sugar 400 g",
+"price": 34.75,
+"special": 31.0,
+"src": "ninja",
+"ninja_id": "5-19394837",
+"img_src": "ninja",
+"images": [
+"6287005201333.webp",
+"6287005201333-1.webp",
+"6287005201333-2.webp"
+]
+},
+{
+"sku": "JRN00002203",
+"barcode": "6287005201326",
+"cat": 109,
+"ar": "ريتاج الغلا معمول الشوفان بدون جلوتين وبدون سكر مضاف 400 جم",
+"en": "Retaj Alghala Maamoul Oats Gluten Free No Added Sugar 400 g",
+"price": 34.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19394838",
+"img_src": "ninja",
+"images": [
+"6287005201326.webp",
+"6287005201326-1.webp",
+"6287005201326-2.webp"
+]
+},
+{
+"sku": "JRN00002204",
+"barcode": "6287001562131",
+"cat": 109,
+"ar": "الحطب معمول بر 300 جم",
+"en": "Al Hatab Maamoul Whole Wheat 300 g",
+"price": 16.95,
+"special": 15.25,
+"src": "ninja",
+"ninja_id": "5-19311083",
+"img_src": "ninja",
+"images": [
+"6287001562131.webp",
+"6287001562131-1.webp"
+]
+},
+{
+"sku": "JRN00002205",
+"barcode": "6287004382583",
+"cat": 109,
+"ar": "أطياب البوادي كرات التمر بالطحينة والسمسم 500 جم",
+"en": "Atyab Albawady Date Balls With Tahini & Sesame 500 g",
+"price": 21.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19399386",
+"img_src": "ninja",
+"images": [
+"6287004382583.webp",
+"6287004382583-1.webp",
+"6287004382583-2.webp"
+]
+},
+{
+"sku": "JRN00002206",
+"barcode": "6287016883320",
+"cat": 109,
+"ar": "بنتي معمول التمر صغير 90 جم",
+"en": "Bentty Maamoul Dates Small 90 g",
+"price": 4.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369570",
+"img_src": "ninja",
+"images": [
+"6287016883320.webp",
+"6287016883320-1.webp",
+"6287016883320-2.webp"
+]
+},
+{
+"sku": "JRN00002207",
+"barcode": "6287005201302",
+"cat": 109,
+"ar": "ريتاج الغلا معمول السمح بدون جلوتين وبدون سكر مضاف 400 جم",
+"en": "Retaj Alghala Maamoul Alsamh Gluten Free No Added Sugar 400 g",
+"price": 34.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19394839",
+"img_src": "ninja",
+"images": [
+"6287005201302.webp",
+"6287005201302-1.webp",
+"6287005201302-2.webp"
+]
+},
+{
+"sku": "JRN00002208",
+"barcode": "6287010990765",
+"cat": 109,
+"ar": "لين أساور التمر بالسمسم وحبة البركة 20 حبة",
+"en": "Leen Date Rings Sesame & Black Seed 20 pcs",
+"price": 31.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291497",
+"img_src": "ninja",
+"images": [
+"6287010990765.webp",
+"6287010990765-1.webp",
+"6287010990765-2.webp"
+]
+},
+{
+"sku": "JRN00002209",
+"barcode": "6287005204617",
+"cat": 109,
+"ar": "ريتاج الغلا معمول الذرة الصفراء بالعسل بدون سكر مضاف 400 جم",
+"en": "Retaj Alghala Maamoul Yellow Corn With Honey No Added Sugar 400 g",
+"price": 22.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19394840",
+"img_src": "ninja",
+"images": [
+"6287005204617.webp",
+"6287005204617-1.webp",
+"6287005204617-2.webp"
+]
+},
+{
+"sku": "JRN00002210",
+"barcode": "6287004382637",
+"cat": 109,
+"ar": "أطياب البوادي كرات التمر مكس 500 جم",
+"en": "Atyab Albawady Date Balls Mix 500 g",
+"price": 24.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19399387",
+"img_src": "ninja",
+"images": [
+"6287004382637.webp",
+"6287004382637-1.webp",
+"6287004382637-2.webp"
+]
+},
+{
+"sku": "JRN00002211",
+"barcode": "6287004382613",
+"cat": 109,
+"ar": "أطياب البوادي كرات التمر بجوز الهند 500 جم",
+"en": "Atyab Albawady Date Balls With Coconut 500 g",
+"price": 26.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19399389",
+"img_src": "ninja",
+"images": [
+"6287004382613.webp",
+"6287004382613-1.webp",
+"6287004382613-2.webp"
+]
+},
+{
+"sku": "JRN00002212",
+"barcode": "6287005204624",
+"cat": 109,
+"ar": "ريتاج الغلا معمول الشوفان بالعسل بدون سكر مضاف 400 جم",
+"en": "Retaj Alghala Maamoul Oats With Honey No Added Sugar 400 g",
+"price": 22.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19394841",
+"img_src": "ninja",
+"images": [
+"6287005204624.webp",
+"6287005204624-1.webp",
+"6287005204624-2.webp"
+]
+},
+{
+"sku": "JRN00002213",
+"barcode": "6287010990758",
+"cat": 109,
+"ar": "لين أساور التمر 20 حبة",
+"en": "Leen Date Rings 20 pcs",
+"price": 31.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291503",
+"img_src": "ninja",
+"images": [
+"6287010990758.webp",
+"6287010990758-1.webp",
+"6287010990758-2.webp"
+]
+},
+{
+"sku": "JRN00002214",
+"barcode": "776992930068",
+"cat": 109,
+"ar": "ديمة معمول بالتمر بر علبة 16 حبة 16 جم",
+"en": "Deemah Maamoul Dates Bran Box 16 pcs 16 g",
+"price": 12.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7344970",
+"img_src": "ninja",
+"images": [
+"776992930068.webp",
+"776992930068-1.webp"
+]
+},
+{
+"sku": "JRN00002215",
+"barcode": "6287004382620",
+"cat": 109,
+"ar": "أطياب البوادي كرات التمر باللوتس 500 جم",
+"en": "Atyab Albawady Date Balls With Lotus 500 g",
+"price": 28.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19399391",
+"img_src": "ninja",
+"images": [
+"6287004382620.webp",
+"6287004382620-1.webp",
+"6287004382620-2.webp"
+]
+},
+{
+"sku": "JRN00002216",
+"barcode": "6281041270322",
+"cat": 109,
+"ar": "حلواني معمول بالتمر السعودي عرض علبتين 16 حبة 18 جم",
+"en": "Halwani Maamoul With Dates Promo 2 Boxes 16 pcs 18 g",
+"price": 18.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289827",
+"img_src": "ninja",
+"images": [
+"6281041270322.webp",
+"6281041270322-1.webp",
+"6281041270322-2.webp"
+]
+},
+{
+"sku": "JRN00002217",
+"barcode": "6281041265427",
+"cat": 109,
+"ar": "حلواني معمول بالتمر السعودي 16 حبة 18 جم",
+"en": "Halwani Maamoul With Saudi Dates 16 pcs 18 g",
+"price": 9.25,
+"special": 7.25,
+"src": "ninja",
+"ninja_id": "5-19287897",
+"img_src": "ninja",
+"images": [
+"6281041265427.webp",
+"6281041265427-1.webp",
+"6281041265427-2.webp"
+]
+},
+{
+"sku": "JRN00002218",
+"barcode": "6287004382606",
+"cat": 109,
+"ar": "أطياب البوادي كرات التمر بالفستق 500 جم",
+"en": "Atyab Albawady Date Balls With Pistachio 500 g",
+"price": 36.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19399388",
+"img_src": "ninja",
+"images": [
+"6287004382606.webp",
+"6287004382606-1.webp",
+"6287004382606-2.webp"
+]
+},
+{
+"sku": "JRN00002219",
+"barcode": "6287005200138",
+"cat": 109,
+"ar": "ريتاج الغلا معمول شوكولاتة 350 جم",
+"en": "Retaj Alghala Maamoul Chocolate 350 g",
+"price": 14.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289426",
+"img_src": "ninja",
+"images": [
+"6287005200138.webp",
+"6287005200138-1.webp"
+]
+},
+{
+"sku": "JRN00002220",
+"barcode": "6287005200060",
+"cat": 109,
+"ar": "ريتاج الغلا معمول توفي 350 جم",
+"en": "Retaj Alghala Maamoul Toffee 350 g",
+"price": 14.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289420",
+"img_src": "ninja",
+"images": [
+"6287005200060.webp",
+"6287005200060-1.webp"
+]
+},
+{
+"sku": "JRN00002221",
+"barcode": "6281102690250",
+"cat": 109,
+"ar": "سنابل الشهد معمول توفي 400 جم",
+"en": "Sanabel Al Shahed Maamoul Toffee 400 g",
+"price": 16.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407987",
+"img_src": "ninja",
+"images": [
+"6281102690250.webp",
+"6281102690250-1.webp",
+"6281102690250-2.webp"
+]
+},
+{
+"sku": "JRN00002222",
+"barcode": "6287004382590",
+"cat": 109,
+"ar": "أطياب البوادي كرات التمر بالمكسرات 500 جم",
+"en": "Atyab Albawady Date Balls With Nuts 500 g",
+"price": 28.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19399390",
+"img_src": "ninja",
+"images": [
+"6287004382590.webp",
+"6287004382590-1.webp",
+"6287004382590-2.webp"
+]
+},
+{
+"sku": "JRN00002223",
+"barcode": "6287005200718",
+"cat": 109,
+"ar": "ريتاج الغلا أساور البر بالسمسم 350 جم",
+"en": "Retaj Alghala Bracelets Brown Wheat Sesame 350 g",
+"price": 14.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289424",
+"img_src": "ninja",
+"images": [
+"6287005200718.webp",
+"6287005200718-1.webp"
+]
+},
+{
+"sku": "JRN00002224",
+"barcode": "6281102690427",
+"cat": 109,
+"ar": "سنابل الشهد معمول توفي مغطى بالشوكولاتة البيضاء 400 جم",
+"en": "Sanabel Al Shahed Maamoul Toffee Coated White Chocolate 400 g",
+"price": 17.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407995",
+"img_src": "ninja",
+"images": [
+"6281102690427.webp"
+]
+},
+{
+"sku": "JRN00002225",
+"barcode": "6281000377888",
+"cat": 109,
+"ar": "تمرتي معمول التمر بر 12 حبة 50 جم",
+"en": "Tamrita Maamoul Dates Brown 12 pcs 50 g",
+"price": 31.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19375098",
+"img_src": "ninja",
+"images": [
+"6281000377888.webp",
+"6281000377888-1.webp",
+"6281000377888-2.webp"
+]
+},
+{
+"sku": "JRN00002226",
+"barcode": "6287001562094",
+"cat": 109,
+"ar": "الحطب معمول أصابع بالشوكولاتة وجوز الهند 225 جم",
+"en": "Al Hatab Maamoul Fingers Chocolate & Coconut 225 g",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19422127",
+"img_src": "ninja",
+"images": [
+"6287001562094.webp"
+]
+},
+{
+"sku": "JRN00002227",
+"barcode": "6287016881975",
+"cat": 109,
+"ar": "بنتي ملكة كليجا دبس ثقيل ميني 490 جم",
+"en": "Bentty Kleja Queen Heavy Molasses Mini 490 g",
+"price": 35.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19389655",
+"img_src": "ninja",
+"images": [
+"6287016881975.webp",
+"6287016881975-1.webp",
+"6287016881975-2.webp"
+]
+},
+{
+"sku": "JRN00002228",
+"barcode": "6281016210223",
+"cat": 109,
+"ar": "البطل معمول التمر علبة 12 حبة 19 جم",
+"en": "Albatal Maamoul Dates Box 12 pcs 19 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-6261171",
+"img_src": "ninja",
+"images": [
+"6281016210223.webp",
+"6281016210223-1.webp",
+"6281016210223-2.webp"
+]
+},
+{
+"sku": "JRN00002229",
+"barcode": "6287005200398",
+"cat": 109,
+"ar": "ريتاج الغلا معمول أساور 350 جم",
+"en": "Retaj Alghala Maamoul Bracelets 350 g",
+"price": 14.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289425",
+"img_src": "ninja",
+"images": [
+"6287005200398.webp",
+"6287005200398-1.webp"
+]
+},
+{
+"sku": "JRN00002230",
+"barcode": "6287005201081",
+"cat": 109,
+"ar": "ريتاج الغلا معمول الدخن 350 جم",
+"en": "Retaj Alghala Maamoul Millet 350 g",
+"price": 14.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289419",
+"img_src": "ninja",
+"images": [
+"6287005201081.webp",
+"6287005201081-1.webp",
+"6287005201081-2.webp"
+]
+},
+{
+"sku": "JRN00002231",
+"barcode": "6287001562117",
+"cat": 109,
+"ar": "الحطب معمول مشكل 225 جم",
+"en": "Al Hatab Maamoul Mix 225 g",
+"price": 23.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19311067",
+"img_src": "ninja",
+"images": [
+"6287001562117.webp",
+"6287001562117-1.webp",
+"6287001562117-2.webp"
+]
+},
+{
+"sku": "JRN00002232",
+"barcode": "6287001562087",
+"cat": 109,
+"ar": "الحطب معمول بالشوكولاتة 225 جم",
+"en": "Al Hatab Maamoul Chocolate 225 g",
+"price": 23.25,
+"special": 20.95,
+"src": "ninja",
+"ninja_id": "5-19311069",
+"img_src": "ninja",
+"images": [
+"6287001562087.webp",
+"6287001562087-1.webp",
+"6287001562087-2.webp"
+]
+},
+{
+"sku": "JRN00002233",
+"barcode": "6281102690151",
+"cat": 109,
+"ar": "سنابل الشهد معمول توفي مغطى بالشوكولاتة 400 جم",
+"en": "Sanabel Al Shahed Maamoul Toffee Coated Chocolate 400 g",
+"price": 17.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407994",
+"img_src": "ninja",
+"images": [
+"6281102690151.webp",
+"6281102690151-1.webp",
+"6281102690151-2.webp"
+]
+},
+{
+"sku": "JRN00002234",
+"barcode": "6287010990734",
+"cat": 109,
+"ar": "لين معمول التمر بر 20 حبة",
+"en": "Leen Maamoul Dates Whole Wheat 20 pcs",
+"price": 28.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291501",
+"img_src": "ninja",
+"images": [
+"6287010990734.webp",
+"6287010990734-1.webp",
+"6287010990734-2.webp"
+]
+},
+{
+"sku": "JRN00002235",
+"barcode": "6281041267827",
+"cat": 109,
+"ar": "حلواني معمول بالتمر 12 حبة 32 جم",
+"en": "Halwani Maamoul With Saudi Dates 12 pcs 32 g",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19386625",
+"img_src": "ninja",
+"images": [
+"6281041267827.webp",
+"6281041267827-1.webp",
+"6281041267827-2.webp"
+]
+},
+{
+"sku": "JRN00002236",
+"barcode": "6281041270117",
+"cat": 109,
+"ar": "حلواني معمول عرض خاص بالتمر 12 حبة 32 جم",
+"en": "Halwani Maamoul With Dates Promo 12 pcs 32 g",
+"price": 24.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19386627",
+"img_src": "ninja",
+"images": [
+"6281041270117.webp",
+"6281041270117-1.webp",
+"6281041270117-2.webp"
+]
+},
+{
+"sku": "JRN00002237",
+"barcode": "6281100361589",
+"cat": 109,
+"ar": "يومي معمول التمر علبة 16 حبة",
+"en": "Yaumi Maamoul Dates Box 16 pcs",
+"price": 9.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287951",
+"img_src": "ninja",
+"images": [
+"6281100361589.webp",
+"6281100361589-1.webp",
+"6281100361589-2.webp"
+]
+},
+{
+"sku": "JRN00002238",
+"barcode": "6287043720056",
+"cat": 109,
+"ar": "الحطب معمول بر كبير بدون سكر علبة 550 جم",
+"en": "Al Hatab Maamoul Whole Wheat Large Sugar Free Box 550 g",
+"price": 28.95,
+"special": 25.95,
+"src": "ninja",
+"ninja_id": "5-19393415",
+"img_src": "ninja",
+"images": [
+"6287043720056.webp",
+"6287043720056-1.webp",
+"6287043720056-2.webp"
+]
+},
+{
+"sku": "JRN00002239",
+"barcode": "6287016880053",
+"cat": 109,
+"ar": "بنتي كليجا دبس التمر كبير أسطواني 200 جم",
+"en": "Bentty Kleja Dates Molasses Large Cylinder 200 g",
+"price": 23.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369571",
+"img_src": "ninja",
+"images": [
+"6287016880053.webp",
+"6287016880053-1.webp",
+"6287016880053-2.webp"
+]
+},
+{
+"sku": "JRN00002240",
+"barcode": "6287016881197",
+"cat": 109,
+"ar": "بنتي معمول التمر نخالة 350 جم",
+"en": "Bentty Maamoul Dates Bran 350 g",
+"price": 14.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369581",
+"img_src": "ninja",
+"images": [
+"6287016881197.webp",
+"6287016881197-1.webp",
+"6287016881197-2.webp"
+]
+},
+{
+"sku": "JRN00002241",
+"barcode": "6287016880626",
+"cat": 109,
+"ar": "بنتي معمول التمر دخن 350 جم",
+"en": "Bentty Maamoul Dates Millet 350 g",
+"price": 14.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19369589",
+"img_src": "ninja",
+"images": [
+"6287016880626.webp",
+"6287016880626-1.webp",
+"6287016880626-2.webp"
+]
+},
+{
+"sku": "JRN00002242",
+"barcode": "6287043720407",
+"cat": 109,
+"ar": "الحطب محوجة بالتمر 200 جم",
+"en": "Al Hatab Mahouja Dates 200 g",
+"price": 34.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404210",
+"img_src": "ninja",
+"images": [
+"6287043720407.webp",
+"6287043720407-1.webp",
+"6287043720407-2.webp"
+]
+},
+{
+"sku": "JRN00002243",
+"barcode": "6287001562230",
+"cat": 109,
+"ar": "الحطب فتيت تنك 500 جم",
+"en": "Al Hatab Fteet Tanak 500 g",
+"price": 65.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404197",
+"img_src": "ninja",
+"images": [
+"6287001562230.webp",
+"6287001562230-1.webp",
+"6287001562230-2.webp"
+]
+},
+{
+"sku": "JRN00002244",
+"barcode": "6281102690281",
+"cat": 109,
+"ar": "سنابل الشهد معمول أصابع بالتمر 400 جم",
+"en": "Sanabel Al Shahed Maamoul Fingers Dates 400 g",
+"price": 16.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407981",
+"img_src": "ninja",
+"images": [
+"6281102690281.webp"
+]
+},
+{
+"sku": "JRN00002245",
+"barcode": "6287005200619",
+"cat": 109,
+"ar": "ريتاج الغلا قرص عقيلي 700 جم",
+"en": "Retaj Alghala Qurs Aqeely 700 g",
+"price": 17.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289416",
+"img_src": "ninja",
+"images": [
+"6287005200619.webp",
+"6287005200619-1.webp"
+]
+},
+{
+"sku": "JRN00002246",
+"barcode": "6281041269920",
+"cat": 109,
+"ar": "حلواني معمول بر بالتمر 16 حبة 18 جم",
+"en": "Halwani Maamoul Whole Wheat With Dates 16 pcs 18 g",
+"price": 11.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287896",
+"img_src": "ninja",
+"images": [
+"6281041269920.webp",
+"6281041269920-1.webp",
+"6281041269920-2.webp"
+]
+},
+{
+"sku": "JRN00002247",
+"barcode": "6287005200053",
+"cat": 109,
+"ar": "ريتاج الغلا أصابع البر الأسمر 400 جم",
+"en": "Retaj Alghala Fingers Brown Wheat 400 g",
+"price": 14.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19289421",
+"img_src": "ninja",
+"images": [
+"6287005200053.webp",
+"6287005200053-1.webp"
+]
+},
+{
+"sku": "JRN00002248",
+"barcode": "6287001562551",
+"cat": 109,
+"ar": "الحطب معمول سادة كبير علبة 10 حبات 55 جم",
+"en": "Al Hatab Maamoul Plain Large Box 10 pcs 55 g",
+"price": 21.95,
+"special": 19.5,
+"src": "ninja",
+"ninja_id": "5-19311070",
+"img_src": "ninja",
+"images": [
+"6287001562551.webp",
+"6287001562551-1.webp",
+"6287001562551-2.webp"
+]
+},
+{
+"sku": "JRN00002249",
+"barcode": "6281102690274",
+"cat": 109,
+"ar": "سنابل الشهد معمول أصابع مغطى بالشوكولاتة والمكسرات 450 جم",
+"en": "Sanabel Al Shahed Maamoul Fingers Coated Chocolate & Nuts 450 g",
+"price": 17.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407991",
+"img_src": "ninja",
+"images": [
+"6281102690274.webp"
+]
+},
+{
+"sku": "JRN00002250",
+"barcode": "6281102693879",
+"cat": 109,
+"ar": "سنابل الشهد معمول أصابع بالشوكولاتة والمكسرات 200 جم",
+"en": "Sanabel Al Shahed Maamoul Fingers Chocolate & Nuts 200 g",
+"price": 8.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19408004",
+"img_src": "ninja",
+"images": [
+"6281102693879.webp"
+]
+},
+{
+"sku": "JRN00002251",
+"barcode": "6287005200602",
+"cat": 109,
+"ar": "ريتاج الغلا خفايف التمر 400 جم",
+"en": "Retaj Alghala Khafayef Dates 400 g",
+"price": 21.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19351709",
+"img_src": "ninja",
+"images": [
+"6287005200602.webp",
+"6287005200602-1.webp",
+"6287005200602-2.webp"
+]
+},
+{
+"sku": "JRN00002252",
+"barcode": "6281105500297",
+"cat": 34,
+"ar": "الامل آيس كريم فراولة 500 مل",
+"en": "Al Amal Ice Cream Strawberry 500 ml",
+"price": 11.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287946",
+"img_src": "ninja",
+"images": [
+"6281105500297.webp",
+"6281105500297-1.webp",
+"6281105500297-2.webp"
+]
+},
+{
+"sku": "JRN00002253",
+"barcode": "6281039525618",
+"cat": 34,
+"ar": "السعودية آيس كريم فراولة 500 مل",
+"en": "Saudia Ice Cream Strawberry 500 ml",
+"price": 11.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-3049",
+"img_src": "ninja",
+"images": [
+"6281039525618.webp"
+]
+},
+{
+"sku": "JRN00002254",
+"barcode": "6281105500280",
+"cat": 34,
+"ar": "الامل آيس كريم فانيلا 500 مل",
+"en": "Al Amal Ice Cream Vanilla 500 ml",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287939",
+"img_src": "ninja",
+"images": [
+"6281105500280.webp",
+"6281105500280-1.webp"
+]
+},
+{
+"sku": "JRN00002255",
+"barcode": "036631083419",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم شوكولاته 500 مل",
+"en": "Baskin Robbins Ice Cream Chocolate 500 ml",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-552",
+"img_src": "ninja",
+"images": [
+"036631083419.webp",
+"036631083419-1.webp",
+"036631083419-2.webp"
+]
+},
+{
+"sku": "JRN00002256",
+"barcode": "6222020804312",
+"cat": 34,
+"ar": "ميني اوريو ستيك مالتي باك 6 × 60 مل برومو باك",
+"en": "Oreo Mini Sticks Multipack 6 pcs 60 ml Promo Pack",
+"price": 34.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19291012",
+"img_src": "ninja",
+"images": [
+"6222020804312.webp",
+"6222020804312-1.webp",
+"6222020804312-2.webp"
+]
+},
+{
+"sku": "JRN00002257",
+"barcode": "6281105500310",
+"cat": 34,
+"ar": "الامل آيس كريم شوكولاتة 500 مل",
+"en": "Al Amal Ice Cream Chocolate 500 ml",
+"price": 11.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287941",
+"img_src": "ninja",
+"images": [
+"6281105500310.webp",
+"6281105500310-1.webp",
+"6281105500310-2.webp"
+]
+},
+{
+"sku": "JRN00002258",
+"barcode": "036631083099",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم حلوى القطن 500 مل",
+"en": "Baskin Robbins Ice Cream Cotton Candy 500 ml",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-558",
+"img_src": "ninja",
+"images": [
+"036631083099.webp",
+"036631083099-1.webp",
+"036631083099-2.webp"
+]
+},
+{
+"sku": "JRN00002259",
+"barcode": "036631079757",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم برالينز و كريمة 1 لتر",
+"en": "Baskin Robbins Ice Cream Pralines & Cream 1 L",
+"price": 47.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-544",
+"img_src": "ninja",
+"images": [
+"036631079757.webp",
+"036631079757-1.webp",
+"036631079757-2.webp"
+]
+},
+{
+"sku": "JRN00002260",
+"barcode": "6281100771197",
+"cat": 34,
+"ar": "كواليتي آيس كريم فستق 500 مل",
+"en": "Kwality Ice Cream Pistachio 500 ml",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3392299",
+"img_src": "ninja",
+"images": [
+"6281100771197.webp",
+"6281100771197-1.webp",
+"6281100771197-2.webp"
+]
+},
+{
+"sku": "JRN00002261",
+"barcode": "6281100771135",
+"cat": 34,
+"ar": "كواليتي آيس كريم مانجو 500 مل",
+"en": "Kwality Ice Cream Mango 500 ml",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3392072",
+"img_src": "ninja",
+"images": [
+"6281100771135.webp",
+"6281100771135-1.webp",
+"6281100771135-2.webp"
+]
+},
+{
+"sku": "JRN00002262",
+"barcode": "6281100771258",
+"cat": 34,
+"ar": "كواليتي آيس كريم زبدة سكواتش 500 مل",
+"en": "Kwality Ice Cream Butter Scotch 500 ml",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3390539",
+"img_src": "ninja",
+"images": [
+"6281100771258.webp",
+"6281100771258-1.webp"
+]
+},
+{
+"sku": "JRN00002263",
+"barcode": "6281100771319",
+"cat": 34,
+"ar": "كواليتي آيس كريم كراميل 500 مل",
+"en": "Kwality Ice Cream Caramel 500 ml",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3390967",
+"img_src": "ninja",
+"images": [
+"6281100771319.webp",
+"6281100771319-1.webp",
+"6281100771319-2.webp"
+]
+},
+{
+"sku": "JRN00002264",
+"barcode": "6281100771159",
+"cat": 34,
+"ar": "كواليتي آيس كريم مقلم التوت 500 مل",
+"en": "Kwality Ice Cream Raspberry Ripple 500 ml",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3392298",
+"img_src": "ninja",
+"images": [
+"6281100771159.webp",
+"6281100771159-1.webp",
+"6281100771159-2.webp"
+]
+},
+{
+"sku": "JRN00002265",
+"barcode": "036631085185",
+"cat": 34,
+"ar": "باسكن روبنز مالتي مجموعة 4 * 65 مل",
+"en": "Baskin Robbins Multi Pack 4 pcs 56 ml",
+"price": 30.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1216330",
+"img_src": "ninja",
+"images": [
+"036631085185.webp",
+"036631085185-1.webp",
+"036631085185-2.webp"
+]
+},
+{
+"sku": "JRN00002266",
+"barcode": "6281100771210",
+"cat": 34,
+"ar": "كواليتي آيس كريم شوكولاته 500 مل",
+"en": "Kwality Ice Cream Chocolate 500 ml",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3391235",
+"img_src": "ninja",
+"images": [
+"6281100771210.webp",
+"6281100771210-1.webp",
+"6281100771210-2.webp"
+]
+},
+{
+"sku": "JRN00002267",
+"barcode": "6281100771234",
+"cat": 34,
+"ar": "كواليتي آيس كريم مقلم شوكولاته 500 مل",
+"en": "Kwality Ice Cream Chocolate Ripple 500 ml",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3391239",
+"img_src": "ninja",
+"images": [
+"6281100771234.webp",
+"6281100771234-1.webp",
+"6281100771234-2.webp"
+]
+},
+{
+"sku": "JRN00002268",
+"barcode": "6281105791541",
+"cat": 35,
+"ar": "باجه مشكل مكسرات مشوي 450 جم",
+"en": "Baja Mixed Nuts BBQ 450 g",
+"price": 57.5,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-1110921",
+"img_src": "ninja",
+"images": [
+"6281105791541.webp",
+"6281105791541-1.webp",
+"6281105791541-2.webp"
+]
+},
+{
+"sku": "JRN00002269",
+"barcode": "6281105791480",
+"cat": 35,
+"ar": "باجه مشكل مكسرات اكسترا 450 جم",
+"en": "Baja Mixed Nuts Extra 450 g",
+"price": 41.25,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-1110753",
+"img_src": "ninja",
+"images": [
+"6281105791480.webp",
+"6281105791480-1.webp",
+"6281105791480-2.webp"
+]
+},
+{
+"sku": "JRN00002270",
+"barcode": "6281100771395",
+"cat": 34,
+"ar": "كواليتي آيس كريم توفي 500 مل",
+"en": "Kwality Ice Cream Toffee 500 ml",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3392513",
+"img_src": "ninja",
+"images": [
+"6281100771395.webp",
+"6281100771395-1.webp",
+"6281100771395-2.webp"
+]
+},
+{
+"sku": "JRN00002271",
+"barcode": "6281100771272",
+"cat": 34,
+"ar": "كواليتي آيس كريم زعفران كولفي 500 مل",
+"en": "Kwality Ice Cream Saffron Kulfi 500 ml",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3391750",
+"img_src": "ninja",
+"images": [
+"6281100771272.webp",
+"6281100771272-1.webp",
+"6281100771272-2.webp"
+]
+},
+{
+"sku": "JRN00002272",
+"barcode": "6281105791510",
+"cat": 35,
+"ar": "باجه مشكل مكسرات فاخر 450 جم",
+"en": "Baja Mixed Nuts Deluxe 450 g",
+"price": 55.5,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-1109581",
+"img_src": "ninja",
+"images": [
+"6281105791510.webp",
+"6281105791510-1.webp",
+"6281105791510-2.webp"
+]
+},
+{
+"sku": "JRN00002273",
+"barcode": "036631083181",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم بالبرالين و الكريمة 500 مل",
+"en": "Baskin Robbins Ice Cream Pralines & Cream 500 ml",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-559",
+"img_src": "ninja",
+"images": [
+"036631083181.webp",
+"036631083181-1.webp",
+"036631083181-2.webp"
+]
+},
+{
+"sku": "JRN00002274",
+"barcode": "6222020804176",
+"cat": 34,
+"ar": "نستله كيت كات ميني آيس كريم ستيك 6 حبات 60 مل برومو باك",
+"en": "Nestle KitKat Mini Sticks Ice Cream Multipack 6 pcs 60 ml promo Pack",
+"price": 34.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19291013",
+"img_src": "ninja",
+"images": [
+"6222020804176.webp",
+"6222020804176-1.webp",
+"6222020804176-2.webp"
+]
+},
+{
+"sku": "JRN00002275",
+"barcode": "6281100771173",
+"cat": 34,
+"ar": "كواليتي آيس كريم فانيليا 500 مل",
+"en": "Kwality Ice Cream Vanilla 500 ml",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3392789",
+"img_src": "ninja",
+"images": [
+"6281100771173.webp",
+"6281100771173-1.webp",
+"6281100771173-2.webp"
+]
+},
+{
+"sku": "JRN00002276",
+"barcode": "6281039525410",
+"cat": 34,
+"ar": "السعودية آيس كريم الشوكولاته 500 مل",
+"en": "Saudia Ice Cream Chocolate 500 ml",
+"price": 10.95,
+"special": 8.2,
+"src": "ninja",
+"ninja_id": "5-3047",
+"img_src": "ninja",
+"images": [
+"6281039525410.webp",
+"6281039525410-1.webp",
+"6281039525410-2.webp"
+]
+},
+{
+"sku": "JRN00002277",
+"barcode": "6281039525816",
+"cat": 34,
+"ar": "السعودية آيس كريم المانجو 500 مل",
+"en": "Saudia Ice Cream Mango 500 ml",
+"price": 9.95,
+"special": 7.45,
+"src": "ninja",
+"ninja_id": "5-3051",
+"img_src": "ninja",
+"images": [
+"6281039525816.webp"
+]
+},
+{
+"sku": "JRN00002278",
+"barcode": "6287049690049",
+"cat": 109,
+"ar": "واو! شوكولاتة دبي بيضاء حلوى القطن الوردية 50 جم",
+"en": "Wow! Angel Hair Milk Chocolate with Pink Cotton Candy 50 g",
+"price": 20.0,
+"special": 13.0,
+"src": "ninja",
+"ninja_id": "5-19375581",
+"img_src": "ninja",
+"images": [
+"6287049690049.webp",
+"6287049690049-1.webp"
+]
+},
+{
+"sku": "JRN00002279",
+"barcode": "653858674215",
+"cat": 109,
+"ar": "زماني بقلاوة أصابع الكاجو صغير 280 جم",
+"en": "Zamani Cashew Fingers Baklava Small 280 g",
+"price": 54.0,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-19304470",
+"img_src": "ninja",
+"images": [
+"653858674215.webp",
+"653858674215-1.webp"
+]
+},
+{
+"sku": "JRN00002280",
+"barcode": "6259483394333",
+"cat": 109,
+"ar": "مياس بوب فور 300 جم",
+"en": "Mayas Pop Four 300 g",
+"price": 49.0,
+"special": 41.5,
+"src": "ninja",
+"ninja_id": "5-19404922",
+"img_src": "ninja",
+"images": [
+"6259483394333.webp",
+"6259483394333-1.webp",
+"6259483394333-2.webp"
+]
+},
+{
+"sku": "JRN00002281",
+"barcode": "6287000914108",
+"cat": 109,
+"ar": "باكز كوكي سابليه",
+"en": "Baks Cookie Sable",
+"price": 85.0,
+"special": 67.5,
+"src": "ninja",
+"ninja_id": "5-19407956",
+"img_src": "ninja",
+"images": [
+"6287000914108.webp"
+]
+},
+{
+"sku": "JRN00002282",
+"barcode": "6287000913422",
+"cat": 109,
+"ar": "ناش كوكو ويفر رولز 340 جم",
+"en": "Nash Coco Rafer Rolls 340 g",
+"price": 72.0,
+"special": 62.5,
+"src": "ninja",
+"ninja_id": "5-19407958",
+"img_src": "ninja",
+"images": [
+"6287000913422.webp",
+"6287000913422-1.webp",
+"6287000913422-2.webp"
+]
+},
+{
+"sku": "JRN00002283",
+"barcode": "6287001563909",
+"cat": 109,
+"ar": "افران الحطب علبة ويفر مغطس بالشوكولاته 12 حبه",
+"en": "Afran Alhatab Chocolate Covered Wafers Box 12 PCs",
+"price": 29.95,
+"special": 25.5,
+"src": "ninja",
+"ninja_id": "5-19365315",
+"img_src": "ninja",
+"images": [
+"6287001563909.webp",
+"6287001563909-1.webp",
+"6287001563909-2.webp"
+]
+},
+{
+"sku": "JRN00002284",
+"barcode": "6287000913408",
+"cat": 109,
+"ar": "جوري روشيه 240 جم",
+"en": "Jury Rocher 240 g",
+"price": 69.0,
+"special": 59.95,
+"src": "ninja",
+"ninja_id": "5-19388152",
+"img_src": "ninja",
+"images": [
+"6287000913408.webp",
+"6287000913408-1.webp",
+"6287000913408-2.webp"
+]
+},
+{
+"sku": "JRN00002285",
+"barcode": "6287000914122",
+"cat": 109,
+"ar": "باكز سابليه جولد 420 جم",
+"en": "Baks Sable Gold 420 g",
+"price": 85.0,
+"special": 73.95,
+"src": "ninja",
+"ninja_id": "5-19407954",
+"img_src": "ninja",
+"images": [
+"6287000914122.webp",
+"6287000914122-1.webp",
+"6287000914122-2.webp"
+]
+},
+{
+"sku": "JRN00002286",
+"barcode": "6287000913460",
+"cat": 109,
+"ar": "انيا كريب سناب",
+"en": "Ania Crepe Snap",
+"price": 69.0,
+"special": 59.95,
+"src": "ninja",
+"ninja_id": "5-19407961",
+"img_src": "ninja",
+"images": [
+"6287000913460.webp"
+]
+},
+{
+"sku": "JRN00002287",
+"barcode": "6287000913453",
+"cat": 109,
+"ar": "انيا بيكان كراميل",
+"en": "Ania Pecan Caramelt",
+"price": 69.0,
+"special": 59.95,
+"src": "ninja",
+"ninja_id": "5-19407962",
+"img_src": "ninja",
+"images": [
+"6287000913453.webp"
+]
+},
+{
+"sku": "JRN00002288",
+"barcode": "653858674062",
+"cat": 109,
+"ar": "زماني بقلاوة بيكان بالشوكولاتة 400 جم",
+"en": "Zamani Pecan Baklava with Chocolate 400 g",
+"price": 59.0,
+"special": 45.95,
+"src": "ninja",
+"ninja_id": "5-19379909",
+"img_src": "ninja",
+"images": [
+"653858674062.webp",
+"653858674062-1.webp",
+"653858674062-2.webp"
+]
+},
+{
+"sku": "JRN00002289",
+"barcode": "653858674116",
+"cat": 109,
+"ar": "زماني بقلاوة بيكان بالشوكولاتة 650 جم",
+"en": "Zamani Pecan Baklava with Chocolate 650 g",
+"price": 119.0,
+"special": 91.95,
+"src": "ninja",
+"ninja_id": "5-19379923",
+"img_src": "ninja",
+"images": [
+"653858674116.webp",
+"653858674116-1.webp",
+"653858674116-2.webp"
+]
+},
+{
+"sku": "JRN00002290",
+"barcode": "8051369005368",
+"cat": 34,
+"ar": "أوريو آيس كريم كوكي ساندوتش 110 مل",
+"en": "Oreo Ice Cream Cookie Sandwich 110 ml",
+"price": 13.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19186919",
+"img_src": "ninja",
+"images": [
+"8051369005368.webp"
+]
+},
+{
+"sku": "JRN00002291",
+"barcode": "6281100770213",
+"cat": 34,
+"ar": "كواليتي آيس كريم فروتي الكرز بالفانيليا 60 مل",
+"en": "Kwality Ice Cream Cherry Vanilla Fruity 60 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3383688",
+"img_src": "ninja",
+"images": [
+"6281100770213.webp",
+"6281100770213-1.webp",
+"6281100770213-2.webp"
+]
+},
+{
+"sku": "JRN00002292",
+"barcode": "6281100770152",
+"cat": 34,
+"ar": "كواليتي آيس كريم مثلوج حليبي التوت 65 مل",
+"en": "Kwality Ice Cream Raspberry 65 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317627",
+"img_src": "ninja",
+"images": [
+"6281100770152.webp",
+"6281100770152-1.webp",
+"6281100770152-2.webp"
+]
+},
+{
+"sku": "JRN00002293",
+"barcode": "6281105500198",
+"cat": 34,
+"ar": "الأمل آيس كريم ساندوتش فانيلا 100 مل",
+"en": "Al Amal Ice Cream Vanilla Sandwich 100 ml",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19311694",
+"img_src": "ninja",
+"images": [
+"6281105500198.webp",
+"6281105500198-1.webp",
+"6281105500198-2.webp"
+]
+},
+{
+"sku": "JRN00002294",
+"barcode": "5900130043913",
+"cat": 34,
+"ar": "أوريو آيس كريم بايتس 14 حبة 72 جم",
+"en": "Oreo Ice Cream Bites 14 pcs 72 g",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396936",
+"img_src": "ninja",
+"images": [
+"5900130043913.webp",
+"5900130043913-1.webp",
+"5900130043913-2.webp"
+]
+},
+{
+"sku": "JRN00002295",
+"barcode": "6253334601205",
+"cat": 34,
+"ar": "ايس كوين آيس كريم ليلاري 80 مل",
+"en": "Ice Queen Ice Cream Lilary 80 ml",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318453",
+"img_src": "ninja",
+"images": [
+"6253334601205.webp",
+"6253334601205-1.webp",
+"6253334601205-2.webp"
+]
+},
+{
+"sku": "JRN00002296",
+"barcode": "6281039567113",
+"cat": 34,
+"ar": "السعودية آيس كريم بابو بلو سلش 110 مل",
+"en": "Saudia Ice Cream Babo Blue Slush 110 ml",
+"price": 1.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376521",
+"img_src": "ninja",
+"images": [
+"6281039567113.webp",
+"6281039567113-1.webp"
+]
+},
+{
+"sku": "JRN00002297",
+"barcode": "6253334601465",
+"cat": 34,
+"ar": "ايس كوين آيس كريم بالون العلكة 80 مل",
+"en": "Ice Queen Ice Cream Bubble Gum 80 ml",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318451",
+"img_src": "ninja",
+"images": [
+"6253334601465.webp",
+"6253334601465-1.webp",
+"6253334601465-2.webp"
+]
+},
+{
+"sku": "JRN00002298",
+"barcode": "6281100770251",
+"cat": 34,
+"ar": "كواليتي آيس كريم فروتي مانجو 60 مل",
+"en": "Kwality Ice Cream Mango Fruity 60 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3384391",
+"img_src": "ninja",
+"images": [
+"6281100770251.webp",
+"6281100770251-1.webp",
+"6281100770251-2.webp"
+]
+},
+{
+"sku": "JRN00002299",
+"barcode": "6221007026303",
+"cat": 34,
+"ar": "نستله ميجا شوكولاته بيضاء آيس كريم 95 مل",
+"en": "Nestle Mega White Chocolate Ice Cream 95 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1199909",
+"img_src": "ninja",
+"images": [
+"6221007026303.webp",
+"6221007026303-1.webp",
+"6221007026303-2.webp"
+]
+},
+{
+"sku": "JRN00002300",
+"barcode": "6253334601915",
+"cat": 34,
+"ar": "ايس كوين آيس كريم ساندويتش جامبو 100 مل",
+"en": "Ice Queen Ice Cream Sandwich Jumbo 100 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318457",
+"img_src": "ninja",
+"images": [
+"6253334601915.webp",
+"6253334601915-1.webp",
+"6253334601915-2.webp"
+]
+},
+{
+"sku": "JRN00002301",
+"barcode": "5010238022540",
+"cat": 34,
+"ar": "كادبري آيس كريم كرنشي بلاست ستيك 90 مل",
+"en": "Cadburys Crunchie Blast 90 ml",
+"price": 13.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19318122",
+"img_src": "ninja",
+"images": [
+"5010238022540.webp",
+"5010238022540-1.webp",
+"5010238022540-2.webp"
+]
+},
+{
+"sku": "JRN00002302",
+"barcode": "6253334600444",
+"cat": 34,
+"ar": "ايس كوين آيس كريم انجوريا بطيخ 80 مل",
+"en": "Ice Queen Ice Cream Anguria Watermelon 80 ml",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318448",
+"img_src": "ninja",
+"images": [
+"6253334600444.webp",
+"6253334600444-1.webp",
+"6253334600444-2.webp"
+]
+},
+{
+"sku": "JRN00002303",
+"barcode": "036631084249",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم شوكولاته 120 مل",
+"en": "Baskin Robbins Ice Cream Chocolate 120 ml",
+"price": 9.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-565",
+"img_src": "ninja",
+"images": [
+"036631084249.webp",
+"036631084249-1.webp"
+]
+},
+{
+"sku": "JRN00002304",
+"barcode": "6253334605906",
+"cat": 34,
+"ar": "ايس كوين آيس كريم شوكولاتة دبي 70 مل",
+"en": "Ice Queen Ice Cream Dubai Chocolate 70 ml",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19370629",
+"img_src": "ninja",
+"images": [
+"6253334605906.webp",
+"6253334605906-1.webp",
+"6253334605906-2.webp"
+]
+},
+{
+"sku": "JRN00002305",
+"barcode": "6221007028314",
+"cat": 34,
+"ar": "أوريو آيس كريم كوب 140 مل",
+"en": "Oreo Ice Cream Cup 140 ml",
+"price": 13.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-1202059",
+"img_src": "ninja",
+"images": [
+"6221007028314.webp",
+"6221007028314-1.webp"
+]
+},
+{
+"sku": "JRN00002306",
+"barcode": "6281105500693",
+"cat": 34,
+"ar": "الامل آيس كريم ايس بار فول سوداني 75 مل",
+"en": "Al Amal Ice Cream Ice Bar Peanuts 75 ml",
+"price": 1.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287929",
+"img_src": "ninja",
+"images": [
+"6281105500693.webp",
+"6281105500693-1.webp"
+]
+},
+{
+"sku": "JRN00002307",
+"barcode": "6253334600963",
+"cat": 34,
+"ar": "ايس كوين آيس كريم انجوريا شمام 80 مل",
+"en": "Ice Queen Ice Cream Anguria Melon 80 ml",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318447",
+"img_src": "ninja",
+"images": [
+"6253334600963.webp",
+"6253334600963-1.webp",
+"6253334600963-2.webp"
+]
+},
+{
+"sku": "JRN00002308",
+"barcode": "5000159397384",
+"cat": 34,
+"ar": "جالكسي آيس كريم شكل قلب 54.6 جم",
+"en": "Galaxy Heart Ice Cream Bar 54.6 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3925690",
+"img_src": "ninja",
+"images": [
+"5000159397384.webp",
+"5000159397384-1.webp",
+"5000159397384-2.webp"
+]
+},
+{
+"sku": "JRN00002309",
+"barcode": "6253334603261",
+"cat": 34,
+"ar": "ايس كوين آيس كريم ساندويتش كوكيز 80 مل",
+"en": "Ice Queen Ice Cream Sandwich Cookies 80 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318456",
+"img_src": "ninja",
+"images": [
+"6253334603261.webp",
+"6253334603261-1.webp",
+"6253334603261-2.webp"
+]
+},
+{
+"sku": "JRN00002310",
+"barcode": "6253334604695",
+"cat": 34,
+"ar": "ايس كوين آيس كريم سوربيتو ليمون نعناع 100 مل",
+"en": "Ice Queen Ice Cream Sorbet Lemon Mint 100 ml",
+"price": 3.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318449",
+"img_src": "ninja",
+"images": [
+"6253334604695.webp",
+"6253334604695-1.webp",
+"6253334604695-2.webp"
+]
+},
+{
+"sku": "JRN00002311",
+"barcode": "5010238022526",
+"cat": 34,
+"ar": "كادبري آيس كريم شوكولاته بالحليب ستيك 90 مل",
+"en": "Cadbury Ice Cream Milk Chocolate Stick 90 ml",
+"price": 13.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19318121",
+"img_src": "ninja",
+"images": [
+"5010238022526.webp",
+"5010238022526-1.webp",
+"5010238022526-2.webp"
+]
+},
+{
+"sku": "JRN00002312",
+"barcode": "6222020802899",
+"cat": 34,
+"ar": "كيت كات كون آيس كريم فانيليا و شوكولاته 90 مل",
+"en": "KitKat Cone Ice Cream Vanilla & chocolate 90 ml",
+"price": 9.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1201263",
+"img_src": "ninja",
+"images": [
+"6222020802899.webp",
+"6222020802899-1.webp",
+"6222020802899-2.webp"
+]
+},
+{
+"sku": "JRN00002313",
+"barcode": "6222020805159",
+"cat": 34,
+"ar": "ميجا آيس كريم كراميل مملح ستيك 85 مل",
+"en": "Mega Ice Cream Salted Caramel Stick 85 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395348",
+"img_src": "ninja",
+"images": [
+"6222020805159.webp",
+"6222020805159-1.webp",
+"6222020805159-2.webp"
+]
+},
+{
+"sku": "JRN00002314",
+"barcode": "6281105500396",
+"cat": 34,
+"ar": "الامل آيس كريم دياموند ستيك 100 مل",
+"en": "Al Amal Ice Cream Diamond Forest Fruit 100 ml",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287932",
+"img_src": "ninja",
+"images": [
+"6281105500396.webp",
+"6281105500396-1.webp",
+"6281105500396-2.webp"
+]
+},
+{
+"sku": "JRN00002315",
+"barcode": "6281100773818",
+"cat": 34,
+"ar": "كواليتي آيس كريم كاسة فانيليا 125 مل",
+"en": "Kwality Ice Cream Vanilla Cup 125 ml",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19288527",
+"img_src": "ninja",
+"images": [
+"6281100773818.webp",
+"6281100773818-1.webp",
+"6281100773818-2.webp"
+]
+},
+{
+"sku": "JRN00002316",
+"barcode": "6281104111937",
+"cat": 34,
+"ar": "فاديكو آيس كريم ستيك سوربيه المانجو 65 مل",
+"en": "Fadeco Ice Cream Stick Mango Sorbet 65 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19421490",
+"img_src": "ninja",
+"images": [
+"6281104111937.webp"
+]
+},
+{
+"sku": "JRN00002317",
+"barcode": "6281104110893",
+"cat": 34,
+"ar": "فاديكو آيس كريم تويست ساندوتش 80 مل",
+"en": "Fadeco Ice Cream Twist Sandwich 80 ml",
+"price": 1.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19168170",
+"img_src": "ninja",
+"images": [
+"6281104110893.webp",
+"6281104110893-1.webp",
+"6281104110893-2.webp"
+]
+},
+{
+"sku": "JRN00002318",
+"barcode": "6281100777014",
+"cat": 34,
+"ar": "كواليتي آيس كريم ليمون نعناع 120 مل",
+"en": "Kwality Ice Cream Lemon & Mint 120 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374245",
+"img_src": "ninja",
+"images": [
+"6281100777014.webp",
+"6281100777014-1.webp"
+]
+},
+{
+"sku": "JRN00002319",
+"barcode": "6281104110909",
+"cat": 34,
+"ar": "فاديكو آيس كريم الكولفي 80 مل",
+"en": "Fadeco Ice Cream Kulfi Bar 80 ml",
+"price": 2.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19168094",
+"img_src": "ninja",
+"images": [
+"6281104110909.webp",
+"6281104110909-1.webp",
+"6281104110909-2.webp"
+]
+},
+{
+"sku": "JRN00002320",
+"barcode": "6281105500099",
+"cat": 34,
+"ar": "الامل آيس كريم كورنيه شوكولاتة 120 مل",
+"en": "Al Amal Ice Cream Corn Chocolate 120 ml",
+"price": 1.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287942",
+"img_src": "ninja",
+"images": [
+"6281105500099.webp",
+"6281105500099-1.webp"
+]
+},
+{
+"sku": "JRN00002321",
+"barcode": "6221007028291",
+"cat": 34,
+"ar": "أوريو آيس كريم كون 110 مل",
+"en": "Oreo Ice Cream Cone 110 ml",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1201942",
+"img_src": "ninja",
+"images": [
+"6221007028291.webp",
+"6221007028291-1.webp",
+"6221007028291-2.webp"
+]
+},
+{
+"sku": "JRN00002322",
+"barcode": "6281105500969",
+"cat": 34,
+"ar": "الامل آيس كريم كوريتو ستيك لوز 100 مل",
+"en": "Al Amal Ice Cream Coritto Almond 100 ml",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287930",
+"img_src": "ninja",
+"images": [
+"6281105500969.webp",
+"6281105500969-1.webp",
+"6281105500969-2.webp"
+]
+},
+{
+"sku": "JRN00002323",
+"barcode": "6281039581713",
+"cat": 34,
+"ar": "السعودية آيس كريم الفانيليا والشوكولاته البيضاء 90 مل",
+"en": "Saudia Ice Cream Vanilla & White Chocolate 90 ml",
+"price": 5.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3031",
+"img_src": "ninja",
+"images": [
+"6281039581713.webp"
+]
+},
+{
+"sku": "JRN00002324",
+"barcode": "6222020803490",
+"cat": 34,
+"ar": "أوريو آيس كريم شوكولاته سندويش بنكهة الشوكولاته 135 مل",
+"en": "Oreo Ice Cream Cookie Sandwich Chocolate flavor 135 ml",
+"price": 13.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-1202877",
+"img_src": "ninja",
+"images": [
+"6222020803490.webp",
+"6222020803490-1.webp",
+"6222020803490-2.webp"
+]
+},
+{
+"sku": "JRN00002325",
+"barcode": "036631084621",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم متعة البرلاين 120 مل",
+"en": "Baskin Robbins Ice Cream Pralines Delight Cup 120 ml",
+"price": 9.5,
+"special": 7.59,
+"src": "ninja",
+"ninja_id": "5-567",
+"img_src": "ninja",
+"images": [
+"036631084621.webp",
+"036631084621-1.webp",
+"036631084621-2.webp"
+]
+},
+{
+"sku": "JRN00002326",
+"barcode": "036631084232",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم فانيليا 120 مل",
+"en": "Baskin Robbins Ice Cream Vanilla 120 ml",
+"price": 9.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-564",
+"img_src": "ninja",
+"images": [
+"036631084232.webp",
+"036631084232-1.webp"
+]
+},
+{
+"sku": "JRN00002327",
+"barcode": "6281100770473",
+"cat": 34,
+"ar": "كواليتي آيس كريم كون شوكولاتة 150 مل",
+"en": "Kwality Ice Cream Chocolate Kone 150 ml",
+"price": 4.55,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19288530",
+"img_src": "ninja",
+"images": [
+"6281100770473.webp",
+"6281100770473-1.webp",
+"6281100770473-2.webp"
+]
+},
+{
+"sku": "JRN00002328",
+"barcode": "6281100770275",
+"cat": 34,
+"ar": "كواليتي آيس كريم فروتي التوت الأحمر 60 مل",
+"en": "Kwality Ice Cream Raspberry Fruity Red 60 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3384857",
+"img_src": "ninja",
+"images": [
+"6281100770275.webp",
+"6281100770275-1.webp",
+"6281100770275-2.webp"
+]
+},
+{
+"sku": "JRN00002329",
+"barcode": "6281039571219",
+"cat": 34,
+"ar": "السعودية آيس كريم ساندويش بالفانيليا 100 مل",
+"en": "Saudia Ice Cream Vanilla Sandwich 100 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3015",
+"img_src": "ninja",
+"images": [
+"6281039571219.webp",
+"6281039571219-1.webp",
+"6281039571219-2.webp"
+]
+},
+{
+"sku": "JRN00002330",
+"barcode": "6281104110817",
+"cat": 34,
+"ar": "فاديكو آيس كريم جاز 90 مل",
+"en": "Fadeco Ice Cream Jazz Stick 120 ml",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167379",
+"img_src": "ninja",
+"images": [
+"6281104110817.webp",
+"6281104110817-1.webp",
+"6281104110817-2.webp"
+]
+},
+{
+"sku": "JRN00002331",
+"barcode": "6281105500709",
+"cat": 34,
+"ar": "الامل آيس كريم راوند ساندوتش 80 مل",
+"en": "Al Amal Ice Cream Round Sandwich 80 ml",
+"price": 1.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287928",
+"img_src": "ninja",
+"images": [
+"6281105500709.webp",
+"6281105500709-1.webp",
+"6281105500709-2.webp"
+]
+},
+{
+"sku": "JRN00002332",
+"barcode": "6281105500402",
+"cat": 34,
+"ar": "الامل آيس كريم كأس فراوله 100 مل",
+"en": "Al Amal Ice Cream Cup Strawberry 100 ml",
+"price": 1.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287938",
+"img_src": "ninja",
+"images": [
+"6281105500402.webp",
+"6281105500402-1.webp",
+"6281105500402-2.webp"
+]
+},
+{
+"sku": "JRN00002333",
+"barcode": "6281104111944",
+"cat": 34,
+"ar": "فاديكو آيس كريم ستيك شامب فانيليا وتوت 65 مل",
+"en": "Fadeco Ice Cream Stick Champ Vanilla with Raspberry 65 ml",
+"price": 1.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19421489",
+"img_src": "ninja",
+"images": [
+"6281104111944.webp"
+]
+},
+{
+"sku": "JRN00002334",
+"barcode": "6281100773832",
+"cat": 34,
+"ar": "كواليتي آيس كريم كاسة مانجو 125 مل",
+"en": "Kwality Ice Cream Mango Cup 125 ml",
+"price": 4.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19288528",
+"img_src": "ninja",
+"images": [
+"6281100773832.webp",
+"6281100773832-1.webp"
+]
+},
+{
+"sku": "JRN00002335",
+"barcode": "6281104110022",
+"cat": 34,
+"ar": "فاديكو آيس كريم بالفانيلا 120 مل",
+"en": "Fadeco Ice Cream Vanilla Cone 120 ml",
+"price": 1.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167334",
+"img_src": "ninja",
+"images": [
+"6281104110022.webp",
+"6281104110022-1.webp",
+"6281104110022-2.webp"
+]
+},
+{
+"sku": "JRN00002336",
+"barcode": "6281104110046",
+"cat": 34,
+"ar": "فاديكو آيس كريم الشوكولاتة 120 مل",
+"en": "Fadeco Ice Cream Chocolate Cone 120 ml",
+"price": 1.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167375",
+"img_src": "ninja",
+"images": [
+"6281104110046.webp",
+"6281104110046-1.webp",
+"6281104110046-2.webp"
+]
+},
+{
+"sku": "JRN00002337",
+"barcode": "6281100770176",
+"cat": 34,
+"ar": "كواليتي آيس كريم شوكو بار65 مل",
+"en": "Kwality Ice Cream Chocobar 65 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317626",
+"img_src": "ninja",
+"images": [
+"6281100770176.webp",
+"6281100770176-1.webp",
+"6281100770176-2.webp"
+]
+},
+{
+"sku": "JRN00002338",
+"barcode": "6253334603285",
+"cat": 34,
+"ar": "ايس كوين آيس كريم سوربيتو مانجو 100 مل",
+"en": "Ice Queen Ice Cream Sorbet Mango 100 ml",
+"price": 3.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318452",
+"img_src": "ninja",
+"images": [
+"6253334603285.webp",
+"6253334603285-1.webp",
+"6253334603285-2.webp"
+]
+},
+{
+"sku": "JRN00002339",
+"barcode": "6281100777007",
+"cat": 34,
+"ar": "كواليتي آيس كريم برتقال 120 مل",
+"en": "Kwality Ice Cream Orange 120 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374246",
+"img_src": "ninja",
+"images": [
+"6281100777007.webp",
+"6281100777007-1.webp"
+]
+},
+{
+"sku": "JRN00002340",
+"barcode": "6281104110718",
+"cat": 34,
+"ar": "فاديكو آيس كريم باشن فروت زووم 120 مل",
+"en": "Fadeco Ice Cream Zoom Passion Fruit 120 ml",
+"price": 1.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291015",
+"img_src": "ninja",
+"images": [
+"6281104110718.webp",
+"6281104110718-1.webp",
+"6281104110718-2.webp"
+]
+},
+{
+"sku": "JRN00002341",
+"barcode": "6281104111920",
+"cat": 34,
+"ar": "فاديكو آيس كريم ستيك بيست تربيل شوكليت 75 مل",
+"en": "Fadeco Ice Cream Stick Beast Triple Chocolate 75 ml",
+"price": 3.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19421492",
+"img_src": "ninja",
+"images": [
+"6281104111920.webp"
+]
+},
+{
+"sku": "JRN00002342",
+"barcode": "6281104111968",
+"cat": 34,
+"ar": "فاديكو آيس كريم ستيك بيست شوكولاتة فانيليا كراميل 75 مل",
+"en": "Fadeco Ice Cream Stick Beast Chocolate Vanila Caramel 75 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19421491",
+"img_src": "ninja",
+"images": [
+"6281104111968.webp"
+]
+},
+{
+"sku": "JRN00002343",
+"barcode": "6281104110671",
+"cat": 34,
+"ar": "فاديكو آيس كريم التوت زوووم 120 مل",
+"en": "Fadeco Ice Cream Zoom Raspberry 120 ml",
+"price": 1.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19168194",
+"img_src": "ninja",
+"images": [
+"6281104110671.webp",
+"6281104110671-1.webp",
+"6281104110671-2.webp"
+]
+},
+{
+"sku": "JRN00002344",
+"barcode": "6253334600697",
+"cat": 34,
+"ar": "ايس كوين آيس كريم كاندي بار 70 مل",
+"en": "Ice Queen Ice Cream Candy Bar 70 ml",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318455",
+"img_src": "ninja",
+"images": [
+"6253334600697.webp",
+"6253334600697-1.webp",
+"6253334600697-2.webp"
+]
+},
+{
+"sku": "JRN00002345",
+"barcode": "6221007026266",
+"cat": 34,
+"ar": "نستله ميجا فانيليا آيس كريم 95 مل",
+"en": "Nestle Mega Vanilla Ice Cream 95 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1200853",
+"img_src": "ninja",
+"images": [
+"6221007026266.webp",
+"6221007026266-1.webp",
+"6221007026266-2.webp"
+]
+},
+{
+"sku": "JRN00002346",
+"barcode": "6281104114426",
+"cat": 34,
+"ar": "فاديكو آيس كريم شوكولاتة بالكراميل بلومارك 110 مل",
+"en": "Fadeco Ice Cream Choco Caramel Stick 110 ml",
+"price": 4.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167143",
+"img_src": "ninja",
+"images": [
+"6281104114426.webp",
+"6281104114426-1.webp",
+"6281104114426-2.webp"
+]
+},
+{
+"sku": "JRN00002347",
+"barcode": "6281039584417",
+"cat": 34,
+"ar": "السعودية بابو آيس كريم بسكويت شوكولاته 110 مل",
+"en": "Saudia Babo Ice Cream Biscuit Chocolate 110 ml",
+"price": 2.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-270009",
+"img_src": "ninja",
+"images": [
+"6281039584417.webp",
+"6281039584417-1.webp",
+"6281039584417-2.webp"
+]
+},
+{
+"sku": "JRN00002348",
+"barcode": "6281100773825",
+"cat": 34,
+"ar": "كواليتي آيس كريم كاسة شوكولاتة 125 مل",
+"en": "Kwality Ice Cream Chocolate Cup 125 ml",
+"price": 4.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19288523",
+"img_src": "ninja",
+"images": [
+"6281100773825.webp",
+"6281100773825-1.webp"
+]
+},
+{
+"sku": "JRN00002349",
+"barcode": "6281104114211",
+"cat": 34,
+"ar": "فاديكو آيس كريم برالين كون 120 مل",
+"en": "Fadeco Ice Cream Praline N'Cream Cone 120 ml",
+"price": 4.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167285",
+"img_src": "ninja",
+"images": [
+"6281104114211.webp",
+"6281104114211-1.webp",
+"6281104114211-2.webp"
+]
+},
+{
+"sku": "JRN00002350",
+"barcode": "6281104114440",
+"cat": 34,
+"ar": "فاديكو آيس كريم سندويتش الفانيلا بلومارك 100 مل",
+"en": "Fadeco Ice Cream Vanilla Sandwich 100 ml",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167315",
+"img_src": "ninja",
+"images": [
+"6281104114440.webp",
+"6281104114440-1.webp",
+"6281104114440-2.webp"
+]
+},
+{
+"sku": "JRN00002351",
+"barcode": "6222020800444",
+"cat": 34,
+"ar": "كيت كات آيس كريم أعواد 90 مل",
+"en": "KitKat Ice Cream Stick 90 ml",
+"price": 9.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1200905",
+"img_src": "ninja",
+"images": [
+"6222020800444.webp",
+"6222020800444-1.webp",
+"6222020800444-2.webp"
+]
+},
+{
+"sku": "JRN00002352",
+"barcode": "8436575298672",
+"cat": 34,
+"ar": "أوريو آيس كريم ستيك 90 مل",
+"en": "Oreo Ice Cream stick 90 ml",
+"price": 12.95,
+"special": 9.24,
+"src": "ninja",
+"ninja_id": "5-19321803",
+"img_src": "ninja",
+"images": [
+"8436575298672.webp",
+"8436575298672-1.webp",
+"8436575298672-2.webp"
+]
+},
+{
+"sku": "JRN00002353",
+"barcode": "036631085161",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم الفانيليا والشوكولاته 90 مل",
+"en": "Baskin Robbins Ice Cream Vanilla & Chocolate 90 ml",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-574",
+"img_src": "ninja",
+"images": [
+"036631085161.webp",
+"036631085161-1.webp",
+"036631085161-2.webp"
+]
+},
+{
+"sku": "JRN00002354",
+"barcode": "6281104110251",
+"cat": 34,
+"ar": "فاديكو آيس كريم مانجو كأس 125 مل",
+"en": "Fadeco Ice Cream Mango Cup 125 ml",
+"price": 2.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167021",
+"img_src": "ninja",
+"images": [
+"6281104110251.webp"
+]
+},
+{
+"sku": "JRN00002355",
+"barcode": "6281104110220",
+"cat": 34,
+"ar": "فاديكو آيس كريم شيكولاتة كأس 125 مل",
+"en": "Fadeco Ice Cream Chocolate Cup 125 ml",
+"price": 2.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167083",
+"img_src": "ninja",
+"images": [
+"6281104110220.webp"
+]
+},
+{
+"sku": "JRN00002356",
+"barcode": "6281100770510",
+"cat": 34,
+"ar": "كواليتي آيس كريم كون فانيلا 150 مل",
+"en": "Kwality Ice Cream Vanilla Kone 150 ml",
+"price": 4.55,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19288526",
+"img_src": "ninja",
+"images": [
+"6281100770510.webp",
+"6281100770510-1.webp",
+"6281100770510-2.webp"
+]
+},
+{
+"sku": "JRN00002357",
+"barcode": "036631084263",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم فيري بيري ستروبري 120 مل",
+"en": "Baskin Robbins Ice Cream Very Berry Strawberry Cup 120 ml",
+"price": 9.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-566",
+"img_src": "ninja",
+"images": [
+"036631084263.webp",
+"036631084263-1.webp",
+"036631084263-2.webp"
+]
+},
+{
+"sku": "JRN00002358",
+"barcode": "6281104110701",
+"cat": 34,
+"ar": "فاديكو آيس كريم مثلج الليمون بالنعناع 120 مل",
+"en": "Fadeco Ice Cream Zoom Lemon Mint 120 ml",
+"price": 1.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19168195",
+"img_src": "ninja",
+"images": [
+"6281104110701.webp",
+"6281104110701-1.webp",
+"6281104110701-2.webp"
+]
+},
+{
+"sku": "JRN00002359",
+"barcode": "6281100770138",
+"cat": 34,
+"ar": "كواليتي آيس كريم ميني ماجيستيك بالمكسرات 85 مل",
+"en": "Kwality Ice Cream Mini Majestic Nut 85 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3387484",
+"img_src": "ninja",
+"images": [
+"6281100770138.webp",
+"6281100770138-1.webp",
+"6281100770138-2.webp"
+]
+},
+{
+"sku": "JRN00002360",
+"barcode": "6281104111951",
+"cat": 34,
+"ar": "فاديكو آيس كريم ساندوتش الكوكيز والكريمة 110 مل",
+"en": "Fadeco Ice Cream Sandwich Cookies n Cream 110 ml",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19421488",
+"img_src": "ninja",
+"images": [
+"6281104111951.webp"
+]
+},
+{
+"sku": "JRN00002361",
+"barcode": "036631085284",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم المانجو أعواد 70 مل",
+"en": "Baskin Robbins Ice Cream Mango 70 ml",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-575",
+"img_src": "ninja",
+"images": [
+"036631085284.webp",
+"036631085284-1.webp",
+"036631085284-2.webp"
+]
+},
+{
+"sku": "JRN00002362",
+"barcode": "6281104110824",
+"cat": 34,
+"ar": "فاديكو آيس كريم مكس ماكس 90 مل",
+"en": "Fadeco Ice Cream Mix Max 90 ml",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167395",
+"img_src": "ninja",
+"images": [
+"6281104110824.webp",
+"6281104110824-1.webp",
+"6281104110824-2.webp"
+]
+},
+{
+"sku": "JRN00002363",
+"barcode": "6281104110589",
+"cat": 34,
+"ar": "فاديكو آيس كريم ليزر 65 مل",
+"en": "Fadeco Ice Cream Lazer 65 ml",
+"price": 1.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19168172",
+"img_src": "ninja",
+"images": [
+"6281104110589.webp",
+"6281104110589-1.webp",
+"6281104110589-2.webp"
+]
+},
+{
+"sku": "JRN00002364",
+"barcode": "6222020802714",
+"cat": 34,
+"ar": "كادبوري كاراميل آيس كريم كون 110 مل",
+"en": "Cadbury Ice Cream Cone Caramel 110 ml",
+"price": 9.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1203141",
+"img_src": "ninja",
+"images": [
+"6222020802714.webp",
+"6222020802714-1.webp"
+]
+},
+{
+"sku": "JRN00002365",
+"barcode": "6253334601496",
+"cat": 34,
+"ar": "ايس كوين آيس كريم كلاسيكو فانيلا شوكو باللوز 95 مل",
+"en": "Ice Queen Ice Cream Classico with Almond 95 ml",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318454",
+"img_src": "ninja",
+"images": [
+"6253334601496.webp",
+"6253334601496-1.webp",
+"6253334601496-2.webp"
+]
+},
+{
+"sku": "JRN00002366",
+"barcode": "6281104110237",
+"cat": 34,
+"ar": "فاديكو آيس كريم فانيلا فراولة كأس 125 مل",
+"en": "Fadeco Ice Cream Vanilla And Strawberry Cup 125 ml",
+"price": 2.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167005",
+"img_src": "ninja",
+"images": [
+"6281104110237.webp"
+]
+},
+{
+"sku": "JRN00002367",
+"barcode": "036631085116",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم الشوكولاته العالمية 90 مل",
+"en": "Baskin Robbins Ice Cream World Class Chocolate 90 ml",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-573",
+"img_src": "ninja",
+"images": [
+"036631085116.webp",
+"036631085116-1.webp",
+"036631085116-2.webp"
+]
+},
+{
+"sku": "JRN00002368",
+"barcode": "036631085147",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم حلوى القطن 120 مل",
+"en": "Baskin Robbins Ice Cream Cotton Candy Cone 120 ml",
+"price": 10.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-569",
+"img_src": "ninja",
+"images": [
+"036631085147.webp",
+"036631085147-1.webp",
+"036631085147-2.webp"
+]
+},
+{
+"sku": "JRN00002369",
+"barcode": "050159347242",
+"cat": 34,
+"ar": "ام اند امز آيس كريم فانيليا 110 مل",
+"en": "M & Ms Vanilla Ice Cream Cone 110 ml",
+"price": 9.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-3918205",
+"img_src": "ninja",
+"images": [
+"050159347242.webp",
+"050159347242-1.webp",
+"050159347242-2.webp"
+]
+},
+{
+"sku": "JRN00002370",
+"barcode": "6281039563016",
+"cat": 34,
+"ar": "السعودية آيس كريم ليمون نعناع 80 مل",
+"en": "Saudia Ice Cream Lemon Mint 80 ml",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-270028",
+"img_src": "ninja",
+"images": [
+"6281039563016.webp",
+"6281039563016-1.webp",
+"6281039563016-2.webp"
+]
+},
+{
+"sku": "JRN00002371",
+"barcode": "050159343961",
+"cat": 34,
+"ar": "سنيكرز آيس كريم 48 جم",
+"en": "Snickers Ice Cream Bar 48 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3916245",
+"img_src": "ninja",
+"images": [
+"050159343961.webp",
+"050159343961-1.webp",
+"050159343961-2.webp"
+]
+},
+{
+"sku": "JRN00002372",
+"barcode": "6281104114419",
+"cat": 34,
+"ar": "فاديكو آيس كريم شوكولاتة بالوز بلومارك 110 مل",
+"en": "Fadeco Ice Cream Almond Chocolate Stick 110 ml",
+"price": 4.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167126",
+"img_src": "ninja",
+"images": [
+"6281104114419.webp",
+"6281104114419-1.webp",
+"6281104114419-2.webp"
+]
+},
+{
+"sku": "JRN00002373",
+"barcode": "6281104110862",
+"cat": 34,
+"ar": "فاديكو آيس كريم شوآيس 80 مل",
+"en": "Fadeco Ice Cream Cho Ice 80 ml",
+"price": 1.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167396",
+"img_src": "ninja",
+"images": [
+"6281104110862.webp",
+"6281104110862-1.webp",
+"6281104110862-2.webp"
+]
+},
+{
+"sku": "JRN00002374",
+"barcode": "8436575297309",
+"cat": 34,
+"ar": "توبليرون آيس كريم أعواد مغطاة بالشوكولاته 90 مل",
+"en": "Toblerone Ice Cream Stick Covered by chocolate 90 ml",
+"price": 13.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-1201350",
+"img_src": "ninja",
+"images": [
+"8436575297309.webp",
+"8436575297309-1.webp",
+"8436575297309-2.webp"
+]
+},
+{
+"sku": "JRN00002375",
+"barcode": "6281104114464",
+"cat": 34,
+"ar": "فاديكو آيس كريم عصا الفول السوداني المقرمش بلومارك 110 مل",
+"en": "Fadeco Ice Cream Crunchy Peanut Stick 110 ml",
+"price": 4.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167197",
+"img_src": "ninja",
+"images": [
+"6281104114464.webp",
+"6281104114464-1.webp",
+"6281104114464-2.webp"
+]
+},
+{
+"sku": "JRN00002376",
+"barcode": "6281100773764",
+"cat": 34,
+"ar": "كواليتي آيس كريم حلوى شوكولاتة الفاخر 125 مل",
+"en": "Kwality Ice Cream Chocolate Fudge Premium 125 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3386455",
+"img_src": "ninja",
+"images": [
+"6281100773764.webp",
+"6281100773764-1.webp",
+"6281100773764-2.webp"
+]
+},
+{
+"sku": "JRN00002377",
+"barcode": "6281039582611",
+"cat": 34,
+"ar": "السعودية يوفو آيس كريم 83 مل",
+"en": "Saudia Ufo Ice Cream 85 ml",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3027",
+"img_src": "ninja",
+"images": [
+"6281039582611.webp",
+"6281039582611-1.webp",
+"6281039582611-2.webp"
+]
+},
+{
+"sku": "JRN00002378",
+"barcode": "050159484657",
+"cat": 34,
+"ar": "بار الآيس كريم تويكس 40 جم",
+"en": "Twix Ice Cream Bar 40 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3935683",
+"img_src": "ninja",
+"images": [
+"050159484657.webp",
+"050159484657-1.webp",
+"050159484657-2.webp"
+]
+},
+{
+"sku": "JRN00002379",
+"barcode": "6281104110213",
+"cat": 34,
+"ar": "فاديكو آيس كريم فانيلا كأس 125 مل",
+"en": "Fadeco Ice Cream Vanilla Cup 125 ml",
+"price": 2.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19166934",
+"img_src": "ninja",
+"images": [
+"6281104110213.webp"
+]
+},
+{
+"sku": "JRN00002380",
+"barcode": "6281104114235",
+"cat": 34,
+"ar": "فاديكو آيس كريم الشوكولاتة المزدوجة بلومارك 120 مل",
+"en": "Fadeco Ice Cream Double Chocolate Cone 120 ml",
+"price": 4.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19167316",
+"img_src": "ninja",
+"images": [
+"6281104114235.webp",
+"6281104114235-1.webp",
+"6281104114235-2.webp"
+]
+},
+{
+"sku": "JRN00002381",
+"barcode": "036631085277",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم كوتون كاندي 90 مل",
+"en": "Baskin Robbins Ice Cream Cotton Candy 90 ml",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-576",
+"img_src": "ninja",
+"images": [
+"036631085277.webp",
+"036631085277-1.webp",
+"036631085277-2.webp"
+]
+},
+{
+"sku": "JRN00002382",
+"barcode": "6281100773344",
+"cat": 34,
+"ar": "فرجينتو آيس كريم برالاينز بالكريم 125 مل",
+"en": "Frigento Ice Cream Pralines & Cream 125 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3394930",
+"img_src": "ninja",
+"images": [
+"6281100773344.webp",
+"6281100773344-1.webp",
+"6281100773344-2.webp"
+]
+},
+{
+"sku": "JRN00002383",
+"barcode": "6281100770015",
+"cat": 34,
+"ar": "كواليتي آيس كريم فراولة 120 مل",
+"en": "Kwality Ice Cream Strawberry 120 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374247",
+"img_src": "ninja",
+"images": [
+"6281100770015.webp",
+"6281100770015-1.webp"
+]
+},
+{
+"sku": "JRN00002384",
+"barcode": "6281039567014",
+"cat": 34,
+"ar": "السعودية آيس كريم بابو كولا 120 مل",
+"en": "Saudia Ice Cream Babo Push Up Cola 120 ml",
+"price": 1.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318127",
+"img_src": "ninja",
+"images": [
+"6281039567014.webp",
+"6281039567014-1.webp",
+"6281039567014-2.webp"
+]
+},
+{
+"sku": "JRN00002385",
+"barcode": "050159483025",
+"cat": 34,
+"ar": "باونتي آيس كريم 39.1 جم",
+"en": "Bounty Single Ice Cream Bar 39.1 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3932555",
+"img_src": "ninja",
+"images": [
+"050159483025.webp",
+"050159483025-1.webp",
+"050159483025-2.webp"
+]
+},
+{
+"sku": "JRN00002386",
+"barcode": "6287000490107",
+"cat": 34,
+"ar": "آيس كريم حلاوة بقرة ساندويتش 55 جم",
+"en": "Ice Cream Fudge Sandwich 55 g",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19331421",
+"img_src": "ninja",
+"images": [
+"6287000490107.webp",
+"6287000490107-1.webp"
+]
+},
+{
+"sku": "JRN00002387",
+"barcode": "6281104114129",
+"cat": 34,
+"ar": "فاديكو آيس كريم بروتين بالفانيلا 250 مل",
+"en": "Fadeco Ice Cream Protein Vanilla 250 ml",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19344010",
+"img_src": "ninja",
+"images": [
+"6281104114129.webp"
+]
+},
+{
+"sku": "JRN00002388",
+"barcode": "6281100777021",
+"cat": 34,
+"ar": "كواليتي آيس كريم التوت الأحمر 120 مل",
+"en": "Kwality Ice Cream Raspberry Red 120 ml",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374248",
+"img_src": "ninja",
+"images": [
+"6281100777021.webp",
+"6281100777021-1.webp"
+]
+},
+{
+"sku": "JRN00002389",
+"barcode": "8437020396011",
+"cat": 34,
+"ar": "فرانوي توت مجمد مغطى بالشوكولاتة البيضاء والشوكولاته بالحليب 150 جم",
+"en": "Franui Frozen Raspberry Coated in White & Milk Chocolate 150 g",
+"price": 37.95,
+"special": 33.95,
+"src": "ninja",
+"ninja_id": "5-19292046",
+"img_src": "ninja",
+"images": [
+"8437020396011.webp",
+"8437020396011-1.webp",
+"8437020396011-2.webp"
+]
+},
+{
+"sku": "JRN00002390",
+"barcode": "6281039560114",
+"cat": 34,
+"ar": "السعودية تورنادو آيس كريم أناناس 80 مل",
+"en": "Saudia Tornado Ice Cream Pineapple 80 ml",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3059",
+"img_src": "ninja",
+"images": [
+"6281039560114.webp",
+"6281039560114-1.webp",
+"6281039560114-2.webp"
+]
+},
+{
+"sku": "JRN00002391",
+"barcode": "6281007067317",
+"cat": 34,
+"ar": "المراعي آيس كريم دبل ساندوتش 100 مل",
+"en": "Almarai Ice Cream Double Sandwich 100 ml",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19361177",
+"img_src": "ninja",
+"images": [
+"6281007067317.webp",
+"6281007067317-1.webp"
+]
+},
+{
+"sku": "JRN00002392",
+"barcode": "6281100773559",
+"cat": 34,
+"ar": "فرجينتو آيس كريم أعواد الفانيليا 85 مل",
+"en": "Frigento Ice Cream Stick Vanilla 85 ml",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19288524",
+"img_src": "ninja",
+"images": [
+"6281100773559.webp",
+"6281100773559-1.webp",
+"6281100773559-2.webp"
+]
+},
+{
+"sku": "JRN00002393",
+"barcode": "6281007067218",
+"cat": 34,
+"ar": "المراعي آيس كريم ستيك فانيليا وفراولة 90 مل",
+"en": "Almarai Ice Cream Stick Vanilla & Strawberry 90 ml",
+"price": 6.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19361182",
+"img_src": "ninja",
+"images": [
+"6281007067218.webp",
+"6281007067218-1.webp",
+"6281007067218-2.webp"
+]
+},
+{
+"sku": "JRN00002394",
+"barcode": "6281039518610",
+"cat": 34,
+"ar": "السعودية آيس كريم 2 في 1 فانيليا و فراولة 1 لتر",
+"en": "Saudia Ice Cream 2in1 vanilla and strawberry 1 L",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327424",
+"img_src": "ninja",
+"images": [
+"6281039518610.webp",
+"6281039518610-1.webp",
+"6281039518610-2.webp"
+]
+},
+{
+"sku": "JRN00002395",
+"barcode": "6281039581515",
+"cat": 34,
+"ar": "السعودية مور آيس كريم 85 مل",
+"en": "Saudia More Ice Cream 85 ml",
+"price": 3.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3025",
+"img_src": "ninja",
+"images": [
+"6281039581515.webp",
+"6281039581515-1.webp"
+]
+},
+{
+"sku": "JRN00002396",
+"barcode": "6281007067355",
+"cat": 34,
+"ar": "المراعي آيس كريم ميني بايتس بالفانيليا مع عجينة الكوكي 128 مل",
+"en": "Almarai Ice Cream Mini Bites Vanilla Cookie Dough 128 ml",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19361175",
+"img_src": "ninja",
+"images": [
+"6281007067355.webp",
+"6281007067355-1.webp"
+]
+},
+{
+"sku": "JRN00002397",
+"barcode": "036631085109",
+"cat": 34,
+"ar": "باسكن روبنز أعواد آيس كريم متعة البرلاين 90 مل",
+"en": "Baskin Robbins Ice Cream Praline Delight 90 ml",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-572",
+"img_src": "ninja",
+"images": [
+"036631085109.webp",
+"036631085109-1.webp",
+"036631085109-2.webp"
+]
+},
+{
+"sku": "JRN00002398",
+"barcode": "5000159607711",
+"cat": 34,
+"ar": "جالاكسي آيس كريم فانيلا ستيك 58 مل",
+"en": "Galaxy Ice Cream Vanilla Stick 58 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19406629",
+"img_src": "ninja",
+"images": [
+"5000159607711.webp"
+]
+},
+{
+"sku": "JRN00002399",
+"barcode": "6253334601557",
+"cat": 34,
+"ar": "ايس كوين آيس كريم كلاسيكو فانيلا شوكو 85 مل",
+"en": "Ice Queen Ice Cream Classico Vanilla 85 ml",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318458",
+"img_src": "ninja",
+"images": [
+"6253334601557.webp",
+"6253334601557-1.webp",
+"6253334601557-2.webp"
+]
+},
+{
+"sku": "JRN00002400",
+"barcode": "6281039584011",
+"cat": 34,
+"ar": "السعودية بابو آيس كريم بسكويت الفانيلا 110 مل",
+"en": "Saudia Babo Ice Cream Biscuit Vanilla 110 ml",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-270104",
+"img_src": "ninja",
+"images": [
+"6281039584011.webp",
+"6281039584011-1.webp",
+"6281039584011-2.webp"
+]
+},
+{
+"sku": "JRN00002401",
+"barcode": "6281007067171",
+"cat": 34,
+"ar": "المراعي آيس كريم كون فانيليا وفراولة 120 مل",
+"en": "Almarai Ice Cream Cone Vanilla Strawberry 120 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19361179",
+"img_src": "ninja",
+"images": [
+"6281007067171.webp",
+"6281007067171-1.webp",
+"6281007067171-2.webp"
+]
+},
+{
+"sku": "JRN00002402",
+"barcode": "5060954780101",
+"cat": 34,
+"ar": "بكبيب قطع الموز المجمدة المغمسه في شوكولاتة الحليب 175 جم",
+"en": "Pukpip Frozen Banana Bites Dipped in Milk Chocolate 175 g",
+"price": 35.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19336007",
+"img_src": "ninja",
+"images": [
+"5060954780101.webp",
+"5060954780101-1.webp",
+"5060954780101-2.webp"
+]
+},
+{
+"sku": "JRN00002403",
+"barcode": "6281007067232",
+"cat": 34,
+"ar": "المراعي آيس كريم ستيك فانيليا وكراميل 90 مل",
+"en": "Almarai Ice Cream Stick Vanilla & Caramel 90 ml",
+"price": 7.25,
+"special": 6.75,
+"src": "ninja",
+"ninja_id": "5-19361178",
+"img_src": "ninja",
+"images": [
+"6281007067232.webp",
+"6281007067232-1.webp",
+"6281007067232-2.webp"
+]
+},
+{
+"sku": "JRN00002404",
+"barcode": "6222020805135",
+"cat": 34,
+"ar": "كادبوري آيس كريم كون ديري مليك 110 مل",
+"en": "Cadbury Ice Cream Dairy Milk Cone 110 ml",
+"price": 9.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19395349",
+"img_src": "ninja",
+"images": [
+"6222020805135.webp",
+"6222020805135-1.webp",
+"6222020805135-2.webp"
+]
+},
+{
+"sku": "JRN00002405",
+"barcode": "6281100773566",
+"cat": 34,
+"ar": "فرجينتو آيس كريم أعواد الشوكولاتة الثلاثية 85 مل",
+"en": "Frigento Ice Cream Stick Triple Chocolate 85 ml",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19288532",
+"img_src": "ninja",
+"images": [
+"6281100773566.webp",
+"6281100773566-1.webp"
+]
+},
+{
+"sku": "JRN00002406",
+"barcode": "6222020804350",
+"cat": 34,
+"ar": "نستله اسكويز أب آيس كريم مانجو 120 مل",
+"en": "Nestle Squizz UP Ice Cream Mango 120 ml",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376515",
+"img_src": "ninja",
+"images": [
+"6222020804350.webp",
+"6222020804350-1.webp",
+"6222020804350-2.webp"
+]
+},
+{
+"sku": "JRN00002407",
+"barcode": "6281105500389",
+"cat": 34,
+"ar": "الامل آيس كريم كأس شوكولاتة 100 مل",
+"en": "Al Amal Ice Cream Cup Chocolate 100 ml",
+"price": 1.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287936",
+"img_src": "ninja",
+"images": [
+"6281105500389.webp",
+"6281105500389-1.webp",
+"6281105500389-2.webp"
+]
+},
+{
+"sku": "JRN00002408",
+"barcode": "6281100773771",
+"cat": 34,
+"ar": "كواليتي آيس كريم فستق الفاخر 125 مل",
+"en": "Kwality Ice Cream Pistachio Premium 125 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3385412",
+"img_src": "ninja",
+"images": [
+"6281100773771.webp",
+"6281100773771-1.webp",
+"6281100773771-2.webp"
+]
+},
+{
+"sku": "JRN00002409",
+"barcode": "5000159452946",
+"cat": 34,
+"ar": "جالكسي آيس كريم بندق وشوكولاتة 110 مل",
+"en": "Galaxy Hazelnut And Chocolate Cone Ice Cream 110 ml",
+"price": 10.95,
+"special": 9.85,
+"src": "ninja",
+"ninja_id": "5-3930340",
+"img_src": "ninja",
+"images": [
+"5000159452946.webp",
+"5000159452946-1.webp",
+"5000159452946-2.webp"
+]
+},
+{
+"sku": "JRN00002410",
+"barcode": "6287041130369",
+"cat": 35,
+"ar": "ايزي بايتس شرائح تمر البرحي المجففة 25 جم",
+"en": "Easy Bites Dried Dates Slice 25 g",
+"price": 10.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19336059",
+"img_src": "ninja",
+"images": [
+"6287041130369.webp",
+"6287041130369-1.webp",
+"6287041130369-2.webp"
+]
+},
+{
+"sku": "JRN00002411",
+"barcode": "6281100770893",
+"cat": 34,
+"ar": "كواليتي آيس كريم زبدة سكواتش 1 لتر",
+"en": "Kwality Ice Cream Butter Scotch 1 L",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317628",
+"img_src": "ninja",
+"images": [
+"6281100770893.webp",
+"6281100770893-1.webp",
+"6281100770893-2.webp"
+]
+},
+{
+"sku": "JRN00002412",
+"barcode": "6281104114112",
+"cat": 34,
+"ar": "فاديكو آيس كريم تشو بايتس بالفانيلا المغطاة بالشوكولاته 225 جم",
+"en": "Fadeco Cho Bites Chocolate Ice Cream Dipped In Vanilla 225 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19344009",
+"img_src": "ninja",
+"images": [
+"6281104114112.webp"
+]
+},
+{
+"sku": "JRN00002413",
+"barcode": "4999900001278",
+"cat": 34,
+"ar": "داندي آيس كريم بون بون فانيليا 238 مل",
+"en": "Dandy Ice Cream Bon Bon Vanilla 238 ml",
+"price": 22.95,
+"special": 17.2,
+"src": "ninja",
+"ninja_id": "5-19388233",
+"img_src": "ninja",
+"images": [
+"4999900001278.webp",
+"4999900001278-1.webp",
+"4999900001278-2.webp"
+]
+},
+{
+"sku": "JRN00002414",
+"barcode": "6281007067195",
+"cat": 34,
+"ar": "المراعي آيس كريم كون الشوكولاته الثلاثية 120 مل",
+"en": "Almarai Ice Cream Cone Triple Chocolate 120 ml",
+"price": 5.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19361176",
+"img_src": "ninja",
+"images": [
+"6281007067195.webp",
+"6281007067195-1.webp",
+"6281007067195-2.webp"
+]
+},
+{
+"sku": "JRN00002415",
+"barcode": "6281039581614",
+"cat": 34,
+"ar": "السعودية آيس كريم شوكولاته باللوز 105 مل 83 جم",
+"en": "Saudia Ice Cream Chocolate Almond 105 ml 83 g",
+"price": 5.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3029",
+"img_src": "ninja",
+"images": [
+"6281039581614.webp",
+"6281039581614-1.webp"
+]
+},
+{
+"sku": "JRN00002416",
+"barcode": "6281100770978",
+"cat": 34,
+"ar": "كواليتي آيس كريم مقلم الكراميل 1 لتر",
+"en": "Kwality Ice Cream Caramel Ripple 1 L",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317623",
+"img_src": "ninja",
+"images": [
+"6281100770978.webp",
+"6281100770978-1.webp",
+"6281100770978-2.webp"
+]
+},
+{
+"sku": "JRN00002417",
+"barcode": "5000159600927",
+"cat": 34,
+"ar": "تروفرو فراولة مجمدة مغطاة بالشوكولاتة بالحليب 200 جم",
+"en": "Tru Fru Frozen Strawberries with Milk Chocolate 200 g",
+"price": 41.95,
+"special": 36.7,
+"src": "ninja",
+"ninja_id": "5-19405085",
+"img_src": "ninja",
+"images": [
+"5000159600927.webp",
+"5000159600927-1.webp"
+]
+},
+{
+"sku": "JRN00002418",
+"barcode": "6281007075008",
+"cat": 34,
+"ar": "المراعي آيس كريم ميني بايتس شوكولاتة بيضاء مع عجينة البندق 128 مل",
+"en": "Almarai Ice Cream Mini Bites White Chocolate with Hazelnut Dough 128 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19417388",
+"img_src": "ninja",
+"images": [
+"6281007075008.webp",
+"6281007075008-1.webp"
+]
+},
+{
+"sku": "JRN00002419",
+"barcode": "6281104114136",
+"cat": 34,
+"ar": "فاديكو آيس كريم تشو بايتس بنكهة الفستق 240 مل",
+"en": "Fadeco Ice Cream Cho Bites Pistachio 240 ml",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19393316",
+"img_src": "ninja",
+"images": [
+"6281104114136.webp"
+]
+},
+{
+"sku": "JRN00002420",
+"barcode": "5000159543484",
+"cat": 34,
+"ar": "سنيكرز كريمي بار آيس كريم 39 جم",
+"en": "Snickers Creamy Ice Cream Bar 39 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293148",
+"img_src": "ninja",
+"images": [
+"5000159543484.webp",
+"5000159543484-1.webp",
+"5000159543484-2.webp"
+]
+},
+{
+"sku": "JRN00002421",
+"barcode": "6281007074995",
+"cat": 34,
+"ar": "المراعي آيس كريم ميني بايتس بقلاوة بالفستق 128 مل",
+"en": "Almarai Ice Cream Mini Bites Baklawa Pistachio 128 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407821",
+"img_src": "ninja",
+"images": [
+"6281007074995.webp",
+"6281007074995-1.webp"
+]
+},
+{
+"sku": "JRN00002422",
+"barcode": "5000159600903",
+"cat": 34,
+"ar": "تروفرو توت العليق مجمد مغطى بالشوكولاتة الداكنة 200 جم",
+"en": "Tru Fru Frozen Raspberry with Dark Chocolate 200 g",
+"price": 41.95,
+"special": 36.7,
+"src": "ninja",
+"ninja_id": "5-19405084",
+"img_src": "ninja",
+"images": [
+"5000159600903.webp",
+"5000159600903-1.webp",
+"5000159600903-2.webp"
+]
+},
+{
+"sku": "JRN00002423",
+"barcode": "6281104114143",
+"cat": 34,
+"ar": "فاديكو آيس كريم تشو بايتس بنكهة الكراميل 240 مل",
+"en": "Fadeco Ice Cream Cho Bites caramel 240 ml",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19393317",
+"img_src": "ninja",
+"images": [
+"6281104114143.webp"
+]
+},
+{
+"sku": "JRN00002424",
+"barcode": "6281100773788",
+"cat": 34,
+"ar": "كواليتي آيس كريم بالكوكيز والكريمة الفاخر 125 مل",
+"en": "Kwality Ice Cream Cookies & Cream Premium 125 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3387012",
+"img_src": "ninja",
+"images": [
+"6281100773788.webp",
+"6281100773788-1.webp",
+"6281100773788-2.webp"
+]
+},
+{
+"sku": "JRN00002425",
+"barcode": "6281100775843",
+"cat": 34,
+"ar": "كواليتي آيس كريم ديلوكس كرز بالفانيلا 85 مل",
+"en": "Kwality Ice Cream Deluxe Cherry Vanilla 85 ml",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3390000",
+"img_src": "ninja",
+"images": [
+"6281100775843.webp",
+"6281100775843-1.webp"
+]
+},
+{
+"sku": "JRN00002426",
+"barcode": "050159397360",
+"cat": 34,
+"ar": "مارس آيس كريم 41.8 جم",
+"en": "Mars Ice Cream Bar 41.8 g",
+"price": 7.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3924002",
+"img_src": "ninja",
+"images": [
+"050159397360.webp",
+"050159397360-1.webp",
+"050159397360-2.webp"
+]
+},
+{
+"sku": "JRN00002427",
+"barcode": "6281100771371",
+"cat": 34,
+"ar": "كواليتي آيس كريم مقلم التوفي 1 لتر",
+"en": "Kwality Ice Cream Toffee Ripple 1 L",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317624",
+"img_src": "ninja",
+"images": [
+"6281100771371.webp",
+"6281100771371-1.webp",
+"6281100771371-2.webp"
+]
+},
+{
+"sku": "JRN00002428",
+"barcode": "6221007026280",
+"cat": 34,
+"ar": "نستله ميجا شوكولاته آيس كريم 95 مل",
+"en": "Nestle Mega Chocolate Ice Cream 95 ml",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1200359",
+"img_src": "ninja",
+"images": [
+"6221007026280.webp",
+"6221007026280-1.webp",
+"6221007026280-2.webp"
+]
+},
+{
+"sku": "JRN00002429",
+"barcode": "5000159600941",
+"cat": 34,
+"ar": "تروفرو أناناس مجمد مغطى بالشوكولاتة البيضاء و جوز الهند 200 جم",
+"en": "Tru Fru Frozen Pineapple with White Chocolate and Coconut 200 g",
+"price": 44.95,
+"special": 39.32,
+"src": "ninja",
+"ninja_id": "5-19405086",
+"img_src": "ninja",
+"images": [
+"5000159600941.webp",
+"5000159600941-1.webp"
+]
+},
+{
+"sku": "JRN00002430",
+"barcode": "8437020396028",
+"cat": 34,
+"ar": "فرانوي توت مجمد مغطى بالشوكولاتة البيضاء والشوكولاته الداكنة 150 جم",
+"en": "Franui Frozen Raspberry in White & Dark Chocolate 150 g",
+"price": 37.95,
+"special": 33.95,
+"src": "ninja",
+"ninja_id": "5-19292047",
+"img_src": "ninja",
+"images": [
+"8437020396028.webp",
+"8437020396028-1.webp",
+"8437020396028-2.webp"
+]
+},
+{
+"sku": "JRN00002431",
+"barcode": "6281100770916",
+"cat": 34,
+"ar": "كواليتي آيس كريم مقلم التوت 1 لتر",
+"en": "Kwality Ice Cream Raspberry Ripple 1 L",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317622",
+"img_src": "ninja",
+"images": [
+"6281100770916.webp",
+"6281100770916-1.webp",
+"6281100770916-2.webp"
+]
+},
+{
+"sku": "JRN00002432",
+"barcode": "6281100770992",
+"cat": 34,
+"ar": "كواليتي آيس كريم شوكولاتة 1 لتر",
+"en": "Kwality Ice Cream Chocolate 1 L",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317629",
+"img_src": "ninja",
+"images": [
+"6281100770992.webp",
+"6281100770992-1.webp",
+"6281100770992-2.webp"
+]
+},
+{
+"sku": "JRN00002433",
+"barcode": "8005840020289",
+"cat": 34,
+"ar": "لواكر آيس كريم ساندوتش نابوليتانر قطعتين 4 مغلفات 264 جم",
+"en": "Loacker Ice Cream Sandwich Napolitaner 2 pcs 4 sachets 264 g",
+"price": 37.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19336430",
+"img_src": "ninja",
+"images": [
+"8005840020289.webp",
+"8005840020289-1.webp",
+"8005840020289-2.webp"
+]
+},
+{
+"sku": "JRN00002434",
+"barcode": "5000159509756",
+"cat": 34,
+"ar": "سنيكرز آيس كريم شوكولاتة بيضاء 40.8 جم",
+"en": "Snickers White Ice Cream Bar 40.8 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3994202",
+"img_src": "ninja",
+"images": [
+"5000159509756.webp",
+"5000159509756-1.webp"
+]
+},
+{
+"sku": "JRN00002435",
+"barcode": "6281039518214",
+"cat": 34,
+"ar": "السعودية آيس كريم فانيليا 1 لتر",
+"en": "Saudia Ice Cream Vanilla Tubs 1 L",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327423",
+"img_src": "ninja",
+"images": [
+"6281039518214.webp"
+]
+},
+{
+"sku": "JRN00002436",
+"barcode": "6281105501065",
+"cat": 34,
+"ar": "الامل آيس كريم كوريتو كورنيه فانيلا 150 مل",
+"en": "Al Amal Ice Cream Corrito Corn Vanilla 150 ml",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19287944",
+"img_src": "ninja",
+"images": [
+"6281105501065.webp",
+"6281105501065-1.webp",
+"6281105501065-2.webp"
+]
+},
+{
+"sku": "JRN00002437",
+"barcode": "6253808730011",
+"cat": 34,
+"ar": "أون آيس كريم بنكهة الفستق العربي مع قطع الحلوى الملونة 125 مل",
+"en": "ON Ice Arabic Pistachio Booza 125 ml",
+"price": 16.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-19410852",
+"img_src": "ninja",
+"images": [
+"6253808730011.webp"
+]
+},
+{
+"sku": "JRN00002438",
+"barcode": "8684184785551",
+"cat": 34,
+"ar": "فروتا توت العليق الأسود المجمد المغطى بالشوكولاتة 150 جم",
+"en": "Fruita Chocolate Coated Frozen Blackberry 150 g",
+"price": 34.95,
+"special": 25.95,
+"src": "ninja",
+"ninja_id": "5-19410834",
+"img_src": "ninja",
+"images": [
+"8684184785551.webp",
+"8684184785551-1.webp"
+]
+},
+{
+"sku": "JRN00002439",
+"barcode": "6281100771050",
+"cat": 34,
+"ar": "كواليتي آيس كريم فانيليا 1 لتر",
+"en": "Kwality Ice Cream Vanilla 1 L",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317625",
+"img_src": "ninja",
+"images": [
+"6281100771050.webp",
+"6281100771050-1.webp",
+"6281100771050-2.webp"
+]
+},
+{
+"sku": "JRN00002440",
+"barcode": "8005840020296",
+"cat": 34,
+"ar": "لواكر آيس كريم ساندوتش قطعتين 4 مغلفات 264 جم",
+"en": "Loacker Ice Cream Sandwich 2 pcs 4 sachets 264 g",
+"price": 36.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-19336431",
+"img_src": "ninja",
+"images": [
+"8005840020296.webp",
+"8005840020296-1.webp",
+"8005840020296-2.webp"
+]
+},
+{
+"sku": "JRN00002441",
+"barcode": "6291003099472",
+"cat": 34,
+"ar": "لندن ديري آيس كريم اللوز ستيك 100 مل",
+"en": "London Dairy Ice Cream Almond Stick 100 ml",
+"price": 10.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290213",
+"img_src": "ninja",
+"images": [
+"6291003099472.webp",
+"6291003099472-1.webp",
+"6291003099472-2.webp"
+]
+},
+{
+"sku": "JRN00002442",
+"barcode": "6291003098871",
+"cat": 34,
+"ar": "كوانتا آيس كريم ميني اللوز ستيك ملتي باك - 6 حبات 50 مل",
+"en": "QUANTA ICE Ice Cream Almond Stick Mini-Mp 6 Pc'S 50 ml",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19290194",
+"img_src": "ninja",
+"images": [
+"6291003098871.webp",
+"6291003098871-1.webp",
+"6291003098871-2.webp"
+]
+},
+{
+"sku": "JRN00002443",
+"barcode": "6224002300065",
+"cat": 34,
+"ar": "سموتشي موتشي آيس كريم مانجو عويس موتشي 192 جم",
+"en": "Smoochy Mochi Ice Cream Mango Eweis 192 g",
+"price": 29.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19389170",
+"img_src": "ninja",
+"images": [
+"6224002300065.webp",
+"6224002300065-1.webp",
+"6224002300065-2.webp"
+]
+},
+{
+"sku": "JRN00002444",
+"barcode": "6224002300133",
+"cat": 34,
+"ar": "سموتشي موتشي آيس كريم ليمون نعناع موتشي 192 جم",
+"en": "Smoochy Mochi Ice Cream Lemon Mint 192 g",
+"price": 29.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19389173",
+"img_src": "ninja",
+"images": [
+"6224002300133.webp",
+"6224002300133-1.webp"
+]
+},
+{
+"sku": "JRN00002445",
+"barcode": "6281007067256",
+"cat": 34,
+"ar": "المراعي آيس كريم ستيك كراميل مملح 90 مل",
+"en": "Almarai Ice Cream Stick Salted Caramel 90 ml",
+"price": 6.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19361173",
+"img_src": "ninja",
+"images": [
+"6281007067256.webp",
+"6281007067256-1.webp",
+"6281007067256-2.webp"
+]
+},
+{
+"sku": "JRN00002446",
+"barcode": "6281100300014",
+"cat": 34,
+"ar": "داندورما أيس بوب 92 جم",
+"en": "Dandormah Ice Pop Fruits 92 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19288645",
+"img_src": "ninja",
+"images": [
+"6281100300014.webp",
+"6281100300014-1.webp",
+"6281100300014-2.webp"
+]
+},
+{
+"sku": "JRN00002447",
+"barcode": "6281039518016",
+"cat": 34,
+"ar": "السعودية آيس كريم شوكولاتة 1 لتر",
+"en": "Saudia Ice Cream Chocolate Tubs 1 L",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19327421",
+"img_src": "ninja",
+"images": [
+"6281039518016.webp",
+"6281039518016-1.webp",
+"6281039518016-2.webp"
+]
+},
+{
+"sku": "JRN00002448",
+"barcode": "8684184785537",
+"cat": 34,
+"ar": "فروتا توت العليق المجمد المغطى بالشوكولاتة 150 جم",
+"en": "Fruita Chocolate Coated Frozen Raspberry 150 g",
+"price": 34.95,
+"special": 25.95,
+"src": "ninja",
+"ninja_id": "5-19410833",
+"img_src": "ninja",
+"images": [
+"8684184785537.webp"
+]
+},
+{
+"sku": "JRN00002449",
+"barcode": "6253808730059",
+"cat": 34,
+"ar": "أون آيس كريم بنكهة الشوكولاتة الداكنة الغنية 473 مل",
+"en": "ON Ice Deep Dark Chocolate Handcrafted Ice Cream 473 ml",
+"price": 44.95,
+"special": 32.95,
+"src": "ninja",
+"ninja_id": "5-19410846",
+"img_src": "ninja",
+"images": [
+"6253808730059.webp"
+]
+},
+{
+"sku": "JRN00002450",
+"barcode": "6253808730042",
+"cat": 34,
+"ar": "أون آيس كريم بنكهة الشوكولاتة الداكنة الغنية 125 مل",
+"en": "ON Ice Deep Dark Chocolate 125 ml",
+"price": 16.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-19410849",
+"img_src": "ninja",
+"images": [
+"6253808730042.webp"
+]
+},
+{
+"sku": "JRN00002451",
+"barcode": "6253808730219",
+"cat": 34,
+"ar": "أون آيس كريم بنكهة كعكة عيد الميلاد مع قطع الحلوى الملونة 125 مل",
+"en": "ON Ice Birthday Cake Confetti 125 ml",
+"price": 16.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-19410851",
+"img_src": "ninja",
+"images": [
+"6253808730219.webp"
+]
+},
+{
+"sku": "JRN00002452",
+"barcode": "6281100770930",
+"cat": 34,
+"ar": "كواليتي آيس كريم مقلم شوكولاتة 1 لتر",
+"en": "Kwality Ice Cream Chocolate Ripple 1 L",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19317621",
+"img_src": "ninja",
+"images": [
+"6281100770930.webp",
+"6281100770930-1.webp",
+"6281100770930-2.webp"
+]
+},
+{
+"sku": "JRN00002453",
+"barcode": "8005840020272",
+"cat": 34,
+"ar": "لواكر آيس كريم ساندوتش حليب جبال الالب قطعتين 4 مغلفات 264 جم",
+"en": "Loacker Ice Cream Sandwich Alpine Milk 2 pcs 4 sachets 264 g",
+"price": 37.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19336432",
+"img_src": "ninja",
+"images": [
+"8005840020272.webp",
+"8005840020272-1.webp",
+"8005840020272-2.webp"
+]
+},
+{
+"sku": "JRN00002454",
+"barcode": "6222020807757",
+"cat": 34,
+"ar": "كت كات آيس كريم كريسبي ويفر 500 مل",
+"en": "KitKat Ice Cream Crispy Wafer 500 ml",
+"price": 40.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19357282",
+"img_src": "ninja",
+"images": [
+"6222020807757.webp"
+]
+},
+{
+"sku": "JRN00002455",
+"barcode": "6281007072823",
+"cat": 34,
+"ar": "المراعي آيس كريم ميني كونز فانيلا 7 حبات 196 مل",
+"en": "Almarai Ice Cream Mini Vanilla Cones 7 pcs 196 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368715",
+"img_src": "ninja",
+"images": [
+"6281007072823.webp",
+"6281007072823-1.webp",
+"6281007072823-2.webp"
+]
+},
+{
+"sku": "JRN00002456",
+"barcode": "608597533019",
+"cat": 34,
+"ar": "هاوس اوف بوبس آيس كريم شوكولاتة موز 3 حبات 80 مل",
+"en": "House Of Pops Ice Cream Chocolate Banana 3 pcs 80 ml",
+"price": 38.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19372259",
+"img_src": "ninja",
+"images": [
+"608597533019.webp",
+"608597533019-1.webp",
+"608597533019-2.webp"
+]
+},
+{
+"sku": "JRN00002457",
+"barcode": "6281007067416",
+"cat": 34,
+"ar": "المراعي آيس كريم فانيليا وفراولة 900 مل",
+"en": "Almarai Ice Cream Tub Vanilla Strawberry 900 ml",
+"price": 32.95,
+"special": 25.95,
+"src": "ninja",
+"ninja_id": "5-19361183",
+"img_src": "ninja",
+"images": [
+"6281007067416.webp",
+"6281007067416-1.webp",
+"6281007067416-2.webp"
+]
+},
+{
+"sku": "JRN00002458",
+"barcode": "8684184785520",
+"cat": 34,
+"ar": "فروتا الفراولة المجمدة المغطاة بالشوكولاتة 150 جم",
+"en": "Fruita Chocolate Coated Frozen Strawberry 150 g",
+"price": 34.95,
+"special": 25.95,
+"src": "ninja",
+"ninja_id": "5-19410835",
+"img_src": "ninja",
+"images": [
+"8684184785520.webp"
+]
+},
+{
+"sku": "JRN00002459",
+"barcode": "6253808730226",
+"cat": 34,
+"ar": "أون آيس كريم بنكهة كعكة عيد الميلاد مع قطع الحلوى الملونة 473 مل",
+"en": "ON Ice Birthday Cake Confetti Handcrafted Ice Cream 473 ml",
+"price": 44.95,
+"special": 32.95,
+"src": "ninja",
+"ninja_id": "5-19410843",
+"img_src": "ninja",
+"images": [
+"6253808730226.webp"
+]
+},
+{
+"sku": "JRN00002460",
+"barcode": "6253808730509",
+"cat": 34,
+"ar": "أون آيس كريم بنكهة التيراميسو الكريمي 473 مل",
+"en": "ON Ice Creamy Tiramisu Handcrafted Ice Cream 473 ml",
+"price": 44.95,
+"special": 32.95,
+"src": "ninja",
+"ninja_id": "5-19410847",
+"img_src": "ninja",
+"images": [
+"6253808730509.webp"
+]
+},
+{
+"sku": "JRN00002461",
+"barcode": "6253808730165",
+"cat": 34,
+"ar": "أون آيس كريم بنكهة الورد الحلوم 473 مل",
+"en": "ON Ice Delightful Rose Halgoum Handcrafted Ice Cream 473 ml",
+"price": 44.95,
+"special": 32.95,
+"src": "ninja",
+"ninja_id": "5-19410848",
+"img_src": "ninja",
+"images": [
+"6253808730165.webp"
+]
+},
+{
+"sku": "JRN00002462",
+"barcode": "6943090420065",
+"cat": 34,
+"ar": "فروكتي آيس كريم كوري بالخوخ 75 جم",
+"en": "Frukti Korean Ice Cream Peach 75 g",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19329264",
+"img_src": "ninja",
+"images": [
+"6943090420065.webp",
+"6943090420065-1.webp",
+"6943090420065-2.webp"
+]
+},
+{
+"sku": "JRN00002463",
+"barcode": "4800092331909",
+"cat": 35,
+"ar": "دينق دونق مكسرات مشكلة حارة 100 جم",
+"en": "Ding Dong Mixed Nuts Hot & Spicy 100 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19331912",
+"img_src": "ninja",
+"images": [
+"4800092331909.webp",
+"4800092331909-1.webp"
+]
+},
+{
+"sku": "JRN00002464",
+"barcode": "4800092331664",
+"cat": 35,
+"ar": "دينق دونق مكسرات مشكلة 100 جم",
+"en": "Ding Dong Mixed Nuts 100 g",
+"price": 8.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19331911",
+"img_src": "ninja",
+"images": [
+"4800092331664.webp",
+"4800092331664-1.webp",
+"4800092331664-2.webp"
+]
+},
+{
+"sku": "JRN00002465",
+"barcode": "6281105790162",
+"cat": 35,
+"ar": "باجه قرع مقمر 110 جم",
+"en": "Baja Pumpkin Roasted 110 g",
+"price": 9.75,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-7678",
+"img_src": "ninja",
+"images": [
+"6281105790162.webp",
+"6281105790162-1.webp",
+"6281105790162-2.webp"
+]
+},
+{
+"sku": "JRN00002466",
+"barcode": "6281105790247",
+"cat": 35,
+"ar": "باجه فول سوداني مملح 140 جم",
+"en": "Baja Peanuts Salted 140 g",
+"price": 7.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1108873",
+"img_src": "ninja",
+"images": [
+"6281105790247.webp",
+"6281105790247-1.webp",
+"6281105790247-2.webp"
+]
+},
+{
+"sku": "JRN00002467",
+"barcode": "6291014129373",
+"cat": 35,
+"ar": "ديمه بينوتس فول سوداني مملح علبة 12 حبة 22 جم",
+"en": "Deemah Peanuts Salted Box 12 PCs 22 g",
+"price": 18.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7349499",
+"img_src": "ninja",
+"images": [
+"6291014129373.webp",
+"6291014129373-1.webp",
+"6291014129373-2.webp"
+]
+},
+{
+"sku": "JRN00002468",
+"barcode": "6281105794313",
+"cat": 35,
+"ar": "باجه حب دوار الشمس مالح 85 جم",
+"en": "Baja Sunflower Seeds Salted 85 g",
+"price": 4.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5409",
+"img_src": "ninja",
+"images": [
+"6281105794313.webp",
+"6281105794313-1.webp"
+]
+},
+{
+"sku": "JRN00002469",
+"barcode": "6281105790049",
+"cat": 35,
+"ar": "باجه حب ضيافة مالح 115 جم",
+"en": "Baja Diyafa Seeds Salted 115 g",
+"price": 9.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-5412",
+"img_src": "ninja",
+"images": [
+"6281105790049.webp",
+"6281105790049-1.webp",
+"6281105790049-2.webp"
+]
+},
+{
+"sku": "JRN00002470",
+"barcode": "6287003475873",
+"cat": 35,
+"ar": "الرفاعي فواكة مجففة بيري تروبيكال 60 جم",
+"en": "Alrifai Dried Fruit Berry Tropical 60 g",
+"price": 28.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396919",
+"img_src": "ninja",
+"images": [
+"6287003475873.webp",
+"6287003475873-1.webp",
+"6287003475873-2.webp"
+]
+},
+{
+"sku": "JRN00002471",
+"barcode": "6285131018405",
+"cat": 35,
+"ar": "المهباج فواكه تروبيكال 200 جم",
+"en": "Almehbaj Tropical Fruits 200 g",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1103535",
+"img_src": "ninja",
+"images": [
+"6285131018405.webp",
+"6285131018405-1.webp",
+"6285131018405-2.webp"
+]
+},
+{
+"sku": "JRN00002472",
+"barcode": "6285131171629",
+"cat": 35,
+"ar": "المهباج كاجو ني جامبو 220 جم",
+"en": "Almehbaj Cashew Raw jumbo 220 g",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1128335",
+"img_src": "ninja",
+"images": [
+"6285131171629.webp"
+]
+},
+{
+"sku": "JRN00002473",
+"barcode": "6285131018382",
+"cat": 35,
+"ar": "المهباج توت بري مجفف 200 جم",
+"en": "Almehbaj Dried Cranberry 200 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1104277",
+"img_src": "ninja",
+"images": [
+"6285131018382.webp",
+"6285131018382-1.webp",
+"6285131018382-2.webp"
+]
+},
+{
+"sku": "JRN00002474",
+"barcode": "6281105796386",
+"cat": 35,
+"ar": "باجه حب دوار الشمس مالح 450 جم",
+"en": "Baja Sunflower Seeds Salted 450 g",
+"price": 20.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322947",
+"img_src": "ninja",
+"images": [
+"6281105796386.webp",
+"6281105796386-1.webp",
+"6281105796386-2.webp"
+]
+},
+{
+"sku": "JRN00002475",
+"barcode": "6285131171636",
+"cat": 35,
+"ar": "المهباج مكسرات تريل مكس 250 جم",
+"en": "Almehbaj Trail Mix Nuts 250 g",
+"price": 34.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-1111949",
+"img_src": "ninja",
+"images": [
+"6285131171636.webp"
+]
+},
+{
+"sku": "JRN00002476",
+"barcode": "6281105797956",
+"cat": 35,
+"ar": "باجه مشكل مكسرات كير 30 جم",
+"en": "Baja Mixed Nuts Care 30 g",
+"price": 3.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348823",
+"img_src": "ninja",
+"images": [
+"6281105797956.webp",
+"6281105797956-1.webp"
+]
+},
+{
+"sku": "JRN00002477",
+"barcode": "6281105797154",
+"cat": 35,
+"ar": "باجه حب ضيافة مالح 250 جم",
+"en": "Baja Diyafa Seeds Salted 250 g",
+"price": 18.5,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-5407",
+"img_src": "ninja",
+"images": [
+"6281105797154.webp",
+"6281105797154-1.webp",
+"6281105797154-2.webp"
+]
+},
+{
+"sku": "JRN00002478",
+"barcode": "6285131007362",
+"cat": 35,
+"ar": "المهباج مكسرات مشكلة فاخرة 250 جم",
+"en": "Almehbaj Nuts Premium Mixed Raw 250 g",
+"price": 32.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1126393",
+"img_src": "ninja",
+"images": [
+"6285131007362.webp",
+"6285131007362-1.webp",
+"6285131007362-2.webp"
+]
+},
+{
+"sku": "JRN00002479",
+"barcode": "6285131005528",
+"cat": 35,
+"ar": "المهباج مكسرات مشكلة فاخرة 120 جم",
+"en": "Almehbaj Nuts Premium Mixed 120 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1126668",
+"img_src": "ninja",
+"images": [
+"6285131005528.webp",
+"6285131005528-1.webp",
+"6285131005528-2.webp"
+]
+},
+{
+"sku": "JRN00002480",
+"barcode": "6285131005542",
+"cat": 35,
+"ar": "المهباج مكسرات مشكلة سوبر ديلوكس 120 جم",
+"en": "Almehbaj Nuts Super Deluxe Mixed 120 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1128156",
+"img_src": "ninja",
+"images": [
+"6285131005542.webp",
+"6285131005542-1.webp",
+"6285131005542-2.webp"
+]
+},
+{
+"sku": "JRN00002481",
+"barcode": "6285131005580",
+"cat": 35,
+"ar": "المهباج مكسرات غير مملحة 250 جم",
+"en": "Almehbaj Unsalted Nuts 250 g",
+"price": 34.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-1110751",
+"img_src": "ninja",
+"images": [
+"6285131005580.webp",
+"6285131005580-1.webp",
+"6285131005580-2.webp"
+]
+},
+{
+"sku": "JRN00002482",
+"barcode": "6281105794511",
+"cat": 35,
+"ar": "باجه لوز مملح 120 جم",
+"en": "Baja Almond Salted 120 g",
+"price": 14.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5859",
+"img_src": "ninja",
+"images": [
+"6281105794511.webp",
+"6281105794511-1.webp",
+"6281105794511-2.webp"
+]
+},
+{
+"sku": "JRN00002483",
+"barcode": "6281105796348",
+"cat": 35,
+"ar": "باجه حب دوار الشمس مالح 230 جم",
+"en": "Baja Sunflower Seeds Salted 230 g",
+"price": 11.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4823",
+"img_src": "ninja",
+"images": [
+"6281105796348.webp"
+]
+},
+{
+"sku": "JRN00002484",
+"barcode": "6285131171650",
+"cat": 35,
+"ar": "المهباج لوز ابيض صنوبري 200 جم",
+"en": "Almehbaj White Pine Nuts 200 g",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1117655",
+"img_src": "ninja",
+"images": [
+"6285131171650.webp",
+"6285131171650-1.webp",
+"6285131171650-2.webp"
+]
+},
+{
+"sku": "JRN00002485",
+"barcode": "6281105798243",
+"cat": 35,
+"ar": "باجه مشكل مكسرات فيتا 120 جم",
+"en": "Baja Mixed Nuts Vita 120 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322950",
+"img_src": "ninja",
+"images": [
+"6281105798243.webp",
+"6281105798243-1.webp"
+]
+},
+{
+"sku": "JRN00002486",
+"barcode": "6287006600692",
+"cat": 35,
+"ar": "مرسى مطروح مكسرات مشكله 120 جم",
+"en": "Marsa Matrooh Salted Mixed Nuts 120 g",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19359841",
+"img_src": "ninja",
+"images": [
+"6287006600692.webp",
+"6287006600692-1.webp",
+"6287006600692-2.webp"
+]
+},
+{
+"sku": "JRN00002487",
+"barcode": "6285131007393",
+"cat": 35,
+"ar": "المهباج مكسرات مشكلة سوبر ديلوكس 250 جم",
+"en": "Almehbaj Nuts Super Deluxe Mixed 250 g",
+"price": 25.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-1128153",
+"img_src": "ninja",
+"images": [
+"6285131007393.webp",
+"6285131007393-1.webp",
+"6285131007393-2.webp"
+]
+},
+{
+"sku": "JRN00002488",
+"barcode": "6285131171643",
+"cat": 35,
+"ar": "المهباج لوز ابيض شرائح 150 جم",
+"en": "Almehbaj Almond White Sliced ​​150 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1125844",
+"img_src": "ninja",
+"images": [
+"6285131171643.webp",
+"6285131171643-1.webp"
+]
+},
+{
+"sku": "JRN00002489",
+"barcode": "4008258296004",
+"cat": 35,
+"ar": "سيبرجر توت بري ناعم 125 جم",
+"en": "Seeberger Soft Cranberries 125 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293887",
+"img_src": "ninja",
+"images": [
+"4008258296004.webp",
+"4008258296004-1.webp",
+"4008258296004-2.webp"
+]
+},
+{
+"sku": "JRN00002490",
+"barcode": "6285131007379",
+"cat": 35,
+"ar": "المهباج مكسرات مشكلة اكسترا 250 جم",
+"en": "Almehbaj Nuts Extra Mixed 250 g",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1127971",
+"img_src": "ninja",
+"images": [
+"6285131007379.webp",
+"6285131007379-1.webp",
+"6285131007379-2.webp"
+]
+},
+{
+"sku": "JRN00002491",
+"barcode": "6285131171780",
+"cat": 35,
+"ar": "المهباج مكسرات مشكلة اكسترا 120 جم",
+"en": "Almehbaj Nuts Extra Mixed 120 g",
+"price": 19.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-1128076",
+"img_src": "ninja",
+"images": [
+"6285131171780.webp",
+"6285131171780-1.webp",
+"6285131171780-2.webp"
+]
+},
+{
+"sku": "JRN00002492",
+"barcode": "6285131171674",
+"cat": 35,
+"ar": "المهباج جوز بيكان ني 175 جم",
+"en": "Almehbaj Raw Pecan Nuts 175 g",
+"price": 31.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-1116397",
+"img_src": "ninja",
+"images": [
+"6285131171674.webp",
+"6285131171674-1.webp",
+"6285131171674-2.webp"
+]
+},
+{
+"sku": "JRN00002493",
+"barcode": "6281105798205",
+"cat": 35,
+"ar": "باجه مشكل مكسرات برو 120 جم",
+"en": "Baja Mixed Nuts Pro 120 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322955",
+"img_src": "ninja",
+"images": [
+"6281105798205.webp",
+"6281105798205-1.webp",
+"6281105798205-2.webp"
+]
+},
+{
+"sku": "JRN00002494",
+"barcode": "6281105798236",
+"cat": 35,
+"ar": "باجه مشكل مكسرات كير 120 جم",
+"en": "Baja Mixed Nuts Care 120 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322964",
+"img_src": "ninja",
+"images": [
+"6281105798236.webp",
+"6281105798236-1.webp",
+"6281105798236-2.webp"
+]
+},
+{
+"sku": "JRN00002495",
+"barcode": "5281009158229",
+"cat": 35,
+"ar": "كستانيا فول سوداني بقشره 200 جم",
+"en": "Castania In Shell Peanuts 200 g",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401120",
+"img_src": "ninja",
+"images": [
+"5281009158229.webp"
+]
+},
+{
+"sku": "JRN00002496",
+"barcode": "6285131003906",
+"cat": 35,
+"ar": "المهباج فول سوداني مالح 120 جم",
+"en": "Almehbaj Salted Peanuts 120 g",
+"price": 6.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1116316",
+"img_src": "ninja",
+"images": [
+"6285131003906.webp"
+]
+},
+{
+"sku": "JRN00002497",
+"barcode": "6285131171612",
+"cat": 35,
+"ar": "المهباج لوز احمر ني 240 جم",
+"en": "Almehbaj Raw Red Almonds 240 g",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1117185",
+"img_src": "ninja",
+"images": [
+"6285131171612.webp",
+"6285131171612-1.webp",
+"6285131171612-2.webp"
+]
+},
+{
+"sku": "JRN00002498",
+"barcode": "6281105795853",
+"cat": 35,
+"ar": "باجه مشكل مكسرات مشوي 120 جم",
+"en": "Baja Mixed Nuts BBQ 120 g",
+"price": 18.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1468",
+"img_src": "ninja",
+"images": [
+"6281105795853.webp",
+"6281105795853-1.webp"
+]
+},
+{
+"sku": "JRN00002499",
+"barcode": "6285131005559",
+"cat": 35,
+"ar": "المهباج مكسرات مكس لايت 250 جم",
+"en": "Almehbaj Mix Nuts Light 250 g",
+"price": 34.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-1111191",
+"img_src": "ninja",
+"images": [
+"6285131005559.webp",
+"6285131005559-1.webp"
+]
+},
+{
+"sku": "JRN00002500",
+"barcode": "6285131005566",
+"cat": 35,
+"ar": "المهباج مكسرات أوميجا 3 250 جم",
+"en": "Almehbaj Omega 3 Nuts 250 g",
+"price": 34.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-1112257",
+"img_src": "ninja",
+"images": [
+"6285131005566.webp",
+"6285131005566-1.webp",
+"6285131005566-2.webp"
+]
+},
+{
+"sku": "JRN00002501",
+"barcode": "6281105798731",
+"cat": 35,
+"ar": "باجه لوز شرائح خام 150 جم",
+"en": "Baja Raw Nuts Sliced Almond 150 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19364096",
+"img_src": "ninja",
+"images": [
+"6281105798731.webp",
+"6281105798731-1.webp",
+"6281105798731-2.webp"
+]
+},
+{
+"sku": "JRN00002502",
+"barcode": "6287006600043",
+"cat": 35,
+"ar": "مرسى مطروح كاجو 120 جم",
+"en": "Marsa Matrooh Salted Cashew 120 g",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19359839",
+"img_src": "ninja",
+"images": [
+"6287006600043.webp",
+"6287006600043-1.webp",
+"6287006600043-2.webp"
+]
+},
+{
+"sku": "JRN00002503",
+"barcode": "6287003475477",
+"cat": 35,
+"ar": "الرفاعي حب الشمام 280 جم",
+"en": "Alrifai Melon Seed 280 g",
+"price": 32.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396923",
+"img_src": "ninja",
+"images": [
+"6287003475477.webp",
+"6287003475477-1.webp",
+"6287003475477-2.webp"
+]
+},
+{
+"sku": "JRN00002504",
+"barcode": "6285131171728",
+"cat": 35,
+"ar": "المهباج حب مصري مالح 115 جم",
+"en": "Almehbaj Egyptian Seeds Salt 115 g",
+"price": 9.75,
+"special": 6.95,
+"src": "ninja",
+"ninja_id": "5-1128670",
+"img_src": "ninja",
+"images": [
+"6285131171728.webp",
+"6285131171728-1.webp",
+"6285131171728-2.webp"
+]
+},
+{
+"sku": "JRN00002505",
+"barcode": "6281105799424",
+"cat": 35,
+"ar": "باجه مشكل مكسرات اكسترا 120 جم",
+"en": "Baja Mixed Nuts Extra 120 g",
+"price": 14.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1463",
+"img_src": "ninja",
+"images": [
+"6281105799424.webp",
+"6281105799424-1.webp",
+"6281105799424-2.webp"
+]
+},
+{
+"sku": "JRN00002506",
+"barcode": "6281105795815",
+"cat": 35,
+"ar": "باجه مشكل مكسرات فاخر بدون ملح 120 جم",
+"en": "Baja Mixed Nuts Deluxe Unsalted 120 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1483",
+"img_src": "ninja",
+"images": [
+"6281105795815.webp",
+"6281105795815-1.webp",
+"6281105795815-2.webp"
+]
+},
+{
+"sku": "JRN00002507",
+"barcode": "6285131005597",
+"cat": 35,
+"ar": "المهباج مكسرات فاخرة غير محمصه 250 جم",
+"en": "Almehbaj Premium Unroasted Nuts 250 g",
+"price": 34.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-1110613",
+"img_src": "ninja",
+"images": [
+"6285131005597.webp",
+"6285131005597-1.webp",
+"6285131005597-2.webp"
+]
+},
+{
+"sku": "JRN00002508",
+"barcode": "6281105799455",
+"cat": 35,
+"ar": "باجه مشكل مكسرات اكسترا 280 جم",
+"en": "Baja Mixed Nuts Extra 280 g",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1112085",
+"img_src": "ninja",
+"images": [
+"6281105799455.webp",
+"6281105799455-1.webp",
+"6281105799455-2.webp"
+]
+},
+{
+"sku": "JRN00002509",
+"barcode": "1380896098169",
+"cat": 35,
+"ar": "تاك تات زبيب 300 جم",
+"en": "Tak Tat Seedless Raisins 300 g",
+"price": 15.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19294303",
+"img_src": "ninja",
+"images": [
+"1380896098169.webp",
+"1380896098169-1.webp"
+]
+},
+{
+"sku": "JRN00002510",
+"barcode": "6281101083442",
+"cat": 35,
+"ar": "زين بيكان 300 جم",
+"en": "Zain Pecan 300 g",
+"price": 44.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11541740",
+"img_src": "ninja",
+"images": [
+"6281101083442.webp",
+"6281101083442-1.webp"
+]
+},
+{
+"sku": "JRN00002511",
+"barcode": "6287006600302",
+"cat": 35,
+"ar": "مرسى مطروح كاجو 24 حبة 15 جم",
+"en": "Marsa Matrooh Salted Cashew 24 Pcs 15 g",
+"price": 42.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19359838",
+"img_src": "ninja",
+"images": [
+"6287006600302.webp",
+"6287006600302-1.webp",
+"6287006600302-2.webp"
+]
+},
+{
+"sku": "JRN00002512",
+"barcode": "6285131171704",
+"cat": 35,
+"ar": "المهباج فستق شرائح 170 جم",
+"en": "Almehbaj Pistachio Sliced 170 g",
+"price": 41.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1128232",
+"img_src": "ninja",
+"images": [
+"6285131171704.webp",
+"6285131171704-1.webp",
+"6285131171704-2.webp"
+]
+},
+{
+"sku": "JRN00002513",
+"barcode": "6285131007386",
+"cat": 35,
+"ar": "المهباج مكسرات مشكلة مالحة 250 جم",
+"en": "Almehbaj Nuts Mixed Salted 250 g",
+"price": 31.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1126865",
+"img_src": "ninja",
+"images": [
+"6285131007386.webp",
+"6285131007386-1.webp",
+"6285131007386-2.webp"
+]
+},
+{
+"sku": "JRN00002514",
+"barcode": "6281105798199",
+"cat": 35,
+"ar": "باجه مشكل مكسرات فت 120 جم",
+"en": "Baja Mixed Nuts Fit 120 g",
+"price": 18.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322967",
+"img_src": "ninja",
+"images": [
+"6281105798199.webp",
+"6281105798199-1.webp",
+"6281105798199-2.webp"
+]
+},
+{
+"sku": "JRN00002515",
+"barcode": "5281009564600",
+"cat": 35,
+"ar": "كستانيا بزر يقطين 300 جم",
+"en": "Castania Pumpkin Seeds 300 g",
+"price": 26.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401119",
+"img_src": "ninja",
+"images": [
+"5281009564600.webp",
+"5281009564600-1.webp",
+"5281009564600-2.webp"
+]
+},
+{
+"sku": "JRN00002516",
+"barcode": "6285131005535",
+"cat": 35,
+"ar": "المهباج مكسرات مشكلة مالحة 120 جم",
+"en": "Almehbaj Nuts Mixed Salted 120 g",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1127934",
+"img_src": "ninja",
+"images": [
+"6285131005535.webp",
+"6285131005535-1.webp",
+"6285131005535-2.webp"
+]
+},
+{
+"sku": "JRN00002517",
+"barcode": "6281105791268",
+"cat": 35,
+"ar": "باجه مشكل فاخر بدون ملح 450 جم",
+"en": "Baja Mixed Nuts Deluxe Unsalted 450 g",
+"price": 57.5,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-1109938",
+"img_src": "ninja",
+"images": [
+"6281105791268.webp",
+"6281105791268-1.webp"
+]
+},
+{
+"sku": "JRN00002518",
+"barcode": "6287018580425",
+"cat": 35,
+"ar": "باجه كاجو مملح 280 جم",
+"en": "Baja Cashew Salted 280 g",
+"price": 32.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1112393",
+"img_src": "ninja",
+"images": [
+"6287018580425.webp",
+"6287018580425-1.webp"
+]
+},
+{
+"sku": "JRN00002519",
+"barcode": "6287018580302",
+"cat": 35,
+"ar": "باجه فستق مملح 280 جم",
+"en": "Baja Pistachio Salted 280 g",
+"price": 26.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1112722",
+"img_src": "ninja",
+"images": [
+"6287018580302.webp",
+"6287018580302-1.webp"
+]
+},
+{
+"sku": "JRN00002520",
+"barcode": "6281105799660",
+"cat": 35,
+"ar": "باجه كاجو مشوي 280 جم",
+"en": "Baja Cashew BBQ 280 g",
+"price": 32.4,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1113150",
+"img_src": "ninja",
+"images": [
+"6281105799660.webp",
+"6281105799660-1.webp",
+"6281105799660-2.webp"
+]
+},
+{
+"sku": "JRN00002521",
+"barcode": "6287003476443",
+"cat": 35,
+"ar": "الرفاعي كاجو 450 جم",
+"en": "Alrifai Cashew Mix 450 g",
+"price": 45.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396921",
+"img_src": "ninja",
+"images": [
+"6287003476443.webp",
+"6287003476443-1.webp"
+]
+},
+{
+"sku": "JRN00002522",
+"barcode": "6281105790414",
+"cat": 35,
+"ar": "باجه مشكل مكسرات فاخر 24 حبة 15 جم",
+"en": "Baja Mixed Nuts Deluxe 24 pcs 15 g",
+"price": 39.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19322980",
+"img_src": "ninja",
+"images": [
+"6281105790414.webp",
+"6281105790414-1.webp",
+"6281105790414-2.webp"
+]
+},
+{
+"sku": "JRN00002523",
+"barcode": "4008258130018",
+"cat": 35,
+"ar": "سيبرجر جوز مقشر 150 جم",
+"en": "Seeberger Walnuts Shelled 150 g",
+"price": 36.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293872",
+"img_src": "ninja",
+"images": [
+"4008258130018.webp",
+"4008258130018-1.webp",
+"4008258130018-2.webp"
+]
+},
+{
+"sku": "JRN00002524",
+"barcode": "4008258276006",
+"cat": 35,
+"ar": "سيبرجر مانجو مجفف 100 جم",
+"en": "Seeberger Dried Mango 100 g",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293893",
+"img_src": "ninja",
+"images": [
+"4008258276006.webp",
+"4008258276006-1.webp",
+"4008258276006-2.webp"
+]
+},
+{
+"sku": "JRN00002525",
+"barcode": "6281105795778",
+"cat": 35,
+"ar": "باجه مشكل مكسرات فاخر 120 جم",
+"en": "Baja Mixed Nuts Deluxe 120 g",
+"price": 20.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5403",
+"img_src": "ninja",
+"images": [
+"6281105795778.webp",
+"6281105795778-1.webp",
+"6281105795778-2.webp"
+]
+},
+{
+"sku": "JRN00002526",
+"barcode": "6281105798946",
+"cat": 35,
+"ar": "باجه زبيب ذهبي 280 جم",
+"en": "Baja Golden Raisins 280 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19364090",
+"img_src": "ninja",
+"images": [
+"6281105798946.webp",
+"6281105798946-1.webp",
+"6281105798946-2.webp"
+]
+},
+{
+"sku": "JRN00002527",
+"barcode": "6287003477426",
+"cat": 35,
+"ar": "الرفاعي خلطة الجمعة سبايسي 450 جم",
+"en": "Alrifai Gathering Mix Spicy 450 g",
+"price": 27.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396928",
+"img_src": "ninja",
+"images": [
+"6287003477426.webp",
+"6287003477426-1.webp",
+"6287003477426-2.webp"
+]
+},
+{
+"sku": "JRN00002528",
+"barcode": "5281009566833",
+"cat": 35,
+"ar": "كاستانيا فول سوداني مقشر 200 جم",
+"en": "Castania Blanched Peanuts 200 g",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401125",
+"img_src": "ninja",
+"images": [
+"5281009566833.webp",
+"5281009566833-1.webp",
+"5281009566833-2.webp"
+]
+},
+{
+"sku": "JRN00002529",
+"barcode": "6285131171711",
+"cat": 35,
+"ar": "المهباج فستق قلب ني 220 جم",
+"en": "Almehbaj Raw Pistachio Heart 220 g",
+"price": 48.95,
+"special": 37.95,
+"src": "ninja",
+"ninja_id": "5-1126394",
+"img_src": "ninja",
+"images": [
+"6285131171711.webp",
+"6285131171711-1.webp",
+"6285131171711-2.webp"
+]
+},
+{
+"sku": "JRN00002530",
+"barcode": "6285131171735",
+"cat": 35,
+"ar": "المهباج فستق مالح 120 جم",
+"en": "Almehbaj Pistachio Salty 120 g",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1115040",
+"img_src": "ninja",
+"images": [
+"6285131171735.webp"
+]
+},
+{
+"sku": "JRN00002531",
+"barcode": "6281105799523",
+"cat": 35,
+"ar": "باجه قرع مقمر 200 جم",
+"en": "Baja Pumpkin Roasted 200 g",
+"price": 14.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-1114399",
+"img_src": "ninja",
+"images": [
+"6281105799523.webp",
+"6281105799523-1.webp",
+"6281105799523-2.webp"
+]
+},
+{
+"sku": "JRN00002532",
+"barcode": "6281105795099",
+"cat": 35,
+"ar": "باجه مشكل مكسرات فيتا 450 جم",
+"en": "Baja Mixed Nuts Vita 450 g",
+"price": 55.95,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-19322963",
+"img_src": "ninja",
+"images": [
+"6281105795099.webp",
+"6281105795099-1.webp"
+]
+},
+{
+"sku": "JRN00002533",
+"barcode": "6281101083305",
+"cat": 35,
+"ar": "زين جوز 300 جم",
+"en": "Zain Walnut 300 g",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11541045",
+"img_src": "ninja",
+"images": [
+"6281101083305.webp",
+"6281101083305-1.webp"
+]
+},
+{
+"sku": "JRN00002534",
+"barcode": "5281009568301",
+"cat": 35,
+"ar": "كستانيا قلوبات مشكَلة 300 جم",
+"en": "Castania Mixed Kernels 300 g",
+"price": 49.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401115",
+"img_src": "ninja",
+"images": [
+"5281009568301.webp",
+"5281009568301-1.webp",
+"5281009568301-2.webp"
+]
+},
+{
+"sku": "JRN00002535",
+"barcode": "6287003476139",
+"cat": 35,
+"ar": "الرفاعي حب دوار الشمس 240 جم",
+"en": "Alrifai Sunflower Seed 240 g",
+"price": 15.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396925",
+"img_src": "ninja",
+"images": [
+"6287003476139.webp",
+"6287003476139-1.webp",
+"6287003476139-2.webp"
+]
+},
+{
+"sku": "JRN00002536",
+"barcode": "6287003478454",
+"cat": 35,
+"ar": "الرفاعي خلطة الجمعة 450 جم",
+"en": "Alrifai Gathering Mix 450 g",
+"price": 25.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396927",
+"img_src": "ninja",
+"images": [
+"6287003478454.webp",
+"6287003478454-1.webp"
+]
+},
+{
+"sku": "JRN00002537",
+"barcode": "6285131018412",
+"cat": 35,
+"ar": "المهباج فواكه مجففة مشكلة 200 جم",
+"en": "Almehbaj Mixed Dried Fruits 200 g",
+"price": 23.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1126596",
+"img_src": "ninja",
+"images": [
+"6285131018412.webp",
+"6285131018412-1.webp",
+"6285131018412-2.webp"
+]
+},
+{
+"sku": "JRN00002538",
+"barcode": "709993305023",
+"cat": 35,
+"ar": "أرض الطبيعة حب القرع المقشر عضوي 500 جم",
+"en": "Natureland Hulled Pumpkin Seeds Organic 500 g",
+"price": 74.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-12556352",
+"img_src": "ninja",
+"images": [
+"709993305023.webp",
+"709993305023-1.webp",
+"709993305023-2.webp"
+]
+},
+{
+"sku": "JRN00002539",
+"barcode": "4008258051030",
+"cat": 35,
+"ar": "سيبرجر مكسرات وتوت 150 جم",
+"en": "Seeberger Nuts 'n Berries 150 g",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293878",
+"img_src": "ninja",
+"images": [
+"4008258051030.webp",
+"4008258051030-1.webp",
+"4008258051030-2.webp"
+]
+},
+{
+"sku": "JRN00002540",
+"barcode": "1381075099274",
+"cat": 35,
+"ar": "تاك تات لوز أمريكي 250 جم",
+"en": "Tak Tat Usa Almond 250 g",
+"price": 29.95,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-11255050",
+"img_src": "ninja",
+"images": [
+"1381075099274.webp",
+"1381075099274-1.webp",
+"1381075099274-2.webp"
+]
+},
+{
+"sku": "JRN00002541",
+"barcode": "6287000912562",
+"cat": 109,
+"ar": "سوستوب سنيكرز 200 جم",
+"en": "Susstop Snickers 200 g",
+"price": 32.0,
+"special": 23.5,
+"src": "ninja",
+"ninja_id": "5-19336887",
+"img_src": "ninja",
+"images": [
+"6287000912562.webp",
+"6287000912562-1.webp",
+"6287000912562-2.webp"
+]
+},
+{
+"sku": "JRN00002542",
+"barcode": "6287000912593",
+"cat": 109,
+"ar": "سوستوب لوتس 200 جم",
+"en": "Susstop Lotus 200 g",
+"price": 32.0,
+"special": 27.75,
+"src": "ninja",
+"ninja_id": "5-19336888",
+"img_src": "ninja",
+"images": [
+"6287000912593.webp",
+"6287000912593-1.webp",
+"6287000912593-2.webp"
+]
+},
+{
+"sku": "JRN00002543",
+"barcode": "6287049690032",
+"cat": 109,
+"ar": "واو! شوكولاتة دبي بالحليب مع حلوى القطن الزرقاء 50 جم",
+"en": "Wow! ⁠⁠Angel Hair Milk Chocolate with Blue Cotton Candy 50 g",
+"price": 20.0,
+"special": 16.0,
+"src": "ninja",
+"ninja_id": "5-19375580",
+"img_src": "ninja",
+"images": [
+"6287049690032.webp",
+"6287049690032-1.webp"
+]
+},
+{
+"sku": "JRN00002544",
+"barcode": "653858674192",
+"cat": 109,
+"ar": "زماني معمول تمر و فستق 360 جم",
+"en": "Zamani Dates & Pistachio Maamoul 360 g",
+"price": 59.0,
+"special": 45.95,
+"src": "ninja",
+"ninja_id": "5-19304474",
+"img_src": "ninja",
+"images": [
+"653858674192.webp",
+"653858674192-1.webp"
+]
+},
+{
+"sku": "JRN00002545",
+"barcode": "6287000912531",
+"cat": 109,
+"ar": "سوستوب كرانش براونيز 200 جم",
+"en": "Susstop Choco Crunch Brownies 200 g",
+"price": 32.0,
+"special": 27.95,
+"src": "ninja",
+"ninja_id": "5-19336882",
+"img_src": "ninja",
+"images": [
+"6287000912531.webp",
+"6287000912531-1.webp",
+"6287000912531-2.webp"
+]
+},
+{
+"sku": "JRN00002546",
+"barcode": "6287001563800",
+"cat": 109,
+"ar": "افران الحطب تروفل الكارميل و ملح البحر 120 جم",
+"en": "Afran Alhatab Truffle Caramel and Sea Salt 120 g",
+"price": 50.0,
+"special": 42.5,
+"src": "ninja",
+"ninja_id": "5-19365308",
+"img_src": "ninja",
+"images": [
+"6287001563800.webp",
+"6287001563800-1.webp"
+]
+},
+{
+"sku": "JRN00002547",
+"barcode": "6287000913392",
+"cat": 109,
+"ar": "جوري سويت سيمفوني 600 جم",
+"en": "Jury Sweet Symphony 600 g",
+"price": 105.0,
+"special": 89.95,
+"src": "ninja",
+"ninja_id": "5-19388151",
+"img_src": "ninja",
+"images": [
+"6287000913392.webp",
+"6287000913392-1.webp",
+"6287000913392-2.webp"
+]
+},
+{
+"sku": "JRN00002548",
+"barcode": "6281000948248",
+"cat": 109,
+"ar": "ديكو اصابع الشوكولاتة 26 حبه",
+"en": "Déco Chocolate Sticks 26 PCS",
+"price": 49.0,
+"special": 43.95,
+"src": "ninja",
+"ninja_id": "5-19395430",
+"img_src": "ninja",
+"images": [
+"6281000948248.webp",
+"6281000948248-1.webp"
+]
+},
+{
+"sku": "JRN00002549",
+"barcode": "6259483394357",
+"cat": 109,
+"ar": "مياس معمول محموس 300 جم",
+"en": "Mayas Mahmous 300 g",
+"price": 59.0,
+"special": 50.0,
+"src": "ninja",
+"ninja_id": "5-19404923",
+"img_src": "ninja",
+"images": [
+"6259483394357.webp",
+"6259483394357-1.webp",
+"6259483394357-2.webp"
+]
+},
+{
+"sku": "JRN00002550",
+"barcode": "6287000914238",
+"cat": 109,
+"ar": "باكز ميني معمول مشكل 390 جم",
+"en": "Baks Mini Maamoul Mix 390 g",
+"price": 35.0,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19407957",
+"img_src": "ninja",
+"images": [
+"6287000914238.webp",
+"6287000914238-1.webp",
+"6287000914238-2.webp"
+]
+},
+{
+"sku": "JRN00002551",
+"barcode": "6287000912548",
+"cat": 109,
+"ar": "سوستوب شوكو كرانش كراميل 200 جم",
+"en": "Susstop Choco Crunch Cramel 200 g",
+"price": 32.0,
+"special": 27.75,
+"src": "ninja",
+"ninja_id": "5-19336884",
+"img_src": "ninja",
+"images": [
+"6287000912548.webp",
+"6287000912548-1.webp",
+"6287000912548-2.webp"
+]
+},
+{
+"sku": "JRN00002552",
+"barcode": "6287000912623",
+"cat": 109,
+"ar": "سوستوب ترافلز فادجي 200 جم",
+"en": "Susstop Fudgmi Truffles 200 g",
+"price": 32.0,
+"special": 27.95,
+"src": "ninja",
+"ninja_id": "5-19336885",
+"img_src": "ninja",
+"images": [
+"6287000912623.webp",
+"6287000912623-1.webp",
+"6287000912623-2.webp"
+]
+},
+{
+"sku": "JRN00002553",
+"barcode": "653858673997",
+"cat": 109,
+"ar": "زماني بقلاوة مشكل فاخر صغير 280 جم",
+"en": "Zamani Premium Mixed Baklava Small 280 g",
+"price": 69.0,
+"special": 52.95,
+"src": "ninja",
+"ninja_id": "5-19338882",
+"img_src": "ninja",
+"images": [
+"653858673997.webp",
+"653858673997-1.webp",
+"653858673997-2.webp"
+]
+},
+{
+"sku": "JRN00002554",
+"barcode": "653858674024",
+"cat": 109,
+"ar": "زماني بتيفور صغير 240 جم",
+"en": "Zamani Petit Four Small 240 g",
+"price": 39.0,
+"special": 30.95,
+"src": "ninja",
+"ninja_id": "5-19338883",
+"img_src": "ninja",
+"images": [
+"653858674024.webp",
+"653858674024-1.webp",
+"653858674024-2.webp"
+]
+},
+{
+"sku": "JRN00002555",
+"barcode": "5281009299779",
+"cat": 35,
+"ar": "كاستانيا خليط مقرمش 150 جم",
+"en": "Castania Crunchy Mix 150 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19401124",
+"img_src": "ninja",
+"images": [
+"5281009299779.webp",
+"5281009299779-1.webp",
+"5281009299779-2.webp"
+]
+},
+{
+"sku": "JRN00002556",
+"barcode": "6281000970577",
+"cat": 109,
+"ar": "ميلتو 700 جم",
+"en": "Melto 700 g",
+"price": 79.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19375579",
+"img_src": "ninja",
+"images": [
+"6281000970577.webp",
+"6281000970577-1.webp"
+]
+},
+{
+"sku": "JRN00002557",
+"barcode": "6287049690056",
+"cat": 109,
+"ar": "واو! لوح شوكولاتة بالكراميل والبيكان 75 جم",
+"en": "Wow! Chocolate Bar Caramel Pecan 75 g",
+"price": 20.0,
+"special": 16.0,
+"src": "ninja",
+"ninja_id": "5-19416888",
+"img_src": "ninja",
+"images": [
+"6287049690056.webp",
+"6287049690056-1.webp"
+]
+},
+{
+"sku": "JRN00002558",
+"barcode": "6287000913354",
+"cat": 109,
+"ar": "جوري تريو استكس 400 جم",
+"en": "Jury Trio Sticks 400 g",
+"price": 99.0,
+"special": 84.5,
+"src": "ninja",
+"ninja_id": "5-19388149",
+"img_src": "ninja",
+"images": [
+"6287000913354.webp",
+"6287000913354-1.webp",
+"6287000913354-2.webp"
+]
+},
+{
+"sku": "JRN00002559",
+"barcode": "6253503913917",
+"cat": 109,
+"ar": "اغاتي حلقوم تركي 500 جم",
+"en": "Aghati Turkish Halqom 500 g",
+"price": 79.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19408846",
+"img_src": "ninja",
+"images": [
+"6253503913917.webp",
+"6253503913917-1.webp",
+"6253503913917-2.webp"
+]
+},
+{
+"sku": "JRN00002560",
+"barcode": "6253503917618",
+"cat": 109,
+"ar": "اغاتي حلويات ضيافة 60 جم",
+"en": "Aghati Mix Sweets 60 g",
+"price": 19.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19408849",
+"img_src": "ninja",
+"images": [
+"6253503917618.webp",
+"6253503917618-1.webp",
+"6253503917618-2.webp"
+]
+},
+{
+"sku": "JRN00002561",
+"barcode": "6253503916888",
+"cat": 109,
+"ar": "اغاتي كنافة خشنه 200 جم",
+"en": "Aghati Knafa Khshna 200 g",
+"price": 29.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19408853",
+"img_src": "ninja",
+"images": [
+"6253503916888.webp"
+]
+},
+{
+"sku": "JRN00002562",
+"barcode": "6281000083598",
+"cat": 109,
+"ar": "لافا سويتس ستيكس 252 جم",
+"en": "Lava Sweets Sticks 252 g",
+"price": 59.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407079",
+"img_src": "ninja",
+"images": [
+"6281000083598.webp",
+"6281000083598-1.webp",
+"6281000083598-2.webp"
+]
+},
+{
+"sku": "JRN00002563",
+"barcode": "6281000068281",
+"cat": 109,
+"ar": "بديع مكس بقلاوة سمراء كاجو صغير",
+"en": "Badie Mix Dark Cashew Baklava Small",
+"price": 69.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19422088",
+"img_src": "ninja",
+"images": [
+"6281000068281.webp"
+]
+},
+{
+"sku": "JRN00002564",
+"barcode": "6281000068298",
+"cat": 109,
+"ar": "بديع بقلاوة كلاسيك كاجو كبير",
+"en": "Badie Classic Cashew Baklava",
+"price": 119.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19422089",
+"img_src": "ninja",
+"images": [
+"6281000068298.webp"
+]
+},
+{
+"sku": "JRN00002565",
+"barcode": "6281000068304",
+"cat": 109,
+"ar": "بديع بقلاوة كلاسيك كاجو صغير",
+"en": "Badie Classic Cashew Baklava Small",
+"price": 69.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19422090",
+"img_src": "ninja",
+"images": [
+"6281000068304.webp"
+]
+},
+{
+"sku": "JRN00002566",
+"barcode": "6287039691087",
+"cat": 109,
+"ar": "رهش نوفا بقلاوة بيكانو دائري 570 جم",
+"en": "Rahash Guven Nova Baklava Round Box 570 g",
+"price": 83.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404354",
+"img_src": "ninja",
+"images": [
+"6287039691087.webp",
+"6287039691087-1.webp",
+"6287039691087-2.webp"
+]
+},
+{
+"sku": "JRN00002567",
+"barcode": "634240397004",
+"cat": 109,
+"ar": "ديفو كنافة بستاشيو بار 100 جم",
+"en": "Divo Pistachio Kunafa Bar 100 g",
+"price": 25.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404371",
+"img_src": "ninja",
+"images": [
+"634240397004.webp",
+"634240397004-1.webp"
+]
+},
+{
+"sku": "JRN00002568",
+"barcode": "634240397028",
+"cat": 109,
+"ar": "ديفو كنافة سولتد كاراميل 100 جم",
+"en": "Divo Salted Caramel Kunafa Bar 100 g",
+"price": 25.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404373",
+"img_src": "ninja",
+"images": [
+"634240397028.webp",
+"634240397028-1.webp"
+]
+},
+{
+"sku": "JRN00002569",
+"barcode": "634240422331",
+"cat": 109,
+"ar": "ديفو شوكولاته كنافة",
+"en": "Divo Chocolate Kunafa Gift Box",
+"price": 120.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404374",
+"img_src": "ninja",
+"images": [
+"634240422331.webp",
+"634240422331-1.webp",
+"634240422331-2.webp"
+]
+},
+{
+"sku": "JRN00002570",
+"barcode": "6281000068052",
+"cat": 109,
+"ar": "بوكودور شوكولاتة فانسي ستيكس 600 جم",
+"en": "Pocodor Chocolate Fancy Sticks 600 g",
+"price": 109.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293067",
+"img_src": "ninja",
+"images": [
+"6281000068052.webp",
+"6281000068052-1.webp",
+"6281000068052-2.webp"
+]
+},
+{
+"sku": "JRN00002571",
+"barcode": "6287000913385",
+"cat": 109,
+"ar": "جوري تريو رولز 340 جم",
+"en": "Jury Trio Rolls 340 g",
+"price": 92.0,
+"special": 79.95,
+"src": "ninja",
+"ninja_id": "5-19388154",
+"img_src": "ninja",
+"images": [
+"6287000913385.webp",
+"6287000913385-1.webp",
+"6287000913385-2.webp"
+]
+},
+{
+"sku": "JRN00002572",
+"barcode": "6281000948125",
+"cat": 109,
+"ar": "فلك فرمودا 408 جم",
+"en": "Flick Fermuda 408 g",
+"price": 87.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19363231",
+"img_src": "ninja",
+"images": [
+"6281000948125.webp",
+"6281000948125-1.webp"
+]
+},
+{
+"sku": "JRN00002573",
+"barcode": "6287049690063",
+"cat": 109,
+"ar": "واو! لوح شوكولاتة بالكراميل والبيكان 170 جم",
+"en": "Wow! Chocolate Bar Caramel Pecan 170 g",
+"price": 59.0,
+"special": 41.0,
+"src": "ninja",
+"ninja_id": "5-19416887",
+"img_src": "ninja",
+"images": [
+"6287049690063.webp",
+"6287049690063-1.webp",
+"6287049690063-2.webp"
+]
+},
+{
+"sku": "JRN00002574",
+"barcode": "6287049690070",
+"cat": 109,
+"ar": "واو! لوح شوكولاتة بيضاء مع حشوة المانجو والمفرقعات 167 جم",
+"en": "Wow! Chocolate Bar Mango Poppin Candy 167 g",
+"price": 59.0,
+"special": 41.25,
+"src": "ninja",
+"ninja_id": "5-19416889",
+"img_src": "ninja",
+"images": [
+"6287049690070.webp",
+"6287049690070-1.webp",
+"6287049690070-2.webp"
+]
+},
+{
+"sku": "JRN00002575",
+"barcode": "6287043723972",
+"cat": 109,
+"ar": "الحطب شوكولاته بالكراميل المملح 200 جم",
+"en": "AlHatab Salted Caramed Chocolate 200 g",
+"price": 51.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19386172",
+"img_src": "ninja",
+"images": [
+"6287043723972.webp",
+"6287043723972-1.webp",
+"6287043723972-2.webp"
+]
+},
+{
+"sku": "JRN00002576",
+"barcode": "6287011481606",
+"cat": 109,
+"ar": "فهده ديليكاب بندق 260 جم",
+"en": "Fahda Hazelnut Delicup 260 g",
+"price": 99.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19365619",
+"img_src": "ninja",
+"images": [
+"6287011481606.webp",
+"6287011481606-1.webp",
+"6287011481606-2.webp"
+]
+},
+{
+"sku": "JRN00002577",
+"barcode": "6253503910121",
+"cat": 109,
+"ar": "أغاتي مشكل بقلاوة 500 جم",
+"en": "Aghati Baqlawa Mix 500 g",
+"price": 99.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404917",
+"img_src": "ninja",
+"images": [
+"6253503910121.webp",
+"6253503910121-1.webp",
+"6253503910121-2.webp"
+]
+},
+{
+"sku": "JRN00002578",
+"barcode": "6253503910206",
+"cat": 109,
+"ar": "أغاتي برازق سوبر 500 جم",
+"en": "Aghati Barazeq 500 g",
+"price": 49.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404918",
+"img_src": "ninja",
+"images": [
+"6253503910206.webp",
+"6253503910206-1.webp"
+]
+},
+{
+"sku": "JRN00002579",
+"barcode": "6253503912965",
+"cat": 109,
+"ar": "أغاتي معمول تمر بالسكر 1 كجم",
+"en": "Aghati Dates Mammoul with Sugar 1 kg",
+"price": 99.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404919",
+"img_src": "ninja",
+"images": [
+"6253503912965.webp",
+"6253503912965-1.webp"
+]
+},
+{
+"sku": "JRN00002580",
+"barcode": "6253503910053",
+"cat": 109,
+"ar": "أغاتي أصابع كاجو بقلاوة 500 جم",
+"en": "Aghati Cashew Baqlawa fingers 500 g",
+"price": 89.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19404920",
+"img_src": "ninja",
+"images": [
+"6253503910053.webp",
+"6253503910053-1.webp",
+"6253503910053-2.webp"
+]
+},
+{
+"sku": "JRN00002581",
+"barcode": "6281000970430",
+"cat": 109,
+"ar": "بسبوسة ميكس 700 جم",
+"en": "Basbusa Mix 700 g",
+"price": 49.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19400957",
+"img_src": "ninja",
+"images": [
+"6281000970430.webp",
+"6281000970430-1.webp"
+]
+},
+{
+"sku": "JRN00002582",
+"barcode": "6281000068014",
+"cat": 109,
+"ar": "بوكودور كلاسيك",
+"en": "Pocodor Classic",
+"price": 139.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19169213",
+"img_src": "ninja",
+"images": [
+"6281000068014.webp",
+"6281000068014-1.webp",
+"6281000068014-2.webp"
+]
+},
+{
+"sku": "JRN00002583",
+"barcode": "6287000914115",
+"cat": 109,
+"ar": "باكز تارت سابليه 480 جم",
+"en": "Baks Tart Sable 480 g",
+"price": 85.0,
+"special": 73.95,
+"src": "ninja",
+"ninja_id": "5-19407955",
+"img_src": "ninja",
+"images": [
+"6287000914115.webp",
+"6287000914115-1.webp",
+"6287000914115-2.webp"
+]
+},
+{
+"sku": "JRN00002584",
+"barcode": "6287000913446",
+"cat": 109,
+"ar": "ناش كوكو كرانشي ديلايتس 350 جم",
+"en": "Nash Coco Crunchy Delight 350 g",
+"price": 72.0,
+"special": 62.5,
+"src": "ninja",
+"ninja_id": "5-19407960",
+"img_src": "ninja",
+"images": [
+"6287000913446.webp",
+"6287000913446-1.webp",
+"6287000913446-2.webp"
+]
+},
+{
+"sku": "JRN00002585",
+"barcode": "6287000914276",
+"cat": 109,
+"ar": "ناش كوكو توزيعات العيد 21 حبة",
+"en": "Nash Coco Eid Gift 21 pcs",
+"price": 149.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407963",
+"img_src": "ninja",
+"images": [
+"6287000914276.webp",
+"6287000914276-1.webp",
+"6287000914276-2.webp"
+]
+},
+{
+"sku": "JRN00002586",
+"barcode": "6287000934069",
+"cat": 109,
+"ar": "جوري رويال بيكان 750 جم",
+"en": "Jury Royal Pecan 750 g",
+"price": 89.0,
+"special": 76.5,
+"src": "ninja",
+"ninja_id": "5-19407952",
+"img_src": "ninja",
+"images": [
+"6287000934069.webp",
+"6287000934069-1.webp",
+"6287000934069-2.webp"
+]
+},
+{
+"sku": "JRN00002587",
+"barcode": "6253503913993",
+"cat": 109,
+"ar": "اغاتي حلقوم تركي 750 جم",
+"en": "Aghati Turkish Delight 750 g",
+"price": 94.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19408847",
+"img_src": "ninja",
+"images": [
+"6253503913993.webp",
+"6253503913993-1.webp",
+"6253503913993-2.webp"
+]
+},
+{
+"sku": "JRN00002588",
+"barcode": "6253503917663",
+"cat": 109,
+"ar": "اغاتي نواشف مشكلة سوبر 500 جم",
+"en": "Aghati Mix Dried Sweets 500 g",
+"price": 69.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19408848",
+"img_src": "ninja",
+"images": [
+"6253503917663.webp",
+"6253503917663-1.webp",
+"6253503917663-2.webp"
+]
+},
+{
+"sku": "JRN00002589",
+"barcode": "6253503918745",
+"cat": 109,
+"ar": "اغاتي غريبة ب الهيل 500 جم",
+"en": "Aghati Ghraibeh With Cardamom 500 g",
+"price": 49.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19408851",
+"img_src": "ninja",
+"images": [
+"6253503918745.webp"
+]
+},
+{
+"sku": "JRN00002590",
+"barcode": "6253503916864",
+"cat": 109,
+"ar": "اغاتي كنافة ناعمه 200 جم",
+"en": "Aghati Knafa Naema 200 g",
+"price": 29.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19408852",
+"img_src": "ninja",
+"images": [
+"6253503916864.webp"
+]
+},
+{
+"sku": "JRN00002591",
+"barcode": "6281001062363",
+"cat": 109,
+"ar": "ترنزي فرنجلز سبايسي",
+"en": "Trenzzy Fringles Spicy",
+"price": 49.0,
+"special": 41.5,
+"src": "ninja",
+"ninja_id": "5-19408862",
+"img_src": "ninja",
+"images": [
+"6281001062363.webp",
+"6281001062363-1.webp",
+"6281001062363-2.webp"
+]
+},
+{
+"sku": "JRN00002592",
+"barcode": "6281000083451",
+"cat": 109,
+"ar": "لافا سويتس دريم 215 جم",
+"en": "Lava Sweets Dreams 215 g",
+"price": 49.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19407080",
+"img_src": "ninja",
+"images": [
+"6281000083451.webp",
+"6281000083451-1.webp",
+"6281000083451-2.webp"
+]
+},
+{
+"sku": "JRN00002593",
+"barcode": "6287000912241",
+"cat": 109,
+"ar": "جوري سويت مومنت 360 جم",
+"en": "Jury Sweet Moment 360 g",
+"price": 95.0,
+"special": 82.5,
+"src": "ninja",
+"ninja_id": "5-19332198",
+"img_src": "ninja",
+"images": [
+"6287000912241.webp",
+"6287000912241-1.webp"
+]
+},
+{
+"sku": "JRN00002594",
+"barcode": "6287011481736",
+"cat": 109,
+"ar": "فهدة شوكولاتة كرسبي 610 جم",
+"en": "Fahda Crispy Chocolate 610 g",
+"price": 159.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14829116",
+"img_src": "ninja",
+"images": [
+"6287011481736.webp",
+"6287011481736-1.webp",
+"6287011481736-2.webp"
+]
+},
+{
+"sku": "JRN00002595",
+"barcode": "6281000849118",
+"cat": 109,
+"ar": "فلندر قالب شوكولاتة كرسبي كنافة وكيندر بوينو هبة دبي 90 جم",
+"en": "Vlinder Crispy Kunafa & Bueno Chocolate Bar Dubai Trend 90 g",
+"price": 23.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19331993",
+"img_src": "ninja",
+"images": [
+"6281000849118.webp",
+"6281000849118-1.webp",
+"6281000849118-2.webp"
+]
+},
+{
+"sku": "JRN00002596",
+"barcode": "6281000849088",
+"cat": 109,
+"ar": "فلندر قالب شوكولاتة كرسبي بقلاوة وفستق هبة دبي 90 جم",
+"en": "Vlinder Crispy Baklava & Pistachio Chocolate Bar Dubai Trend 90 g",
+"price": 23.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19332007",
+"img_src": "ninja",
+"images": [
+"6281000849088.webp",
+"6281000849088-1.webp",
+"6281000849088-2.webp"
+]
+},
+{
+"sku": "JRN00002597",
+"barcode": "6281000849125",
+"cat": 109,
+"ar": "فلندر قالب شوكولاتة كرسبي كنافة وبيكان هبة دبي 90 جم",
+"en": "Vlinder Crispy Kunafa & Pecan Chocolate Bar Dubai Trend 90 g",
+"price": 23.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19332019",
+"img_src": "ninja",
+"images": [
+"6281000849125.webp",
+"6281000849125-1.webp",
+"6281000849125-2.webp"
+]
+},
+{
+"sku": "JRN00002598",
+"barcode": "6287021730107",
+"cat": 109,
+"ar": "كرمولا بيستاشو كرانش 300 جم",
+"en": "Carmola Crunch Pistachio 300 g",
+"price": 59.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-17649824",
+"img_src": "ninja",
+"images": [
+"6287021730107.webp",
+"6287021730107-1.webp",
+"6287021730107-2.webp"
+]
+},
+{
+"sku": "JRN00002599",
+"barcode": "608597532999",
+"cat": 34,
+"ar": "هاوس أوف بوبس آيس كريم مانجو وفراولة 3 x 80 مل",
+"en": "House Of Pops Mango & Strawberry Ice Cream 3 x 80 ml",
+"price": 38.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"608597532999.webp",
+"608597532999-1.webp",
+"608597532999-2.webp"
+]
+},
+{
+"sku": "JRN00002600",
+"barcode": "8906140521141",
+"cat": 34,
+"ar": "ميرسيليز آيس كريم باشن فروت كون 120 مل",
+"en": "Mercelys Passion Fruit Ice Cone 120 ml",
+"price": 7.25,
+"special": 4.35,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8906140521141.webp",
+"8906140521141-1.webp",
+"8906140521141-2.webp"
+]
+},
+{
+"sku": "JRN00002601",
+"barcode": "726529621778",
+"cat": 34,
+"ar": "هاوس أوف بوبس آيس كريم فراولة & شوكولاتة 140 مل",
+"en": "House Of Pops Strawberry Chocolate Bites Ice Cream 140 ml",
+"price": 39.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"726529621778.webp",
+"726529621778-1.webp",
+"726529621778-2.webp"
+]
+},
+{
+"sku": "JRN00002602",
+"barcode": "6281007072816",
+"cat": 34,
+"ar": "المراعي آيس كريم ميني بايتس بالكراميل 128 مل",
+"en": "Almarai Ice Cream Mini Bites Caramel 128 ml",
+"price": 10.01,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281007072816.webp",
+"6281007072816-1.webp",
+"6281007072816-2.webp"
+]
+},
+{
+"sku": "JRN00002603",
+"barcode": "6281007067157",
+"cat": 34,
+"ar": "المراعي آيس كريم مخروط شوكولاتة فانيلا 120 مل",
+"en": "Almarai Vanilla Chocolate Ice Cream Cone 120 ml",
+"price": 5,
+"special": 3.95,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281007067157.webp",
+"6281007067157-1.webp",
+"6281007067157-2.webp"
+]
+},
+{
+"sku": "JRN00002604",
+"barcode": "6281039550511",
+"cat": 34,
+"ar": "السعودية آيس كريم مخروط بالكوكيز والكريمة 115 مل",
+"en": "Saudia Cookies & Cream Ice Cream Cone 115 ml",
+"price": 3.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281039550511.webp",
+"6281039550511-1.webp",
+"6281039550511-2.webp"
+]
+},
+{
+"sku": "JRN00002605",
+"barcode": "3415587404221",
+"cat": 34,
+"ar": "هاجن داز ايس كريم شوكولا مع لوز 80 مل",
+"en": "Haagen-Dazs Chocolate Almond Icecream 80 ml",
+"price": 13.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"3415587404221.webp",
+"3415587404221-1.webp",
+"3415587404221-2.webp"
+]
+},
+{
+"sku": "JRN00002606",
+"barcode": "6281039581911",
+"cat": 34,
+"ar": "السعودية فيست آيس كريم بالشوكولاتة 90 مل",
+"en": "Saudia Feast Chocolate Stick 90 ml",
+"price": 3.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281039581911.webp",
+"6281039581911-1.webp",
+"6281039581911-2.webp"
+]
+},
+{
+"sku": "JRN00002607",
+"barcode": "3415587403224",
+"cat": 34,
+"ar": "هاجن داز آيس كريم الفانيلا بالكراميل واللوز 70 جم",
+"en": "Haagen-Dazs Vanilla Caramel Almond Ice Cream Stick 70 g",
+"price": 13.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"3415587403224.webp",
+"3415587403224-1.webp",
+"3415587403224-2.webp"
+]
+},
+{
+"sku": "JRN00002608",
+"barcode": "6281007067393",
+"cat": 34,
+"ar": "المراعي آيس كريم شوكولاتة 900 مل",
+"en": "Almarai Chocolate Ice Cream Tub 900 ml",
+"price": 32.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281007067393.webp",
+"6281007067393-1.webp",
+"6281007067393-2.webp"
+]
+},
+{
+"sku": "JRN00002609",
+"barcode": "3415581162752",
+"cat": 34,
+"ar": "هاجن داز آيس كريم دولسي دي ليتشي 460 مل",
+"en": "Haagen-Dazs Dulce De Leche Ice Cream 460 ml",
+"price": 39.45,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"3415581162752.webp",
+"3415581162752-1.webp",
+"3415581162752-2.webp"
+]
+},
+{
+"sku": "JRN00002610",
+"barcode": "3415581165753",
+"cat": 34,
+"ar": "هاجن داز آيس كريم بالمانجو والتوت 460 مل",
+"en": "Haagen-Dazs Classic Mango & Raspberry Ice Cream 460 ml",
+"price": 39.45,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"3415581165753.webp",
+"3415581165753-1.webp",
+"3415581165753-2.webp"
+]
+},
+{
+"sku": "JRN00002611",
+"barcode": "3415581312140",
+"cat": 34,
+"ar": "هاجن داز ايسكريم بنكهة الفراولة والكريمة 100 مل",
+"en": "Haagen-Dazs Strawberries & Cream Ice Cream 100 ml",
+"price": 13.5,
+"special": 10.12,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"3415581312140.webp",
+"3415581312140-1.webp",
+"3415581312140-2.webp"
+]
+},
+{
+"sku": "JRN00002612",
+"barcode": "036631083471",
+"cat": 34,
+"ar": "باسكن روبنز آيس كريم الكعك والكريمة 500 مل",
+"en": "Baskin Robbins Cookies N Cream Ice Cream 500 ml",
+"price": 30.5,
+"special": 25.92,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"036631083471.webp",
+"036631083471-1.webp"
+]
+},
+{
+"sku": "JRN00002613",
+"barcode": "3415581101751",
+"cat": 34,
+"ar": "هاجن داز آيس كريم بالفانيليا 460 مل",
+"en": "Haagen-Dazs Vanilla Ice Cream 460 ml",
+"price": 39.45,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"3415581101751.webp",
+"3415581101751-1.webp",
+"3415581101751-2.webp"
+]
+},
+{
+"sku": "JRN00002614",
+"barcode": "6291003102035",
+"cat": 34,
+"ar": "ايغلو ايس كريم فانيلا مغطى بطبقة توت العليق الطرية 5 x 65 مل",
+"en": "Igloo Duet Raspberry & Vanilla Ice Cream 5 x 65 ml",
+"price": 15.2,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6291003102035.webp",
+"6291003102035-1.webp",
+"6291003102035-2.webp"
+]
+},
+{
+"sku": "JRN00002615",
+"barcode": "6285131006549",
+"cat": 35,
+"ar": "المهباج بذور دوار الشمس 250 جم",
+"en": "Al Mehbaj Sunflower Seeds 250 g",
+"price": 10.5,
+"special": 9.45,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6285131006549.webp",
+"6285131006549-1.webp",
+"6285131006549-2.webp"
+]
+},
+{
+"sku": "JRN00002616",
+"barcode": "6281105790575",
+"cat": 35,
+"ar": "باجة فستق مملح 24 x 15 جم",
+"en": "Baja Salted Pistachio 24 x 15 g",
+"price": 37.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281105790575.webp",
+"6281105790575-1.webp",
+"6281105790575-2.webp"
+]
+},
+{
+"sku": "JRN00002617",
+"barcode": "6281105790018",
+"cat": 35,
+"ar": "باجة حب ضيافة 24 x 15 جم",
+"en": "Baja Diyafa Seeds 24 x 15 g",
+"price": 27.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281105790018.webp",
+"6281105790018-1.webp",
+"6281105790018-2.webp"
+]
+},
+{
+"sku": "JRN00002618",
+"barcode": "6281105790568",
+"cat": 35,
+"ar": "باجة فستق مملح 15 جم",
+"en": "Baja Salted Pistachio 15 g",
+"price": 1.5,
+"special": 1.05,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281105790568.webp",
+"6281105790568-1.webp",
+"6281105790568-2.webp"
+]
+},
+{
+"sku": "JRN00002619",
+"barcode": "5283005902035",
+"cat": 35,
+"ar": "الحلبي سوبر اكسترا 300 جم",
+"en": "Halabi Super Extra 300 g",
+"price": 27.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5283005902035.webp",
+"5283005902035-1.webp",
+"5283005902035-2.webp"
+]
+},
+{
+"sku": "JRN00002620",
+"barcode": "6287018580869",
+"cat": 35,
+"ar": "باجة كاجو خام 120 جم",
+"en": "Baja Raw Cashews 120 g",
+"price": 14.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6287018580869.webp",
+"6287018580869-1.webp"
+]
+},
+{
+"sku": "JRN00002621",
+"barcode": "6281105790377",
+"cat": 35,
+"ar": "باجة كاجو مملح 24 x 15 جم",
+"en": "Baja Salted Cashew 24 x 15 g",
+"price": 37.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281105790377.webp",
+"6281105790377-1.webp"
+]
+},
+{
+"sku": "JRN00002622",
+"barcode": "6281105795891",
+"cat": 35,
+"ar": "باجة مشكل مالح حلو 120 جم",
+"en": "Baja Sweet Salty Mix 120 g",
+"price": 12.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281105795891.webp",
+"6281105795891-1.webp",
+"6281105795891-2.webp"
+]
+},
+{
+"sku": "JRN00002623",
+"barcode": "6281105796010",
+"cat": 35,
+"ar": "باجة مكسرات مشكلة ديلوكس مشوي 280 جم",
+"en": "Baja Deluxe Mix BBQ 280 g",
+"price": 31.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281105796010.webp",
+"6281105796010-1.webp",
+"6281105796010-2.webp"
+]
+},
+{
+"sku": "JRN00002624",
+"barcode": "6281105795013",
+"cat": 35,
+"ar": "باجة مشكل مكسرات فيت 450 جم",
+"en": "Baja Mixed Nuts Fit 450 g",
+"price": 53.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281105795013.webp",
+"6281105795013-1.webp",
+"6281105795013-2.webp"
+]
+},
+{
+"sku": "JRN00002625",
+"barcode": "6281105793941",
+"cat": 35,
+"ar": "باجة مشكل مالح حلو 450 جم",
+"en": "Baja Sweet & Salty Mix 450 g",
+"price": 44.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281105793941.webp",
+"6281105793941-1.webp",
+"6281105793941-2.webp"
+]
+},
+{
+"sku": "JRN00002626",
+"barcode": "6281105795082",
+"cat": 35,
+"ar": "باجة مشكل مكسرات كير 450 جم",
+"en": "Baja Mixed Nuts Care 450 g",
+"price": 53.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281105795082.webp",
+"6281105795082-1.webp",
+"6281105795082-2.webp"
+]
+},
+{
+"sku": "JRN00002627",
+"barcode": "6281105795006",
+"cat": 35,
+"ar": "باجة مشكل مكسرات فيتا 280 جم",
+"en": "Baja Mixed Nuts Vita 280 g",
+"price": 39.8,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281105795006.webp",
+"6281105795006-1.webp",
+"6281105795006-2.webp"
+]
+},
+{
+"sku": "JRN00002628",
+"barcode": "6281105795020",
+"cat": 35,
+"ar": "باجة مشكل مكسرات برو 450 جم",
+"en": "Baja Mixed Nuts Pro 450 g",
+"price": 53.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281105795020.webp",
+"6281105795020-1.webp",
+"6281105795020-2.webp"
+]
+}
+]
