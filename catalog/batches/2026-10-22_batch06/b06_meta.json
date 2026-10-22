@@ -1,0 +1,2238 @@
+[
+{
+"sku": "JRN00001600",
+"barcode": "6294017138694",
+"cat": 29,
+"ar": "كيتكات تشانكي سناك سايز 19.5 جم",
+"en": "KitKat Chunky Snack Size 19.5 g",
+"price": 2.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409482",
+"img_src": "ninja",
+"images": [
+"6294017138694.webp",
+"6294017138694-1.webp"
+]
+},
+{
+"sku": "JRN00001601",
+"barcode": "80052760",
+"cat": 29,
+"ar": "كيندر بوينو 2 اصابع 43 جم",
+"en": "Kinder Bueno 2 Fingers 43 g",
+"price": 3.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11258199",
+"img_src": "ninja",
+"images": [
+"80052760.webp"
+]
+},
+{
+"sku": "JRN00001602",
+"barcode": "6224011288842",
+"cat": 29,
+"ar": "اتس ا بوم بار كرسبي مغلف مكس التوت 40 جم",
+"en": "It's a Boom Coated Crispy Bar Berry Mix 40 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388626",
+"img_src": "ninja",
+"images": [
+"6224011288842.webp",
+"6224011288842-1.webp"
+]
+},
+{
+"sku": "JRN00001603",
+"barcode": "6224011288750",
+"cat": 29,
+"ar": "اتس ا بوم بار كرسبي مغلف سمورز 40 جم",
+"en": "It's a Boom S'mores Coated Crispy Bar 40 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388625",
+"img_src": "ninja",
+"images": [
+"6224011288750.webp"
+]
+},
+{
+"sku": "JRN00001604",
+"barcode": "6294017135846",
+"cat": 29,
+"ar": "كيت كات تشانكي بالبندق 41 جم",
+"en": "KitKat Chunky Hazelnut 41 g",
+"price": 5.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409484",
+"img_src": "ninja",
+"images": [
+"6294017135846.webp",
+"6294017135846-1.webp",
+"6294017135846-2.webp"
+]
+},
+{
+"sku": "JRN00001605",
+"barcode": "5000159459228",
+"cat": 29,
+"ar": "تويكس شوكولاتة 46 جم",
+"en": "Twix Chocolate 46 g",
+"price": 4.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1450",
+"img_src": "ninja",
+"images": [
+"5000159459228.webp",
+"5000159459228-1.webp"
+]
+},
+{
+"sku": "JRN00001606",
+"barcode": "6224011288736",
+"cat": 29,
+"ar": "اتس ا بوم بار كرسبي مغلف زبدة الفول السوداني 40 جم",
+"en": "It's a Boom Coated Crispy Bar Peanut Butter 40 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19390819",
+"img_src": "ninja",
+"images": [
+"6224011288736.webp",
+"6224011288736-1.webp",
+"6224011288736-2.webp"
+]
+},
+{
+"sku": "JRN00001607",
+"barcode": "6224011288309",
+"cat": 29,
+"ar": "اتس ا بوم قطع الكرسب رايس المكرمل بالقهوة مغطاه بكريمة بمذاق اللاتيه الأسباني 30 جم",
+"en": "It's a Boom Coated Crispy Bites With Real Coffee Spanish Latte 30 g",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388631",
+"img_src": "ninja",
+"images": [
+"6224011288309.webp",
+"6224011288309-1.webp"
+]
+},
+{
+"sku": "JRN00001608",
+"barcode": "8690766156077",
+"cat": 29,
+"ar": "جوديفا شوكولاتة بالحليب 32 جم",
+"en": "Godiva Milk Chocolate 32 g",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-2387",
+"img_src": "ninja",
+"images": [
+"8690766156077.webp",
+"8690766156077-1.webp"
+]
+},
+{
+"sku": "JRN00001609",
+"barcode": "6294003539054",
+"cat": 29,
+"ar": "كيت كات 4 أصابع شوكولاتة بالحليب 36.5 جم",
+"en": "KitKat 4 Fingers Milk Chocolate 36.5 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11184",
+"img_src": "ninja",
+"images": [
+"6294003539054.webp",
+"6294003539054-1.webp",
+"6294003539054-2.webp"
+]
+},
+{
+"sku": "JRN00001610",
+"barcode": "6224011288316",
+"cat": 29,
+"ar": "اتس ا بوم قطع الكرسب رايس بالقهوة مع البندق و مغطاه بكريمة الكاكاو 30 جم",
+"en": "It's a Boom Coated Crispy Bites With Real Coffee Hazelnut 30 g",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388632",
+"img_src": "ninja",
+"images": [
+"6224011288316.webp",
+"6224011288316-1.webp"
+]
+},
+{
+"sku": "JRN00001611",
+"barcode": "6194005449927",
+"cat": 29,
+"ar": "ميثيك شوكلاته برقائق الذرة 35 جم",
+"en": "Mythic Club Cornflakes 35 g",
+"price": 2.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19346845",
+"img_src": "ninja",
+"images": [
+"6194005449927.webp",
+"6194005449927-1.webp"
+]
+},
+{
+"sku": "JRN00001612",
+"barcode": "6294017137437",
+"cat": 29,
+"ar": "كيت كات شوكولاتة 4 أصابع داكنة 36.5 جم",
+"en": "KitKat Chocolate 4 Fingers Dark 36.5 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19391073",
+"img_src": "ninja",
+"images": [
+"6294017137437.webp"
+]
+},
+{
+"sku": "JRN00001613",
+"barcode": "613668180016",
+"cat": 29,
+"ar": "اتس ا بوم بار كرسبي بالقهوة بالبندق 40 جم",
+"en": "It's a Boom Real Coffee Crispy Bar Hazelnut 40 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388636",
+"img_src": "ninja",
+"images": [
+"613668180016.webp"
+]
+},
+{
+"sku": "JRN00001614",
+"barcode": "613668180023",
+"cat": 29,
+"ar": "اتس ا بوم بار كرسبي بالقهوة لاتيه إسباني 40 جم",
+"en": "It's a Boom Real Coffee Crispy Bar Spanish Latte 40 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388635",
+"img_src": "ninja",
+"images": [
+"613668180023.webp"
+]
+},
+{
+"sku": "JRN00001615",
+"barcode": "6224011288323",
+"cat": 29,
+"ar": "اتس ا بوم قطع الكرسب رايس بالقهوة مع الكراميل و مغطاه بكريمة الكاكاو 30 جم",
+"en": "It's a Boom Coated Crispy Bites With Real Coffee Caramel 30 g",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388633",
+"img_src": "ninja",
+"images": [
+"6224011288323.webp",
+"6224011288323-1.webp"
+]
+},
+{
+"sku": "JRN00001616",
+"barcode": "80768258",
+"cat": 29,
+"ar": "كيندر جوي مع مفاجأة للبنات 20 جم",
+"en": "Kinder Joy With Surprise For Girls 20 g",
+"price": 5.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11435102",
+"img_src": "ninja",
+"images": [
+"80768258.webp",
+"80768258-1.webp"
+]
+},
+{
+"sku": "JRN00001617",
+"barcode": "6224011288293",
+"cat": 29,
+"ar": "اتس ا بوم قطع الكرسب رايس بالقهوة مع قطع الشيكولاتة و مغطاه بكريمة الكاكاو 30 جم",
+"en": "It's a Boom Coated Crispy Bites With Real Coffee Mocha 30 g",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388630",
+"img_src": "ninja",
+"images": [
+"6224011288293.webp",
+"6224011288293-1.webp"
+]
+},
+{
+"sku": "JRN00001618",
+"barcode": "613668180009",
+"cat": 29,
+"ar": "اتس ا بوم بار كرسبي بالقهوة موكا 40 جم",
+"en": "It's a Boom Real Coffee Crispy Bar Mocha 40 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19388634",
+"img_src": "ninja",
+"images": [
+"613668180009.webp",
+"613668180009-1.webp"
+]
+},
+{
+"sku": "JRN00001619",
+"barcode": "6294017140338",
+"cat": 29,
+"ar": "كيت كات تشانكي شوكولاته فادج براوني 43 جم",
+"en": "KitKat Chunky Chocolate Fudge Brownie 43 g",
+"price": 5.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409485",
+"img_src": "ninja",
+"images": [
+"6294017140338.webp",
+"6294017140338-1.webp",
+"6294017140338-2.webp"
+]
+},
+{
+"sku": "JRN00001620",
+"barcode": "5000159503617",
+"cat": 29,
+"ar": "مالتيزرز شوكولاتة 68 جم",
+"en": "Maltesers Chocolate 68 g",
+"price": 10.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19357256",
+"img_src": "ninja",
+"images": [
+"5000159503617.webp",
+"5000159503617-1.webp",
+"5000159503617-2.webp"
+]
+},
+{
+"sku": "JRN00001621",
+"barcode": "5000159559409",
+"cat": 29,
+"ar": "تويكس شوكولاتة ميني كيس 150 جم",
+"en": "Twix Chocolate Miniatures 150 g",
+"price": 17.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-1095",
+"img_src": "ninja",
+"images": [
+"5000159559409.webp",
+"5000159559409-1.webp",
+"5000159559409-2.webp"
+]
+},
+{
+"sku": "JRN00001622",
+"barcode": "4011100023710",
+"cat": 29,
+"ar": "مارس شوكولاتة ميني كيس 150 جم",
+"en": "Mars Chocolate Miniatures 150 g",
+"price": 17.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-1086",
+"img_src": "ninja",
+"images": [
+"4011100023710.webp",
+"4011100023710-1.webp",
+"4011100023710-2.webp"
+]
+},
+{
+"sku": "JRN00001623",
+"barcode": "6294003582678",
+"cat": 29,
+"ar": "كيت كات تشنكي بالشوكولاتة 40 جم",
+"en": "KitKat Chunky Chocolate 40 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-993",
+"img_src": "ninja",
+"images": [
+"6294003582678.webp",
+"6294003582678-1.webp",
+"6294003582678-2.webp"
+]
+},
+{
+"sku": "JRN00001624",
+"barcode": "6294001830313",
+"cat": 29,
+"ar": "جالكسي شوكولاتة بالحليب 80 جم",
+"en": "Galaxy Smooth Chocolate Milk Bar 80 g",
+"price": 9.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7751",
+"img_src": "ninja",
+"images": [
+"6294001830313.webp",
+"6294001830313-1.webp",
+"6294001830313-2.webp"
+]
+},
+{
+"sku": "JRN00001625",
+"barcode": "8690504033448",
+"cat": 29,
+"ar": "جوديفا شوكولاتة كريمي بار 35 جم",
+"en": "Godiva Creamy Chocolate Bar 35 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7710",
+"img_src": "ninja",
+"images": [
+"8690504033448.webp",
+"8690504033448-1.webp",
+"8690504033448-2.webp"
+]
+},
+{
+"sku": "JRN00001626",
+"barcode": "6221134030532",
+"cat": 29,
+"ar": "جالكسي شوكولاتة كريسبي 30 جم",
+"en": "Galaxy Crispy Chocolate 30 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1099",
+"img_src": "ninja",
+"images": [
+"6221134030532.webp",
+"6221134030532-1.webp"
+]
+},
+{
+"sku": "JRN00001627",
+"barcode": "6221134030372",
+"cat": 29,
+"ar": "جالكسي شوكولاتة بالبندق 30 جم",
+"en": "Galaxy Hazelnut Chocolate 30 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1444",
+"img_src": "ninja",
+"images": [
+"6221134030372.webp",
+"6221134030372-1.webp"
+]
+},
+{
+"sku": "JRN00001628",
+"barcode": "6294017120620",
+"cat": 29,
+"ar": "كيت كات إصبعين عبوة توفير 8 × 17.7 جم",
+"en": "KitKat 2 Fingers Value Pack 8 x 17.7 g",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291521",
+"img_src": "ninja",
+"images": [
+"6294017120620.webp",
+"6294017120620-1.webp"
+]
+},
+{
+"sku": "JRN00001629",
+"barcode": "6281004169526",
+"cat": 29,
+"ar": "توفي لك 12 حبة 33 جم",
+"en": "Tofiluk 12 pcs 33 g",
+"price": 16.75,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19304514",
+"img_src": "ninja",
+"images": [
+"6281004169526.webp",
+"6281004169526-1.webp",
+"6281004169526-2.webp"
+]
+},
+{
+"sku": "JRN00001630",
+"barcode": "8000500346273",
+"cat": 29,
+"ar": "كيندر شوكو بونز مقرمشة 89 جم",
+"en": "Kinder Schoko-Bons Crispy 89 g",
+"price": 14.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11544450",
+"img_src": "ninja",
+"images": [
+"8000500346273.webp",
+"8000500346273-1.webp"
+]
+},
+{
+"sku": "JRN00001631",
+"barcode": "7622300041496",
+"cat": 29,
+"ar": "ميلكا ميلكينيس شوكولاتة بالحليب 100 جم",
+"en": "Milka Milkinis Chocolate Milk 100 g",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19365412",
+"img_src": "ninja",
+"images": [
+"7622300041496.webp",
+"7622300041496-1.webp"
+]
+},
+{
+"sku": "JRN00001632",
+"barcode": "4008400260921",
+"cat": 29,
+"ar": "كيندر كانتري شوكولاتة بالحليب والحبوب 9 أصابع 211.5 جم",
+"en": "Kinder Country 9 Bars 211.5 g",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11373152",
+"img_src": "ninja",
+"images": [
+"4008400260921.webp",
+"4008400260921-1.webp",
+"4008400260921-2.webp"
+]
+},
+{
+"sku": "JRN00001633",
+"barcode": "8000500369340",
+"cat": 29,
+"ar": "كيندر كريمي بالحليب مع الأرز المقرمش 5 × 19 جم",
+"en": "Kinder Creamy Milky & Crunchy with Crispy Rice 5 x 19 g",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11542097",
+"img_src": "ninja",
+"images": [
+"8000500369340.webp",
+"8000500369340-1.webp",
+"8000500369340-2.webp"
+]
+},
+{
+"sku": "JRN00001634",
+"barcode": "8690504033431",
+"cat": 29,
+"ar": "جوديفا لوح شوكولاتة دبل 35 جم",
+"en": "Godiva Double Chocolate Bar 35 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-2430",
+"img_src": "ninja",
+"images": [
+"8690504033431.webp",
+"8690504033431-1.webp",
+"8690504033431-2.webp"
+]
+},
+{
+"sku": "JRN00001635",
+"barcode": "7622202271601",
+"cat": 29,
+"ar": "ميلكا شوكولاتة حليب 90 جم",
+"en": "Milka Alpine Milk 90 g",
+"price": 8.5,
+"special": 6.95,
+"src": "ninja",
+"ninja_id": "5-19421421",
+"img_src": "ninja",
+"images": [
+"7622202271601.webp",
+"7622202271601-1.webp"
+]
+},
+{
+"sku": "JRN00001636",
+"barcode": "6221134012057",
+"cat": 29,
+"ar": "جالكسي فيوجن بلوند ملح البحر 35 جم",
+"en": "Galaxy Fusion Blonde Sea Salt 35 g",
+"price": 6.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19330012",
+"img_src": "ninja",
+"images": [
+"6221134012057.webp",
+"6221134012057-1.webp",
+"6221134012057-2.webp"
+]
+},
+{
+"sku": "JRN00001637",
+"barcode": "6221134012040",
+"cat": 29,
+"ar": "جالاكسي فيوجنز شوكولاتة داكنة 70% كاكاو 100 جم",
+"en": "Galaxy Fusions Dark Chocolate 70% Cocoa 100 g",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19357266",
+"img_src": "ninja",
+"images": [
+"6221134012040.webp",
+"6221134012040-1.webp",
+"6221134012040-2.webp"
+]
+},
+{
+"sku": "JRN00001638",
+"barcode": "6221134011074",
+"cat": 29,
+"ar": "تويكس ميني 9 حبات 180 جم",
+"en": "Twix Mini 9 pcs 180 g",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19330018",
+"img_src": "ninja",
+"images": [
+"6221134011074.webp",
+"6221134011074-1.webp"
+]
+},
+{
+"sku": "JRN00001639",
+"barcode": "6294003596514",
+"cat": 29,
+"ar": "كيت كات ميني شوكولاتة بالحليب 94.5 جم",
+"en": "KitKat Miniatures Milk Chocolate 94.5 g",
+"price": 13.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-13955",
+"img_src": "ninja",
+"images": [
+"6294003596514.webp"
+]
+},
+{
+"sku": "JRN00001640",
+"barcode": "6221134013870",
+"cat": 29,
+"ar": "جالكسي كراميل ميني 13 حبة 117 جم",
+"en": "Galaxy Caramel Miniatures 13 pcs 117 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374485",
+"img_src": "ninja",
+"images": [
+"6221134013870.webp",
+"6221134013870-1.webp",
+"6221134013870-2.webp"
+]
+},
+{
+"sku": "JRN00001641",
+"barcode": "850027880266",
+"cat": 29,
+"ar": "مستر بيست لوح شوكولاتة مقرمشة بالحليب 60 جم",
+"en": "Mr Beast Milk Crunch Bar 60 g",
+"price": 22.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19357242",
+"img_src": "ninja",
+"images": [
+"850027880266.webp",
+"850027880266-1.webp",
+"850027880266-2.webp"
+]
+},
+{
+"sku": "JRN00001642",
+"barcode": "6281100350026",
+"cat": 29,
+"ar": "أولكر نابوليتين شوكولاتة بالحليب 30 جم",
+"en": "Ulker Napoliten Milk Chocolate 30 g",
+"price": 6.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1698",
+"img_src": "ninja",
+"images": [
+"6281100350026.webp",
+"6281100350026-1.webp",
+"6281100350026-2.webp"
+]
+},
+{
+"sku": "JRN00001643",
+"barcode": "6194005449903",
+"cat": 29,
+"ar": "ميثيك شوكلاته بالكراميل 40 جم",
+"en": "Mythic Club Caramel 40 g",
+"price": 2.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19346833",
+"img_src": "ninja",
+"images": [
+"6194005449903.webp",
+"6194005449903-1.webp",
+"6194005449903-2.webp"
+]
+},
+{
+"sku": "JRN00001644",
+"barcode": "5000159408004",
+"cat": 29,
+"ar": "بيست أوف مينيز شوكولاتة متنوعة 710 جم",
+"en": "Best of Minis Mixed Chocolate 710 g",
+"price": 62.95,
+"special": 39.95,
+"src": "ninja",
+"ninja_id": "5-1092",
+"img_src": "ninja",
+"images": [
+"5000159408004.webp",
+"5000159408004-1.webp",
+"5000159408004-2.webp"
+]
+},
+{
+"sku": "JRN00001645",
+"barcode": "5000159031103",
+"cat": 29,
+"ar": "مالتيزرز شوكولاتة كيس 175 جم",
+"en": "Maltesers Chocolate Pouch 175 g",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1085",
+"img_src": "ninja",
+"images": [
+"5000159031103.webp",
+"5000159031103-1.webp",
+"5000159031103-2.webp"
+]
+},
+{
+"sku": "JRN00001646",
+"barcode": "7613287757982",
+"cat": 29,
+"ar": "شوكولاتة ليون 60 جم",
+"en": "Lion Chocolate 60 g",
+"price": 6.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19294785",
+"img_src": "ninja",
+"images": [
+"7613287757982.webp",
+"7613287757982-1.webp",
+"7613287757982-2.webp"
+]
+},
+{
+"sku": "JRN00001647",
+"barcode": "8000300440676",
+"cat": 29,
+"ar": "كيت كات أيكون فورمولا 1 كيس 66 جم",
+"en": "KitKat Icon Formula 1 Pouch 66 g",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19396975",
+"img_src": "ninja",
+"images": [
+"8000300440676.webp",
+"8000300440676-1.webp"
+]
+},
+{
+"sku": "JRN00001648",
+"barcode": "6294003588274",
+"cat": 29,
+"ar": "كيت كات تشنكي الشوكولاتة بالكراميل 42 جم",
+"en": "KitKat Chunky Chocolate With Caramel 42 g",
+"price": 5.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-999",
+"img_src": "ninja",
+"images": [
+"6294003588274.webp",
+"6294003588274-1.webp",
+"6294003588274-2.webp"
+]
+},
+{
+"sku": "JRN00001649",
+"barcode": "8690504037736",
+"cat": 29,
+"ar": "ماكفيتيز نيبلز كرات بسكويت بشوكولاتة الحليب 110 جم",
+"en": "McVitie's Nibbles Milk Chocolate Biscuit Balls 110 g",
+"price": 13.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-2389",
+"img_src": "ninja",
+"images": [
+"8690504037736.webp",
+"8690504037736-1.webp",
+"8690504037736-2.webp"
+]
+},
+{
+"sku": "JRN00001650",
+"barcode": "6294001850793",
+"cat": 29,
+"ar": "جالكسي شوكولاته فستق بالكنافة 8 قطع 90 جم",
+"en": "Galaxy Chocolate Milk Kunafa Pistachio 8 pcs 90 g",
+"price": 37.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19386187",
+"img_src": "ninja",
+"images": [
+"6294001850793.webp",
+"6294001850793-1.webp",
+"6294001850793-2.webp"
+]
+},
+{
+"sku": "JRN00001651",
+"barcode": "5000159504355",
+"cat": 29,
+"ar": "إم آند إمز شوكولاتة بالفول السوداني 82 جم",
+"en": "M&M's Peanut Chocolate 82 g",
+"price": 9.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19357273",
+"img_src": "ninja",
+"images": [
+"5000159504355.webp",
+"5000159504355-1.webp",
+"5000159504355-2.webp"
+]
+},
+{
+"sku": "JRN00001652",
+"barcode": "6281004281921",
+"cat": 29,
+"ar": "توفي لك 16 حبة 10 جم",
+"en": "Tofiluk 16 pcs 10 g",
+"price": 10.75,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19362517",
+"img_src": "ninja",
+"images": [
+"6281004281921.webp",
+"6281004281921-1.webp",
+"6281004281921-2.webp"
+]
+},
+{
+"sku": "JRN00001653",
+"barcode": "5900951251849",
+"cat": 29,
+"ar": "تويكس توب بسكويت بالشوكولاتة والكراميل 21 جم",
+"en": "Twix Top Biscuits with Chocolate & Caramel 21 g",
+"price": 2.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-7742",
+"img_src": "ninja",
+"images": [
+"5900951251849.webp",
+"5900951251849-1.webp",
+"5900951251849-2.webp"
+]
+},
+{
+"sku": "JRN00001654",
+"barcode": "7622202296116",
+"cat": 29,
+"ar": "كادبوري لوح شوكولاتة بالبندق 156 جم",
+"en": "Cadbury Dairy Milk Chocolate Hazelnut 156 g",
+"price": 20.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19379039",
+"img_src": "ninja",
+"images": [
+"7622202296116.webp",
+"7622202296116-1.webp",
+"7622202296116-2.webp"
+]
+},
+{
+"sku": "JRN00001655",
+"barcode": "6281100720201",
+"cat": 29,
+"ar": "رنا تريكسي بسكويت مغطى بالشوكولاتة 18 × 20 جم",
+"en": "Rana Trixy Chocolate Coated Biscuit 18 x 20 g",
+"price": 14.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-1100565",
+"img_src": "ninja",
+"images": [
+"6281100720201.webp"
+]
+},
+{
+"sku": "JRN00001656",
+"barcode": "7613287757418",
+"cat": 29,
+"ar": "ليون شوكولاته كرانشي 30 جم",
+"en": "Lion Crunchy Chocolate 30 g",
+"price": 3.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1830298",
+"img_src": "ninja",
+"images": [
+"7613287757418.webp",
+"7613287757418-1.webp",
+"7613287757418-2.webp"
+]
+},
+{
+"sku": "JRN00001657",
+"barcode": "6221134014853",
+"cat": 29,
+"ar": "جالكسي ميني بالكراميل 11 حبة 154 جم",
+"en": "Galaxy Caramel Minis 11 pcs 154 g",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1412",
+"img_src": "ninja",
+"images": [
+"6221134014853.webp",
+"6221134014853-1.webp",
+"6221134014853-2.webp"
+]
+},
+{
+"sku": "JRN00001658",
+"barcode": "4008400828022",
+"cat": 29,
+"ar": "كيندر ماكسي 11 لوح 231 جم",
+"en": "Kinder Maxi Multipack 11 Bars 231 g",
+"price": 17.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11541916",
+"img_src": "ninja",
+"images": [
+"4008400828022.webp",
+"4008400828022-1.webp",
+"4008400828022-2.webp"
+]
+},
+{
+"sku": "JRN00001659",
+"barcode": "6224001733154",
+"cat": 29,
+"ar": "سويس فرو بلوند كنافة لوز 150 جم",
+"en": "Swissfru Blond Kunafa Bar with Almond Cream 150 g",
+"price": 29.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19412656",
+"img_src": "ninja",
+"images": [
+"6224001733154.webp"
+]
+},
+{
+"sku": "JRN00001660",
+"barcode": "6224001733215",
+"cat": 29,
+"ar": "سويس فرو بلوند كنافة مع بندق كامل 150 جم",
+"en": "Swissfru Blond Kunafa Bar with Whole Hazelnut 150 g",
+"price": 29.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19412658",
+"img_src": "ninja",
+"images": [
+"6224001733215.webp"
+]
+},
+{
+"sku": "JRN00001661",
+"barcode": "850027880105",
+"cat": 29,
+"ar": "مستر بيست لوح شوكولاتة باللوز 60 جم",
+"en": "Mr Beast Almond Chocolate Bar 60 g",
+"price": 22.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19357241",
+"img_src": "ninja",
+"images": [
+"850027880105.webp",
+"850027880105-1.webp",
+"850027880105-2.webp"
+]
+},
+{
+"sku": "JRN00001662",
+"barcode": "6224001733116",
+"cat": 29,
+"ar": "سويس فرو بلوند موس كنافة 150 جم",
+"en": "Swissfru Blond Kunafa Bar with Mousse Cream 150 g",
+"price": 29.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19412653",
+"img_src": "ninja",
+"images": [
+"6224001733116.webp"
+]
+},
+{
+"sku": "JRN00001663",
+"barcode": "6294017129968",
+"cat": 29,
+"ar": "كيت كات تشنكي بالشكولاته مينيز 160 جم",
+"en": "KitKat Chunky Chocolate Minis 160 g",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19347179",
+"img_src": "ninja",
+"images": [
+"6294017129968.webp",
+"6294017129968-1.webp",
+"6294017129968-2.webp"
+]
+},
+{
+"sku": "JRN00001664",
+"barcode": "7622300829384",
+"cat": 29,
+"ar": "كادبوري لوح شوكولاتة بالكراميل 40 جم",
+"en": "Cadbury Dairy Milk Chocolate Caramel 40 g",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19379040",
+"img_src": "ninja",
+"images": [
+"7622300829384.webp",
+"7622300829384-1.webp",
+"7622300829384-2.webp"
+]
+},
+{
+"sku": "JRN00001665",
+"barcode": "6224001733208",
+"cat": 29,
+"ar": "سويس فرو كنافة بالحليب مع بندق كامل 150 جم",
+"en": "Swissfru Milk Kunafa Bar with Whole Hazelnut 150 g",
+"price": 29.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19412657",
+"img_src": "ninja",
+"images": [
+"6224001733208.webp"
+]
+},
+{
+"sku": "JRN00001666",
+"barcode": "6224001733093",
+"cat": 29,
+"ar": "سويس فرو بلوند كنافة وكريمة البسكويت 150 جم",
+"en": "Swissfru Blond Kunafa Bar with Speculoos Cream 150 g",
+"price": 29.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19412649",
+"img_src": "ninja",
+"images": [
+"6224001733093.webp"
+]
+},
+{
+"sku": "JRN00001667",
+"barcode": "6224001733109",
+"cat": 29,
+"ar": "سويس فرو ميلك موس كنافة 150 جم",
+"en": "Swissfru Milk Kunafa Bar with Mousse Cream 150 g",
+"price": 29.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19412652",
+"img_src": "ninja",
+"images": [
+"6224001733109.webp"
+]
+},
+{
+"sku": "JRN00001668",
+"barcode": "7622202269097",
+"cat": 29,
+"ar": "ميلكا نويسيت 90 جم",
+"en": "Milka Noisette 90 g",
+"price": 12.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19421423",
+"img_src": "ninja",
+"images": [
+"7622202269097.webp",
+"7622202269097-1.webp"
+]
+},
+{
+"sku": "JRN00001669",
+"barcode": "7622202295898",
+"cat": 29,
+"ar": "كادبوري ديري ميلك بالفواكه والمكسرات 32 جم",
+"en": "Cadbury Dairy Milk Fruit & Nut 32 g",
+"price": 4.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19379035",
+"img_src": "ninja",
+"images": [
+"7622202295898.webp",
+"7622202295898-1.webp"
+]
+},
+{
+"sku": "JRN00001670",
+"barcode": "6224001733161",
+"cat": 29,
+"ar": "سويس فرو ميلك كنافة لوز 150 جم",
+"en": "Swissfru Milk Kunafa Bar with Almond Cream 150 g",
+"price": 29.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19412655",
+"img_src": "ninja",
+"images": [
+"6224001733161.webp"
+]
+},
+{
+"sku": "JRN00001671",
+"barcode": "6224001733086",
+"cat": 29,
+"ar": "سويس فرو بلوند كنافة فستق 150 جم",
+"en": "Swissfru Blond Kunafa Bar with Pistachio Cream 150 g",
+"price": 29.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19412650",
+"img_src": "ninja",
+"images": [
+"6224001733086.webp"
+]
+},
+{
+"sku": "JRN00001672",
+"barcode": "6224001733147",
+"cat": 29,
+"ar": "سويس فرو ميلك كنافة وكريمة البسكويت 150 جم",
+"en": "Swissfru Milk Kunafa Bar with Speculoos Cream 150 g",
+"price": 29.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19412654",
+"img_src": "ninja",
+"images": [
+"6224001733147.webp"
+]
+},
+{
+"sku": "JRN00001673",
+"barcode": "7622210956163",
+"cat": 29,
+"ar": "ميلكا اوريو براوني 100 جم",
+"en": "Milka Oreo Brownie 100 g",
+"price": 12.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19421413",
+"img_src": "ninja",
+"images": [
+"7622210956163.webp",
+"7622210956163-1.webp"
+]
+},
+{
+"sku": "JRN00001674",
+"barcode": "7622202264207",
+"cat": 29,
+"ar": "ميلكا شوكولاتة حليب بالبندق 90 جم",
+"en": "Milka Hazelnuts 90 g",
+"price": 12.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19421420",
+"img_src": "ninja",
+"images": [
+"7622202264207.webp",
+"7622202264207-1.webp"
+]
+},
+{
+"sku": "JRN00001675",
+"barcode": "7622201448790",
+"cat": 29,
+"ar": "كادبوري مينيتشرز شوكولاتة 200 جم",
+"en": "Cadbury Miniatures Chocolate 200 g",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10764633",
+"img_src": "ninja",
+"images": [
+"7622201448790.webp",
+"7622201448790-1.webp",
+"7622201448790-2.webp"
+]
+},
+{
+"sku": "JRN00001676",
+"barcode": "7622210454362",
+"cat": 29,
+"ar": "ميلكا شوكولاتة شيبس أهوي بلوك 100 جم",
+"en": "Milka Chips Ahoy 100 g",
+"price": 12.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19421418",
+"img_src": "ninja",
+"images": [
+"7622210454362.webp",
+"7622210454362-1.webp"
+]
+},
+{
+"sku": "JRN00001677",
+"barcode": "6281004169328",
+"cat": 29,
+"ar": "غندور سودان فول سوداني كرنش علبة 12 حبة 31 جم",
+"en": "Gandour Soudan Peanut Crunch Box 12 Pcs 31 g",
+"price": 16.5,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-3423333",
+"img_src": "ninja",
+"images": [
+"6281004169328.webp",
+"6281004169328-1.webp",
+"6281004169328-2.webp"
+]
+},
+{
+"sku": "JRN00001678",
+"barcode": "6294001832638",
+"cat": 29,
+"ar": "جالكسي ميني بالبندق 11 حبة 137.5 جم",
+"en": "Galaxy Hazelnut Minis 11 pcs 137.5 g",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1428",
+"img_src": "ninja",
+"images": [
+"6294001832638.webp",
+"6294001832638-1.webp",
+"6294001832638-2.webp"
+]
+},
+{
+"sku": "JRN00001679",
+"barcode": "6224001733079",
+"cat": 29,
+"ar": "سويس فرو ميلك كنافة فستق 150 جم",
+"en": "Swissfru Milk Kunafa Bar with Pistachio Cream 150 g",
+"price": 29.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-19412651",
+"img_src": "ninja",
+"images": [
+"6224001733079.webp"
+]
+},
+{
+"sku": "JRN00001680",
+"barcode": "6285835001338",
+"cat": 29,
+"ar": "سنيكرز شوكولاته ميني 198 جم",
+"en": "Snickers Chocolate Minis 198 g",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19357274",
+"img_src": "ninja",
+"images": [
+"6285835001338.webp",
+"6285835001338-1.webp"
+]
+},
+{
+"sku": "JRN00001681",
+"barcode": "8684184785148",
+"cat": 29,
+"ar": "فرويتا فراولة مغطاة بالشوكولاتة 80 جم",
+"en": "Fruita Strawberry Covered with Chocolate 80 g",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19385850",
+"img_src": "ninja",
+"images": [
+"8684184785148.webp",
+"8684184785148-1.webp",
+"8684184785148-2.webp"
+]
+},
+{
+"sku": "JRN00001682",
+"barcode": "7622202026744",
+"cat": 29,
+"ar": "توبليرون تايني شوكولاتة بالحليب 168 جم",
+"en": "Toblerone Tiny Milk Chocolate 168 g",
+"price": 20.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19355865",
+"img_src": "ninja",
+"images": [
+"7622202026744.webp",
+"7622202026744-1.webp",
+"7622202026744-2.webp"
+]
+},
+{
+"sku": "JRN00001683",
+"barcode": "6294003545604",
+"cat": 29,
+"ar": "كيت كات الشوكولاتة مينيز 229.5 جم",
+"en": "KitKat Chocolate Minis 229.5 g",
+"price": 31.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11731",
+"img_src": "ninja",
+"images": [
+"6294003545604.webp"
+]
+},
+{
+"sku": "JRN00001684",
+"barcode": "6221134014532",
+"cat": 29,
+"ar": "باونتي شكولاتة جوز الهند 25 جم",
+"en": "Bounty Chocolate Bar Snack 25 g",
+"price": 2.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19421504",
+"img_src": "ninja",
+"images": [
+"6221134014532.webp"
+]
+},
+{
+"sku": "JRN00001685",
+"barcode": "6294017140307",
+"cat": 29,
+"ar": "كيت كات تشانكي لودد براوني شوكولاتة فدج 160 جم",
+"en": "KitKat Chunky Loaded Choco Fudge Brownie 160 g",
+"price": 16.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19409487",
+"img_src": "ninja",
+"images": [
+"6294017140307.webp",
+"6294017140307-1.webp",
+"6294017140307-2.webp"
+]
+},
+{
+"sku": "JRN00001686",
+"barcode": "8000500023976",
+"cat": 29,
+"ar": "رافايلو بجوز الهند واللوز 15 حبة 150 جم",
+"en": "Raffaello Coconut and Almond 15 pcs 150 g",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-11543792",
+"img_src": "ninja",
+"images": [
+"8000500023976.webp",
+"8000500023976-1.webp",
+"8000500023976-2.webp"
+]
+},
+{
+"sku": "JRN00001687",
+"barcode": "6221134030327",
+"cat": 29,
+"ar": "جالكسي شكولاته بالمكسرات والفواكه المجففه 30 جم",
+"en": "Galaxy Chocolate With Fruit & Nut 30 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19421511",
+"img_src": "ninja",
+"images": [
+"6221134030327.webp",
+"6221134030327-1.webp"
+]
+},
+{
+"sku": "JRN00001688",
+"barcode": "6294001815266",
+"cat": 29,
+"ar": "جالاكسي شوكولاتة ناعمة داكنة 40 جم",
+"en": "Galaxy Chocolate Smooth Dark 40 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1583",
+"img_src": "ninja",
+"images": [
+"6294001815266.webp",
+"6294001815266-1.webp",
+"6294001815266-2.webp"
+]
+},
+{
+"sku": "JRN00001689",
+"barcode": "7622210030597",
+"cat": 29,
+"ar": "ميلكا شوكولاتة حليب بالكراميل 100 جم",
+"en": "Milka Caramel 100 g",
+"price": 12.95,
+"special": 8.95,
+"src": "ninja",
+"ninja_id": "5-19421417",
+"img_src": "ninja",
+"images": [
+"7622210030597.webp",
+"7622210030597-1.webp"
+]
+},
+{
+"sku": "JRN00001690",
+"barcode": "3472710015303",
+"cat": 29,
+"ar": "ترافل دي فرانس ترافل شوكولاتة بالنكهة الأصلية 500 جم",
+"en": "Truffles de France Chocolate Truffles Original Flavor 500 g",
+"price": 64.95,
+"special": 49.95,
+"src": "ninja",
+"ninja_id": "5-19381984",
+"img_src": "ninja",
+"images": [
+"3472710015303.webp",
+"3472710015303-1.webp"
+]
+},
+{
+"sku": "JRN00001691",
+"barcode": "6294001832614",
+"cat": 29,
+"ar": "جالاكسي شوكولاتة بالحليب ميني 17 حبة 212.5 جم",
+"en": "Galaxy Chocolate Smooth Milk Mini 17 Pieces 212.5 g",
+"price": 27.25,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1429",
+"img_src": "ninja",
+"images": [
+"6294001832614.webp",
+"6294001832614-1.webp",
+"6294001832614-2.webp"
+]
+},
+{
+"sku": "JRN00001692",
+"barcode": "6221134012279",
+"cat": 29,
+"ar": "جالاكسي شوكولاتة بالحليب مينيتشرز 13 حبة 117 جم",
+"en": "Galaxy Chocolate Smooth Milk Miniatures 13 pcs 117 g",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19374474",
+"img_src": "ninja",
+"images": [
+"6221134012279.webp",
+"6221134012279-1.webp",
+"6221134012279-2.webp"
+]
+},
+{
+"sku": "JRN00001693",
+"barcode": "4014400901191",
+"cat": 29,
+"ar": "ميرسي شوكولاتة متنوعة 250 جم",
+"en": "Merci Finest Selection Assorted Chocolates 250 g",
+"price": 42.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-1033079",
+"img_src": "ninja",
+"images": [
+"4014400901191.webp",
+"4014400901191-1.webp",
+"4014400901191-2.webp"
+]
+},
+{
+"sku": "JRN00001694",
+"barcode": "8717677339990",
+"cat": 29,
+"ar": "تونيز شوكولوني شوكولاتة داكنة 70% 180 جم",
+"en": "Tony's Chocolonely Dark Chocolate 70% 180 g",
+"price": 30.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8717677339990.webp",
+"8717677339990-1.webp",
+"8717677339990-2.webp"
+]
+},
+{
+"sku": "JRN00001695",
+"barcode": "8717677339877",
+"cat": 29,
+"ar": "تونيز شوكولوني شوكولاتة داكنة باللوز وملح البحر 180 جم",
+"en": "Tony's Chocolonely Dark Chocolate Almond Sea Salt 180 g",
+"price": 30.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8717677339877.webp",
+"8717677339877-1.webp",
+"8717677339877-2.webp"
+]
+},
+{
+"sku": "JRN00001696",
+"barcode": "6221134031461",
+"cat": 29,
+"ar": "جالكسي جواهر شوكولاتة متنوعة 300 جم",
+"en": "Galaxy Jewels Assorted Chocolates 300 g",
+"price": 51.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6221134031461.webp"
+]
+},
+{
+"sku": "JRN00001697",
+"barcode": "8000500009673",
+"cat": 29,
+"ar": "فيريرو روشيه 24 حبة 300 جم",
+"en": "Ferrero Rocher 24 pcs 300 g",
+"price": 54.95,
+"special": 46.7,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8000500009673.webp"
+]
+},
+{
+"sku": "JRN00001698",
+"barcode": "6294017126141",
+"cat": 29,
+"ar": "نستله ميني ميكس 30 قطعة 385 جم",
+"en": "Nestle Minis Mix 30 pcs 385 g",
+"price": 48.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6294017126141.webp",
+"6294017126141-1.webp",
+"6294017126141-2.webp"
+]
+},
+{
+"sku": "JRN00001699",
+"barcode": "5000159553834",
+"cat": 29,
+"ar": "جالكسي ريبل شوكولاتة بالحليب 30 جم",
+"en": "Galaxy Ripple Milk Chocolate 30 g",
+"price": 4.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5000159553834.webp",
+"5000159553834-1.webp",
+"5000159553834-2.webp"
+]
+},
+{
+"sku": "JRN00001700",
+"barcode": "6221134014495",
+"cat": 29,
+"ar": "باونتي شوكولاتة محشوة بجوز الهند 50 جم",
+"en": "Bounty Coconut Chocolate Bar 50 g",
+"price": 4.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6221134014495.webp",
+"6221134014495-1.webp",
+"6221134014495-2.webp"
+]
+},
+{
+"sku": "JRN00001701",
+"barcode": "80824107",
+"cat": 29,
+"ar": "كيندر كريمي بالحليب مع الأرز المقرمش 19 جم",
+"en": "Kinder Creamy Milky & Crunchy with Crispy Rice 19 g",
+"price": 2.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"80824107.webp",
+"80824107-1.webp",
+"80824107-2.webp"
+]
+},
+{
+"sku": "JRN00001702",
+"barcode": "6221134030280",
+"cat": 29,
+"ar": "جالكسي شوكولاتة بالكراميل 34 جم",
+"en": "Galaxy Caramel Chocolate 34 g",
+"price": 4.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6221134030280.webp",
+"6221134030280-1.webp",
+"6221134030280-2.webp"
+]
+},
+{
+"sku": "JRN00001703",
+"barcode": "6281100356769",
+"cat": 29,
+"ar": "جوديفا بار شوكولاتة بالكراميل 35 جم",
+"en": "Godiva Creamy Caramel Chocolate Bar 35 g",
+"price": 4.95,
+"special": 4.2,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281100356769.webp",
+"6281100356769-1.webp"
+]
+},
+{
+"sku": "JRN00001704",
+"barcode": "6294001824176",
+"cat": 29,
+"ar": "جالكسي شوكولاتة بيضاء 38 جم",
+"en": "Galaxy White Chocolate 38 g",
+"price": 5.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6294001824176.webp",
+"6294001824176-1.webp",
+"6294001824176-2.webp"
+]
+},
+{
+"sku": "JRN00001705",
+"barcode": "80177609",
+"cat": 29,
+"ar": "كيندر شوكولاتة 4 أصابع 50 جم",
+"en": "Kinder Chocolate 4 Bars 50 g",
+"price": 4.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"80177609.webp",
+"80177609-1.webp",
+"80177609-2.webp"
+]
+},
+{
+"sku": "JRN00001706",
+"barcode": "7896423414783",
+"cat": 29,
+"ar": "سنيكرز إكستريم مكسرات وكراميل 42 جم",
+"en": "Snickers Xtreme Extra Nuts & Caramel 42 g",
+"price": 4.15,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7896423414783.webp",
+"7896423414783-1.webp",
+"7896423414783-2.webp"
+]
+},
+{
+"sku": "JRN00001707",
+"barcode": "8690504154679",
+"cat": 29,
+"ar": "جوديفا شوكولاتة بالحليب 90 جم",
+"en": "Godiva Milk Chocolate Tablet 90 g",
+"price": 24.5,
+"special": 22.05,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8690504154679.webp",
+"8690504154679-1.webp",
+"8690504154679-2.webp"
+]
+},
+{
+"sku": "JRN00001708",
+"barcode": "7622202371233",
+"cat": 29,
+"ar": "كادبوري ديري ميلك بالفستق المقرمش 35 جم",
+"en": "Cadbury Dairy Milk Pistachio Crunch 35 g",
+"price": 5.95,
+"special": 4.76,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7622202371233.webp",
+"7622202371233-1.webp",
+"7622202371233-2.webp"
+]
+},
+{
+"sku": "JRN00001709",
+"barcode": "6294001850823",
+"cat": 29,
+"ar": "جالكسي شوكولاتة داكنة بالفستق والكنافة 90 جم",
+"en": "Galaxy Pistachio Kunafa Dark Chocolate 90 g",
+"price": 34.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6294001850823.webp",
+"6294001850823-1.webp",
+"6294001850823-2.webp"
+]
+},
+{
+"sku": "JRN00001710",
+"barcode": "7622202277993",
+"cat": 29,
+"ar": "كادبوري ديري ميلك بالفواكه والمكسرات 95 جم",
+"en": "Cadbury Dairy Milk Fruit & Nut 95 g",
+"price": 8.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7622202277993.webp",
+"7622202277993-1.webp",
+"7622202277993-2.webp"
+]
+},
+{
+"sku": "JRN00001711",
+"barcode": "6221134014525",
+"cat": 29,
+"ar": "باونتي شوكولاتة بجوز الهند 5 × 50 جم",
+"en": "Bounty Coconut Chocolate 5 x 50 g",
+"price": 18.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6221134014525.webp",
+"6221134014525-1.webp"
+]
+},
+{
+"sku": "JRN00001712",
+"barcode": "8690504155782",
+"cat": 29,
+"ar": "جوديفا شوكولاتة بالحليب والكراميل المملح 90 جم",
+"en": "Godiva Salted Caramel Milk Chocolate Tablet 90 g",
+"price": 25.75,
+"special": 23.17,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8690504155782.webp",
+"8690504155782-1.webp",
+"8690504155782-2.webp"
+]
+},
+{
+"sku": "JRN00001713",
+"barcode": "7610400075787",
+"cat": 29,
+"ar": "ليندت لي غراند شوكولاتة بالحليب مع 34% بندق 150 جم",
+"en": "Lindt Les Grandes Milk Chocolate 34% Hazelnuts 150 g",
+"price": 50.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7610400075787.webp",
+"7610400075787-1.webp",
+"7610400075787-2.webp"
+]
+},
+{
+"sku": "JRN00001714",
+"barcode": "6281000849064",
+"cat": 29,
+"ar": "فلندر شوكولاتة كرسبي بقلاوة وفستق 240 جم",
+"en": "Vlinder Crispy Baklava & Pistachio Chocolate 240 g",
+"price": 49.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19332003",
+"img_src": "ninja",
+"images": [
+"6281000849064.webp",
+"6281000849064-1.webp",
+"6281000849064-2.webp"
+]
+},
+{
+"sku": "JRN00001715",
+"barcode": "6281000849057",
+"cat": 29,
+"ar": "فلندر شوكولاتة كرسبي كنافة وبيكان 240 جم",
+"en": "Vlinder Crispy Kunafa & Pecan Chocolate 240 g",
+"price": 49.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19330575",
+"img_src": "ninja",
+"images": [
+"6281000849057.webp",
+"6281000849057-1.webp",
+"6281000849057-2.webp"
+]
+},
+{
+"sku": "JRN00001716",
+"barcode": "6281000849071",
+"cat": 29,
+"ar": "فلندر شوكولاتة كرسبي كنافة وفستق 90 جم",
+"en": "Vlinder Crispy Kunafa & Pistachio Chocolate 90 g",
+"price": 23.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19332010",
+"img_src": "ninja",
+"images": [
+"6281000849071.webp",
+"6281000849071-1.webp",
+"6281000849071-2.webp"
+]
+},
+{
+"sku": "JRN00001717",
+"barcode": "8690766156053",
+"cat": 29,
+"ar": "جوديفا شوكولاتة داكنة 72% كاكاو 32 جم",
+"en": "Godiva 72% Cocoa Dark Chocolate 32 g",
+"price": 8,
+"special": 7.2,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8690766156053.webp",
+"8690766156053-1.webp",
+"8690766156053-2.webp"
+]
+},
+{
+"sku": "JRN00001718",
+"barcode": "8690766156060",
+"cat": 29,
+"ar": "جوديفا شوكولاتة بالحليب والكراميل المملح 32 جم",
+"en": "Godiva Salted Caramel Milk Chocolate 32 g",
+"price": 7.75,
+"special": 6.97,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8690766156060.webp",
+"8690766156060-1.webp",
+"8690766156060-2.webp"
+]
+},
+{
+"sku": "JRN00001719",
+"barcode": "7622202278044",
+"cat": 29,
+"ar": "كادبوري ديري ميلك بالبندق 85 جم",
+"en": "Cadbury Dairy Milk Hazelnut 85 g",
+"price": 8.75,
+"special": 7.61,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7622202278044.webp",
+"7622202278044-1.webp",
+"7622202278044-2.webp"
+]
+},
+{
+"sku": "JRN00001720",
+"barcode": "4000417670915",
+"cat": 29,
+"ar": "ريتر سبورت شوكولاتة بالحليب والفستق المحمص المملح 100 جم",
+"en": "Ritter Sport Milk Chocolate Roasted Salted Pistachio 100 g",
+"price": 20.5,
+"special": 13.94,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"4000417670915.webp",
+"4000417670915-1.webp",
+"4000417670915-2.webp"
+]
+},
+{
+"sku": "JRN00001721",
+"barcode": "4000417620613",
+"cat": 29,
+"ar": "ريتر سبورت شوكولاتة بالحليب مع سمارتيز 100 جم",
+"en": "Ritter Sport Smarties Milk Chocolate 100 g",
+"price": 18.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"4000417620613.webp"
+]
+},
+{
+"sku": "JRN00001722",
+"barcode": "6285835001611",
+"cat": 29,
+"ar": "جالكسي ميني بالفراولة 137.5 جم",
+"en": "Galaxy Strawberry Minis 137.5 g",
+"price": 18.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6285835001611.webp",
+"6285835001611-1.webp",
+"6285835001611-2.webp"
+]
+},
+{
+"sku": "JRN00001723",
+"barcode": "5000159561266",
+"cat": 29,
+"ar": "مينيز شوكولاتة متنوعة كيس 400 جم",
+"en": "Minis Mix Chocolate Bag 400 g",
+"price": 38.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5000159561266.webp",
+"5000159561266-1.webp",
+"5000159561266-2.webp"
+]
+},
+{
+"sku": "JRN00001724",
+"barcode": "8000500024041",
+"cat": 29,
+"ar": "كيندر شوكو بونز بالحليب والبندق 125 جم",
+"en": "Kinder Schoko-Bons Milk & Hazelnut 125 g",
+"price": 14.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8000500024041.webp",
+"8000500024041-1.webp",
+"8000500024041-2.webp"
+]
+},
+{
+"sku": "JRN00001725",
+"barcode": "8690504037750",
+"cat": 29,
+"ar": "ماكفيتيز نيبلز كرات بسكويت بالكراميل 110 جم",
+"en": "McVitie's Nibbles Caramel Biscuit Balls 110 g",
+"price": 13.25,
+"special": 11.26,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8690504037750.webp",
+"8690504037750-1.webp"
+]
+},
+{
+"sku": "JRN00001726",
+"barcode": "6222024101288",
+"cat": 29,
+"ar": "ماكفيتيز نيبلز شوكولاتة داكنة 37 جم",
+"en": "McVitie's Nibbles Dark Chocolate 37 g",
+"price": 5.25,
+"special": 4.46,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6222024101288.webp",
+"6222024101288-1.webp",
+"6222024101288-2.webp"
+]
+},
+{
+"sku": "JRN00001727",
+"barcode": "5000159454346",
+"cat": 29,
+"ar": "إم آند إمز شوكولاتة بالفول السوداني 150 جم",
+"en": "M&M's Peanut Chocolate 150 g",
+"price": 17.5,
+"special": 13.12,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5000159454346.webp",
+"5000159454346-1.webp",
+"5000159454346-2.webp"
+]
+},
+{
+"sku": "JRN00001728",
+"barcode": "6942836723668",
+"cat": 29,
+"ar": "هيرشيز كيسز تشكيلة كلاسيك 100 جم",
+"en": "Hershey's Kisses Classic Selection 100 g",
+"price": 13.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6942836723668.webp",
+"6942836723668-1.webp",
+"6942836723668-2.webp"
+]
+},
+{
+"sku": "JRN00001729",
+"barcode": "6294003582739",
+"cat": 29,
+"ar": "كيت كات تشانكي شوكولاتة بالحليب 4 × 40 جم",
+"en": "KitKat Chunky Milk Chocolate 4 x 40 g",
+"price": 16.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6294003582739.webp",
+"6294003582739-1.webp",
+"6294003582739-2.webp"
+]
+},
+{
+"sku": "JRN00001730",
+"barcode": "6294017135075",
+"cat": 29,
+"ar": "كيت كات ميني بالكراميل 99 جم",
+"en": "KitKat Miniatures Caramel 99 g",
+"price": 13.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6294017135075.webp",
+"6294017135075-1.webp",
+"6294017135075-2.webp"
+]
+},
+{
+"sku": "JRN00001731",
+"barcode": "6294017139837",
+"cat": 29,
+"ar": "كيت كات تشانكي ميني بالفستق والكنافة 166 جم",
+"en": "KitKat Chunky Minis Pistachio Kunafa 166 g",
+"price": 28,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6294017139837.webp",
+"6294017139837-1.webp",
+"6294017139837-2.webp"
+]
+},
+{
+"sku": "JRN00001732",
+"barcode": "6294017134832",
+"cat": 29,
+"ar": "كيت كات إصبعين ميني كيس 405 جم",
+"en": "KitKat 2 Fingers Minis Bag 405 g",
+"price": 52.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6294017134832.webp",
+"6294017134832-1.webp",
+"6294017134832-2.webp"
+]
+},
+{
+"sku": "JRN00001733",
+"barcode": "7622202305511",
+"cat": 29,
+"ar": "توبليرون شوكولاتة بالحليب مع نوجا العسل واللوز 340 جم",
+"en": "Toblerone Milk Chocolate with Honey & Almond Nougat 340 g",
+"price": 42.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7622202305511.webp",
+"7622202305511-1.webp",
+"7622202305511-2.webp"
+]
+},
+{
+"sku": "JRN00001734",
+"barcode": "6294017134856",
+"cat": 29,
+"ar": "كيت كات تشانكي ميني 24 حبة 384 جم",
+"en": "KitKat Chunky Minis 24 pcs 384 g",
+"price": 51.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6294017134856.webp",
+"6294017134856-1.webp",
+"6294017134856-2.webp"
+]
+},
+{
+"sku": "JRN00001735",
+"barcode": "7622202291180",
+"cat": 29,
+"ar": "كادبوري ميني ميكس 30 حبة 400 جم",
+"en": "Cadbury Minis Mix 30 pcs 400 g",
+"price": 37.95,
+"special": 24.28,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"7622202291180.webp",
+"7622202291180-1.webp"
+]
+}
+]
