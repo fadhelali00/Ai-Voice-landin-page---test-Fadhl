@@ -1,0 +1,3760 @@
+[
+{
+"sku": "JRN00002700",
+"barcode": "6281104816467",
+"cat": 38,
+"ar": "العجيب سائل صحون برائحة الليمون 1 لتر",
+"en": "Al Ajeeb Dishwashing liquid With lemon Scent 1 L",
+"price": 14.95,
+"special": 11.25,
+"src": "ninja",
+"ninja_id": "5-12897270",
+"img_src": "ninja",
+"images": [
+"6281104816467.webp",
+"6281104816467-1.webp"
+]
+},
+{
+"sku": "JRN00002701",
+"barcode": "5011309092110",
+"cat": 39,
+"ar": "زوفلورا بخاخ معقم متعدد الاستخدام برائحة فريزيا والياسمين الحلو 800 مل",
+"en": "Zoflora Multi-Purpose Disinfectant Spray Sweet Freesia & Jasmine Scent 800 ml",
+"price": 44.95,
+"special": 27.95,
+"src": "ninja",
+"ninja_id": "5-19356078",
+"img_src": "ninja",
+"images": [
+"5011309092110.webp",
+"5011309092110-1.webp",
+"5011309092110-2.webp"
+]
+},
+{
+"sku": "JRN00002702",
+"barcode": "6281006100060",
+"cat": 39,
+"ar": "جف كريم تنظيف الاسطح باليمون 500 مل",
+"en": "Jif Surface Cleaning Cream with Lemon 500 ml",
+"price": 19.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-5283",
+"img_src": "ninja",
+"images": [
+"6281006100060.webp",
+"6281006100060-1.webp"
+]
+},
+{
+"sku": "JRN00002703",
+"barcode": "6253009212156",
+"cat": 39,
+"ar": "العملاق سوبر جل برائحة الصنوبر 500 جم",
+"en": "Al Emlaq Super Gel Pine Scent 500 g",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5241",
+"img_src": "ninja",
+"images": [
+"6253009212156.webp",
+"6253009212156-1.webp",
+"6253009212156-2.webp"
+]
+},
+{
+"sku": "JRN00002704",
+"barcode": "6282307001872",
+"cat": 39,
+"ar": "جنتو منظف الارضيات بالعطور الفرنسيه 3 لتر",
+"en": "Gento Cleaner and Disinfectant French Perfume 3 L",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291105",
+"img_src": "ninja",
+"images": [
+"6282307001872.webp",
+"6282307001872-1.webp",
+"6282307001872-2.webp"
+]
+},
+{
+"sku": "JRN00002705",
+"barcode": "6281065014360",
+"cat": 39,
+"ar": "كلوركس منظف المرحاض برائحة منعشة 709 مل",
+"en": "Clorox Toilet Cleaner Fresh Scent 709 ml",
+"price": 20.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19310425",
+"img_src": "ninja",
+"images": [
+"6281065014360.webp"
+]
+},
+{
+"sku": "JRN00002706",
+"barcode": "6253009212101",
+"cat": 39,
+"ar": "العملاق سوبر جل برائحة الصنوبر 2 كجم",
+"en": "Al Emlaq Super Gel Pine Scent 2 kg",
+"price": 27.95,
+"special": 23.75,
+"src": "ninja",
+"ninja_id": "5-5235",
+"img_src": "ninja",
+"images": [
+"6253009212101.webp",
+"6253009212101-1.webp"
+]
+},
+{
+"sku": "JRN00002707",
+"barcode": "6281015106411",
+"cat": 39,
+"ar": "يودو منظف وملمع زجاج 700 مل",
+"en": "U-Do Window Cleaner 700 ml",
+"price": 8.95,
+"special": 4.48,
+"src": "ninja",
+"ninja_id": "5-4184120",
+"img_src": "ninja",
+"images": [
+"6281015106411.webp",
+"6281015106411-1.webp",
+"6281015106411-2.webp"
+]
+},
+{
+"sku": "JRN00002708",
+"barcode": "6295120046661",
+"cat": 39,
+"ar": "ديتول سائل مطهر عام 2 × 1 لتر",
+"en": "Dettol Antiseptic Disinfectant Liquid 2 x 1 L",
+"price": 58.0,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-10417956",
+"img_src": "ninja",
+"images": [
+"6295120046661.webp",
+"6295120046661-1.webp"
+]
+},
+{
+"sku": "JRN00002709",
+"barcode": "5000158062283",
+"cat": 39,
+"ar": "ديتول سائل مطهر مضاد للبكتيريا 1 لتر",
+"en": "Dettol Antiseptic Antibacterial Disinfectant Liquid 1 L",
+"price": 47.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-615",
+"img_src": "ninja",
+"images": [
+"5000158062283.webp",
+"5000158062283-1.webp"
+]
+},
+{
+"sku": "JRN00002710",
+"barcode": "6287011851355",
+"cat": 39,
+"ar": "ديفينس منظف ومطهر ومزيل للروائح برائحة الحرم 3 لتر",
+"en": "Defense Cleaner Deodoriser and Disinfectant with Haram Scent 3 L",
+"price": 47.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380226",
+"img_src": "ninja",
+"images": [
+"6287011851355.webp"
+]
+},
+{
+"sku": "JRN00002711",
+"barcode": "6281031266847",
+"cat": 39,
+"ar": "داك منظف الزجاج 2 × 650 مل + 400 مل",
+"en": "Dac Glass Cleaner 2 x 650 ml + 400 ml",
+"price": 27.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-19365361",
+"img_src": "ninja",
+"images": [
+"6281031266847.webp",
+"6281031266847-1.webp"
+]
+},
+{
+"sku": "JRN00002712",
+"barcode": "6282307001322",
+"cat": 39,
+"ar": "جنتو منظف الارضيات عبير الخزامى 3 لتر",
+"en": "Gento Cleaner and Disinfectant Lavender 3 L",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291112",
+"img_src": "ninja",
+"images": [
+"6282307001322.webp",
+"6282307001322-1.webp"
+]
+},
+{
+"sku": "JRN00002713",
+"barcode": "6281031291627",
+"cat": 39,
+"ar": "داك مطهر ارضيات 2 حبة 3 لتر",
+"en": "Dac Disinfectant Floor Cleaner 2 pcs 3 L",
+"price": 33.95,
+"special": 26.95,
+"src": "ninja",
+"ninja_id": "5-19361404",
+"img_src": "ninja",
+"images": [
+"6281031291627.webp",
+"6281031291627-1.webp",
+"6281031291627-2.webp"
+]
+},
+{
+"sku": "JRN00002714",
+"barcode": "6281015007466",
+"cat": 39,
+"ar": "يودو منظف وملمع زجاج 4 لتر",
+"en": "U-Do Window Cleaner 4 L",
+"price": 15.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-4181093",
+"img_src": "ninja",
+"images": [
+"6281015007466.webp",
+"6281015007466-1.webp",
+"6281015007466-2.webp"
+]
+},
+{
+"sku": "JRN00002715",
+"barcode": "6923543911012",
+"cat": 39,
+"ar": "ركسو نيلة مرحاض 50 جم",
+"en": "Rexo Toilet Cleaning Blue 50 g",
+"price": 5.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19320361",
+"img_src": "ninja",
+"images": [
+"6923543911012.webp",
+"6923543911012-1.webp",
+"6923543911012-2.webp"
+]
+},
+{
+"sku": "JRN00002716",
+"barcode": "6281031263778",
+"cat": 39,
+"ar": "داك سائل مطهر ومنظف برائحة لافندر 3 لتر",
+"en": "DAC Disinfectant Cleaner Liquid Lavender Scent 3 L",
+"price": 28.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-5253",
+"img_src": "ninja",
+"images": [
+"6281031263778.webp",
+"6281031263778-1.webp"
+]
+},
+{
+"sku": "JRN00002717",
+"barcode": "6281031041338",
+"cat": 39,
+"ar": "داك منظف الزجاج 400 مل",
+"en": "Dac Glass Cleaner 400 ml",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4537",
+"img_src": "ninja",
+"images": [
+"6281031041338.webp",
+"6281031041338-1.webp",
+"6281031041338-2.webp"
+]
+},
+{
+"sku": "JRN00002718",
+"barcode": "6295120027325",
+"cat": 39,
+"ar": "ديتول بخاخ منظف للزجاج 500 مل",
+"en": "Dettol Glass Cleaner 500 ml",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-613",
+"img_src": "ninja",
+"images": [
+"6295120027325.webp",
+"6295120027325-1.webp",
+"6295120027325-2.webp"
+]
+},
+{
+"sku": "JRN00002719",
+"barcode": "6281100388586",
+"cat": 39,
+"ar": "سنوفا مطهر الأرضيات برائحة الورد 1.5 لتر",
+"en": "Sunova Disinfectant Rose 1.5 L",
+"price": 13.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-19379428",
+"img_src": "ninja",
+"images": [
+"6281100388586.webp"
+]
+},
+{
+"sku": "JRN00002720",
+"barcode": "6281100870630",
+"cat": 39,
+"ar": "بليدج ملمع الأثاث الطبيعي 300 مل",
+"en": "Pledge Furniture Polish Natural 300 ml",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-326",
+"img_src": "ninja",
+"images": [
+"6281100870630.webp",
+"6281100870630-1.webp",
+"6281100870630-2.webp"
+]
+},
+{
+"sku": "JRN00002721",
+"barcode": "6281031257739",
+"cat": 39,
+"ar": "داك أقراص تنظيف المرحاض برائحة الليمون 3 × 50 جم ( 2 + 1 مجاناً)",
+"en": "Dac Toilet Rim Block Lemon 3 x 50 g (2 + 1 Free)",
+"price": 35.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19311003",
+"img_src": "ninja",
+"images": [
+"6281031257739.webp",
+"6281031257739-1.webp"
+]
+},
+{
+"sku": "JRN00002722",
+"barcode": "6253009214174",
+"cat": 39,
+"ar": "العملاق سوبر جل ملون برائحة اللافندر 1 كجم",
+"en": "Al Emlaq Super Gel Lavender Twist 1 kg",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-3366329",
+"img_src": "ninja",
+"images": [
+"6253009214174.webp",
+"6253009214174-1.webp"
+]
+},
+{
+"sku": "JRN00002723",
+"barcode": "6295120050811",
+"cat": 39,
+"ar": "ديتول منظف الأرضيات برائحة الصنوبر 900 مل",
+"en": "Dettol Floor Cleaner Pine Scent 900 ml",
+"price": 24.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4456",
+"img_src": "ninja",
+"images": [
+"6295120050811.webp",
+"6295120050811-1.webp"
+]
+},
+{
+"sku": "JRN00002724",
+"barcode": "6281065101862",
+"cat": 39,
+"ar": "كلوركس سينتيفا منظف المرحاض برائحة اللافندر 709 مل",
+"en": "Clorox Scentiva Toilet Cleaner Tuscan Lavender Cleaner 709 ml",
+"price": 20.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19318254",
+"img_src": "ninja",
+"images": [
+"6281065101862.webp"
+]
+},
+{
+"sku": "JRN00002725",
+"barcode": "5000146059790",
+"cat": 39,
+"ar": "ديتول بخاخ للحمام 500 مل",
+"en": "Dettol Healthy Bathroom Cleaner Spray 500 ml",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387375",
+"img_src": "ninja",
+"images": [
+"5000146059790.webp",
+"5000146059790-1.webp",
+"5000146059790-2.webp"
+]
+},
+{
+"sku": "JRN00002726",
+"barcode": "6281015000818",
+"cat": 39,
+"ar": "يودو سائل مسلك المجاري 1 لتر",
+"en": "U-Do Drain Opener Liquid 1 L",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4175988",
+"img_src": "ninja",
+"images": [
+"6281015000818.webp",
+"6281015000818-1.webp"
+]
+},
+{
+"sku": "JRN00002727",
+"barcode": "6281100389309",
+"cat": 39,
+"ar": "سنوفا مطهر و منظف ومعطر أرضيات عطور فرنسيه 3 لتر",
+"en": "Sunova Disinfectant cleaner French Fragrance 3 L",
+"price": 22.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19304448",
+"img_src": "ninja",
+"images": [
+"6281100389309.webp",
+"6281100389309-1.webp"
+]
+},
+{
+"sku": "JRN00002728",
+"barcode": "6281100385974",
+"cat": 39,
+"ar": "سنوفا مطهر الأرضيات برائحة اللافندر 3 لتر",
+"en": "Sunova Disinfectant cleaner Lavender 3 L",
+"price": 22.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19304451",
+"img_src": "ninja",
+"images": [
+"6281100385974.webp",
+"6281100385974-1.webp"
+]
+},
+{
+"sku": "JRN00002729",
+"barcode": "6287011681785",
+"cat": 39,
+"ar": "قو قرين سوبر غرين جل 500 جم",
+"en": "Go Green Super Green Gel 500 g",
+"price": 12.95,
+"special": 9.75,
+"src": "ninja",
+"ninja_id": "5-19326574",
+"img_src": "ninja",
+"images": [
+"6287011681785.webp",
+"6287011681785-1.webp",
+"6287011681785-2.webp"
+]
+},
+{
+"sku": "JRN00002730",
+"barcode": "6281142005045",
+"cat": 39,
+"ar": "موبي شامبو سجاد 3 لتر",
+"en": "Mobi Carpet Cleaner 3 L",
+"price": 27.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19343153",
+"img_src": "ninja",
+"images": [
+"6281142005045.webp",
+"6281142005045-1.webp"
+]
+},
+{
+"sku": "JRN00002731",
+"barcode": "6253009215706",
+"cat": 39,
+"ar": "العملاق معطر متعدد الاستعمالات ياسمين 750 مل",
+"en": "Alemlaq Multi Purpose Freshener Jasmine 750 ml",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368229",
+"img_src": "ninja",
+"images": [
+"6253009215706.webp",
+"6253009215706-1.webp"
+]
+},
+{
+"sku": "JRN00002732",
+"barcode": "6253009224500",
+"cat": 39,
+"ar": "العملاق معطر عالي التركيز لافندر 150 مل",
+"en": "Alemlaq Concentrated Scent Freshener Lavender 150 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368236",
+"img_src": "ninja",
+"images": [
+"6253009224500.webp",
+"6253009224500-1.webp"
+]
+},
+{
+"sku": "JRN00002733",
+"barcode": "6253009215652",
+"cat": 39,
+"ar": "العملاق معطر متعدد الاستعمالات لافندر 750 مل",
+"en": "Alemlaq Multi Purpose Freshener Lavender 750 ml",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368244",
+"img_src": "ninja",
+"images": [
+"6253009215652.webp",
+"6253009215652-1.webp"
+]
+},
+{
+"sku": "JRN00002734",
+"barcode": "6281100385981",
+"cat": 39,
+"ar": "سنوفا مطهر الأرضيات برائحة اللافندر 1.5 لتر",
+"en": "Sunova Disinfectant Lavender 1.5 L",
+"price": 12.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19379430",
+"img_src": "ninja",
+"images": [
+"6281100385981.webp",
+"6281100385981-1.webp"
+]
+},
+{
+"sku": "JRN00002735",
+"barcode": "8051566121236",
+"cat": 39,
+"ar": "داستي منظف كلاسيك لإزالة الدهون 1 لتر",
+"en": "Dasty Classic Degreaser 1 L",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19292944",
+"img_src": "ninja",
+"images": [
+"8051566121236.webp",
+"8051566121236-1.webp"
+]
+},
+{
+"sku": "JRN00002736",
+"barcode": "6295120052822",
+"cat": 39,
+"ar": "هاربيك باور بلس الحمضيات 2 حبة 750 مل",
+"en": "Harpic Liquid Power Plus Citrus 2 pcs 750 ml",
+"price": 36.95,
+"special": 32.95,
+"src": "ninja",
+"ninja_id": "5-19387381",
+"img_src": "ninja",
+"images": [
+"6295120052822.webp",
+"6295120052822-1.webp"
+]
+},
+{
+"sku": "JRN00002737",
+"barcode": "6295120012352",
+"cat": 39,
+"ar": "ديتول بخاخ منظف ومطهر مضاد للبكتيريا 500 مل",
+"en": "Dettol Original Antibacterial Surface Disinfectant Liquid Trigger 500 ml",
+"price": 34.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-611",
+"img_src": "ninja",
+"images": [
+"6295120012352.webp",
+"6295120012352-1.webp"
+]
+},
+{
+"sku": "JRN00002738",
+"barcode": "6253009214242",
+"cat": 39,
+"ar": "العملاق سوبر جل وقت الصيف 2 كجم",
+"en": "Al Emlaq Super Gel Summer Time 2 kg",
+"price": 30.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-569471",
+"img_src": "ninja",
+"images": [
+"6253009214242.webp",
+"6253009214242-1.webp"
+]
+},
+{
+"sku": "JRN00002739",
+"barcode": "8003650030320",
+"cat": 39,
+"ar": "اومينو منظف السجاد 300 مل",
+"en": "Omino Dry Foam 300 ml",
+"price": 29.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4126000",
+"img_src": "ninja",
+"images": [
+"8003650030320.webp",
+"8003650030320-1.webp",
+"8003650030320-2.webp"
+]
+},
+{
+"sku": "JRN00002740",
+"barcode": "5011309070613",
+"cat": 39,
+"ar": "زوفلورا زهر منتصف الليل 250 مل",
+"en": "Zoflora Midnight Blooms 250 ml",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19325453",
+"img_src": "ninja",
+"images": [
+"5011309070613.webp",
+"5011309070613-1.webp",
+"5011309070613-2.webp"
+]
+},
+{
+"sku": "JRN00002741",
+"barcode": "6281065007102",
+"cat": 39,
+"ar": "كلوركس بخاخ منظف الفطريات والتعفن 750 مل",
+"en": "Clorox Sprayer Mold and Mildew Remover 750 ml",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19310446",
+"img_src": "ninja",
+"images": [
+"6281065007102.webp",
+"6281065007102-1.webp",
+"6281065007102-2.webp"
+]
+},
+{
+"sku": "JRN00002742",
+"barcode": "6287011850440",
+"cat": 39,
+"ar": "ديفينس منظف ومطهر ومزيل للروائح برائحة الحرم 1 لتر",
+"en": "Defense Cleaner Deodoriser and Disinfectant with Haram Scent 1 L",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380225",
+"img_src": "ninja",
+"images": [
+"6287011850440.webp",
+"6287011850440-1.webp"
+]
+},
+{
+"sku": "JRN00002743",
+"barcode": "6281006140820",
+"cat": 39,
+"ar": "جف كريم التنظيف بالليمون 750 مل",
+"en": "Jif Cream Cleaner Lemon 750 ml",
+"price": 26.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-5285",
+"img_src": "ninja",
+"images": [
+"6281006140820.webp",
+"6281006140820-1.webp",
+"6281006140820-2.webp"
+]
+},
+{
+"sku": "JRN00002744",
+"barcode": "6281031041352",
+"cat": 39,
+"ar": "داك بخاخ منظف الزجاج 650 مل",
+"en": "Dac Glass Cleaner 650 ml",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-14825965",
+"img_src": "ninja",
+"images": [
+"6281031041352.webp",
+"6281031041352-1.webp"
+]
+},
+{
+"sku": "JRN00002745",
+"barcode": "6287019920329",
+"cat": 39,
+"ar": "بريزم منظف فلاش سائل برائحة الزهور 1 لتر",
+"en": "Prism Flash Liquid Cleaner Flowers Scent 1 L",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19364878",
+"img_src": "ninja",
+"images": [
+"6287019920329.webp",
+"6287019920329-1.webp"
+]
+},
+{
+"sku": "JRN00002746",
+"barcode": "6253009224494",
+"cat": 39,
+"ar": "العملاق معطر عالي التركيز الغيمة الوردية 150 مل",
+"en": "Alemlaq Concentrated Scent Freshener Flowers Pink Cloud 150 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368224",
+"img_src": "ninja",
+"images": [
+"6253009224494.webp",
+"6253009224494-1.webp"
+]
+},
+{
+"sku": "JRN00002747",
+"barcode": "6253009211333",
+"cat": 39,
+"ar": "العملاق مطهر عام و معطر لافندر 2 لتر",
+"en": "Alemlaq Disinfectant And Freshener Lavender 2 L",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368240",
+"img_src": "ninja",
+"images": [
+"6253009211333.webp",
+"6253009211333-1.webp"
+]
+},
+{
+"sku": "JRN00002748",
+"barcode": "6253009224487",
+"cat": 39,
+"ar": "العملاق معطر عالي التركيز ورد 150 مل",
+"en": "Alemlaq Concentrated Scent Freshener Flowers 150 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368252",
+"img_src": "ninja",
+"images": [
+"6253009224487.webp",
+"6253009224487-1.webp"
+]
+},
+{
+"sku": "JRN00002749",
+"barcode": "50158935",
+"cat": 39,
+"ar": "سائل ديتول المطهر 750 مل",
+"en": "Dettol Antiseptic Liquid 750 ml",
+"price": 32.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19286869",
+"img_src": "ninja",
+"images": [
+"50158935.webp",
+"50158935-1.webp",
+"50158935-2.webp"
+]
+},
+{
+"sku": "JRN00002750",
+"barcode": "6253501581118",
+"cat": 39,
+"ar": "سيترس منظف شامل ومتعدد الاستخدامات 1 لتر",
+"en": "Cetris Multi-Purpose Cleaner Super Strength 1 L",
+"price": 24.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19369710",
+"img_src": "ninja",
+"images": [
+"6253501581118.webp",
+"6253501581118-1.webp"
+]
+},
+{
+"sku": "JRN00002751",
+"barcode": "6282513054655",
+"cat": 39,
+"ar": "عود لافر معطر ارضيات عطرالفنادق 1 لتر",
+"en": "Oud Lover Floor Freshener Hotels Perfume 1 L",
+"price": 39.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19374722",
+"img_src": "ninja",
+"images": [
+"6282513054655.webp",
+"6282513054655-1.webp",
+"6282513054655-2.webp"
+]
+},
+{
+"sku": "JRN00002752",
+"barcode": "6281100388760",
+"cat": 39,
+"ar": "سنوفا مطهر الأرضيات برائحة العطور الفرنسية 1.5 لتر",
+"en": "Sunova Disinfectant French Perfumes 1.5 L",
+"price": 12.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19379431",
+"img_src": "ninja",
+"images": [
+"6281100388760.webp",
+"6281100388760-1.webp"
+]
+},
+{
+"sku": "JRN00002753",
+"barcode": "8682320679184",
+"cat": 39,
+"ar": "إياكلين برو منظف طبيعي متعدد الاستخدام 100 مل",
+"en": "Eya Clean pro Organic Multi Purpose Cleaner 100 ml",
+"price": 31.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19288544",
+"img_src": "ninja",
+"images": [
+"8682320679184.webp",
+"8682320679184-1.webp",
+"8682320679184-2.webp"
+]
+},
+{
+"sku": "JRN00002754",
+"barcode": "6253009215010",
+"cat": 39,
+"ar": "جرين كلين منظف زجاج بخاخ 690 مل",
+"en": "Green Clean Glass Cleaner 690 ml",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19368225",
+"img_src": "ninja",
+"images": [
+"6253009215010.webp",
+"6253009215010-1.webp"
+]
+},
+{
+"sku": "JRN00002755",
+"barcode": "6287018830865",
+"cat": 39,
+"ar": "مد منظف زجاج 2+1 عرض 650 مل",
+"en": "Med Glass Cleaner 2+1 Free 650 ml",
+"price": 25.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19376528",
+"img_src": "ninja",
+"images": [
+"6287018830865.webp",
+"6287018830865-1.webp"
+]
+},
+{
+"sku": "JRN00002756",
+"barcode": "6282307340148",
+"cat": 39,
+"ar": "جنتو منظف الارضيات انتعاش الصنوبر 3 لتر",
+"en": "Gento Cleaner and Disinfectant Pine 3 L",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291114",
+"img_src": "ninja",
+"images": [
+"6282307340148.webp",
+"6282307340148-1.webp",
+"6282307340148-2.webp"
+]
+},
+{
+"sku": "JRN00002757",
+"barcode": "6295120012369",
+"cat": 39,
+"ar": "ديتول بخاخ منظف لجميع الأغراض باليمون 500 مل",
+"en": "Dettol All Purpose Cleaner Lemon 500 ml",
+"price": 27.95,
+"special": 23.95,
+"src": "ninja",
+"ninja_id": "5-4327",
+"img_src": "ninja",
+"images": [
+"6295120012369.webp",
+"6295120012369-1.webp"
+]
+},
+{
+"sku": "JRN00002758",
+"barcode": "6281100870166",
+"cat": 39,
+"ar": "بليدج ملمع الأثاث برائحة اللافندر 300 مل",
+"en": "Pledge Furniture Polish Lavender Scent 300 ml",
+"price": 20.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-317",
+"img_src": "ninja",
+"images": [
+"6281100870166.webp",
+"6281100870166-1.webp",
+"6281100870166-2.webp"
+]
+},
+{
+"sku": "JRN00002759",
+"barcode": "5011309091618",
+"cat": 39,
+"ar": "زوفلورا مطهر مركز متعدد الأغراض زهر منتصف الليل 120 مل",
+"en": "Zoflora Multipurpose Disinfectant Cleaner Midnight Blooms 120 ml",
+"price": 13.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19325471",
+"img_src": "ninja",
+"images": [
+"5011309091618.webp",
+"5011309091618-1.webp",
+"5011309091618-2.webp"
+]
+},
+{
+"sku": "JRN00002760",
+"barcode": "5011309110913",
+"cat": 39,
+"ar": "زوفلورا مطهر معطر زهرة الكتان المنعش 300 مل",
+"en": "Zoflora Linen Fresh Aerosol 300 ml",
+"price": 32.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19325467",
+"img_src": "ninja",
+"images": [
+"5011309110913.webp",
+"5011309110913-1.webp",
+"5011309110913-2.webp"
+]
+},
+{
+"sku": "JRN00002761",
+"barcode": "6923543910107",
+"cat": 39,
+"ar": "ركسو نفتالين أقراص مدورة 200 جم ملون",
+"en": "Rexo Toilet Deodorizer 200 g Assorted Color",
+"price": 7.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19320319",
+"img_src": "ninja",
+"images": [
+"6923543910107.webp",
+"6923543910107-1.webp",
+"6923543910107-2.webp"
+]
+},
+{
+"sku": "JRN00002762",
+"barcode": "6253009214211",
+"cat": 39,
+"ar": "العملاق سوبر جل برائحة لافندر 2 كجم",
+"en": "Al Emlaq Super Gel Lavender Scent 2 kg",
+"price": 30.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-5245",
+"img_src": "ninja",
+"images": [
+"6253009214211.webp",
+"6253009214211-1.webp",
+"6253009214211-2.webp"
+]
+},
+{
+"sku": "JRN00002763",
+"barcode": "6281100386230",
+"cat": 39,
+"ar": "سنوفا معقم ومطهر 750 مل",
+"en": "Sunova Antiseptic 750 ml",
+"price": 28.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19307004",
+"img_src": "ninja",
+"images": [
+"6281100386230.webp",
+"6281100386230-1.webp"
+]
+},
+{
+"sku": "JRN00002764",
+"barcode": "50158928",
+"cat": 39,
+"ar": "ديتول مطهر سائل الاصلي 500 مل",
+"en": "Dettol Disinfectant Liquid Original 500 ml",
+"price": 22.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-5569",
+"img_src": "ninja",
+"images": [
+"50158928.webp",
+"50158928-1.webp",
+"50158928-2.webp"
+]
+},
+{
+"sku": "JRN00002765",
+"barcode": "6281100389330",
+"cat": 39,
+"ar": "سنوفا مطهر الأرضيات برائحة صنوبر 3 لتر",
+"en": "Sunova Disinfectant cleaner Pine 3 L",
+"price": 22.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19304453",
+"img_src": "ninja",
+"images": [
+"6281100389330.webp",
+"6281100389330-1.webp"
+]
+},
+{
+"sku": "JRN00002766",
+"barcode": "6271004801618",
+"cat": 39,
+"ar": "كويك شاين مطهر ألترا كلين بخور 1.5 لتر",
+"en": "Kwik ULa Bokhor Disinfectant 1.5 L",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19380130",
+"img_src": "ninja",
+"images": [
+"6271004801618.webp",
+"6271004801618-1.webp"
+]
+},
+{
+"sku": "JRN00002767",
+"barcode": "6281142004550",
+"cat": 39,
+"ar": "موبي منظف أفران 400 مل",
+"en": "Mobi Oven Cleaner 400 ml",
+"price": 12.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19343151",
+"img_src": "ninja",
+"images": [
+"6281142004550.webp",
+"6281142004550-1.webp"
+]
+},
+{
+"sku": "JRN00002768",
+"barcode": "6287011683741",
+"cat": 39,
+"ar": "قو قرين فلاش 1 لتر",
+"en": "Go Green Flash 1 L",
+"price": 10.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19326567",
+"img_src": "ninja",
+"images": [
+"6287011683741.webp",
+"6287011683741-1.webp",
+"6287011683741-2.webp"
+]
+},
+{
+"sku": "JRN00002769",
+"barcode": "6281031267745",
+"cat": 39,
+"ar": "داك جولد منظف و مطهر برائحة الورد 3 لتر + 1 لتر",
+"en": "Dac Gold Disinfectant Cleaner Rose 3 L + 1 L",
+"price": 60.95,
+"special": 48.95,
+"src": "ninja",
+"ninja_id": "5-14912642",
+"img_src": "ninja",
+"images": [
+"6281031267745.webp",
+"6281031267745-1.webp"
+]
+},
+{
+"sku": "JRN00002770",
+"barcode": "6281104816610",
+"cat": 39,
+"ar": "العجيب سوبر جل رائحة الصنوبر 1 كجم",
+"en": "Al Ajeeb Super Gel Pine Scent 1 kg",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-12895346",
+"img_src": "ninja",
+"images": [
+"6281104816610.webp",
+"6281104816610-1.webp"
+]
+},
+{
+"sku": "JRN00002771",
+"barcode": "6285360163686",
+"cat": 39,
+"ar": "غيم مناديل مبللة للمطبخ برائحة الليمون 50 منديل",
+"en": "Gheem Kitchen Wet Wipes Lemon Scent 50 Wipes",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19425023",
+"img_src": "ninja",
+"images": [
+"6285360163686.webp"
+]
+},
+{
+"sku": "JRN00002772",
+"barcode": "8428483501036",
+"cat": 37,
+"ar": "الوزير صابون برش معطر 900 جم",
+"en": "Alwazir Soap Perfumed Powder Laundry 900 g",
+"price": 21.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19330539",
+"img_src": "ninja",
+"images": [
+"8428483501036.webp",
+"8428483501036-1.webp",
+"8428483501036-2.webp"
+]
+},
+{
+"sku": "JRN00002773",
+"barcode": "6281031114292",
+"cat": 37,
+"ar": "برسيل سائل تنظيف الغسيل تعبئة امامية 2.9 لتر",
+"en": "Persil Power Gel Liquid Front Loading 2.9 L",
+"price": 45.95,
+"special": 33.95,
+"src": "ninja",
+"ninja_id": "5-19149198",
+"img_src": "ninja",
+"images": [
+"6281031114292.webp",
+"6281031114292-1.webp",
+"6281031114292-2.webp"
+]
+},
+{
+"sku": "JRN00002774",
+"barcode": "6281142005069",
+"cat": 37,
+"ar": "موبي شامبو عبايات 2 لتر",
+"en": "Mobi Shampoo Delicate Fabric 2 L",
+"price": 22.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19343173",
+"img_src": "ninja",
+"images": [
+"6281142005069.webp",
+"6281142005069-1.webp"
+]
+},
+{
+"sku": "JRN00002775",
+"barcode": "6281031284711",
+"cat": 37,
+"ar": "برسيل شامبو العباية الكلاسيكي 3.6 لتر",
+"en": "Persil Abaya Shampoo Classic 3.6 L",
+"price": 49.95,
+"special": 34.95,
+"src": "ninja",
+"ninja_id": "5-14910126",
+"img_src": "ninja",
+"images": [
+"6281031284711.webp",
+"6281031284711-1.webp",
+"6281031284711-2.webp"
+]
+},
+{
+"sku": "JRN00002776",
+"barcode": "8700216842785",
+"cat": 37,
+"ar": "بونكس مسحوق الغسيل بالافندر للغسالات الأوتوماتيكية 4 كجم",
+"en": "Bonux Powder Lavender Automatic 4 kg",
+"price": 41.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19352050",
+"img_src": "ninja",
+"images": [
+"8700216842785.webp",
+"8700216842785-1.webp",
+"8700216842785-2.webp"
+]
+},
+{
+"sku": "JRN00002777",
+"barcode": "6281031267820",
+"cat": 37,
+"ar": "برسيل جل سينسيتف للبشرة الحساسة والأطفال 3 لتر + 1 لتر",
+"en": "Persil Sensitive & Baby Liquid Laundry Detergent 3 L + 1 L",
+"price": 68.95,
+"special": 57.95,
+"src": "ninja",
+"ninja_id": "5-19327732",
+"img_src": "ninja",
+"images": [
+"6281031267820.webp",
+"6281031267820-1.webp"
+]
+},
+{
+"sku": "JRN00002778",
+"barcode": "6223014210720",
+"cat": 37,
+"ar": "اوكسي بودرة اوتوماتيك نسيم الشرق 2.5 كجم",
+"en": "Oxi Powder Automatic Oriental 2.5 kg",
+"price": 30.95,
+"special": 12.95,
+"src": "ninja",
+"ninja_id": "5-19401827",
+"img_src": "ninja",
+"images": [
+"6223014210720.webp",
+"6223014210720-1.webp",
+"6223014210720-2.webp"
+]
+},
+{
+"sku": "JRN00002779",
+"barcode": "6281031114476",
+"cat": 37,
+"ar": "برسيل باور جل عالي الرغوة 7 لتر",
+"en": "Persil Power Gel High Foam 7 L",
+"price": 87.25,
+"special": 64.95,
+"src": "ninja",
+"ninja_id": "5-19149130",
+"img_src": "ninja",
+"images": [
+"6281031114476.webp",
+"6281031114476-1.webp",
+"6281031114476-2.webp"
+]
+},
+{
+"sku": "JRN00002780",
+"barcode": "8700216030021",
+"cat": 37,
+"ar": "اريال جل غسيل سائل للغسالات الاوتوماتيك بانتعاش داوني يدوم حتى 48 ساعة 1.8 لتر",
+"en": "Ariel Automatic Downy Laundry Detergent Liquid Gel With 48 Hours of Freshness 1.8 L",
+"price": 31.5,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19291208",
+"img_src": "ninja",
+"images": [
+"8700216030021.webp",
+"8700216030021-1.webp",
+"8700216030021-2.webp"
+]
+},
+{
+"sku": "JRN00002781",
+"barcode": "8006530163385",
+"cat": 37,
+"ar": "تايد قوة ثلاثية مسحوق بلمسة داوني نسيم الزهور لنظافة وإشراقة 5٫ 5 كجم",
+"en": "Tide Triple Power Floral Breeze Laundry Detergent Powder 5.5 Kg",
+"price": 71.95,
+"special": 46.95,
+"src": "ninja",
+"ninja_id": "5-19383513",
+"img_src": "ninja",
+"images": [
+"8006530163385.webp"
+]
+},
+{
+"sku": "JRN00002782",
+"barcode": "6281031274231",
+"cat": 37,
+"ar": "برسيل جل تنظيف مطور برحيق اللافندر 2 حبة 950 مل",
+"en": "Persil Power Gel Liquid Laundry Detergent Lavender 2 PCs 950 ml",
+"price": 27.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-14913901",
+"img_src": "ninja",
+"images": [
+"6281031274231.webp",
+"6281031274231-1.webp",
+"6281031274231-2.webp"
+]
+},
+{
+"sku": "JRN00002783",
+"barcode": "8001090158680",
+"cat": 37,
+"ar": "اريال منظف باور جل للغسالة الاوتوماتيكية برائحة اصلية 1.8 لتر",
+"en": "Ariel Automatic Power Gel Laundry Detergent Original Scent 1.8 L",
+"price": 35.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-15681139",
+"img_src": "ninja",
+"images": [
+"8001090158680.webp",
+"8001090158680-1.webp",
+"8001090158680-2.webp"
+]
+},
+{
+"sku": "JRN00002784",
+"barcode": "8700216245845",
+"cat": 37,
+"ar": "تايد جل غسيل الملابس مع داوني نسيم الزهور 1.8 لتر",
+"en": "Tide Power Gel Floral Breeze with Downy 1.8 L",
+"price": 33.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19321673",
+"img_src": "ninja",
+"images": [
+"8700216245845.webp"
+]
+},
+{
+"sku": "JRN00002785",
+"barcode": "8700216030076",
+"cat": 37,
+"ar": "اريال جل منظف ملابس سائل بلمسة انتعاش 2.8 لتر",
+"en": "Ariel Automatic Liquid Gel With Touch Of Freshness 2.8 L",
+"price": 44.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19286882",
+"img_src": "ninja",
+"images": [
+"8700216030076.webp",
+"8700216030076-1.webp",
+"8700216030076-2.webp"
+]
+},
+{
+"sku": "JRN00002786",
+"barcode": "8700216242905",
+"cat": 37,
+"ar": "تايد مسحوق الغسيل بالرائحة الأصلية للغسالات الأوتوماتيكية 2.5 كجم",
+"en": "Tide Powder Original Automatic 2.5 kg",
+"price": 42.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19293262",
+"img_src": "ninja",
+"images": [
+"8700216242905.webp",
+"8700216242905-1.webp",
+"8700216242905-2.webp"
+]
+},
+{
+"sku": "JRN00002787",
+"barcode": "8428483501203",
+"cat": 37,
+"ar": "الوزير صابون قوالب معطر 600 جم",
+"en": "Alwazir Soap Perfumed Bars 600 g",
+"price": 14.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19330537",
+"img_src": "ninja",
+"images": [
+"8428483501203.webp"
+]
+},
+{
+"sku": "JRN00002788",
+"barcode": "8006530163460",
+"cat": 37,
+"ar": "تايد قوة ثلاثية مسحوق بلمسة داوني نسيم الزهور لنظافة وإشراقة 5٫ 5 كجم",
+"en": "Tide Triple Power Floral Breeze Semi-Automatic Laundry Detergent Powder 5.5 Kg",
+"price": 71.95,
+"special": 46.95,
+"src": "ninja",
+"ninja_id": "5-19383511",
+"img_src": "ninja",
+"images": [
+"8006530163460.webp",
+"8006530163460-1.webp",
+"8006530163460-2.webp"
+]
+},
+{
+"sku": "JRN00002789",
+"barcode": "6221143094686",
+"cat": 37,
+"ar": "برسيل جل تنظيف الملابس مطور برائحه اللافندر 7 لتر",
+"en": "Persil Power Gel Liquid Laundry Detergent lavender 7 L",
+"price": 87.25,
+"special": 64.95,
+"src": "ninja",
+"ninja_id": "5-19310987",
+"img_src": "ninja",
+"images": [
+"6221143094686.webp",
+"6221143094686-1.webp",
+"6221143094686-2.webp"
+]
+},
+{
+"sku": "JRN00002790",
+"barcode": "6281031250716",
+"cat": 37,
+"ar": "برسيل سائل غسيل الملابس للبشرة الحساسة 1 لتر",
+"en": "Persil Sensitive Liquid Detergent 1 L",
+"price": 27.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19310996",
+"img_src": "ninja",
+"images": [
+"6281031250716.webp",
+"6281031250716-1.webp"
+]
+},
+{
+"sku": "JRN00002791",
+"barcode": "8700216842501",
+"cat": 37,
+"ar": "بونكس مسحوق الغسيل بالورد للغسالات الأوتوماتيكية 6 كجم",
+"en": "Bonux Powder Rose Automatic 6 kg",
+"price": 57.95,
+"special": 42.95,
+"src": "ninja",
+"ninja_id": "5-19352052",
+"img_src": "ninja",
+"images": [
+"8700216842501.webp"
+]
+},
+{
+"sku": "JRN00002792",
+"barcode": "8006540972144",
+"cat": 37,
+"ar": "اريال جل غسيل سائل برائحة اللافندر 1.8 لتر",
+"en": "Ariel Lavender Laundry Detergent Liquid Gel 1.8 L",
+"price": 35.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19321668",
+"img_src": "ninja",
+"images": [
+"8006540972144.webp",
+"8006540972144-1.webp",
+"8006540972144-2.webp"
+]
+},
+{
+"sku": "JRN00002793",
+"barcode": "8700216245838",
+"cat": 37,
+"ar": "تايد جل منظف الغسيل السائل باللافندر 1.8 لتر",
+"en": "Tide Lavender Laundry Detergent Liquid Gel 1.8 L",
+"price": 35.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19321672",
+"img_src": "ninja",
+"images": [
+"8700216245838.webp"
+]
+},
+{
+"sku": "JRN00002794",
+"barcode": "6281031113745",
+"cat": 37,
+"ar": "برسيل شامبو العباية الكلاسيكي 1 لتر",
+"en": "Persil Abaya Shampoo Classic 1 L",
+"price": 21.75,
+"special": 18.95,
+"src": "ninja",
+"ninja_id": "5-4145",
+"img_src": "ninja",
+"images": [
+"6281031113745.webp",
+"6281031113745-1.webp"
+]
+},
+{
+"sku": "JRN00002795",
+"barcode": "8001090111500",
+"cat": 37,
+"ar": "تايد مسحوق الغسيل بالرائحة الأصلية للغسالات نصف الأوتوماتيكية 110 جم",
+"en": "Tide Powder Original Semi Automatic 110 g",
+"price": 4.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19293287",
+"img_src": "ninja",
+"images": [
+"8001090111500.webp",
+"8001090111500-1.webp"
+]
+},
+{
+"sku": "JRN00002796",
+"barcode": "6281031114483",
+"cat": 37,
+"ar": "برسيل باور جل منخفض الرغوة 7 لتر",
+"en": "Persil Power Gel Low Foam 7 L",
+"price": 87.25,
+"special": 64.95,
+"src": "ninja",
+"ninja_id": "5-19149168",
+"img_src": "ninja",
+"images": [
+"6281031114483.webp",
+"6281031114483-1.webp"
+]
+},
+{
+"sku": "JRN00002797",
+"barcode": "6281031270653",
+"cat": 37,
+"ar": "برسيل جل سينسيتف للبشرة الحساسة 4.8 لتر",
+"en": "Persil Sensitive & Baby Liquid Laundry Detergent 4.8 L",
+"price": 74.95,
+"special": 69.95,
+"src": "ninja",
+"ninja_id": "5-19387008",
+"img_src": "ninja",
+"images": [
+"6281031270653.webp",
+"6281031270653-1.webp"
+]
+},
+{
+"sku": "JRN00002798",
+"barcode": "6282307200336",
+"cat": 37,
+"ar": "جنتو مسحوق غسيل ملابس برائحة الورد عالي الرغوة 2.25 كجم",
+"en": "Gento Powder Detergent Flower High Foam 2.25 kg",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19315893",
+"img_src": "ninja",
+"images": [
+"6282307200336.webp",
+"6282307200336-1.webp",
+"6282307200336-2.webp"
+]
+},
+{
+"sku": "JRN00002799",
+"barcode": "6282307200091",
+"cat": 37,
+"ar": "جنتو مسحوق غسيل ملابس برائحة الورد منخفض الرغوة 2.25 كجم",
+"en": "Gento Powder Detergent Flower Low Foam 2.25 kg",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19315897",
+"img_src": "ninja",
+"images": [
+"6282307200091.webp",
+"6282307200091-1.webp",
+"6282307200091-2.webp"
+]
+},
+{
+"sku": "JRN00002800",
+"barcode": "6282307200251",
+"cat": 37,
+"ar": "جنتو مسحوق غسيل ملابس برائحة الاصلية منخفض الرغوة 2.25 كجم",
+"en": "Gento Powder Detergent Original Low Foam 2.25 kg",
+"price": 22.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19315899",
+"img_src": "ninja",
+"images": [
+"6282307200251.webp",
+"6282307200251-1.webp",
+"6282307200251-2.webp"
+]
+},
+{
+"sku": "JRN00002801",
+"barcode": "6287011684311",
+"cat": 37,
+"ar": "قو جرين شامبو العباية زهور 3 لتر",
+"en": "Go Green Abaya Shampoo Flowers 3 L",
+"price": 39.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19352002",
+"img_src": "ninja",
+"images": [
+"6287011684311.webp",
+"6287011684311-1.webp",
+"6287011684311-2.webp"
+]
+},
+{
+"sku": "JRN00002802",
+"barcode": "6287011684298",
+"cat": 37,
+"ar": "قو قرين شامبو العباية زهور 2 لتر",
+"en": "Go Green Abaya Shampoo Flowers 2 L",
+"price": 27.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19326595",
+"img_src": "ninja",
+"images": [
+"6287011684298.webp",
+"6287011684298-1.webp",
+"6287011684298-2.webp"
+]
+},
+{
+"sku": "JRN00002803",
+"barcode": "6281142005113",
+"cat": 37,
+"ar": "موبي شامبو لغسيل الملابس تعبئة علوية 3 لتر",
+"en": "Mobi Laundry Shampoo 3 L",
+"price": 32.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19343155",
+"img_src": "ninja",
+"images": [
+"6281142005113.webp",
+"6281142005113-1.webp"
+]
+},
+{
+"sku": "JRN00002804",
+"barcode": "8001090028709",
+"cat": 37,
+"ar": "تايد مسحوق الغسيل بالرائحة الأصلية للغسالات نصف الأوتوماتيكية 2.5 كجم",
+"en": "Tide Powder Original Semi Automatic 2.5 kg",
+"price": 42.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19293303",
+"img_src": "ninja",
+"images": [
+"8001090028709.webp",
+"8001090028709-1.webp",
+"8001090028709-2.webp"
+]
+},
+{
+"sku": "JRN00002805",
+"barcode": "6281031114322",
+"cat": 37,
+"ar": "برسيل سائل تنظيف الغسيل تعبئة علوية 2.9 لتر",
+"en": "Persil Power Gel Liquid Top Loading 2.9 L",
+"price": 45.95,
+"special": 41.95,
+"src": "ninja",
+"ninja_id": "5-19149192",
+"img_src": "ninja",
+"images": [
+"6281031114322.webp",
+"6281031114322-1.webp"
+]
+},
+{
+"sku": "JRN00002806",
+"barcode": "6281031277188",
+"cat": 37,
+"ar": "برسيل مسحوق غسيل عالي الرغوة تنظيف عميق 5 كجم",
+"en": "Persil Deep Clean Powder Detergent High Foam 5 kg",
+"price": 59.95,
+"special": 52.95,
+"src": "ninja",
+"ninja_id": "5-19149146",
+"img_src": "ninja",
+"images": [
+"6281031277188.webp",
+"6281031277188-1.webp",
+"6281031277188-2.webp"
+]
+},
+{
+"sku": "JRN00002807",
+"barcode": "8006540972182",
+"cat": 37,
+"ar": "اريال جل غسيل سائل برائحة اللافندر مع رائحة انتعاش تدوم لمدة 48 ساعة 2.8 لتر",
+"en": "Ariel Lavender Laundry Detergent Liquid Gel With 48 Hours of Freshness 2.8 L",
+"price": 42.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19291209",
+"img_src": "ninja",
+"images": [
+"8006540972182.webp",
+"8006540972182-1.webp",
+"8006540972182-2.webp"
+]
+},
+{
+"sku": "JRN00002808",
+"barcode": "6281104816542",
+"cat": 37,
+"ar": "العجيب شامبو عباية 1 لتر",
+"en": "Alajeeb Abaya Shampoo 1 L",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19295429",
+"img_src": "ninja",
+"images": [
+"6281104816542.webp",
+"6281104816542-1.webp",
+"6281104816542-2.webp"
+]
+},
+{
+"sku": "JRN00002809",
+"barcode": "8006530163415",
+"cat": 37,
+"ar": "تايد قوة ثلاثية مسحوق بلمسة داوني باللافندر لنظافة وإشراقة 5٫ 5 كجم",
+"en": "Tide Triple Power Lavender Laundry Detergent Powder 5.5 Kg",
+"price": 71.95,
+"special": 46.95,
+"src": "ninja",
+"ninja_id": "5-19383512",
+"img_src": "ninja",
+"images": [
+"8006530163415.webp"
+]
+},
+{
+"sku": "JRN00002810",
+"barcode": "6282307200114",
+"cat": 37,
+"ar": "جنتو مسحوق غسيل ملابس برائحة الورد منخفض الرغوة 4.5 كجم",
+"en": "Gento Powder Detergent Flower Low Foam4.5 kg",
+"price": 45.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19315894",
+"img_src": "ninja",
+"images": [
+"6282307200114.webp",
+"6282307200114-1.webp"
+]
+},
+{
+"sku": "JRN00002811",
+"barcode": "6282307200275",
+"cat": 37,
+"ar": "جنتو مسحوق غسيل ملابس برائحة الاصلية منخفض الرغوة 4.5 كجم",
+"en": "Gento Powder Detergent Original Low Foam 4.5 kg",
+"price": 41.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19315898",
+"img_src": "ninja",
+"images": [
+"6282307200275.webp",
+"6282307200275-1.webp"
+]
+},
+{
+"sku": "JRN00002812",
+"barcode": "6253009218554",
+"cat": 37,
+"ar": "ايكو كلين شامبو غسيل العباية والملابس السوداء 1 لتر",
+"en": "Eco Clean Abaya Shampoo Black 1 L",
+"price": 20.95,
+"special": 14.95,
+"src": "ninja",
+"ninja_id": "5-19329231",
+"img_src": "ninja",
+"images": [
+"6253009218554.webp",
+"6253009218554-1.webp"
+]
+},
+{
+"sku": "JRN00002813",
+"barcode": "6281100388166",
+"cat": 37,
+"ar": "سنوفا شامبو عباية 1.6 لتر",
+"en": "Sunova Abaya Shampoo 1.6 L",
+"price": 34.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19307002",
+"img_src": "ninja",
+"images": [
+"6281100388166.webp",
+"6281100388166-1.webp"
+]
+},
+{
+"sku": "JRN00002814",
+"barcode": "6291010300004",
+"cat": 37,
+"ar": "ديما مسحوق غسيل 6 كجم",
+"en": "Dema Detergent Powder 6 kg Flexi Bag",
+"price": 46.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-16491007",
+"img_src": "ninja",
+"images": [
+"6291010300004.webp",
+"6291010300004-1.webp"
+]
+},
+{
+"sku": "JRN00002815",
+"barcode": "6281031277195",
+"cat": 37,
+"ar": "برسيل مسحوق يونيفرسال 5 كجم",
+"en": "Persil Deep Clean Detergent Powder Super Saver 5 kg",
+"price": 59.95,
+"special": 52.95,
+"src": "ninja",
+"ninja_id": "5-14910031",
+"img_src": "ninja",
+"images": [
+"6281031277195.webp",
+"6281031277195-1.webp",
+"6281031277195-2.webp"
+]
+},
+{
+"sku": "JRN00002816",
+"barcode": "8700216842754",
+"cat": 37,
+"ar": "بونكس مسحوق الغسيل بالافندر للغسالات الأوتوماتيكية 2.25 كجم",
+"en": "Bonux Powder Lavender Automatic 2.25 kg",
+"price": 22.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19352049",
+"img_src": "ninja",
+"images": [
+"8700216842754.webp",
+"8700216842754-1.webp",
+"8700216842754-2.webp"
+]
+},
+{
+"sku": "JRN00002817",
+"barcode": "8700216245760",
+"cat": 37,
+"ar": "تايد جل منظف الغسيل السائل باللافندر 2.8 لتر",
+"en": "Tide Lavender Laundry Detergent Liquid Gel 2.8 L",
+"price": 44.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19321669",
+"img_src": "ninja",
+"images": [
+"8700216245760.webp",
+"8700216245760-1.webp"
+]
+},
+{
+"sku": "JRN00002818",
+"barcode": "8001090158659",
+"cat": 37,
+"ar": "اريال منظف جل سائل بالرائحة الاصلية 2.8 لتر",
+"en": "Ariel Automatic Liquid Gel Original Scent Clean Laundry 2.8 L",
+"price": 42.95,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-19321675",
+"img_src": "ninja",
+"images": [
+"8001090158659.webp",
+"8001090158659-1.webp"
+]
+},
+{
+"sku": "JRN00002819",
+"barcode": "8700216198158",
+"cat": 38,
+"ar": "فيري بلس صابون سائل لغسيل الاطباق برائحة الليمون مجموعة 2 حبة 800 مل",
+"en": "Fairy Plus Dishwashing Liquid Lemon Pack 2 Pcs 800 ml",
+"price": 29.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19286889",
+"img_src": "ninja",
+"images": [
+"8700216198158.webp",
+"8700216198158-1.webp"
+]
+},
+{
+"sku": "JRN00002820",
+"barcode": "8001090242129",
+"cat": 38,
+"ar": "فيري سائل غسيل الصحون برائحة الليمون 400 مل",
+"en": "Fairy Dish Wash Lemon Scent 400 ml",
+"price": 9.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5295",
+"img_src": "ninja",
+"images": [
+"8001090242129.webp",
+"8001090242129-1.webp",
+"8001090242129-2.webp"
+]
+},
+{
+"sku": "JRN00002821",
+"barcode": "8700216450737",
+"cat": 38,
+"ar": "فيري سائل لغسل الأطباق برائحة اللافندر 600 مل",
+"en": "Fairy Dishwashing Liquid Refreshing Lavender 600 ml",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19367279",
+"img_src": "ninja",
+"images": [
+"8700216450737.webp",
+"8700216450737-1.webp"
+]
+},
+{
+"sku": "JRN00002822",
+"barcode": "8006530307161",
+"cat": 38,
+"ar": "فيري بلس صابون سائل برائحة الليمون مع قوة بديلة للمبييض 900 مل",
+"en": "Fairy Plus Liquid Soap Lemon Dishwashing With Alternative Power To Bleach 900 ml",
+"price": 16.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19393782",
+"img_src": "ninja",
+"images": [
+"8006530307161.webp",
+"8006530307161-1.webp",
+"8006530307161-2.webp"
+]
+},
+{
+"sku": "JRN00002823",
+"barcode": "6281100389088",
+"cat": 38,
+"ar": "سنوفا سائل غسيل الصحون ليمون 800 مل",
+"en": "Sunova Dish Wash Lemon 800 ml",
+"price": 13.95,
+"special": 10.95,
+"src": "ninja",
+"ninja_id": "5-19304449",
+"img_src": "ninja",
+"images": [
+"6281100389088.webp"
+]
+},
+{
+"sku": "JRN00002824",
+"barcode": "8006540169643",
+"cat": 38,
+"ar": "فيري صابون بلس السائل برائحة الليمون مع قوة بديلة للمبييض 600 مل",
+"en": "Fairy Plus Lemon Dishwashing Liquid Soap With Alternative Power To Bleach 600 ml",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19367277",
+"img_src": "ninja",
+"images": [
+"8006540169643.webp",
+"8006540169643-1.webp"
+]
+},
+{
+"sku": "JRN00002825",
+"barcode": "6282307298951",
+"cat": 38,
+"ar": "جنتو صابون غسيل الاطباق برائحه الليمون المنعش 1 لتر",
+"en": "Gento Dishwashing Lemon 1 L",
+"price": 14.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291098",
+"img_src": "ninja",
+"images": [
+"6282307298951.webp",
+"6282307298951-1.webp"
+]
+},
+{
+"sku": "JRN00002826",
+"barcode": "8006530167895",
+"cat": 38,
+"ar": "فيري صابون بلس السائل برائحة الليمون مع قوة بديلة للمبييض 2.2 لتر",
+"en": "Fairy Plus Lemon Dishwashing Liquid With Alternative Power To Bleach 2.2 L",
+"price": 43.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19391520",
+"img_src": "ninja",
+"images": [
+"8006530167895.webp",
+"8006530167895-1.webp",
+"8006530167895-2.webp"
+]
+},
+{
+"sku": "JRN00002827",
+"barcode": "8006530307215",
+"cat": 38,
+"ar": "فيري بلس سائل غسيل الأطباق باللافندر 900 مل",
+"en": "Fairy Plus Dishwashing Liquid Lavender 900 ml",
+"price": 16.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19393780",
+"img_src": "ninja",
+"images": [
+"8006530307215.webp",
+"8006530307215-1.webp",
+"8006530307215-2.webp"
+]
+},
+{
+"sku": "JRN00002828",
+"barcode": "6281031294857",
+"cat": 38,
+"ar": "سائل غسيل الاطباق بريل قوة عالية 1.25 لتر + 1.25 لتر",
+"en": "Pril Lemon Pril Apple 1.25 L + 1.25 L Free",
+"price": 25.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19390810",
+"img_src": "ninja",
+"images": [
+"6281031294857.webp",
+"6281031294857-1.webp",
+"6281031294857-2.webp"
+]
+},
+{
+"sku": "JRN00002829",
+"barcode": "8006540169674",
+"cat": 38,
+"ar": "فيري صابون بلس السائل فرويتي جرين لغسل الأطباق مع قوة بديلة للمبييض 600 مل",
+"en": "Fairy Plus Fruity Green Dishwashing Liquid Soap With Alternative Power To Bleach 600 ml",
+"price": 12.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19367278",
+"img_src": "ninja",
+"images": [
+"8006540169674.webp",
+"8006540169674-1.webp"
+]
+},
+{
+"sku": "JRN00002830",
+"barcode": "8001841891811",
+"cat": 38,
+"ar": "فيري أقراص 1 ستيب كلين لغسالة الأطباق الأوتوماتيكية برائحة الليمون 30 كبسولة",
+"en": "Fairy 1 Step Clean Plus Automatic Dishwasher Tablets Lemon Scent 30 Tablets",
+"price": 44.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-168180",
+"img_src": "ninja",
+"images": [
+"8001841891811.webp",
+"8001841891811-1.webp"
+]
+},
+{
+"sku": "JRN00002831",
+"barcode": "8006530119788",
+"cat": 38,
+"ar": "فيري قوة الحركة 5 أضعاف سائل غسيل الصحون برائحة الليمون 730 مل",
+"en": "Fairy 5x Power Action Dishwashing Liquid Lemon Scent 730 ml",
+"price": 21.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19402449",
+"img_src": "ninja",
+"images": [
+"8006530119788.webp",
+"8006530119788-1.webp",
+"8006530119788-2.webp"
+]
+},
+{
+"sku": "JRN00002832",
+"barcode": "6281031297070",
+"cat": 38,
+"ar": "بريل ليمون غسيل الاطباق نسخة رمضان 1 لتر",
+"en": "Pril Lemon Ramadan Edition 1 L",
+"price": 12.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-19399191",
+"img_src": "ninja",
+"images": [
+"6281031297070.webp",
+"6281031297070-1.webp"
+]
+},
+{
+"sku": "JRN00002833",
+"barcode": "8700216469623",
+"cat": 38,
+"ar": "فيري سائل غسيل الأطباق برائحة بتلات الورد 2 حبة 800 مل",
+"en": "Fairy Dishwashing Liquid Rose Bloom 2 pcs 800 ml",
+"price": 29.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-19325030",
+"img_src": "ninja",
+"images": [
+"8700216469623.webp"
+]
+},
+{
+"sku": "JRN00002834",
+"barcode": "5011417552957",
+"cat": 38,
+"ar": "فنش مساعد الشطف الأصلي لأطباق أكثر إشراقًا وجفافًا 400 مل",
+"en": "Finish Original Rinse Aid For Shinier And Drier Dishes 400 ml",
+"price": 44.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19286864",
+"img_src": "ninja",
+"images": [
+"5011417552957.webp",
+"5011417552957-1.webp",
+"5011417552957-2.webp"
+]
+},
+{
+"sku": "JRN00002835",
+"barcode": "8410104091002",
+"cat": 38,
+"ar": "فنش ملح لغسالة الصحون 2 كجم",
+"en": "Finish Dishwasher Salt 2 kg",
+"price": 35.75,
+"special": 29.95,
+"src": "ninja",
+"ninja_id": "5-593",
+"img_src": "ninja",
+"images": [
+"8410104091002.webp",
+"8410104091002-1.webp",
+"8410104091002-2.webp"
+]
+},
+{
+"sku": "JRN00002836",
+"barcode": "8002910006976",
+"cat": 38,
+"ar": "فنش مسحوق منظف لغسالة الصحون برائحة الليمون 1 كجم",
+"en": "Finish Dishwasher Detergent Powder Lemon 1 kg",
+"price": 56.95,
+"special": 41.95,
+"src": "ninja",
+"ninja_id": "5-590",
+"img_src": "ninja",
+"images": [
+"8002910006976.webp",
+"8002910006976-1.webp",
+"8002910006976-2.webp"
+]
+},
+{
+"sku": "JRN00002837",
+"barcode": "5011417552940",
+"cat": 38,
+"ar": "فنش مساعد الشطف برائحة الليمون 400 مل",
+"en": "Finish Dishwasher Rinse Aid Liquid Lemon 400 ml",
+"price": 44.95,
+"special": 34.95,
+"src": "ninja",
+"ninja_id": "5-591",
+"img_src": "ninja",
+"images": [
+"5011417552940.webp",
+"5011417552940-1.webp",
+"5011417552940-2.webp"
+]
+},
+{
+"sku": "JRN00002838",
+"barcode": "8006530307123",
+"cat": 38,
+"ar": "فيري بلس سائل غسيل الأطباق بعبير الورد 900 مل",
+"en": "Fairy Plus Dishwashing Liquid Rose Bloom 900 ml",
+"price": 16.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-19393779",
+"img_src": "ninja",
+"images": [
+"8006530307123.webp",
+"8006530307123-1.webp",
+"8006530307123-2.webp"
+]
+},
+{
+"sku": "JRN00002839",
+"barcode": "8006530168175",
+"cat": 38,
+"ar": "فيري باور اكشن منظف غسالة الصحون برائحة الليمون 45 قرص",
+"en": "Fairy Power Action Dishwasher Detergent Lemon Scent 45 Tabs",
+"price": 91.95,
+"special": 44.95,
+"src": "ninja",
+"ninja_id": "5-19395119",
+"img_src": "ninja",
+"images": [
+"8006530168175.webp"
+]
+},
+{
+"sku": "JRN00002840",
+"barcode": "6281006537446",
+"cat": 38,
+"ar": "جف سائل الصحون مضاد للبكتيريا بالنعناع والليمون 750 مل",
+"en": "Jif Dishwash Anti Bacterial Mint & Lemon 750 ml",
+"price": 17.95,
+"special": 13.95,
+"src": "ninja",
+"ninja_id": "5-4533",
+"img_src": "ninja",
+"images": [
+"6281006537446.webp",
+"6281006537446-1.webp",
+"6281006537446-2.webp"
+]
+},
+{
+"sku": "JRN00002841",
+"barcode": "6295120057445",
+"cat": 38,
+"ar": "فنش أقراص باور بول كوانتوم لغسالة الصحون 100 قرص عبوتان",
+"en": "Finish Powerball Quantum Dishwasher Tablets 100 Tabs, 2 Packs",
+"price": 118.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318460",
+"img_src": "ninja",
+"images": [
+"6295120057445.webp",
+"6295120057445-1.webp",
+"6295120057445-2.webp"
+]
+},
+{
+"sku": "JRN00002842",
+"barcode": "6281006537484",
+"cat": 38,
+"ar": "جف سائل غسيل الصحون نقي اوليفيرا واملاح معدنية 750 مل",
+"en": "Jif Dish Wash Pure aloe Vera & Mineral Salts 750 ml",
+"price": 17.95,
+"special": 9.95,
+"src": "ninja",
+"ninja_id": "5-5279",
+"img_src": "ninja",
+"images": [
+"6281006537484.webp",
+"6281006537484-1.webp",
+"6281006537484-2.webp"
+]
+},
+{
+"sku": "JRN00002843",
+"barcode": "6295120056639",
+"cat": 38,
+"ar": "فينيش اقراص غسيل الصحون ألتيمات بلس بالليمون 45 كبسولة",
+"en": "Finish Powerball Ultimate Plus Dishwasher Detergent Lemon 45 Tabs",
+"price": 98.95,
+"special": 64.95,
+"src": "ninja",
+"ninja_id": "5-19342091",
+"img_src": "ninja",
+"images": [
+"6295120056639.webp",
+"6295120056639-1.webp",
+"6295120056639-2.webp"
+]
+},
+{
+"sku": "JRN00002844",
+"barcode": "6281015001235",
+"cat": 37,
+"ar": "فضفاض للتخلص من الكهرباء الساكنة على الملابس 300 مل + 33% مجاناً",
+"en": "Fidfad Anti Static Clothes Spray 300 ml + 33% Free",
+"price": 15.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4181814",
+"img_src": "ninja",
+"images": [
+"6281015001235.webp",
+"6281015001235-1.webp",
+"6281015001235-2.webp"
+]
+},
+{
+"sku": "JRN00002845",
+"barcode": "6281065013202",
+"cat": 37,
+"ar": "كلوركس سائل مبيض 950 مل",
+"en": "Clorox Liquid Bleach 950 ml",
+"price": 6.75,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5997",
+"img_src": "ninja",
+"images": [
+"6281065013202.webp"
+]
+},
+{
+"sku": "JRN00002846",
+"barcode": "8700216914482",
+"cat": 37,
+"ar": "داوني منعم الأقمشة العادي ندى الوادي 2 × 2 لتر",
+"en": "Downy Regular Fabric Softener Valley Dew 2 x 2 L",
+"price": 29.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19362563",
+"img_src": "ninja",
+"images": [
+"8700216914482.webp",
+"8700216914482-1.webp"
+]
+},
+{
+"sku": "JRN00002847",
+"barcode": "6295120037928",
+"cat": 37,
+"ar": "فانيش بينك سائل لإزالة بقع الغسيل للملابس البيضاء والملونة 500 مل",
+"en": "Vanish Pink Liquid Fabric Stain Remover 495 ml",
+"price": 10.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19387387",
+"img_src": "ninja",
+"images": [
+"6295120037928.webp",
+"6295120037928-1.webp"
+]
+},
+{
+"sku": "JRN00002848",
+"barcode": "5413149638129",
+"cat": 37,
+"ar": "داوني منعم الملابس أزرق برائحة نسيم الوادي 3 لتر",
+"en": "Downy Fabric Softener Valley Dew Blue 3 L",
+"price": 31.0,
+"special": 26.25,
+"src": "ninja",
+"ninja_id": "5-5943",
+"img_src": "ninja",
+"images": [
+"5413149638129.webp",
+"5413149638129-1.webp",
+"5413149638129-2.webp"
+]
+},
+{
+"sku": "JRN00002849",
+"barcode": "8700216312035",
+"cat": 37,
+"ar": "داوني مركز الكل في واحد منعم أقمشة فانيليا و مسك 3 لتر",
+"en": "Downy All-in-One Concentrate Fabric Softener Vanilla & Musk 3 L",
+"price": 66.5,
+"special": 44.95,
+"src": "ninja",
+"ninja_id": "5-19294675",
+"img_src": "ninja",
+"images": [
+"8700216312035.webp",
+"8700216312035-1.webp",
+"8700216312035-2.webp"
+]
+},
+{
+"sku": "JRN00002850",
+"barcode": "6281006130449",
+"cat": 37,
+"ar": "كومفورت منعم الاقمشة ندى الربيع 4 لتر",
+"en": "Comfort Fabric Softener Spring Dew 4 L",
+"price": 39.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19348683",
+"img_src": "ninja",
+"images": [
+"6281006130449.webp",
+"6281006130449-1.webp",
+"6281006130449-2.webp"
+]
+},
+{
+"sku": "JRN00002851",
+"barcode": "6281065011291",
+"cat": 37,
+"ar": "كلوركس سائل مبيض عبوه عائليه 5.30 لتر",
+"en": "Clorox Liquid Bleach Pack Family 5.30 L",
+"price": 27.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19310418",
+"img_src": "ninja",
+"images": [
+"6281065011291.webp"
+]
+},
+{
+"sku": "JRN00002852",
+"barcode": "8001841438856",
+"cat": 37,
+"ar": "داوني منعم الملابس وردي برائحة الورد 3 لتر",
+"en": "Downy Fabric Softener Pink Floral Breeze 3 L",
+"price": 31.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-5945",
+"img_src": "ninja",
+"images": [
+"8001841438856.webp",
+"8001841438856-1.webp",
+"8001841438856-2.webp"
+]
+},
+{
+"sku": "JRN00002853",
+"barcode": "037000797227",
+"cat": 37,
+"ar": "داوني خرز انستوبابلز لتعزيز الانتعاش والرائحة المنعشة برائحة منعشة 162 جم",
+"en": "Downy Unstoppables In-wash Freshness and Scent Booster Beads Fresh Scent 162 g",
+"price": 30.95,
+"special": 22.25,
+"src": "ninja",
+"ninja_id": "5-19362562",
+"img_src": "ninja",
+"images": [
+"037000797227.webp",
+"037000797227-1.webp"
+]
+},
+{
+"sku": "JRN00002854",
+"barcode": "6281100385585",
+"cat": 37,
+"ar": "سنوفا مبيض معطر 3.78 لتر",
+"en": "Sunova Scented Bleach 3.78 L",
+"price": 20.95,
+"special": 15.95,
+"src": "ninja",
+"ninja_id": "5-19307007",
+"img_src": "ninja",
+"images": [
+"6281100385585.webp",
+"6281100385585-1.webp"
+]
+},
+{
+"sku": "JRN00002855",
+"barcode": "6281006130104",
+"cat": 37,
+"ar": "كومفرت منعّم الأقمشة برائحة ندى الربيع 3 لتر",
+"en": "Comfort Fabric Softener for super soft clothes Spring Dew 3 L",
+"price": 29.95,
+"special": 17.95,
+"src": "ninja",
+"ninja_id": "5-3749136",
+"img_src": "ninja",
+"images": [
+"6281006130104.webp",
+"6281006130104-1.webp",
+"6281006130104-2.webp"
+]
+},
+{
+"sku": "JRN00002856",
+"barcode": "6001106103675",
+"cat": 37,
+"ar": "فانيش مزيل البقع عن الأقمشة 500 مل",
+"en": "Vanish Stain Remover 500 ml",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-580",
+"img_src": "ninja",
+"images": [
+"6001106103675.webp",
+"6001106103675-1.webp"
+]
+},
+{
+"sku": "JRN00002857",
+"barcode": "8700216914437",
+"cat": 37,
+"ar": "داوني منعم الأقمشة العادي عبق الزهور 2 × 2 لتر",
+"en": "Downy Regular Fabric Softener Floral Breeze 2 x 2 L",
+"price": 42.95,
+"special": 24.95,
+"src": "ninja",
+"ninja_id": "5-19362564",
+"img_src": "ninja",
+"images": [
+"8700216914437.webp",
+"8700216914437-1.webp"
+]
+},
+{
+"sku": "JRN00002858",
+"barcode": "8003650004482",
+"cat": 37,
+"ar": "مريتو بخاخ النشاء للكواء 400 مل +25% زيادة مجانية",
+"en": "Merito Spray Starch 400 ml +25% Free",
+"price": 21.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4172886",
+"img_src": "ninja",
+"images": [
+"8003650004482.webp",
+"8003650004482-1.webp"
+]
+},
+{
+"sku": "JRN00002859",
+"barcode": "6001106298043",
+"cat": 37,
+"ar": "ڤانيش سائل لإزالة بقع الغسيل للملابس البيضاء والملونة 3 لتر",
+"en": "Vanish Stain Remover Liquid For White And Colored Clothes 3 L",
+"price": 48.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318464",
+"img_src": "ninja",
+"images": [
+"6001106298043.webp",
+"6001106298043-1.webp",
+"6001106298043-2.webp"
+]
+},
+{
+"sku": "JRN00002860",
+"barcode": "6282307000431",
+"cat": 37,
+"ar": "نولين منعم الأقمشة انتعاش الربيع 2 لتر",
+"en": "Nolin Fabric Softener Spring Fresh Blue 2 L",
+"price": 16.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19291108",
+"img_src": "ninja",
+"images": [
+"6282307000431.webp",
+"6282307000431-1.webp"
+]
+},
+{
+"sku": "JRN00002861",
+"barcode": "6295120018491",
+"cat": 37,
+"ar": "ڤانيش سائل لإزالة البقع للملابس البيضاء 3 لتر",
+"en": "Vanish Stain Remover Liquid For White Clothes Washing Machine 3 L",
+"price": 48.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19318461",
+"img_src": "ninja",
+"images": [
+"6295120018491.webp",
+"6295120018491-1.webp"
+]
+},
+{
+"sku": "JRN00002862",
+"barcode": "8700216311762",
+"cat": 37,
+"ar": "داوني منعم أقمشة للبشرة الحساسة 1 لتر",
+"en": "Downy Fabric Softener Sensitive 1 L",
+"price": 25.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19294663",
+"img_src": "ninja",
+"images": [
+"8700216311762.webp",
+"8700216311762-1.webp",
+"8700216311762-2.webp"
+]
+},
+{
+"sku": "JRN00002863",
+"barcode": "8700216312080",
+"cat": 37,
+"ar": "داوني مركز الكل في واحد منعم أقمشة لافندر و مسك 3 لتر",
+"en": "Downy All-in-One Concentrate Fabric Softener Lavender & Musk 3 L",
+"price": 66.5,
+"special": 54.95,
+"src": "ninja",
+"ninja_id": "5-19294666",
+"img_src": "ninja",
+"images": [
+"8700216312080.webp",
+"8700216312080-1.webp",
+"8700216312080-2.webp"
+]
+},
+{
+"sku": "JRN00002864",
+"barcode": "8700216312233",
+"cat": 37,
+"ar": "داوني مركز الكل في واحد منعم أقمشة نسيم الوادي 3 لتر",
+"en": "Downy All-in-One Concentrate Fabric Softener Valley Dew 3 L",
+"price": 64.5,
+"special": 44.95,
+"src": "ninja",
+"ninja_id": "5-19294674",
+"img_src": "ninja",
+"images": [
+"8700216312233.webp",
+"8700216312233-1.webp",
+"8700216312233-2.webp"
+]
+},
+{
+"sku": "JRN00002865",
+"barcode": "6281006068742",
+"cat": 37,
+"ar": "كمفورت منعم الملابس ندى الربيع ازرق 2 لتر",
+"en": "Comfort Fabric Softener Spring Dew Blue 2 L",
+"price": 17.95,
+"special": 11.95,
+"src": "ninja",
+"ninja_id": "5-5941",
+"img_src": "ninja",
+"images": [
+"6281006068742.webp",
+"6281006068742-1.webp",
+"6281006068742-2.webp"
+]
+},
+{
+"sku": "JRN00002866",
+"barcode": "8004060021007",
+"cat": 37,
+"ar": "اومينو مزيل البقع قبل الغسيل 500 مل",
+"en": "Omino Pre Wash 500 ml",
+"price": 19.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-4178716",
+"img_src": "ninja",
+"images": [
+"8004060021007.webp",
+"8004060021007-1.webp"
+]
+},
+{
+"sku": "JRN00002867",
+"barcode": "8700216311861",
+"cat": 37,
+"ar": "داوني منعم أقمشة فانيليا و مسك 2 لتر",
+"en": "Downy Fabric Softener Vanilla & Musk 2 L",
+"price": 49.95,
+"special": 34.95,
+"src": "ninja",
+"ninja_id": "5-19294667",
+"img_src": "ninja",
+"images": [
+"8700216311861.webp",
+"8700216311861-1.webp",
+"8700216311861-2.webp"
+]
+},
+{
+"sku": "JRN00002868",
+"barcode": "8700216311588",
+"cat": 37,
+"ar": "داوني منعم أقمشة فانيليا و مسك 1 لتر",
+"en": "Downy Fabric Softener Vanilla & Musk 1 L",
+"price": 25.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19294676",
+"img_src": "ninja",
+"images": [
+"8700216311588.webp",
+"8700216311588-1.webp",
+"8700216311588-2.webp"
+]
+},
+{
+"sku": "JRN00002869",
+"barcode": "6281006120204",
+"cat": 37,
+"ar": "كومفرت منعّم الأقمشة برائحة نواعم الزهور 3 لتر",
+"en": "Comfort Fabric Softener for super soft clothes Flora Soft 3 L",
+"price": 30.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-3749447",
+"img_src": "ninja",
+"images": [
+"6281006120204.webp",
+"6281006120204-1.webp",
+"6281006120204-2.webp"
+]
+},
+{
+"sku": "JRN00002870",
+"barcode": "8700216312189",
+"cat": 37,
+"ar": "داوني منعم أقمشة للبشرة الحساسة 3 لتر",
+"en": "Downy Fabric Softener Sensitive 3 L",
+"price": 66.5,
+"special": 54.95,
+"src": "ninja",
+"ninja_id": "5-19294669",
+"img_src": "ninja",
+"images": [
+"8700216312189.webp",
+"8700216312189-1.webp",
+"8700216312189-2.webp"
+]
+},
+{
+"sku": "JRN00002871",
+"barcode": "8700216311731",
+"cat": 37,
+"ar": "داوني منعم أقمشة بحديقة الورود 1 لتر",
+"en": "Downy Fabric Softener Rose Garden 1 L",
+"price": 25.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19294670",
+"img_src": "ninja",
+"images": [
+"8700216311731.webp",
+"8700216311731-1.webp",
+"8700216311731-2.webp"
+]
+},
+{
+"sku": "JRN00002872",
+"barcode": "6225000602823",
+"cat": 37,
+"ar": "جلاينت كلور 4 لتر",
+"en": "Glint Chlorine White Clothes 4 L",
+"price": 37.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19349540",
+"img_src": "ninja",
+"images": [
+"6225000602823.webp",
+"6225000602823-1.webp",
+"6225000602823-2.webp"
+]
+},
+{
+"sku": "JRN00002873",
+"barcode": "6287011680900",
+"cat": 37,
+"ar": "قو قرين مبيض و معقم 1 لتر",
+"en": "Go Green Bleach Liquid 1 L",
+"price": 9.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19326599",
+"img_src": "ninja",
+"images": [
+"6287011680900.webp",
+"6287011680900-1.webp"
+]
+},
+{
+"sku": "JRN00002874",
+"barcode": "6281065102128",
+"cat": 37,
+"ar": "كلوركس بلاتينوم الاصلي 3.78 لتر",
+"en": "Clorox Platinum Original 3.78 L",
+"price": 28.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19325038",
+"img_src": "ninja",
+"images": [
+"6281065102128.webp"
+]
+},
+{
+"sku": "JRN00002875",
+"barcode": "8700216311618",
+"cat": 37,
+"ar": "داوني منعم أقمشة بلافندر و المسك 1 لتر",
+"en": "Downy Fabric Softener Lavender & Musk 1 L",
+"price": 25.95,
+"special": 19.95,
+"src": "ninja",
+"ninja_id": "5-19294671",
+"img_src": "ninja",
+"images": [
+"8700216311618.webp",
+"8700216311618-1.webp",
+"8700216311618-2.webp"
+]
+},
+{
+"sku": "JRN00002876",
+"barcode": "6281065020668",
+"cat": 37,
+"ar": "كلوركس سائل مزيل البقع للملابس البيضاء 3 لتر",
+"en": "Clorox Liquid Stain Remover For White Clothing 3 L",
+"price": 52.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-19310456",
+"img_src": "ninja",
+"images": [
+"6281065020668.webp"
+]
+},
+{
+"sku": "JRN00002877",
+"barcode": "6281006100169",
+"cat": 37,
+"ar": "كمفورت منعم الملابس ندى الربيع ازرق 1 لتر",
+"en": "Comfort Fabric Softener Spring Dew Blue 1 L",
+"price": 12.5,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5933",
+"img_src": "ninja",
+"images": [
+"6281006100169.webp",
+"6281006100169-1.webp",
+"6281006100169-2.webp"
+]
+},
+{
+"sku": "JRN00002878",
+"barcode": "6281006100206",
+"cat": 37,
+"ar": "كمفورت منعم الملابس نواعم الزهور 1 لتر",
+"en": "Comfort Fabric Softener Flora Soft Flowers 1 L",
+"price": 11.95,
+"special": null,
+"src": "ninja",
+"ninja_id": "5-5937",
+"img_src": "ninja",
+"images": [
+"6281006100206.webp",
+"6281006100206-1.webp"
+]
+},
+{
+"sku": "JRN00002879",
+"barcode": "6287011681297",
+"cat": 37,
+"ar": "قو قرين بخاخ مزيل البقع 1 لتر",
+"en": "Go Green Dry Stain Remover 1 L",
+"price": 22.95,
+"special": 16.95,
+"src": "ninja",
+"ninja_id": "5-19326566",
+"img_src": "ninja",
+"images": [
+"6287011681297.webp",
+"6287011681297-1.webp"
+]
+},
+{
+"sku": "JRN00002880",
+"barcode": "6281142004611",
+"cat": 37,
+"ar": "موبي مزيل كهرباء الملابس 300 مل",
+"en": "Mobi Anti-Static Clothes Spray 300 ml",
+"price": 9.95,
+"special": 7.95,
+"src": "ninja",
+"ninja_id": "5-19343156",
+"img_src": "ninja",
+"images": [
+"6281142004611.webp",
+"6281142004611-1.webp"
+]
+},
+{
+"sku": "JRN00002881",
+"barcode": "8700216706131",
+"cat": 37,
+"ar": "اريال جل الغسيل الأصلي 4 لتر",
+"en": "Ariel Power Gel Original 4 L",
+"price": 46.5,
+"special": 40.45,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8700216706131.webp",
+"8700216706131-1.webp",
+"8700216706131-2.webp"
+]
+},
+{
+"sku": "JRN00002882",
+"barcode": "5060033820186",
+"cat": 37,
+"ar": "ذا بينك ستاف مزيل بقع الأقمشة 500 مل",
+"en": "The Pink Stuff Oxi Stain Remover 500 ml",
+"price": 34.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060033820186.webp",
+"5060033820186-1.webp",
+"5060033820186-2.webp"
+]
+},
+{
+"sku": "JRN00002883",
+"barcode": "8700216311885",
+"cat": 37,
+"ar": "داوني منعم الأقمشة برائحة اللافندر والمسك 2 لتر",
+"en": "Downy Fabric Softener Lavender And Musk Scent 2 L",
+"price": 36.95,
+"special": 31.4,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8700216311885.webp"
+]
+},
+{
+"sku": "JRN00002884",
+"barcode": "5060033821114",
+"cat": 39,
+"ar": "ذا بينك ستاف معجون التنظيف 850 جم",
+"en": "The Pink Stuff Cleaning Paste 850 g",
+"price": 40,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060033821114.webp",
+"5060033821114-1.webp",
+"5060033821114-2.webp"
+]
+},
+{
+"sku": "JRN00002885",
+"barcode": "6281006573628",
+"cat": 37,
+"ar": "كومفرت منعم أقمشة الأطفال للبشرة الحساسة 1.5 لتر",
+"en": "Comfort Baby Fabric Softener Sensitive Skin 1.5 L",
+"price": 39,
+"special": 27.3,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006573628.webp",
+"6281006573628-1.webp"
+]
+},
+{
+"sku": "JRN00002886",
+"barcode": "8700216311953",
+"cat": 37,
+"ar": "داوني المركز منعم الأقمشة وحماية ضد الروائح نسيم الوادي 2 لتر",
+"en": "Downy Concentrate Fabric Softener Valley Dew 2 L",
+"price": 36.95,
+"special": 31.4,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8700216311953.webp"
+]
+},
+{
+"sku": "JRN00002887",
+"barcode": "5060033822784",
+"cat": 39,
+"ar": "ذا بينك ستاف مزيل بقع سجاد و مفروشات 500 مل",
+"en": "The Pink Stuff Foaming Carpet & Upholstery Stain Remover 500 ml",
+"price": 35.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060033822784.webp",
+"5060033822784-1.webp",
+"5060033822784-2.webp"
+]
+},
+{
+"sku": "JRN00002888",
+"barcode": "8683130099117",
+"cat": 37,
+"ar": "اومو منظف غسيل سائل فائق البياض 1480 مل",
+"en": "OMO Laundry Detergent Wonder Wash Ultra White 1480 ml",
+"price": 33.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8683130099117.webp"
+]
+},
+{
+"sku": "JRN00002889",
+"barcode": "8683130096345",
+"cat": 37,
+"ar": "اومو منظف غسيل سائل وندر ووش مزيل الروائح 1480 مل",
+"en": "OMO Liquid Detergent Wonder Wash Odor Defy 1480 ml",
+"price": 35,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8683130096345.webp",
+"8683130096345-1.webp"
+]
+},
+{
+"sku": "JRN00002890",
+"barcode": "8700216312165",
+"cat": 37,
+"ar": "داوني منعم الأقمشة برائحة حديقة الورد 3 لتر",
+"en": "Downy Fabric Softener Rose Garden Scent 3 L",
+"price": 59,
+"special": 48.97,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8700216312165.webp"
+]
+},
+{
+"sku": "JRN00002891",
+"barcode": "5060033820148",
+"cat": 37,
+"ar": "ذا بينك ستاف مسحوق اوكسي لإزالة البقع من الملابس الملونة 1 كيلو",
+"en": "The Pink Stuff Oxi Powder Stain Remover For Colours 1 kg",
+"price": 45,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060033820148.webp",
+"5060033820148-1.webp",
+"5060033820148-2.webp"
+]
+},
+{
+"sku": "JRN00002892",
+"barcode": "5060033820162",
+"cat": 37,
+"ar": "ذا بينك ستاف مسحوق اوكسي لإزالة البقع من الملابس البيضاء 1 كيلو",
+"en": "The Pink Stuff Oxi Powder Stain Remover For Whites 1 kg",
+"price": 45,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060033820162.webp",
+"5060033820162-1.webp",
+"5060033820162-2.webp"
+]
+},
+{
+"sku": "JRN00002893",
+"barcode": "5060033821619",
+"cat": 39,
+"ar": "ذا بينك ستاف بخاخ تنظيف الأرضيات 750 مل",
+"en": "The Pink Stuff Floor Cleaner Spray 750 ml",
+"price": 36.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060033821619.webp",
+"5060033821619-1.webp",
+"5060033821619-2.webp"
+]
+},
+{
+"sku": "JRN00002894",
+"barcode": "5060033820827",
+"cat": 37,
+"ar": "ذا بينك ستاف سائل غسيل حيوي 960 مل",
+"en": "The Pink Stuff Bio Laundry Liquid 960 ml",
+"price": 44.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060033820827.webp",
+"5060033820827-1.webp"
+]
+},
+{
+"sku": "JRN00002895",
+"barcode": "5060033820865",
+"cat": 37,
+"ar": "ذا بينك ستاف منظف الملابس السحري للعناية بالألوان 960 مل",
+"en": "The Pink Stuff Colour Care Detergent 960 ml",
+"price": 42.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060033820865.webp",
+"5060033820865-1.webp"
+]
+},
+{
+"sku": "JRN00002896",
+"barcode": "5060033820841",
+"cat": 37,
+"ar": "ذا بينك ستاف سائل غسيل ملابس للبشرة الحساسة غير حيوي 960 مل",
+"en": "The Pink Stuff Laundry Liquid Sensitive Non Bio 960 ml",
+"price": 44.25,
+"special": 37.61,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060033820841.webp",
+"5060033820841-1.webp"
+]
+},
+{
+"sku": "JRN00002897",
+"barcode": "5060033820759",
+"cat": 39,
+"ar": "ذا بينك ستاف منظف للنوافذ والزجاج بخل الورد 750 مل",
+"en": "The Pink Stuff Cleaner Window And Glass With Rose Vinegar 750 ml",
+"price": 35.95,
+"special": 30.55,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060033820759.webp",
+"5060033820759-1.webp",
+"5060033820759-2.webp"
+]
+},
+{
+"sku": "JRN00002898",
+"barcode": "5060033821527",
+"cat": 39,
+"ar": "ذا بينك ستاف منظف أرضيات متعدد الأغراض 1 لتر",
+"en": "The Pink Stuff All Purpose Floor Cleaner 1 L",
+"price": 45,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5060033821527.webp",
+"5060033821527-1.webp",
+"5060033821527-2.webp"
+]
+},
+{
+"sku": "JRN00002899",
+"barcode": "8006540989784",
+"cat": 37,
+"ar": "اريال مسحوق غسيل برغوة منخفضة برائحة داوني 2.25 كيلو",
+"en": "Ariel Powder Laundry Detergent Low Foam With Downy Scent 2.25 kg",
+"price": 34.25,
+"special": 28.08,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8006540989784.webp",
+"8006540989784-1.webp",
+"8006540989784-2.webp"
+]
+},
+{
+"sku": "JRN00002900",
+"barcode": "8700216215909",
+"cat": 37,
+"ar": "اريال مسحوق غسيل برغوة منخفضة بالرائحة الأصلية 2.5 كيلو",
+"en": "Ariel Powder Laundry Detergent Low Foam Original Scent 2.5 kg",
+"price": 37.5,
+"special": 30.75,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8700216215909.webp",
+"8700216215909-1.webp",
+"8700216215909-2.webp"
+]
+},
+{
+"sku": "JRN00002901",
+"barcode": "8001090028587",
+"cat": 37,
+"ar": "اريال مسحوق غسيل عالي الرغوة بالرائحة الأصلية 2.5 كيلو",
+"en": "Ariel Powder Laundry Detergent High Foam Original Scent 2.5 kg",
+"price": 37,
+"special": 30.34,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8001090028587.webp",
+"8001090028587-1.webp",
+"8001090028587-2.webp"
+]
+},
+{
+"sku": "JRN00002902",
+"barcode": "6281031277126",
+"cat": 37,
+"ar": "برسيل مسحوق غسيل برغوة منخفضة بالرائحة الأصلية 6.8 كيلو",
+"en": "Persil Powder Laundry Detergent Low Foam Original Scent 6.8 kg",
+"price": 89.95,
+"special": 80.95,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281031277126.webp",
+"6281031277126-1.webp",
+"6281031277126-2.webp"
+]
+},
+{
+"sku": "JRN00002903",
+"barcode": "6281006622289",
+"cat": 37,
+"ar": "كومفرت منعم الأقمشة المركز برائحة الأوركيد و المسك 3 لتر",
+"en": "Comfort Concentrate Fabric Softener Orchid & Musk 3 L",
+"price": 39.95,
+"special": 33.95,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006622289.webp",
+"6281006622289-1.webp"
+]
+},
+{
+"sku": "JRN00002904",
+"barcode": "6281006619623",
+"cat": 37,
+"ar": "كومفرت منعم أقمشة مركز برائحة زنبق المسك والكراميل 1.4 لتر",
+"en": "Comfort Concentrate Fabric Softener Lily Musk & Caramel 1.4 L",
+"price": 39,
+"special": 21.45,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006619623.webp",
+"6281006619623-1.webp"
+]
+},
+{
+"sku": "JRN00002905",
+"barcode": "6281006622753",
+"cat": 37,
+"ar": "كومفرت منعم أقمشة برائحة ازهار اللافندر 4 لتر",
+"en": "Comfort Fabric Softener Lavender Blossom 4 L",
+"price": 28.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006622753.webp",
+"6281006622753-1.webp",
+"6281006622753-2.webp"
+]
+},
+{
+"sku": "JRN00002906",
+"barcode": "6001106118129",
+"cat": 37,
+"ar": "فانيش مسحوق أوكسي أكشن لإزالة البقع من الأقمشة للملابس البيضاء 900 جم",
+"en": "Vanish Oxi Action Fabric Stain Remover Powder for White Clothes 900 g",
+"price": 59.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6001106118129.webp",
+"6001106118129-1.webp",
+"6001106118129-2.webp"
+]
+},
+{
+"sku": "JRN00002907",
+"barcode": "6281006617001",
+"cat": 37,
+"ar": "كومفرت منعم أنسجة العشق الازرق 1.5 لتر",
+"en": "Comfort Fabric Softener Blue Love 1.5 L",
+"price": 39,
+"special": 27.3,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006617001.webp",
+"6281006617001-1.webp"
+]
+},
+{
+"sku": "JRN00002908",
+"barcode": "6281006623026",
+"cat": 37,
+"ar": "اومو صابون غسيل سائل للبشرة الحساسة 3 لتر",
+"en": "OMO Liquid Detergent Sensitive Skin 3 L",
+"price": 37.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006623026.webp",
+"6281006623026-1.webp"
+]
+},
+{
+"sku": "JRN00002909",
+"barcode": "6281006623033",
+"cat": 37,
+"ar": "اومو صابون غسيل سائل ملابس برائحة اللافندر بالمسة كامفورت 3 لتر",
+"en": "OMO Liquid Detergent Lavender Touch Of Comfort 3 L",
+"price": 37.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006623033.webp",
+"6281006623033-1.webp"
+]
+},
+{
+"sku": "JRN00002910",
+"barcode": "8700216198080",
+"cat": 38,
+"ar": "فيري بلس سائل غسيل الأطباق الأصلي 2 × 800 مل",
+"en": "Fairy Plus Dishwashing Liquid Original 2 x 800 ml",
+"price": 29.5,
+"special": 25.07,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8700216198080.webp"
+]
+},
+{
+"sku": "JRN00002911",
+"barcode": "8006530307246",
+"cat": 38,
+"ar": "فيري بلس صابون صحون سائل الأخضر 900 مل",
+"en": "Fairy Plus Dish Washing Liquid Fruity Green 900 ml",
+"price": 15.5,
+"special": 13.33,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8006530307246.webp"
+]
+},
+{
+"sku": "JRN00002912",
+"barcode": "6281006141209",
+"cat": 38,
+"ar": "لوكس سائل غسيل العادي رغوة كثيفة وتنظيف فعّال 750 مل",
+"en": "Lux Regular Dishwashing Sparkling Clean Soft On Hands 750 ml",
+"price": 14.95,
+"special": 11.96,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006141209.webp",
+"6281006141209-1.webp"
+]
+},
+{
+"sku": "JRN00002913",
+"barcode": "6281006537477",
+"cat": 38,
+"ar": "جف سائل غسيل الصحون مضاد للرائحة 750 مل",
+"en": "Jif Dish Wash Anti Odor 750 ml",
+"price": 18.95,
+"special": 13.26,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006537477.webp",
+"6281006537477-1.webp",
+"6281006537477-2.webp"
+]
+},
+{
+"sku": "JRN00002914",
+"barcode": "6281006141148",
+"cat": 38,
+"ar": "لوكس سائل غسيل أطباق باليمون نظافة مثالية ورائحة ليمون منعشة 750 مل",
+"en": "Lux Lemon Dishwashing Cleans Tough Stains Fresh Lemon Scent 750 ml",
+"price": 14.95,
+"special": 11.96,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006141148.webp",
+"6281006141148-1.webp"
+]
+},
+{
+"sku": "JRN00002915",
+"barcode": "6281006141223",
+"cat": 38,
+"ar": "لوكس سائل غسيل أطباق العادي لامعة وعناية باليدين 1250 مل",
+"en": "Lux Regular Dishwashing Thick Suds Grease Cutting Formula 1250 ml",
+"price": 22.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006141223.webp",
+"6281006141223-1.webp"
+]
+},
+{
+"sku": "JRN00002916",
+"barcode": "5011309111118",
+"cat": 39,
+"ar": "زوفلورا بخاخ معطر برائحة أزهار منتصف الليل 300 مل",
+"en": "Zoflora Disinfectant Spray Midnight Blooms 300 ml",
+"price": 38.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5011309111118.webp",
+"5011309111118-1.webp"
+]
+},
+{
+"sku": "JRN00002917",
+"barcode": "6281031263754",
+"cat": 39,
+"ar": "داك منظف مطهر برائحة الصنوبر 3 لتر",
+"en": "Dac Disinfectant Pine 3 L",
+"price": 32.95,
+"special": 29.32,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281031263754.webp",
+"6281031263754-1.webp"
+]
+},
+{
+"sku": "JRN00002918",
+"barcode": "6281031263792",
+"cat": 39,
+"ar": "داك مطهر برائحة الأزهار 3 لتر",
+"en": "Dac Disinfectant Floral 3 L",
+"price": 32.95,
+"special": 29.32,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281031263792.webp",
+"6281031263792-1.webp"
+]
+},
+{
+"sku": "JRN00002919",
+"barcode": "6281006140783",
+"cat": 39,
+"ar": "جف كريم تنظيف الأصلي 750 مل",
+"en": "Jif Cream Original 750 ml",
+"price": 26.95,
+"special": 21.56,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006140783.webp",
+"6281006140783-1.webp",
+"6281006140783-2.webp"
+]
+},
+{
+"sku": "JRN00002920",
+"barcode": "6281006566743",
+"cat": 39,
+"ar": "جف منظف التواليت برائحة الليمون 750 مل",
+"en": "Jif Toliet Cleaner Lime Power 750 ml",
+"price": 24.25,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281006566743.webp",
+"6281006566743-1.webp",
+"6281006566743-2.webp"
+]
+},
+{
+"sku": "JRN00002921",
+"barcode": "6281031291689",
+"cat": 39,
+"ar": "داك مطهر برائحة البخور عرض خاص 5 لتر",
+"en": "Dac Bakhour Scent Disinfectant 5 L",
+"price": 34.95,
+"special": 32.5,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281031291689.webp",
+"6281031291689-1.webp"
+]
+},
+{
+"sku": "JRN00002922",
+"barcode": "6295120023846",
+"cat": 39,
+"ar": "ديتول بخاخ مطهر متعدد الأغراض برائحة الحمضيات 450 مل",
+"en": "Dettol Multi-Purpose Disinfectant Spray Citrus Scent 450 ml",
+"price": 44,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6295120023846.webp",
+"6295120023846-1.webp",
+"6295120023846-2.webp"
+]
+},
+{
+"sku": "JRN00002923",
+"barcode": "4011548048474",
+"cat": 39,
+"ar": "زوفلورا مطهر ومنظف أرضيات برائحة اللافندر مضاد للبكتيريا ومطهر 3 لتر",
+"en": "Zoflora Multipurpose Floor Cleaner Lavender Dream 3 L",
+"price": 36.79,
+"special": 23.91,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"4011548048474.webp"
+]
+},
+{
+"sku": "JRN00002924",
+"barcode": "8683130015018",
+"cat": 39,
+"ar": "جف كريم بالكريستالات الدقيقة ليمون 1500 مل",
+"en": "Jif Cream Cleaner Lemon 1500 ml",
+"price": 26.95,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"8683130015018.webp",
+"8683130015018-1.webp"
+]
+},
+{
+"sku": "JRN00002925",
+"barcode": "5011309121810",
+"cat": 39,
+"ar": "زوفلورا 3في 1مطهر مركز برائحة الافندر 500 مل",
+"en": "Zoflora 3 In 1 Concentrated Disinfectant Lavender 500 ml",
+"price": 39.75,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5011309121810.webp"
+]
+},
+{
+"sku": "JRN00002926",
+"barcode": "6295120001370",
+"cat": 39,
+"ar": "ديتول منظف الأرضيات القوي برائحة الصنوبر 1.8 لتر",
+"en": "Dettol Power Floor Cleaner Pine Scent 1.8 L",
+"price": 42.5,
+"special": null,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6295120001370.webp",
+"6295120001370-1.webp"
+]
+},
+{
+"sku": "JRN00002927",
+"barcode": "5011309070316",
+"cat": 39,
+"ar": "زوفلورا مطهر مركز برائحة انتعاش الليمون مطهر أرضيات و منظف حمامات و مطابخ و منظف أسطح واستخدامات اخرى متعددة 500 مل",
+"en": "Zoflora Concentrated Disinfectant Lemon Zing Floor Cleaner Kitchen And Bathroom Cleaner And Multi Purpose Surface 500 ml",
+"price": 35.95,
+"special": 30.55,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5011309070316.webp",
+"5011309070316-1.webp",
+"5011309070316-2.webp"
+]
+},
+{
+"sku": "JRN00002928",
+"barcode": "6281031267882",
+"cat": 39,
+"ar": "داك منظف ومعقم الارضيات برائحة نسيم البحر 3 لتر + 1 لتر",
+"en": "Dac Disinfectant Gold Floor Cleaner Smell Of Ocean Breeze 3L + 1L",
+"price": 61.95,
+"special": 55.75,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"6281031267882.webp"
+]
+},
+{
+"sku": "JRN00002929",
+"barcode": "5010182998601",
+"cat": 39,
+"ar": "مستر ماسل بخاخ منظف وملمع الافرن 300 مل",
+"en": "Mr. Muscle Spray Oven Cleaner 300 ml",
+"price": 22.25,
+"special": 15.57,
+"src": "hs",
+"ninja_id": null,
+"img_src": "hs",
+"images": [
+"5010182998601.webp"
+]
+}
+]
