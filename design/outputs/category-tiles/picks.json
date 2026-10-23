@@ -157,10 +157,32 @@
 },
 "26": {
 "basis": "old",
-"desc": "Old tile: Nescafe Gold + Lavazza with coffee cup",
 "oldcut": {
 "close": 7
+},
+"desc": "Old tile Nescafe Gold + Baja Turkish coffee (replaces Lavazza)",
+"keep": [
+[
+0,
+0,
+0.485,
+1
+]
+],
+"replace": [
+{
+"tile": 26,
+"sku": "JRN00009789",
+"box": [
+0.44,
+0.0,
+1.0,
+1.0
+],
+"z": "back",
+"role": "replaces Lavazza"
 }
+]
 },
 "27": {
 "items": [
@@ -214,17 +236,115 @@
 },
 "34": {
 "basis": "old",
-"desc": "Old tile: Haagen-Dazs tub + Magnum bar",
 "oldcut": {
 "close": 7
+},
+"desc": "Old tile Haagen-Dazs tub with vanilla (prop) + London Dairy almond stick (replaces Magnum)",
+"keep": [
+[
+0,
+0,
+0.6,
+1
+]
+],
+"replace": [
+{
+"tile": 34,
+"sku": "JRN00002441",
+"box": [
+0.42,
+0.0,
+0.93,
+1.0
+],
+"role": "replaces Magnum",
+"rotate": 90
 }
+],
+"pad": [
+0,
+0,
+0
+]
 },
 "35": {
 "basis": "old",
-"desc": "Old tile: Bayara mixed nuts + bowl of nuts",
 "oldcut": {
 "close": 7
+},
+"desc": "Old tile bowl of nuts and loose nuts (props) + Almehbaj mixed nuts (replaces Bayara)",
+"keep": [
+[
+[
+0.4,
+0.7
+],
+[
+0.48,
+0.63
+],
+[
+0.62,
+0.58
+],
+[
+0.85,
+0.58
+],
+[
+1.0,
+0.66
+],
+[
+1.0,
+0.8
+],
+[
+0.88,
+0.87
+],
+[
+0.8,
+0.9
+],
+[
+0.8,
+1.0
+],
+[
+0.25,
+1.0
+],
+[
+0.27,
+0.88
+],
+[
+0.45,
+0.87
+]
+]
+],
+"replace": [
+{
+"tile": 35,
+"sku": "JRN00002478",
+"box": [
+-0.13,
+0.0,
+0.65,
+0.88
+],
+"z": "back",
+"role": "replaces Bayara"
 }
+],
+"pad": [
+0.15,
+0,
+0
+]
 },
 "46": {
 "items": [
@@ -546,19 +666,96 @@
 },
 "4": {
 "basis": "old",
-"desc": "Old tile: L'usine white toast + croissants",
 "oldcut": {
 "close": 7
 },
-"add": "JRN00009112",
-"add_rel": [
-1,
+"desc": "Old tile croissants (prop) + Kako sliced bread (replaces L'usine)",
+"keep": [
+[
+[
+0.12,
+0.98
+],
+[
+0.13,
+0.9
+],
+[
+0.2,
+0.78
+],
+[
+0.3,
+0.68
+],
+[
+0.4,
+0.62
+],
+[
+0.48,
+0.56
+],
+[
+0.6,
+0.52
+],
+[
+0.72,
+0.53
+],
+[
+0.82,
+0.58
+],
+[
+0.9,
+0.66
+],
+[
+0.97,
+0.78
+],
+[
+1.0,
+0.88
+],
+[
+0.95,
+0.94
+],
+[
+0.75,
+0.96
+],
+[
+0.55,
+0.98
+],
+[
+0.35,
 1.0
 ],
-"add_layout": {
-"overlap": 0.5,
-"side": "right"
+[
+0.18,
+1.0
+]
+]
+],
+"replace": [
+{
+"tile": 4,
+"sku": "JRN00009112",
+"box": [
+0.0,
+0.16,
+0.46,
+0.92
+],
+"z": "back",
+"role": "replaces L'usine"
 }
+]
 },
 "104": {
 "items": [
@@ -585,17 +782,126 @@
 },
 "10": {
 "basis": "old",
-"desc": "Old tile: Afia oil + Amul ghee",
 "oldcut": {
 "close": 7
+},
+"desc": "Old tile Afia oil + Golden Chair ghee (replaces Amul)",
+"keep": [
+[
+0,
+0,
+0.515,
+1
+]
+],
+"replace": [
+{
+"tile": 10,
+"sku": "JRN00008404",
+"box": [
+0.48,
+0.4,
+1.0,
+1.0
+],
+"role": "replaces Amul"
 }
+]
 },
 "11": {
 "basis": "old",
-"desc": "Old tile: flour bag, bowl of flour, baking powder",
 "oldcut": {
 "close": 7
+},
+"desc": "Old tile bowl of flour, scoop, Dr. Oetker + Qoot & Root flour (replaces Al Baker)",
+"keep": [
+[
+0.585,
+0.35,
+1.0,
+0.93
+],
+[
+[
+0.27,
+0.55
+],
+[
+0.33,
+0.5
+],
+[
+0.45,
+0.48
+],
+[
+0.58,
+0.52
+],
+[
+0.62,
+0.6
+],
+[
+0.6,
+0.75
+],
+[
+0.56,
+0.82
+],
+[
+0.58,
+0.95
+],
+[
+0.45,
+1.0
+],
+[
+0.25,
+1.0
+],
+[
+0.2,
+0.95
+],
+[
+0.12,
+0.82
+],
+[
+0.0,
+0.77
+],
+[
+0.0,
+0.71
+],
+[
+0.18,
+0.7
+],
+[
+0.27,
+0.7
+]
+]
+],
+"replace": [
+{
+"tile": 11,
+"sku": "JRN00007899",
+"box": [
+0.0,
+0.0,
+0.62,
+0.92
+],
+"z": "back",
+"role": "replaces Al Baker"
 }
+]
 },
 "12": {
 "basis": "old",
@@ -607,19 +913,79 @@
 },
 "13": {
 "basis": "old",
-"desc": "Old tile: spice jars + cinnamon sticks",
 "oldcut": {
 "close": 7
 },
-"add": "JRN00007660",
-"add_rel": [
-1,
-0.75
+"desc": "Old tile cinnamon sticks (prop) + Al Ameer pepper jar + Esnad turmeric (replace Bayara)",
+"keep": [
+[
+[
+0.55,
+0.95
 ],
-"add_layout": {
-"overlap": 0.3,
-"side": "right"
+[
+0.6,
+0.88
+],
+[
+0.72,
+0.83
+],
+[
+0.86,
+0.815
+],
+[
+1.0,
+0.86
+],
+[
+1.0,
+0.97
+],
+[
+0.85,
+1.0
+],
+[
+0.6,
+1.0
+]
+]
+],
+"replace": [
+{
+"tile": 13,
+"sku": "JRN00007616",
+"box": [
+-0.45,
+0.0,
+0.68,
+1.0
+],
+"z": "back",
+"role": "replaces Bayara turmeric"
+},
+{
+"tile": 13,
+"sku": "JRN00007555",
+"box": [
+0.35,
+0.0,
+1.28,
+0.97
+],
+"z": "back",
+"role": "replaces Bayara black pepper"
 }
+],
+"pad": [
+0.45,
+0,
+0.3
+],
+"drop_dark": 60,
+"keep_warm": 40
 },
 "14": {
 "items": [
@@ -637,10 +1003,31 @@
 },
 "16": {
 "basis": "old",
-"desc": "Old tile: Kellogg's Corn Flakes + Quaker Oats",
 "oldcut": {
 "close": 7
+},
+"desc": "Old tile Kellogg's Corn Flakes + White Harvest oats (replaces Quaker)",
+"keep": [
+[
+0,
+0,
+0.6,
+1
+]
+],
+"replace": [
+{
+"tile": 16,
+"sku": "JRN00008202",
+"box": [
+0.56,
+0.27,
+1.0,
+1.0
+],
+"role": "replaces Quaker"
 }
+]
 },
 "17": {
 "items": [
