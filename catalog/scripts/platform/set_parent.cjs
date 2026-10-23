@@ -15,6 +15,14 @@ const { chromium } = require('playwright');
     [...s.options].forEach(o => { o.selected = o.value === v; });
     s.value = v;
   }, parent);
+  // a top-level category must carry a store type (422 otherwise); keep the one the form already has, default 1
+  if (parent === 'none') await page.evaluate(() => {
+    const s = document.querySelector('[name=store_type_id]'); if (!s) return;
+    s.disabled = false; const v = s.value || '1';
+    if (s.tomselect) { s.tomselect.enable(); s.tomselect.setValue(v, true); }
+    if (s.tagName === 'SELECT' && ![...s.options].some(o => o.value === v)) s.add(new Option(v, v));
+    s.value = v;
+  });
   if (titleAr) await page.fill('input[name=title]', titleAr);
   if (titleEn) await page.fill('input[name=title_en]', titleEn);
   const form = `form[action$="/categories/${id}"]`;
