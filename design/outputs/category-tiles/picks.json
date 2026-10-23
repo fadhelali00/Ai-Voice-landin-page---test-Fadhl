@@ -51,17 +51,81 @@
 },
 "22": {
 "basis": "old",
-"desc": "Old tile: Al Kabeer orange juice, Almarai mango, orange halves",
 "oldcut": {
 "close": 7
+},
+"desc": "Old tile: orange half + Almarai mango; Alrabie orange juice 1 L replaces Al Kabie",
+"replace": [
+{
+"tile": 22,
+"sku": "JRN00010125",
+"box": [
+0.02,
+0.0,
+0.74,
+0.98
+],
+"z": "back",
+"role": "replaces Al Kabie"
 }
+],
+"keep": [
+[
+0.665,
+0,
+1,
+1
+],
+[
+[
+0.0,
+0.8
+],
+[
+0.05,
+0.7
+],
+[
+0.15,
+0.65
+],
+[
+0.27,
+0.66
+],
+[
+0.34,
+0.74
+],
+[
+0.36,
+0.85
+],
+[
+0.32,
+0.95
+],
+[
+0.2,
+1.0
+],
+[
+0.08,
+0.99
+],
+[
+0.0,
+0.92
+]
+]
+]
 },
 "43": {
+"basis": "new",
 "items": [
-"JRN00003463",
-"JRN00003467"
-],
-"basis": "new"
+"JRN00003336",
+"JRN00003448"
+]
 },
 "44": {
 "items": [
@@ -235,116 +299,22 @@
 }
 },
 "34": {
-"basis": "old",
-"oldcut": {
-"close": 7
-},
-"desc": "Old tile Haagen-Dazs tub with vanilla (prop) + London Dairy almond stick (replaces Magnum)",
-"keep": [
-[
-0,
-0,
-0.6,
-1
-]
+"items": [
+"JRN00002447",
+"JRN00002442"
 ],
-"replace": [
-{
-"tile": 34,
-"sku": "JRN00002441",
-"box": [
-0.42,
-0.0,
-0.93,
-1.0
-],
-"role": "replaces Magnum",
-"rotate": 90
-}
-],
-"pad": [
-0,
-0,
-0
-]
+"basis": "new"
 },
 "35": {
-"basis": "old",
-"oldcut": {
-"close": 7
+"basis": "new",
+"items": [
+"JRN00002478",
+"JRN00002540"
+],
+"layout": {
+"side": "left"
 },
-"desc": "Old tile bowl of nuts and loose nuts (props) + Almehbaj mixed nuts (replaces Bayara)",
-"keep": [
-[
-[
-0.4,
-0.7
-],
-[
-0.48,
-0.63
-],
-[
-0.62,
-0.58
-],
-[
-0.85,
-0.58
-],
-[
-1.0,
-0.66
-],
-[
-1.0,
-0.8
-],
-[
-0.88,
-0.87
-],
-[
-0.8,
-0.9
-],
-[
-0.8,
-1.0
-],
-[
-0.25,
-1.0
-],
-[
-0.27,
-0.88
-],
-[
-0.45,
-0.87
-]
-]
-],
-"replace": [
-{
-"tile": 35,
-"sku": "JRN00002478",
-"box": [
--0.13,
-0.0,
-0.65,
-0.88
-],
-"z": "back",
-"role": "replaces Bayara"
-}
-],
-"pad": [
-0.15,
-0,
-0
-]
+"max_hidden": 8
 },
 "46": {
 "items": [
@@ -390,20 +360,12 @@
 "basis": "new"
 },
 "51": {
-"basis": "old",
-"desc": "Old tile: Gillette razor + shaving foam",
-"oldcut": {
-"close": 7
-},
-"add": "JRN00005223",
-"add_rel": [
-1,
-0.8
+"basis": "new",
+"items": [
+"JRN00005223",
+"JRN00005232"
 ],
-"add_layout": {
-"overlap": 0.3,
-"side": "right"
-}
+"max_hidden": 8
 },
 "52": {
 "items": [
@@ -413,11 +375,11 @@
 "basis": "new"
 },
 "53": {
-"basis": "old",
-"desc": "Old tile: mascara, lipstick, powder compact",
-"oldcut": {
-"close": 7
-}
+"basis": "new",
+"items": [
+"JRN00011091",
+"JRN00005234"
+]
 },
 "54": {
 "items": [
@@ -775,10 +737,53 @@
 },
 "9": {
 "basis": "old",
-"desc": "Old tile: Abu Kass rice bag, bowl of rice, Barilla spaghetti",
 "oldcut": {
 "close": 7
-}
+},
+"desc": "Old tile: Abu Kass rice, bowl of rice, Barilla spaghetti (old floor shadow removed)",
+"replace": [],
+"keep": [
+[
+0,
+0,
+1,
+0.925
+],
+[
+[
+0.0,
+0.85
+],
+[
+0.05,
+0.8
+],
+[
+0.36,
+0.8
+],
+[
+0.38,
+0.9
+],
+[
+0.33,
+0.97
+],
+[
+0.2,
+1.0
+],
+[
+0.06,
+0.98
+],
+[
+0.0,
+0.92
+]
+]
+]
 },
 "10": {
 "basis": "old",
@@ -809,106 +814,39 @@
 ]
 },
 "11": {
-"basis": "old",
-"oldcut": {
-"close": 7
-},
-"desc": "Old tile bowl of flour, scoop, Dr. Oetker + Qoot & Root flour (replaces Al Baker)",
-"keep": [
-[
-0.585,
-0.35,
-1.0,
-0.93
-],
-[
-[
-0.27,
-0.55
-],
-[
-0.33,
-0.5
-],
-[
-0.45,
-0.48
-],
-[
-0.58,
-0.52
-],
-[
-0.62,
-0.6
-],
-[
-0.6,
-0.75
-],
-[
-0.56,
-0.82
-],
-[
-0.58,
-0.95
-],
-[
-0.45,
-1.0
-],
-[
-0.25,
-1.0
-],
-[
-0.2,
-0.95
-],
-[
-0.12,
-0.82
-],
-[
-0.0,
-0.77
-],
-[
-0.0,
-0.71
-],
-[
-0.18,
-0.7
-],
-[
-0.27,
-0.7
-]
-]
-],
-"replace": [
-{
-"tile": 11,
-"sku": "JRN00007899",
-"box": [
-0.0,
-0.0,
-0.62,
-0.92
-],
-"z": "back",
-"role": "replaces Al Baker"
-}
+"basis": "new",
+"items": [
+"JRN00007899",
+"JRN00007925"
 ]
 },
 "12": {
 "basis": "old",
-"desc": "Old tile: Heinz ketchup, Tabasco, fresh tomatoes",
 "oldcut": {
 "close": 7
 },
+"desc": "Old tile: Heinz ketchup, Tabasco, fresh tomatoes (old plate line and shadow removed)",
+"replace": [],
+"keep": [
+[
+0,
+0,
+1,
+0.86
+],
+[
+0,
+0.86,
+0.47,
+1
+],
+[
+0.69,
+0.86,
+1,
+1
+]
+],
 "floor_clean": 0.2
 },
 "13": {
@@ -1011,7 +949,7 @@
 [
 0,
 0,
-0.6,
+0.578,
 1
 ]
 ],
@@ -1020,7 +958,7 @@
 "tile": 16,
 "sku": "JRN00008202",
 "box": [
-0.56,
+0.53,
 0.27,
 1.0,
 1.0
@@ -1030,11 +968,12 @@
 ]
 },
 "17": {
+"basis": "new",
 "items": [
-"JRN00008232",
+"JRN00008216",
 "JRN00008451"
 ],
-"basis": "new"
+"max_hidden": 8
 },
 "18": {
 "basis": "old",
@@ -1045,17 +984,33 @@
 },
 "19": {
 "basis": "old",
-"desc": "Old tile: bowl of dates + Langnese honey",
 "oldcut": {
 "close": 7
-}
+},
+"desc": "Old tile: bowl of dates + Langnese honey (spoon and plate removed)",
+"replace": [],
+"keep": [
+[
+0,
+0,
+1,
+0.79
+],
+[
+0.58,
+0.79,
+1,
+1
+]
+]
 },
 "106": {
+"basis": "new",
 "items": [
-"JRN00007845",
+"JRN00007827",
 "JRN00007875"
 ],
-"basis": "new"
+"max_hidden": 15
 },
 "107": {
 "items": [
@@ -1063,5 +1018,48 @@
 "JRN00007733"
 ],
 "basis": "new"
+},
+"27v2": {
+"basis": "new",
+"tile": 27,
+"items": [
+"JRN00009916",
+"JRN00009726",
+"JRN00006712"
+],
+"rel": [
+1,
+0.8,
+0.95
+],
+"layout": {
+"overlap": 0.1
+}
+},
+"102v2": {
+"basis": "new",
+"tile": 102,
+"items": [
+"JRN00009307",
+"JRN00009394"
+],
+"max_hidden": 15
+},
+"44v2": {
+"basis": "new",
+"tile": 44,
+"items": [
+"JRN00003428",
+"JRN00003429"
+],
+"max_hidden": 20
+},
+"64v2": {
+"basis": "new",
+"tile": 64,
+"items": [
+"JRN00006700",
+"JRN00006692"
+]
 }
 }
