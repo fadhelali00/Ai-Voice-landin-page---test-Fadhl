@@ -210,7 +210,8 @@ def _arrange(items, layout):
     return placed
 
 
-def compose_flat(items, out=None, rel=None, layout=None, quality=90, quiet=False, no_upscale=True):
+def compose_flat(items, out=None, rel=None, layout=None, quality=90, quiet=False, no_upscale=True, max_scale=None,
+                 sharpen=False, side=None):
     """items: 1-3 cut-out RGBA images, hero first (drawn at the back).
     rel: height of each item relative to the hero (default 1, 0.78, 0.78).
     layout: {"overlap": fraction of a front item's width that overlaps the hero, "side": right|left,
@@ -224,9 +225,11 @@ def compose_flat(items, out=None, rel=None, layout=None, quality=90, quiet=False
     x1 = max(x + im.width for im, x in placed)
     top = min(-im.height - l for (im, _), l in zip(placed, lift))
     gw, gh = x1 - x0, -top
-    k = min((BASE_Y - TOP_Y) / gh, (S - 2 * SIDE) / gw) * layout.get("scale", 1.0)
-    if no_upscale:                                     # never enlarge a source beyond its own pixels
-        k = min([k] + [it.width / im.width for (im, _), it in zip(placed, items)])
+    sd = SIDE if side is None else side                # wide groups may use a narrower side margin
+    k = min((BASE_Y - TOP_Y) / gh, (S - 2 * sd) / gw) * layout.get("scale", 1.0)
+    if no_upscale or max_scale:                        # cap enlargement: 1.0 by default, or max_scale
+        cap = max_scale or 1.0
+        k = min([k] + [cap * it.width / im.width for (im, _), it in zip(placed, items)])
     ox = (S - gw * k) / 2 - x0 * k
     canvas = Image.new("RGBA", (S, S), FLAT_BG + (255,))
     mask = Image.new("L", (S, S), 0)
@@ -234,6 +237,10 @@ def compose_flat(items, out=None, rel=None, layout=None, quality=90, quiet=False
     for (im, x), l, it in zip(placed, lift, items):
         w, h = max(1, int(round(im.width * k))), max(1, int(round(im.height * k)))
         im2 = it.resize((w, h), Image.LANCZOS)             # one resample, straight from the source cut-out
+        if sharpen and w > it.width * 1.05:                # mild unsharp mask on enlarged items only
+            rgb = im2.convert("RGB").filter(ImageFilter.UnsharpMask(radius=1.6, percent=55, threshold=2))
+            rgb.putalpha(im2.getchannel("A"))
+            im2 = rgb
         px, py = int(round(ox + x * k)), int(round(BASE_Y - l * k - h))
         final.append((im2, px, py))
     if not quiet:

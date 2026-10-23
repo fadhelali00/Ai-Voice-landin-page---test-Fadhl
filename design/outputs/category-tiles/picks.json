@@ -12,7 +12,8 @@
 "match": [
 1302,
 1372
-]
+],
+"basis": "new"
 },
 "76": {
 "items": [
@@ -39,36 +40,42 @@
 "match": [
 1231,
 1223
-]
+],
+"basis": "new"
 },
 "21": {
 "items": [
 "JRN00009968"
-]
+],
+"basis": "new"
 },
 "22": {
-"items": [
-"JRN00009902",
-"JRN00000647"
-]
+"basis": "old",
+"desc": "Old tile: Al Kabeer orange juice, Almarai mango, orange halves",
+"oldcut": {
+"close": 7
+}
 },
 "43": {
 "items": [
 "JRN00003463",
 "JRN00003467"
-]
+],
+"basis": "new"
 },
 "44": {
 "items": [
 "JRN00003437",
 "JRN00003454"
-]
+],
+"basis": "new"
 },
 "110": {
 "items": [
 "JRN00006010",
 "JRN00006003"
-]
+],
+"basis": "new"
 },
 "103": {
 "items": [
@@ -78,7 +85,8 @@
 "cut": {
 "shadow": false,
 "thr": 250
-}
+},
+"basis": "new"
 },
 "105": {
 "items": [
@@ -90,7 +98,8 @@
 0.65,
 0.6,
 0.55
-]
+],
+"basis": "new"
 },
 "101": {
 "items": [
@@ -99,7 +108,8 @@
 ],
 "cut": {
 "speck": 0.06
-}
+},
+"basis": "new"
 },
 "3": {
 "cut": [
@@ -111,13 +121,15 @@
 "items": [
 "JRN00009388",
 "JRN00009018"
-]
+],
+"basis": "new"
 },
 "23": {
 "items": [
 "JRN00010105",
 "JRN00009874"
-]
+],
+"basis": "new"
 },
 "24": {
 "rel": [
@@ -132,99 +144,116 @@
 "JRN00000829",
 "JRN00000831",
 "JRN00000827"
-]
+],
+"basis": "new"
 },
 "25": {
-"items": [
-"JRN00000861",
-"JRN00000862"
-],
-"max_hidden": 10
+"basis": "old",
+"desc": "Old tile: Lipton Yellow Label + cup of tea",
+"oldcut": {
+"close": 7
+},
+"side": 0.008
 },
 "26": {
-"items": [
-"JRN00000661",
-"JRN00009893"
-]
+"basis": "old",
+"desc": "Old tile: Nescafe Gold + Lavazza with coffee cup",
+"oldcut": {
+"close": 7
+}
 },
 "27": {
 "items": [
 "JRN00006713",
 "JRN00009908"
-]
+],
+"basis": "new"
 },
 "108": {
 "items": [
 "JRN00000678",
 "JRN00010012"
-]
+],
+"basis": "new"
 },
 "29": {
-"items": [
-"JRN00001663",
-"JRN00001657"
-]
+"basis": "old",
+"desc": "Old tile: KitKat + Galaxy with broken chocolate",
+"oldcut": {
+"close": 7
+},
+"side": 0.008
 },
 "30": {
 "items": [
 "JRN00001995",
 "JRN00001862"
-]
+],
+"basis": "new"
 },
 "31": {
 "items": [
 "JRN00004064",
 "JRN00001911"
-]
+],
+"basis": "new"
 },
 "32": {
 "items": [
 "JRN00001479",
 "JRN00001442"
-]
+],
+"basis": "new"
 },
 "33": {
-"items": [
-"JRN00001038",
-"JRN00001009"
-]
+"basis": "old",
+"desc": "Old tile: Lay's + Doritos with chips",
+"oldcut": {
+"close": 7
+}
 },
 "34": {
-"items": [
-"JRN00002447",
-"JRN00002442"
-]
+"basis": "old",
+"desc": "Old tile: Haagen-Dazs tub + Magnum bar",
+"oldcut": {
+"close": 7
+}
 },
 "35": {
-"items": [
-"JRN00002525",
-"JRN00002530"
-]
+"basis": "old",
+"desc": "Old tile: Bayara mixed nuts + bowl of nuts",
+"oldcut": {
+"close": 7
+}
 },
 "46": {
 "items": [
 "JRN00005236",
 "JRN00010875"
-]
+],
+"basis": "new"
 },
 "47": {
 "items": [
 "JRN00010984",
 "JRN00010954"
 ],
-"max_hidden": 15
+"max_hidden": 15,
+"basis": "new"
 },
 "48": {
 "items": [
 "JRN00005292",
 "JRN00010706"
-]
+],
+"basis": "new"
 },
 "49": {
 "items": [
 "JRN00010419",
 "JRN00005275"
-]
+],
+"basis": "new"
 },
 "50": {
 "rel": [
@@ -237,255 +266,415 @@
 "items": [
 "JRN00010689",
 "JRN00005339"
-]
+],
+"basis": "new"
 },
 "51": {
-"items": [
-"JRN00005223"
-]
+"basis": "old",
+"desc": "Old tile: Gillette razor + shaving foam",
+"oldcut": {
+"close": 7
+},
+"add": "JRN00005223",
+"add_rel": [
+1,
+0.8
+],
+"add_layout": {
+"overlap": 0.3,
+"side": "right"
+}
 },
 "52": {
 "items": [
 "JRN00005350",
 "JRN00005511"
-]
+],
+"basis": "new"
 },
 "53": {
-"items": [
-"JRN00010422",
-"JRN00011091"
-]
+"basis": "old",
+"desc": "Old tile: mascara, lipstick, powder compact",
+"oldcut": {
+"close": 7
+}
 },
 "54": {
 "items": [
 "JRN00005298",
 "JRN00010874"
-]
+],
+"basis": "new"
 },
 "56": {
 "items": [
 "JRN00004690",
 "JRN00004620"
 ],
-"max_hidden": 15
+"max_hidden": 15,
+"basis": "new"
 },
 "57": {
 "items": [
 "JRN00004838",
 "JRN00004617"
-]
+],
+"basis": "new"
 },
 "58": {
 "items": [
 "JRN00004891",
 "JRN00004627"
-]
+],
+"basis": "new"
 },
 "59": {
 "items": [
 "JRN00004622",
 "JRN00004711"
-]
+],
+"basis": "new"
 },
 "60": {
 "items": [
 "JRN00004822",
 "JRN00004786"
-]
+],
+"basis": "new"
 },
 "111": {
 "items": [
 "JRN00006147",
 "JRN00006139"
-]
+],
+"basis": "new"
 },
 "62": {
 "items": [
 "JRN00006799",
 "JRN00006826"
-]
+],
+"basis": "new"
 },
 "63": {
 "items": [
 "JRN00006619",
 "JRN00006638"
-]
+],
+"basis": "new"
 },
 "64": {
 "items": [
 "JRN00006676",
 "JRN00006669"
-]
+],
+"basis": "new"
 },
 "65": {
-"items": [
-"JRN00006748",
-"JRN00006729"
-]
+"basis": "old",
+"desc": "Old tile: ON Gold Standard whey + shaker",
+"oldcut": {
+"close": 7
+}
 },
 "66": {
 "items": [
 "JRN00006603",
 "JRN00006602"
-]
+],
+"basis": "new"
 },
 "37": {
 "items": [
 "JRN00002784",
 "JRN00002848"
-]
+],
+"basis": "new"
 },
 "38": {
-"items": [
-"JRN00002822",
-"JRN00002843"
+"basis": "old",
+"desc": "Old tile: Fairy + sponge",
+"oldcut": {
+"close": 7
+},
+"add": "JRN00002822",
+"add_rel": [
+1,
+0.8
 ],
-"max_hidden": 15
+"add_layout": {
+"overlap": 0.3,
+"side": "right"
+}
 },
 "39": {
 "items": [
 "JRN00002709",
 "JRN00002741"
-]
+],
+"basis": "new"
 },
 "40": {
 "items": [
 "JRN00003307",
 "JRN00003341"
-]
+],
+"basis": "new"
 },
 "109": {
 "items": [
 "JRN00002217",
 "JRN00002242"
-]
+],
+"basis": "new"
 },
 "41": {
 "items": [
 "JRN00003352",
 "JRN00003363"
-]
+],
+"basis": "new"
 },
 "102": {
 "items": [
 "JRN00009307",
 "JRN00009460"
-]
+],
+"basis": "new"
 },
 "7": {
-"items": [
-"JRN00010309",
-"JRN00010313"
+"basis": "old",
+"desc": "Old tile: chicken biryani bowl (side salad removed)",
+"oldcut": {
+"close": 7
+},
+"keep_poly": [
+[
+0.0,
+0.4
+],
+[
+0.02,
+0.25
+],
+[
+0.08,
+0.15
+],
+[
+0.2,
+0.075
+],
+[
+0.4,
+0.05
+],
+[
+0.58,
+0.085
+],
+[
+0.66,
+0.125
+],
+[
+0.72,
+0.175
+],
+[
+0.765,
+0.24
+],
+[
+0.785,
+0.32
+],
+[
+0.785,
+0.42
+],
+[
+0.76,
+0.6
+],
+[
+0.715,
+0.78
+],
+[
+0.63,
+0.92
+],
+[
+0.45,
+0.99
+],
+[
+0.25,
+0.975
+],
+[
+0.12,
+0.91
+],
+[
+0.05,
+0.76
+],
+[
+0.015,
+0.56
 ]
+],
+"cap": 2.45,
+"trim_right_rim": 0.62
 },
 "6": {
-"items": [
-"JRN00009535",
-"JRN00009526"
-]
+"basis": "old",
+"desc": "Old tile: whole sea bream, salmon fillet, shrimp",
+"oldcut": {
+"close": 7
+},
+"side": 0.008
 },
 "5": {
 "items": [
 "JRN00009512",
 "JRN00009516"
-]
+],
+"basis": "new"
 },
 "4": {
-"items": [
-"JRN00009112",
-"JRN00010370"
-]
+"basis": "old",
+"desc": "Old tile: L'usine white toast + croissants",
+"oldcut": {
+"close": 7
+},
+"add": "JRN00009112",
+"add_rel": [
+1,
+1.0
+],
+"add_layout": {
+"overlap": 0.5,
+"side": "right"
+}
 },
 "104": {
 "items": [
 "JRN00009485",
 "JRN00010316"
-]
+],
+"basis": "new"
 },
 "42": {
-"items": [
-"JRN00003396",
-"JRN00003394"
-]
+"basis": "old",
+"desc": "Old tile: brush, sponge, cloth",
+"oldcut": {
+"close": 7
+},
+"side": 0.008,
+"floor_clean": 0.08
 },
 "9": {
-"items": [
-"JRN00007970",
-"JRN00007971"
-]
+"basis": "old",
+"desc": "Old tile: Abu Kass rice bag, bowl of rice, Barilla spaghetti",
+"oldcut": {
+"close": 7
+}
 },
 "10": {
-"items": [
-"JRN00008398",
-"JRN00008392"
-],
-"max_hidden": 15
+"basis": "old",
+"desc": "Old tile: Afia oil + Amul ghee",
+"oldcut": {
+"close": 7
+}
 },
 "11": {
-"items": [
-"JRN00007900",
-"JRN00007906"
-]
+"basis": "old",
+"desc": "Old tile: flour bag, bowl of flour, baking powder",
+"oldcut": {
+"close": 7
+}
 },
 "12": {
-"items": [
-"JRN00007047",
-"JRN00007136"
-]
+"basis": "old",
+"desc": "Old tile: Heinz ketchup, Tabasco, fresh tomatoes",
+"oldcut": {
+"close": 7
+},
+"floor_clean": 0.2
 },
 "13": {
-"items": [
-"JRN00007660",
-"JRN00007561",
-"JRN00007541"
-]
+"basis": "old",
+"desc": "Old tile: spice jars + cinnamon sticks",
+"oldcut": {
+"close": 7
+},
+"add": "JRN00007660",
+"add_rel": [
+1,
+0.75
+],
+"add_layout": {
+"overlap": 0.3,
+"side": "right"
+}
 },
 "14": {
 "items": [
 "JRN00008032",
 "JRN00008039"
-]
+],
+"basis": "new"
 },
 "15": {
 "items": [
 "JRN00007813",
 "JRN00007880"
-]
+],
+"basis": "new"
 },
 "16": {
-"items": [
-"JRN00008221",
-"JRN00008202"
-]
+"basis": "old",
+"desc": "Old tile: Kellogg's Corn Flakes + Quaker Oats",
+"oldcut": {
+"close": 7
+}
 },
 "17": {
 "items": [
 "JRN00008232",
 "JRN00008451"
-]
+],
+"basis": "new"
 },
 "18": {
-"items": [
-"JRN00008376",
-"JRN00008374"
-]
+"basis": "old",
+"desc": "Old tile: Indomie packs + noodle bowls with egg",
+"oldcut": {
+"close": 7
+}
 },
 "19": {
-"items": [
-"JRN00008464",
-"JRN00008345"
-]
+"basis": "old",
+"desc": "Old tile: bowl of dates + Langnese honey",
+"oldcut": {
+"close": 7
+}
 },
 "106": {
 "items": [
 "JRN00007845",
 "JRN00007875"
-]
+],
+"basis": "new"
 },
 "107": {
 "items": [
 "JRN00007339",
 "JRN00007733"
-]
+],
+"basis": "new"
 }
 }
