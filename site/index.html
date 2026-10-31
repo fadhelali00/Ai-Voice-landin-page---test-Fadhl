@@ -1,0 +1,400 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>مثقال · نظام ERP سعودي بدفاتر صحيحة بالتصميم</title>
+<meta name="description" content="مثقال نظام سحابي للمحاسبة والمبيعات والمشتريات والمخزون للمنشآت السعودية. الضمانات المحاسبية مفروضة في قاعدة البيانات نفسها.">
+<link rel="icon" href="mithqal-mark.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet"><!-- Plex Mono: D90 brand face for amounts inside product fragments only. taste-skill-ignore -->
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">انتقل إلى المحتوى</a>
+
+<header class="bar">
+  <a class="brand" href="#top" aria-label="مثقال، الصفحة الرئيسية">
+    <img src="mithqal-mark.svg" alt="" width="32" height="32"><span>مثقال</span>
+  </a>
+  <nav class="bar-links" aria-label="الأقسام">
+    <a href="#features">المزايا</a>
+    <a href="#ai">الذكاء الاصطناعي</a>
+    <a href="#pricing">الأسعار</a>
+    <a href="#faq">الأسئلة</a>
+  </nav>
+  <div class="bar-actions">
+    <a class="link" href="#login">تسجيل الدخول</a>
+    <a class="btn" href="#start">ابدأ التجربة</a>
+  </div>
+</header>
+
+<main id="main">
+
+<!-- HERO: void, then statement on the axis -->
+<section class="hero" id="top">
+  <div class="hero-side reveal">
+    <p class="hero-lead">مثقال نظام سحابي سعودي للمحاسبة والمبيعات والمشتريات والمخزون، تعرف طريقة عمله من أول يوم. الضمانات المحاسبية فيه مفروضة في قاعدة البيانات نفسها، لا في إعدادات قد تُعطَّل أو تُنسى.</p>
+    <div class="hero-actions">
+      <a class="btn btn-lg" href="#start">ابدأ التجربة</a>
+      <a class="link" href="#demo">اطلب عرضاً</a>
+      <span class="note">14 يوماً، بلا بطاقة ائتمان.</span>
+    </div>
+  </div>
+  <h1 class="hero-title" aria-label="دفاتر صحيحة بالتصميم">
+    <span class="line"><span>دفاتر صحيحة</span></span>
+    <span class="line"><span>بالتصميم.</span></span>
+  </h1>
+</section>
+
+<!-- FEATURES: fixed output, live controls -->
+<section class="features" id="features" aria-labelledby="features-title">
+  <h2 id="features-title" class="features-h reveal">ما يجده محاسبك في مثقال</h2>
+  <div class="features-field">
+    <div class="invoice" data-ui id="invoice" aria-live="polite">
+      <div class="inv-head">
+        <div>
+          <div class="inv-kind">فاتورة ضريبية</div>
+          <div class="inv-no" id="inv-no">مسودة · بلا رقم</div>
+        </div>
+        <span class="status status-amber" id="inv-status"><i></i><span>مسودة</span></span>
+      </div>
+      <dl class="inv-meta">
+        <div><dt>العميل</dt><dd>مؤسسة الندى للتجارة</dd></div>
+        <div><dt>تاريخ التوريد</dt><dd class="num">2026-11-03</dd></div>
+        <div><dt>تاريخ ووقت الإصدار</dt><dd id="inv-time">يُحدَّد من ساعة الخادم عند الاعتماد</dd></div>
+      </dl>
+      <table class="inv-lines">
+        <thead><tr><th>البند</th><th class="end">الكمية</th><th class="end">السعر</th><th class="end">المبلغ</th></tr></thead>
+        <tbody><tr><td>صنف تجريبي ١</td><td class="end num" id="l-qty">4</td><td class="end num">200.00</td><td class="end num" id="l-net">800.00</td></tr></tbody>
+      </table>
+      <div class="inv-totals">
+        <div><span>المجموع قبل الضريبة</span><span class="num" id="t-net">800.00</span></div>
+        <div><span>ضريبة القيمة المضافة 15%</span><span class="num" id="t-vat">120.00</span></div>
+        <div class="grand"><span>الإجمالي</span><span class="num"><span id="t-gross">920.00</span> ر.س</span></div>
+      </div>
+
+      <div class="je">
+        <div class="je-head"><b id="je-title">معاينة القيد الناتج</b><span id="je-balance" class="status status-emerald"><i></i><span>القيد متوازن</span></span></div>
+        <table class="je-table">
+          <thead><tr><th>الحساب</th><th class="end">مدين</th><th class="end">دائن</th></tr></thead>
+          <tbody id="je-body">
+            <tr><td><span class="code">1103</span> العملاء</td><td class="end num">920.00</td><td></td></tr>
+            <tr><td><span class="code">4101</span> المبيعات</td><td></td><td class="end num">800.00</td></tr>
+            <tr><td><span class="code">2201</span> ضريبة المخرجات</td><td></td><td class="end num">120.00</td></tr>
+            <tr><td><span class="code">5101</span> تكلفة المبيعات</td><td class="end num">470.00</td><td></td></tr>
+            <tr><td><span class="code">1104</span> المخزون</td><td></td><td class="end num">470.00</td></tr>
+          </tbody>
+          <tfoot><tr><td>المجموع</td><td class="end num" id="je-dr">1,390.00</td><td class="end num" id="je-cr">1,390.00</td></tr></tfoot>
+        </table>
+        <div class="je-extra" id="je-extra" hidden></div>
+      </div>
+      <p class="sample">بيانات تجريبية. الحسابات والقيد كما يولّدهما محرك الترحيل في اختبارات النظام.</p>
+    </div>
+  </div>
+
+  <div class="features-read">
+    <article class="cap reveal">
+      <p class="cap-lead">القيد يُكتب مع الفاتورة، ويبقى متوازناً.</p>
+      <p>غيّر الكمية وراقب القيد: العملاء مدين بالإجمالي، والمبيعات والضريبة دائنتان، وتكلفة المبيعات تخرج من المخزون بالمتوسط المرجّح. المدين يساوي الدائن دائماً.</p>
+      <label class="ctl">
+        <span>الكمية: <b class="num" id="qty-out">4</b></span>
+        <input type="range" id="qty" min="1" max="12" value="4" aria-describedby="qty-help">
+      </label>
+      <p class="ctl-help" id="qty-help">سعر الوحدة 200.00 ر.س، ومتوسط تكلفتها 117.50 ر.س.</p>
+    </article>
+
+    <article class="cap reveal">
+      <p class="cap-lead">الاعتماد يثبّت الرقم والوقت من الخادم.</p>
+      <p>الترقيم بلا فجوات ولا تكرار، حتى عند الاعتماد المتزامن أو فشل العملية. ووقت الإصدار من ساعة الخادم بتوقيت الرياض، لا من جهاز المستخدم. ورمز QR بالحقول الخمسة بصيغة TLV التي حددتها الهيئة.</p>
+      <button class="btn btn-ghost" id="approve" type="button">اعتمد الفاتورة</button>
+    </article>
+
+    <article class="cap reveal">
+      <p class="cap-lead">الفاتورة المعتمدة لا تُعدَّل ولا تُحذف.</p>
+      <p>بعد الاعتماد لا يوجد زر تعديل ولا حذف. الخطأ يُصحَّح بإشعار دائن مرتبط بالأصل وبسبب مكتوب، وقيد عكسي يبقى ظاهراً لك ولمراجعك.</p>
+      <div class="seg" role="group" aria-label="جرّب على الفاتورة المعتمدة">
+        <button type="button" id="try-edit" disabled>حاول تعديل السعر</button>
+        <button type="button" id="try-cn" disabled>ألغِ بإشعار دائن</button>
+      </div>
+    </article>
+
+    <article class="cap reveal">
+      <p class="cap-lead">لا تكلفة صفرية، ولا أرباح وهمية.</p>
+      <p>إن بعت قبل وصول البضاعة، يسجّل النظام تكلفة مؤقتة مُعلَّمة بدل الصفر، ويسوّيها آلياً عند الشراء. وفروقات الجرد والتالف في حسابات مستقلة لا تختفي في تكلفة المبيعات.</p>
+      <label class="switch">
+        <input type="checkbox" id="no-stock">
+        <span>البضاعة لم تصل بعد</span>
+      </label>
+    </article>
+
+    <article class="cap reveal">
+      <p class="cap-lead">بيانات منشأتك معزولة في قاعدة البيانات.</p>
+      <p>كل منشأة معزولة على مستوى قاعدة البيانات نفسها، ولا يمرر النظام أي استعلام SQL حر. ونختبر ذلك آلياً بمحاولة قراءة سجل منشأة أخرى برقمه المباشر.</p>
+      <button class="btn btn-ghost" id="try-other" type="button">حاول فتح فاتورة منشأة أخرى</button>
+    </article>
+  </div>
+</section>
+
+<!-- INTRO: lead line over four columns -->
+<section class="intro" aria-labelledby="intro-title">
+  <h2 id="intro-title" class="reveal">لا تبدأ من الصفر</h2>
+  <p class="intro-lead reveal">الدورات المستندية والمسميات في مثقال هي التي يعرفها المحاسب السعودي. صممناها لتعمل كما اعتدت، وأضفنا الضمانات التي كنت تتمنى وجودها، فلا يحتاج فريقك إلى تدريب من الصفر.</p>
+  <div class="intro-cols">
+    <p><b>فاتورة وإشعار دائن.</b> الفاتورة الضريبية والمبسطة، والإلغاء والمرتجع الجزئي بإشعار دائن مرتبط بالأصل. نفس المسميات التي تستخدمها اليوم، ونفس ترتيب الحقول الذي اعتدته.</p>
+    <p><b>سند قبض وتخصيص.</b> سندات القبض والصرف، وتخصيص المبالغ على الفواتير، وكشوف حساب العملاء والموردين. كل سند يولّد قيده، وتراه قبل أن تحفظه.</p>
+    <p><b>جرد وإقفال فترة.</b> الجرد بحسابين مستقلين للفروقات والتالف، وإقفال لكل فرع. والفترة المقفلة تبقى مقفلة: أثر المستند المتأخر يُقيَّد في الفترة المفتوحة.</p>
+    <p><b>أرصدة أول المدة.</b> تُدخل مرة واحدة، والنظام يمنع تكرارها بدل أن يحذّرك منه. <a class="link" href="#migration">الانتقال من نظامك السابق</a></p>
+  </div>
+</section>
+
+<!-- AI: full colour page -->
+<section class="ai" id="ai" aria-labelledby="ai-title">
+  <div class="ai-top">
+    <h2 id="ai-title" class="ai-title reveal">ذكاء اصطناعي يعمل لك،<br>لا بدلاً منك.</h2>
+    <div class="ai-side reveal">
+      <span class="soon">قريباً</span>
+      <p>نبني اتصالاً أصيلاً عبر بروتوكول MCP، ومركزاً للذكاء الاصطناعي والمهارات داخل النظام. يقرأ المساعد بياناتك بصلاحياتك أنت، ويُعدّ مسودات فقط، والاعتماد والترحيل يبقيان بيدك.</p>
+      <a class="btn btn-light" href="#ai-interest">سجّل اهتمامك</a>
+    </div>
+  </div>
+
+  <div class="ai-body">
+    <div class="ai-draft reveal" data-ui>
+      <div class="draft-head">
+        <span class="status status-dry"><i></i><span>مسودة من المساعد · لم تُرحَّل</span></span>
+        <span class="draft-src">من: التدقيق الآلي للقيود</span>
+      </div>
+      <p class="draft-msg">قيد استحقاق إيجار نوفمبر غير مسجّل، والعقد يحدد 4,000.00 ر.س شهرياً.</p>
+      <table class="je-table">
+        <thead><tr><th>الحساب</th><th class="end">مدين</th><th class="end">دائن</th></tr></thead>
+        <tbody>
+          <tr><td>مصروف الإيجار</td><td class="end num">4,000.00</td><td></td></tr>
+          <tr><td>مصروفات مستحقة</td><td></td><td class="end num">4,000.00</td></tr>
+        </tbody>
+      </table>
+      <div class="draft-actions">
+        <button type="button" class="btn btn-sm" id="ai-approve">اعتمد ورحّل</button>
+        <button type="button" class="btn btn-sm btn-ghost">عدّل المسودة</button>
+        <button type="button" class="btn btn-sm btn-ghost">ارفض</button>
+      </div>
+      <p class="draft-foot" id="ai-foot">الترحيل يحتاج اعتماد مستخدم بصلاحية. المساعد لا يرحّل ولا يحذف.</p>
+      <p class="sample">مثال توضيحي لميزة قيد البناء.</p>
+    </div>
+
+    <div class="ai-skills reveal">
+      <h3>مهارات داخل كل وحدة</h3>
+      <p class="ai-skills-intro">كل مهارة تظهر في شاشتها، لا في نافذة منفصلة، وتعمل بصلاحيات المستخدم نفسه.</p>
+      <dl class="skills">
+        <div><dt>المبيعات والمشتريات</dt><dd>قراءة الفواتير OCR · اقتراح السعر والخصم · التنبؤ بالتحصيل · الإنشاء بالمحادثة</dd></div>
+        <div><dt>الحسابات والقيود</dt><dd>التدقيق الآلي للقيود · كشف الشذوذ · المطابقة البنكية الذكية · تفسير الانحرافات</dd></div>
+        <div><dt>المخزون</dt><dd>التنبؤ بالطلب · حد إعادة الطلب الذكي · تحليل الراكد</dd></div>
+        <div><dt>الموارد البشرية والرواتب</dt><dd>فحص المسيرات قبل الاعتماد · تحليل الحضور</dd></div>
+      </dl>
+    </div>
+  </div>
+
+  <ul class="ai-rules" aria-label="التزامات التصميم">
+    <li class="reveal"><b>مسودات فقط.</b> الذكاء الاصطناعي لا يرحّل قيداً ولا يحذف مستنداً. الاعتماد بشري دائماً.</li>
+    <li class="reveal"><b>بصلاحياتك.</b> يقرأ ما يحق لك قراءته فقط، ولا يوسّع مكان المهارة في الشاشة صلاحياتها.</li>
+    <li class="reveal"><b>أرقام من النظام.</b> الأرقام تأتي من دفاترك عبر واجهات محددة، لا من النموذج، ولا استعلام SQL حر.</li>
+    <li class="reveal"><b>كل عملية مسجّلة.</b> ما يقرؤه المساعد وما يقترحه يظهر في سجل التدقيق.</li>
+  </ul>
+</section>
+
+<!-- LIST: modules table -->
+<section class="modules" id="modules" aria-labelledby="modules-title">
+  <h2 id="modules-title" class="reveal">نظام واحد لدورتك<br>المالية كاملة</h2>
+  <div class="modules-grid">
+    <p class="modules-note reveal">كل وحدة تولّد قيدها في الأستاذ العام لحظة الاعتماد، فلا ترحيل يدوي آخر الشهر. والفروع مبنية في الأساس: كل سجل ينتمي إلى فرع، ولكل فرع إقفاله.</p>
+    <table class="mod-table">
+      <caption class="sr">وحدات النظام</caption>
+      <tbody>
+        <tr class="reveal"><th scope="row">المحاسبة العامة</th><td>دليل حسابات بتصنيف IFRS 18، وقيود، وإقفال لكل فرع</td><td></td></tr>
+        <tr class="reveal"><th scope="row">القوائم المالية</th><td>الأرباح أو الخسائر بفئات IFRS 18 ومجاميعها، والمركز المالي</td><td></td></tr>
+        <tr class="reveal"><th scope="row">المبيعات والفوترة</th><td>فاتورة، وإلغاء وتصحيح، ومرتجع جزئي، بلا سقف شهري</td><td></td></tr>
+        <tr class="reveal"><th scope="row">المشتريات</th><td>فاتورة الشراء استلام، والمتوسط المرجّح</td><td></td></tr>
+        <tr class="reveal grp"><th scope="row">المخزون</th><td>مستودعات، وتحويلات، وجرد</td><td></td></tr>
+        <tr class="reveal"><th scope="row">الخزينة</th><td>سندات قبض وصرف، وتخصيص، وكشوف حساب</td><td></td></tr>
+        <tr class="reveal"><th scope="row">الفروع</th><td>فرع لكل سجل، وإقفال لكل فرع</td><td></td></tr>
+        <tr class="reveal grp soon-row"><th scope="row">نقاط البيع</th><td>بيع سريع، وجهاز يعمل بلا إنترنت</td><td>قريباً</td></tr>
+        <tr class="reveal soon-row"><th scope="row">التوزيع الميداني</th><td>المناديب والزيارات والتحصيل</td><td>قريباً</td></tr>
+        <tr class="reveal soon-row"><th scope="row">إدارة علاقات العملاء</th><td>الفرص والمتابعة</td><td>قريباً</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- SHOWCASE: IFRS 18 input half, output half -->
+<section class="ifrs" aria-labelledby="ifrs-title">
+  <div class="ifrs-in">
+    <div class="ifrs-in-body reveal">
+      <p class="ifrs-text">يسري المعيار الدولي IFRS 18 على الفترات السنوية التي تبدأ في 1 يناير 2027 أو بعده. في مثقال يحمل كل حساب فئته، والحساب الذي لم يُصنَّف يظهر لك لتصنّفه، ولا يُخفى.</p>
+      <div class="tb" data-ui>
+        <div class="tb-row"><span>المبيعات</span><span class="tag">تشغيلية</span></div>
+        <div class="tb-row"><span>مصروفات بيع وتوزيع</span><span class="tag">تشغيلية</span></div>
+        <div class="tb-row"><span>إيرادات ودائع استثمارية</span><span class="tag">استثمارية</span></div>
+        <div class="tb-row"><span>فوائد قرض قصير الأجل</span><span class="tag">تمويلية</span></div>
+        <div class="tb-row tb-open">
+          <label for="cls">عمولات بنكية · 6,200.00</label>
+          <select id="cls">
+            <option value="">غير مصنّف</option>
+            <option value="op">تشغيلية</option>
+            <option value="fin">تمويلية</option>
+          </select>
+        </div>
+      </div>
+    </div>
+    <h2 id="ifrs-title" class="split-a">قائمة الأرباح أو الخسائر</h2>
+  </div>
+  <div class="ifrs-out">
+    <div class="pl reveal" data-ui aria-live="polite">
+      <div class="pl-head"><b>قائمة الأرباح أو الخسائر</b><span>عن السنة المنتهية في 31 ديسمبر 2027</span></div>
+      <div class="pl-cat">تشغيلية</div>
+      <div class="pl-row"><span>الإيرادات</span><span class="num">1,240,000.00</span></div>
+      <div class="pl-row"><span>تكلفة المبيعات</span><span class="num">(744,000.00)</span></div>
+      <div class="pl-row"><span>مصروفات بيع وتوزيع</span><span class="num">(98,500.00)</span></div>
+      <div class="pl-row"><span>مصروفات إدارية</span><span class="num">(121,300.00)</span></div>
+      <div class="pl-row" id="pl-bank-op" hidden><span>عمولات بنكية</span><span class="num">(6,200.00)</span></div>
+      <div class="pl-sub"><span>الربح أو الخسارة التشغيلية</span><span class="num" id="pl-op">276,200.00</span></div>
+      <div class="pl-cat">استثمارية</div>
+      <div class="pl-row"><span>إيرادات ودائع استثمارية</span><span class="num">18,400.00</span></div>
+      <div class="pl-sub"><span>الربح أو الخسارة قبل التمويل وضرائب الدخل</span><span class="num" id="pl-bf">294,600.00</span></div>
+      <div class="pl-cat">تمويلية</div>
+      <div class="pl-row"><span>فوائد قرض قصير الأجل</span><span class="num">(22,700.00)</span></div>
+      <div class="pl-row" id="pl-bank-fin" hidden><span>عمولات بنكية</span><span class="num">(6,200.00)</span></div>
+      <div class="pl-sub"><span>الربح أو الخسارة قبل ضرائب الدخل</span><span class="num" id="pl-pbt">271,900.00</span></div>
+      <div class="pl-warn" id="pl-warn"><span class="status status-amber"><i></i><span>حساب واحد بانتظار التصنيف: 6,200.00</span></span></div>
+      <p class="sample">أرقام تجريبية.</p>
+    </div>
+    <p class="split-b">بالشكل الجديد</p>
+  </div>
+</section>
+
+<!-- PRICING: plans as a large table -->
+<section class="pricing" id="pricing" aria-labelledby="pricing-title">
+  <div class="pricing-top">
+    <div>
+      <h2 id="pricing-title" class="reveal">أسعار واضحة، بلا سقف للفواتير</h2>
+      <p class="pricing-sub reveal">كل الباقات تشمل المحاسبة الكاملة والفوترة الإلكترونية، والفواتير بلا سقف شهري. جرّب أي باقة 14 يوماً، بلا بطاقة ائتمان.</p>
+    </div>
+    <div class="period reveal" role="radiogroup" aria-label="طريقة الدفع">
+      <button type="button" role="radio" aria-checked="true" data-period="y">سنوي</button>
+      <button type="button" role="radio" aria-checked="false" data-period="m">شهري</button>
+    </div>
+  </div>
+
+  <div class="ptable-wrap reveal">
+  <table class="ptable">
+    <caption class="sr">مقارنة الباقات</caption>
+    <thead>
+      <tr>
+        <td></td>
+        <th scope="col"><span class="pname">الانطلاق</span><span class="pprice"><span class="num" data-y="95" data-m="120">95</span> <small>ر.س شهرياً</small></span><span class="pnote" data-y="يُدفع سنوياً 1,140 ر.س" data-m="يُدفع شهرياً">يُدفع سنوياً 1,140 ر.س</span></th>
+        <th scope="col" class="rec"><span class="pname">النمو</span><span class="pprice"><span class="num" data-y="155" data-m="220">155</span> <small>ر.س شهرياً</small></span><span class="pnote" data-y="يُدفع سنوياً 1,860 ر.س" data-m="يُدفع شهرياً">يُدفع سنوياً 1,860 ر.س</span></th>
+        <th scope="col"><span class="pname">التوسّع</span><span class="pprice"><span class="num" data-y="225" data-m="320">225</span> <small>ر.س شهرياً</small></span><span class="pnote" data-y="يُدفع سنوياً 2,700 ر.س" data-m="يُدفع شهرياً">يُدفع سنوياً 2,700 ر.س</span></th>
+        <th scope="col"><span class="pname">المؤسسات</span><span class="pprice">حسب الاحتياج</span><span class="pnote">لمجموعات الشركات</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><th scope="row">مع ضريبة القيمة المضافة 15%</th><td class="num" data-y="1,311 ر.س سنوياً" data-m="138 ر.س شهرياً">1,311 ر.س سنوياً</td><td class="num rec" data-y="2,139 ر.س سنوياً" data-m="253 ر.س شهرياً">2,139 ر.س سنوياً</td><td class="num" data-y="3,105 ر.س سنوياً" data-m="368 ر.س شهرياً">3,105 ر.س سنوياً</td><td>—</td></tr>
+      <tr><th scope="row">لمن</th><td>منشأة بمستودع واحد تبدأ دفاترها صحيحة</td><td class="rec">منشأة بعدة مستودعات تحتاج تحليلاً أدق</td><td>منشأة تدير دورة كاملة من الطلب إلى التحصيل</td><td>مجموعات الشركات والاحتياجات الخاصة</td></tr>
+      <tr><th scope="row">المحاسبة والقوائم بفئات IFRS 18</th><td>مشمولة</td><td class="rec">مشمولة</td><td>مشمولة</td><td>مشمولة</td></tr>
+      <tr><th scope="row">الفوترة الإلكترونية</th><td>المرحلة الأولى</td><td class="rec">المرحلة الأولى</td><td>المرحلة الأولى</td><td>المرحلة الأولى</td></tr>
+      <tr><th scope="row">الفواتير</th><td>بلا سقف</td><td class="rec">بلا سقف</td><td>بلا سقف</td><td>بلا سقف</td></tr>
+      <tr><th scope="row">المستودعات</th><td class="num">1</td><td class="num rec">3</td><td class="num">5</td><td>بأعداد كبيرة</td></tr>
+      <tr><th scope="row">الخزائن والحسابات البنكية</th><td class="num">2</td><td class="num rec">5</td><td>بلا حد</td><td>بلا حد</td></tr>
+      <tr><th scope="row">العملاء</th><td class="num">حتى 100</td><td class="num rec">حتى 300</td><td>بلا حد</td><td>بلا حد</td></tr>
+      <tr><th scope="row">المستخدمون</th><td>مستخدم، والإضافي إضافة</td><td class="rec">مستخدم، والإضافي إضافة</td><td>مستخدم، والإضافي إضافة</td><td>بأعداد كبيرة</td></tr>
+      <tr><th scope="row">الربط عبر API ومراكز التكلفة وقوائم الأسعار</th><td>غير مشمولة</td><td class="rec">قريباً</td><td>قريباً</td><td>قريباً</td></tr>
+      <tr><th scope="row">أوامر البيع والشراء</th><td>غير مشمولة</td><td class="rec">غير مشمولة</td><td>قريباً</td><td>قريباً</td></tr>
+      <tr><th scope="row">المساعد الذكي عبر MCP</th><td>قريباً</td><td class="rec">قريباً</td><td>قريباً</td><td>قريباً</td></tr>
+      <tr><th scope="row">التهيئة والترحيل</th><td>ذاتي</td><td class="rec">ذاتي</td><td>ذاتي</td><td>بإشراف فريقنا</td></tr>
+      <tr class="pcta"><td></td><td><a class="btn btn-ghost" href="#start" data-plan="start">ابدأ التجربة</a></td><td class="rec"><a class="btn" href="#start" data-plan="growth">ابدأ التجربة</a></td><td><a class="btn btn-ghost" href="#start" data-plan="scale">ابدأ التجربة</a></td><td><a class="btn btn-ghost" href="#demo">تواصل مع المبيعات</a></td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="pricing-foot reveal">الأسعار غير شاملة ضريبة القيمة المضافة 15% ما لم يُذكر. الفرع والمستخدم والمستودع الإضافي تُضاف إلى أي باقة. <b>في كل الباقات:</b> القيد المرحّل لا يُعدَّل ولا يُحذف، والفاتورة المعتمدة لا تُحذف، والترقيم بلا فجوات.</p>
+</section>
+
+<!-- FAQ: answers as reading text -->
+<section class="faq" id="faq" aria-labelledby="faq-title">
+  <h2 id="faq-title" class="reveal">أسئلة وأجوبة</h2>
+  <div class="faq-text">
+    <p><b>كيف يطبّق مثقال متطلبات الفوترة الإلكترونية؟</b> يفرض النظام ضوابط إصدار الفاتورة: منع حذف الفاتورة المعتمدة وتعديلها، والترقيم التسلسلي بلا فجوات، ورمز QR بالصيغة التي حددتها الهيئة، والإشعارات الدائنة المرتبطة بالأصل. أما الربط مع منصة فاتورة (المرحلة الثانية) فقيد البناء، وهو إلزامي لأغلب المنشآت المسجلة في الضريبة. إن أبلغتك الهيئة بالربط، تواصل معنا قبل الاشتراك.</p>
+    <p><b>هل أستطيع حذف فاتورة أو قيد خاطئ؟</b> لا بعد الاعتماد. تُلغى الفاتورة بإشعار دائن مرتبط ثم تُصدر فاتورة صحيحة، ويُعكس القيد بقيد عكسي. هكذا يبقى أثر كل تصحيح ظاهراً لك ولمراجعك.</p>
+    <p><b>كيف يحسب النظام تكلفة المخزون؟</b> بالمتوسط المرجّح المتحرك، رقم واحد للمنتج على مستوى المنشأة. وإن بعت قبل وصول البضاعة، يسجّل تكلفة مؤقتة ويسوّيها عند الشراء، فلا تظهر تكلفة صفرية.</p>
+    <p><b>هل بياناتي منفصلة عن بيانات المنشآت الأخرى؟</b> نعم، على مستوى قاعدة البيانات نفسها، ونختبر ذلك آلياً بمحاولة قراءة سجل منشأة أخرى برقمه المباشر.</p>
+    <p><b>هل لمنشأتي عنوان خاص بها؟</b> نعم. تختار عنوان منشأتك عند التسجيل، مثل aladl.mithqal.sa، ويدخل فريقك منه. ولكل منشأة حساباتها المستقلة.</p>
+    <p><b>هل يرحّل الذكاء الاصطناعي قيوداً بدلاً مني؟</b> لا. عند إطلاقه يُعدّ المساعد مسودات فقط، والاعتماد والترحيل بيد مستخدم له الصلاحية، وكل ما يفعله في سجل التدقيق.</p>
+    <p><b>هل أدفع شهرياً أم سنوياً؟</b> كما تشاء. السعر الشهري للباقة الأولى 120 ر.س، أو 95 ر.س شهرياً عند الدفع السنوي، والسعران غير شاملين الضريبة.</p>
+    <p><b>هل أحتاج بطاقة ائتمان للتجربة؟</b> لا. 14 يوماً بلا بطاقة.</p>
+  </div>
+</section>
+
+<!-- CTA: three fragments, then a field -->
+<section class="cta" id="start" aria-labelledby="cta-title">
+  <div class="cta-strip" aria-hidden="true">
+    <div class="frag" data-ui>
+      <b>رمز QR · الحقول الخمسة</b>
+      <dl class="tlv">
+        <div><dt>اسم البائع</dt><dd>مؤسسة الندى للتجارة</dd></div>
+        <div><dt>الرقم الضريبي</dt><dd class="num">310123456700003</dd></div>
+        <div><dt>وقت الإصدار</dt><dd class="num">2026-11-03 10:42</dd></div>
+        <div><dt>الإجمالي</dt><dd class="num">920.00</dd></div>
+        <div><dt>الضريبة</dt><dd class="num">120.00</dd></div>
+      </dl>
+    </div>
+    <div class="frag" data-ui>
+      <b>إشعار دائن <span class="num">CN-2026-000031</span></b>
+      <p>مرتبط بالفاتورة <span class="num">INV-2026-000184</span></p>
+      <p>السبب: خطأ في سعر الوحدة</p>
+      <span class="status status-neutral"><i></i><span>الفاتورة الأصلية: ملغاة، وتبقى ظاهرة</span></span>
+    </div>
+    <div class="frag frag-dock" data-ui>
+      <b>شريط التوازن</b>
+      <div class="dock"><span>مدين <span class="num">1,390.00</span></span><span>دائن <span class="num">1,390.00</span></span><span class="ok">الفرق <span class="num">0.00</span></span></div>
+    </div>
+  </div>
+  <div class="cta-band">
+    <h2 id="cta-title">ابدأ بدفاتر صحيحة من أول قيد.</h2>
+    <form class="signup" id="signup" novalidate action="#">
+      <label for="sub">اختر عنوان منشأتك</label>
+      <div class="sub-field" dir="ltr">
+        <input id="sub" name="sub" inputmode="url" autocomplete="off" spellcheck="false" placeholder="aladl" aria-describedby="sub-help sub-msg">
+        <span>.mithqal.sa</span>
+      </div>
+      <p class="sub-help" id="sub-help">من 3 إلى 30 حرفاً: أحرف إنجليزية صغيرة وأرقام وشرطة.</p>
+      <p class="sub-msg" id="sub-msg" role="status"></p>
+      <button class="btn btn-light btn-lg" type="submit">ابدأ التجربة</button>
+      <p class="note">14 يوماً، بلا بطاقة ائتمان. أو <a class="link" href="#demo" id="demo">اطلب عرضاً</a> على دورة عملك أنت.</p>
+    </form>
+  </div>
+</section>
+
+</main>
+
+<footer class="foot">
+  <p class="foot-mark" aria-hidden="true">مثقال</p>
+  <div class="foot-row">
+    <ul class="foot-main">
+      <li><a href="#demo">اطلب عرضاً</a></li>
+      <li><a href="#pricing">الأسعار</a></li>
+      <li><a href="#login" id="login">تسجيل الدخول</a></li>
+    </ul>
+    <div class="foot-cols">
+      <ul><li><a href="#features">المزايا</a></li><li><a href="#ai" id="ai-interest">الذكاء الاصطناعي</a></li><li><a href="#modules">الوحدات</a></li></ul>
+      <ul><li><a href="#compliance">الامتثال</a></li><li><a href="#trust">مركز الثقة</a></li><li><a href="#migration" id="migration">الانتقال من نظامك السابق</a></li></ul>
+      <ul><li><a href="#accountants">لمكاتب المحاسبة</a></li><li><a href="#how">كيف نحسب</a></li><li><a href="#privacy">سياسة الخصوصية</a></li></ul>
+    </div>
+  </div>
+  <div class="foot-legal">
+    <span>© 2026 Evexa AI Systems · Mithqal by Evexa</span>
+    <a href="#top">إلى الأعلى</a>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
