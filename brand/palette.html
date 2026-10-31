@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>لوحة ألوان مثقال</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="tokens.css">
+<style>
+  /* Dark mode is applied to inner sections here (the app applies it on <html>), so re-resolve the aliases locally. */
+  .dark { --primary: var(--brand-interactive); --background: var(--canvas); --card: var(--surface); --popover: var(--surface); --border: var(--hairline); --input-border: var(--interactive-border); --input: var(--input-border); --ring: var(--focus-ring); }
+  * { box-sizing: border-box; margin: 0; }
+  body { font-family: "IBM Plex Sans Arabic", system-ui, sans-serif; line-height: 1.6; background: #f8fafc; color: #0f172a; }
+  .mono { font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums; direction: ltr; unicode-bidi: isolate; }
+  .wrap { max-width: 1200px; margin-inline: auto; padding: 56px 24px 96px; }
+
+  header.top { display: flex; align-items: center; gap: 16px; padding-bottom: 32px; border-bottom: 1px solid #e2e8f0; }
+  header.top img { width: 56px; height: 56px; }
+  header.top h1 { font-size: 32px; font-weight: 700; letter-spacing: -0.01em; }
+  header.top p { color: #475569; }
+  header.top .sub { margin-inline-start: auto; text-align: end; color: #475569; font-size: 14px; }
+
+  h2 { font-size: 22px; font-weight: 600; margin: 56px 0 6px; }
+  .lead { color: #475569; margin-bottom: 20px; max-width: 70ch; }
+
+  /* Modes side by side */
+  .modes { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .mode { border-radius: 19px; padding: 24px; border: 1px solid var(--hairline); background: var(--canvas); color: var(--foreground); }
+  .mode h3 { font-size: 15px; font-weight: 600; margin-bottom: 16px; color: var(--muted-foreground); }
+  .sw { display: grid; grid-template-columns: 56px 1fr auto; align-items: center; gap: 14px; padding: 10px 0; border-top: 1px solid var(--hairline); }
+  .sw:first-of-type { border-top: 0; }
+  .chip { width: 56px; height: 40px; border-radius: 10px; box-shadow: inset 0 0 0 1px rgb(127 127 127 / .25); }
+  .sw b { font-weight: 600; font-size: 15px; display: block; }
+  .sw small { color: var(--muted-foreground); font-size: 13px; }
+  .sw .mono { font-size: 13px; color: var(--muted-foreground); }
+
+  /* Status families */
+  .fam { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .fam .card { border-radius: 16px; padding: 18px; border: 1px solid; }
+  .badge { display: inline-flex; align-items: center; gap: 8px; padding: 4px 12px; border-radius: 999px; font-size: 14px; font-weight: 500; border: 1px solid; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; }
+  .fam .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 12px; }
+  .fam .mono { display: block; font-size: 12px; margin-top: 12px; opacity: .85; }
+
+  /* AI aura */
+  .ai { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .aura { border-radius: 19px; padding: 2px; background: linear-gradient(135deg, var(--ai-from), var(--ai-to)); }
+  .aura > div { border-radius: 17px; padding: 20px; background: var(--ai-bg); color: var(--ai-text); }
+
+  /* Contrast table */
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th, td { padding: 10px 12px; text-align: start; border-bottom: 1px solid #e2e8f0; }
+  th { color: #475569; font-weight: 500; }
+  td.ratio { text-align: end; }
+  .pass { color: #047857; } .fail { color: #be123c; }
+
+  /* Mockup */
+  .mock { border-radius: 24px; overflow: hidden; border: 1px solid var(--hairline); background: var(--canvas); color: var(--foreground); }
+  .mock nav { display: flex; align-items: center; gap: 12px; padding: 16px 28px; border-bottom: 1px solid var(--hairline); background: var(--surface); }
+  .mock nav img { width: 28px; height: 28px; }
+  .mock nav .links { display: flex; gap: 22px; margin-inline-start: 28px; color: var(--muted-foreground); font-size: 14px; }
+  .mock nav .cta { margin-inline-start: auto; }
+  .btn { display: inline-flex; align-items: center; height: 40px; padding: 0 18px; border-radius: 10px; font: inherit; font-size: 15px; font-weight: 500; border: 1px solid transparent; }
+  .btn.primary { background: var(--primary); color: var(--primary-foreground); }
+  .btn.outline { background: transparent; color: var(--foreground); border-color: var(--interactive-border); }
+  .hero { display: grid; grid-template-columns: 1.05fr 1fr; gap: 40px; padding: 56px 28px; align-items: center; }
+  .hero h4 { font-size: 40px; line-height: 1.25; font-weight: 700; letter-spacing: -0.015em; }
+  .hero h4 span { color: var(--brand-interactive); }
+  .hero p { color: var(--muted-foreground); font-size: 17px; margin: 16px 0 28px; max-width: 46ch; }
+  .hero .actions { display: flex; gap: 12px; }
+  .inv { background: var(--surface); border: 1px solid var(--hairline); border-radius: 19px; box-shadow: var(--shadow-md); padding: 22px; }
+  .inv header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+  .inv header b { font-size: 16px; }
+  .row { display: flex; justify-content: space-between; padding: 10px 0; border-top: 1px solid var(--hairline); font-size: 14px; color: var(--muted-foreground); }
+  .row .mono { color: var(--foreground); }
+  .row.total { font-weight: 600; color: var(--foreground); font-size: 15px; }
+  .sample { margin-top: 14px; font-size: 12px; color: var(--muted-foreground); }
+
+  .both { display: grid; gap: 20px; }
+
+  @media (max-width: 860px) {
+    .modes, .ai, .hero { grid-template-columns: 1fr; }
+    .fam { grid-template-columns: 1fr 1fr; }
+    .mock nav .links { display: none; }
+    .hero h4 { font-size: 30px; }
+    header.top { flex-wrap: wrap; } header.top .sub { margin-inline-start: 0; text-align: start; width: 100%; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="top">
+    <img src="mithqal-mark.svg" alt="">
+    <div>
+      <h1>مثقال · Mithqal</h1>
+      <p>لوحة الألوان المعتمدة (D90) للنظام والموقع التسويقي</p>
+    </div>
+    <div class="sub">المصدر: <span class="mono">packages/ui/src/styles/tokens.css</span><br>IBM Plex Sans Arabic · IBM Plex Mono</div>
+  </header>
+
+  <h2>الألوان الأساسية</h2>
+  <p class="lead">كل لون له قيمة في الوضع الفاتح وقيمة في الوضع الداكن (Obsidian). الأزرق يفتح في الداكن ليحافظ على التباين.</p>
+  <div class="modes">
+    <section class="mode" data-mode="light"><h3>الوضع الفاتح</h3></section>
+    <section class="mode dark" data-mode="dark"><h3>الوضع الداكن (Obsidian)</h3></section>
+  </div>
+
+  <h2>ألوان الحالات</h2>
+  <p class="lead">الحالة تُكتب بالنص ومعها نقطة ولون، ولا يُعتمد على اللون وحده.</p>
+  <div class="fam" id="fam-light"></div>
+  <div class="fam dark" id="fam-dark" style="margin-top:16px;background:var(--canvas);padding:16px;border-radius:19px"></div>
+
+  <h2>هالة الذكاء الاصطناعي</h2>
+  <p class="lead">التدرج للزخرفة والحدود فقط، ولا يُكتب به نص.</p>
+  <div class="ai">
+    <div class="aura"><div><b>المساعد داخل النظام</b><br>اقتراح قيد: يحتاج اعتمادك قبل الترحيل.</div></div>
+    <div class="dark" style="background:var(--canvas);border-radius:19px;padding:0"><div class="aura"><div><b>المساعد داخل النظام</b><br>اقتراح قيد: يحتاج اعتمادك قبل الترحيل.</div></div></div>
+  </div>
+
+  <h2>التباين (محسوب في المتصفح)</h2>
+  <p class="lead">النص يحتاج 4.5:1 على الأقل، وحدود عناصر التحكم 3:1 (WCAG AA).</p>
+  <table><thead><tr><th>الزوج</th><th>الوضع</th><th>المطلوب</th><th style="text-align:end">النسبة</th></tr></thead><tbody id="contrast"></tbody></table>
+
+  <h2>الألوان وهي مستخدمة</h2>
+  <p class="lead">نموذج مصغّر لأعلى صفحة الهبوط، لاختبار اللوحة فقط وليس التصميم النهائي. أرقام الفاتورة بيانات تجريبية.</p>
+  <div class="both">
+    <div class="mock" data-mock></div>
+    <div class="mock dark" data-mock></div>
+  </div>
+
+</div>
+
+<template id="mock-tpl">
+  <nav>
+    <img src="mithqal-mark.svg" alt=""><b>مثقال</b>
+    <div class="links"><span>المزايا</span><span>الأسعار</span><span>الامتثال</span><span>مركز المعرفة</span></div>
+    <div class="cta"><span class="btn primary">اطلب عرضاً</span></div>
+  </nav>
+  <div class="hero">
+    <div>
+      <h4>دفاتر صحيحة <span>بالتصميم</span>،<br>لا بالإعدادات.</h4>
+      <p>نظام ERP سعودي تعرف طريقة عمله من أول يوم. كل ضمانة محاسبية مفروضة في قاعدة البيانات، ولها اختبار آلي.</p>
+      <div class="actions"><span class="btn primary">اطلب عرضاً</span><span class="btn outline">شاهد كيف يعمل</span></div>
+    </div>
+    <div class="inv">
+      <header><b>فاتورة ضريبية <span class="mono">INV-2026-00184</span></b><span class="badge" style="background:var(--emerald-bg);color:var(--emerald-text);border-color:var(--emerald-border)"><i class="dot" style="background:var(--emerald-identity)"></i>معتمدة</span></header>
+      <div class="row"><span>المجموع قبل الضريبة</span><span><span class="mono">12,400.00</span> ر.س</span></div>
+      <div class="row"><span>ضريبة القيمة المضافة 15%</span><span><span class="mono">1,860.00</span> ر.س</span></div>
+      <div class="row total"><span>الإجمالي</span><span><span class="mono">14,260.00</span> ر.س</span></div>
+      <div class="sample">بيانات تجريبية</div>
+    </div>
+  </div>
+</template>
+
+<script>
+const swatches = [
+  ['canvas', 'خلفية الصفحة', '--canvas'],
+  ['surface', 'البطاقات والجداول', '--surface'],
+  ['hairline', 'حد رفيع 1px', '--hairline'],
+  ['interactive-border', 'حدود الحقول والأزرار', '--interactive-border'],
+  ['navy', 'الهيكل والقائمة الجانبية', '--brand-structural'],
+  ['royal blue', 'الإجراء الرئيسي والروابط', '--brand-interactive'],
+  ['foreground', 'النص الأساسي', '--foreground'],
+  ['muted', 'النص الثانوي', '--muted-foreground'],
+];
+const fams = [
+  ['emerald', 'Emerald', ['معتمدة', 'مرحّل', 'مدفوع']],
+  ['amber', 'Amber', ['مسودة', 'قيد المراجعة', 'مدفوع جزئياً']],
+  ['crimson', 'Crimson', ['معكوس', 'متأخر', 'عجز']],
+  ['neutral', 'Neutral', ['ملغاة']],
+];
+const val = (el, v) => getComputedStyle(el).getPropertyValue(v).trim().toUpperCase();
+
+document.querySelectorAll('.mode').forEach(m => {
+  for (const [en, ar, v] of swatches) {
+    const c = val(m, v);
+    m.insertAdjacentHTML('beforeend',
+      `<div class="sw"><span class="chip" style="background:var(${v})"></span><span><b>${ar}</b><small>${en}</small></span><span class="mono">${c}</span></div>`);
+  }
+});
+['fam-light', 'fam-dark'].forEach(id => {
+  const host = document.getElementById(id);
+  for (const [k, en, tags] of fams) {
+    host.insertAdjacentHTML('beforeend',
+      `<div class="card" style="background:var(--${k}-bg);border-color:var(--${k}-border);color:var(--${k}-text)">
+        <b>${en}</b>
+        <div class="tags">${tags.map(t => `<span class="badge" style="border-color:var(--${k}-border);background:var(--surface)"><i class="dot" style="background:var(--${k}-identity)"></i>${t}</span>`).join('')}</div>
+        <span class="mono">${val(host, `--${k}-text`)} · ${val(host, `--${k}-identity`)}</span>
+      </div>`);
+  }
+});
+const tpl = document.getElementById('mock-tpl');
+document.querySelectorAll('[data-mock]').forEach(m => m.appendChild(tpl.content.cloneNode(true)));
+
+// Contrast
+const hex = h => { h = h.replace('#', ''); return [0, 2, 4].map(i => parseInt(h.slice(i, i + 2), 16) / 255); };
+const lum = rgb => { const [r, g, b] = rgb.map(c => c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4); return 0.2126 * r + 0.7152 * g + 0.0722 * b; };
+const ratio = (a, b) => { const [x, y] = [lum(hex(a)), lum(hex(b))].sort((p, q) => q - p); return (x + 0.05) / (y + 0.05); };
+const pairs = [
+  ['النص الأساسي على الخلفية', '--foreground', '--canvas', 4.5],
+  ['النص الثانوي على البطاقة', '--muted-foreground', '--surface', 4.5],
+  ['الأزرق (رابط) على البطاقة', '--brand-interactive', '--surface', 4.5],
+  ['نص الزر الرئيسي على الأزرق', '--primary-foreground', '--primary', 4.5],
+  ['حد الحقل على البطاقة', '--interactive-border', '--surface', 3],
+  ['نص الذكاء الاصطناعي على خلفيته', '--ai-text', '--ai-bg', 4.5],
+  ['نص Emerald على خلفيته', '--emerald-text', '--emerald-bg', 4.5],
+  ['نص Amber على خلفيته', '--amber-text', '--amber-bg', 4.5],
+  ['نص Crimson على خلفيته', '--crimson-text', '--crimson-bg', 4.5],
+];
+const tb = document.getElementById('contrast');
+for (const [mode, el] of [['فاتح', document.querySelector('.mode:not(.dark)')], ['داكن', document.querySelector('.mode.dark')]]) {
+  for (const [label, fg, bg, need] of pairs) {
+    const r = ratio(val(el, fg), val(el, bg));
+    tb.insertAdjacentHTML('beforeend', `<tr><td>${label}</td><td>${mode}</td><td class="mono">${need}:1</td><td class="ratio mono ${r >= need ? 'pass' : 'fail'}">${r.toFixed(2)}:1 ${r >= need ? '✓' : '✗'}</td></tr>`);
+  }
+}
+</script>
+</body>
+</html>
