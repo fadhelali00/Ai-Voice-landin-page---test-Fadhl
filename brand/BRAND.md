@@ -1,4 +1,7 @@
-# هوية مثقال (Mithqal) البصرية
+# هوية تامنكس (Tamnex) البصرية
+
+> **تحديث 2026-11-03:** الاسم صار **Tamnex / تامنكس** بالقرار D-SA-16، والصيغة «Tamnex by Evexa»، والنطاق tamnex.com (D-SA-17). الألوان والخطوط كما هي دون تغيير. الشعار المؤقت في `site/brand/` (من `apps/web/public/brand`). ما يلي عن «مثقال» تاريخي، ورسم ثقل الميزان لم يعد الشعار.
+
 
 مسحوبة من `fadhelali00/erp-system-2026` (commit 075519e). المصادر هناك:
 `docs/00-project/DECISIONS.md` (D38، D39، D41، D90) و`packages/ui/src/styles/tokens.css` و`apps/web/components/shell/brand.tsx` و`docs/07-go-to-market/`.

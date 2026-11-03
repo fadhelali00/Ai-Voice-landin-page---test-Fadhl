@@ -1,5 +1,5 @@
 /*
- * Mithqal design tokens (single source of truth), D90 "next-generation FinTech" skin.
+ * Tamnex design tokens (single source of truth), D90 "next-generation FinTech" skin.
  * Spec: .edsr-sync/UI_DESIGN_SYSTEM_SPEC.md §2. This is the ONLY file in the UI where raw hex colours
  * are allowed (VF-01); components and app CSS reference these tokens.
  * Every text pair is checked for WCAG AA (>= 4.5:1) and every UI-component pair for >= 3:1 by
@@ -7,11 +7,12 @@
  * Light values live on :root, dark values on .dark (set by next-themes on <html>).
  */
 :root {
-  /* Spec tokens (§2.1): canvas, surface, glass, hairline, brand */
+  /* Spec tokens (§2.1): canvas, surface, dense glass, hairline, brand */
   --canvas: #f8fafc;
   --surface: #ffffff;
-  --glass-base: #ffffff; /* glass = backdrop-blur-md + glass-base at glass-alpha (see `glass` utility) */
-  --glass-alpha: 0.85;
+  --glass-base: #ffffff; /* sticky bars = glass-base at glass-dense-alpha + light blur (see `glass-dense` utility) */
+  --glass-dense-alpha: 0.94; /* D-SA-18: high-opacity glass, never below 0.92 */
+  --glass-dense-blur: 6px;
   --hairline: #e2e8f0; /* decorative 1px border (1.23:1 by design) */
   /* Interactive border (codex-018): where the border identifies a control or its state it is >= 3:1
      (3.46 on white, 3.31 on canvas). Fields, outline buttons, the search trigger and selected states use it. */
@@ -109,6 +110,15 @@
   /* Layout */
   --sidebar-width: 17rem;
   --topbar-height: 4.25rem;
+
+  /* Chart series (SA panel visual polish): marks >= 3:1 on surface and canvas, and each series >= 3:1 against the next one (alternating deep and light), so adjacent marks stay distinguishable without a legend.
+     Order is fixed; the last also borders the first in a donut. Checked by tokens.test.ts. Text on charts uses foreground and muted-foreground, never these. */
+  --chart-1: #0b2373;
+  --chart-2: #0e9488;
+  --chart-3: #4c1180;
+  --chart-4: #c26a00;
+  --chart-5: #022c16;
+  --chart-6: #d6336c;
 }
 
 .dark {
@@ -164,4 +174,13 @@
   --shadow-sm: 0 1px 3px hsl(var(--shadow-color) / 0.5);
   --shadow-md: 0 8px 24px -8px hsl(var(--shadow-color) / 0.6);
   --shadow-lg: 0 24px 48px -12px hsl(var(--shadow-color) / 0.7);
+
+  /* Chart series (SA panel visual polish): marks >= 3:1 on surface and canvas, and each series >= 3:1 against the next one (alternating deep and light), so adjacent marks stay distinguishable without a legend.
+     Order is fixed; the last also borders the first in a donut. Checked by tokens.test.ts. Text on charts uses foreground and muted-foreground, never these. */
+  --chart-1: #1d63e6;
+  --chart-2: #67e8f9;
+  --chart-3: #8648f5;
+  --chart-4: #fcd34d;
+  --chart-5: #00793f;
+  --chart-6: #fbb6ce;
 }

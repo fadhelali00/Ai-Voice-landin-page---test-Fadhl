@@ -1,6 +1,6 @@
 # Design workflow
 
-**Current project: the landing page for Mithqal (مثقال), the ERP system in `fadhelali00/erp-system-2026`.** Its visual identity is in `brand/BRAND.md`, `brand/tokens.css` and `brand/mithqal-mark.svg`. Those override any palette, font or tone the design skills would otherwise pick: taste-skill chooses composition and art direction *within* this identity, not a new one.
+**Current project: the pre-launch marketing page for Tamnex (تامنكس; formerly Mithqal, renamed by D-SA-16), the ERP system in `fadhelali00/erp-system-2026`, to be published on tamnex.com (D-SA-17).** Claims must match `marketing/CLAIMS.md`. Its visual identity is in `brand/BRAND.md`, `brand/tokens.css` and the provisional logo `site/brand/tamnex-*.svg`. Those override any palette, font or tone the design skills would otherwise pick: taste-skill chooses composition and art direction *within* this identity, not a new one.
 
 This repo is set up so Claude designs, builds, tests and screenshots web pages from a plain-language brief.
 
